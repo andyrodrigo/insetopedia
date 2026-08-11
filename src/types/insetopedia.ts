@@ -17,6 +17,8 @@ export type InsetoId = string
 export type TipoEvolucao =
   | 'linear'
   | 'ramificada'
+  | 'normal'
+  | 'lendaria'
   | 'alternativa'
   | 'especial'
   | 'forma-lendaria'
@@ -67,4 +69,10 @@ export interface Linhagem {
 export interface BreadcrumbItem {
   label: string
   to?: string
+}
+
+export interface EvolutionTreeNode {
+  inseto: Inseto
+  relacao?: EvolucaoDestino
+  filhos: EvolutionTreeNode[]
 }

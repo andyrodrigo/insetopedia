@@ -2,13 +2,19 @@
 import { computed } from 'vue'
 import { useRoute } from 'vue-router'
 import Breadcrumb from '../components/Breadcrumb.vue'
+import EvolutionTree from '../components/EvolutionTree.vue'
 import InsetoImage from '../components/InsetoImage.vue'
-import { buscarInsetoPorId, buscarLinhagemPorId } from '../utils/catalogo'
+import {
+  buscarInsetoPorId,
+  buscarLinhagemPorId,
+  montarArvoreEvolutiva,
+} from '../utils/catalogo'
 
 const route = useRoute()
 
 const inseto = computed(() => buscarInsetoPorId(String(route.params.id)))
 const linhagem = computed(() => (inseto.value ? buscarLinhagemPorId(inseto.value.linhagem) : undefined))
+const arvoreEvolutiva = computed(() => (linhagem.value ? montarArvoreEvolutiva(linhagem.value) : []))
 const evolucoes = computed(() =>
   inseto.value?.evolucoes.map((evolucao) => ({
     ...evolucao,
@@ -78,11 +84,20 @@ const origens = computed(() =>
             >
               Evolui para {{ evolucao.inseto?.nome ?? evolucao.insetoId }} ({{ evolucao.tipo }})
             </RouterLink>
-            <p v-if="!origens.length && !evolucoes.length">Sem relações de evolução cadastradas.</p>
+            <p v-if="!origens.length && !evolucoes.length">
+              Sem relações de evolução cadastradas.
+            </p>
           </div>
         </section>
       </div>
     </article>
+
+    <EvolutionTree
+      v-if="linhagem"
+      :linhagem="linhagem"
+      :nodes="arvoreEvolutiva"
+      :selected-inseto-id="inseto.id"
+    />
   </section>
 
   <section v-else class="page-section">
