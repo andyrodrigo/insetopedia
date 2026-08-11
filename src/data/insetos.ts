@@ -2,6 +2,16 @@ import type { Inseto } from '../types/insetopedia'
 
 const descricaoPendente = 'Descrição ainda não definida.'
 
+const descricaoGranovo = `Os Granovos menores são mantidos em estoque nos túneis subterrâneos das colônias, protegidos pelas Formilitares até atingirem um estágio mais avançado de desenvolvimento. Quando estão próximos da maturidade, são levados para as zonas de guerra, onde passam a fazer parte do arsenal vivo do exército.
+
+Sua casca é extremamente dura, permitindo que os Granovos sejam arremessados contra os inimigos como verdadeiras granadas. Quanto maior a distância e a força do impacto, maior o dano causado. Apesar de sua mobilidade limitada, um Granovo ainda é capaz de se lançar contra um inimigo por conta própria. Em situações de perigo, também pode liberar um gás altamente irritante para afastar ameaças.
+
+Quando todas as outras opções falham, o Granovo pode recorrer ao seu último recurso: explodir, sacrificando-se para proteger as trincheiras e as tropas ao seu redor.
+
+Porém, os Granovos mais desenvolvidos possuem uma característica ainda mais peculiar. Quando estão próximos de completar sua transformação, sua casca começa a se tornar progressivamente mais fina. Nesse estágio, são arremessados contra as linhas inimigas como de costume. Ao atingir o alvo, a casca se rompe violentamente — mas, em vez de uma explosão, dela emerge uma Formilitar completamente desenvolvida, pronta para continuar o ataque.
+
+Assim, para o exército das formigas, um Granovo não é apenas uma arma: é também um soldado em formação, aguardando o momento certo para nascer no campo de batalha.`
+
 const dadosPendentes = {
   caracteristicas: [] as string[],
   habitat: [] as string[],
@@ -14,7 +24,7 @@ export const insetos: Inseto[] = [
     id: 'granovo',
     nome: 'Granovo',
     imagem: '/images/formigas/granovo.png',
-    descricao: descricaoPendente,
+    descricao: descricaoGranovo,
     linhagem: 'formigas',
     estagio: 'base',
     ...dadosPendentes,

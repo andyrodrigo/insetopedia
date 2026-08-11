@@ -55,7 +55,7 @@ function textoLista(itens: string[]): string {
 
       <div class="specimen-sheet__body">
         <p class="eyebrow">{{ linhagem?.nome ?? inseto.linhagem }} / {{ inseto.estagio }}</p>
-        <h1>{{ inseto.nome }}</h1>
+        <h1>nome: {{ inseto.nome }}</h1>
         <p class="specimen-sheet__english">{{ inseto.nomeIngles || 'Nome em inglês não catalogado' }}</p>
 
         <RouterLink
@@ -68,27 +68,27 @@ function textoLista(itens: string[]): string {
 
         <section class="specimen-reading">
           <h2>Descrição da Insetopedia</h2>
-          <p>{{ inseto.descricao }}</p>
+          <p class="descricao_inseto">{{ inseto.descricao }}</p>
         </section>
 
         <div class="specimen-facts">
-          <section>
+          <!-- <section>
             <h2>Características</h2>
             <p>{{ textoLista(inseto.caracteristicas) }}</p>
-          </section>
-          <section>
+          </section> -->
+          <!-- <section>
             <h2>Habitat</h2>
             <p>{{ textoLista(inseto.habitat) }}</p>
-          </section>
-          <section>
+          </section> -->
+          <!-- <section>
             <h2>Comportamento</h2>
             <p>{{ textoLista(inseto.comportamento) }}</p>
-          </section>
-          <section>
+          </section> -->
+          <!-- <section>
             <h2>Linhagem</h2>
             <RouterLink v-if="linhagem" :to="`/linhagem/${linhagem.id}`">{{ linhagem.nome }}</RouterLink>
             <p v-else>{{ inseto.linhagem }}</p>
-          </section>
+          </section> -->
         </div>
 
         <section class="specimen-tags" aria-label="Tags">

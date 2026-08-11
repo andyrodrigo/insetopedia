@@ -43,7 +43,7 @@ const arvoreEvolutiva = computed(() => (linhagem.value ? montarArvoreEvolutiva(l
 
     <EvolutionTree :linhagem="linhagem" :nodes="arvoreEvolutiva" />
 
-    <section class="page-section">
+    <!-- <section class="page-section">
       <div class="section-heading">
         <p class="eyebrow">Indivíduos</p>
         <h2>Espécimes registrados</h2>
@@ -54,7 +54,7 @@ const arvoreEvolutiva = computed(() => (linhagem.value ? montarArvoreEvolutiva(l
       </div>
 
       <p v-else class="empty-state">Nenhuma criatura cadastrada nesta linhagem.</p>
-    </section>
+    </section> -->
   </section>
 
   <section v-else class="page-section">

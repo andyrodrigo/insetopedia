@@ -221,6 +221,10 @@ h3 {
   box-shadow: var(--shadow);
 }
 
+.descricao_inseto {
+  white-space: pre-line;
+}
+
 .home-hero {
   display: grid;
   min-height: min(660px, calc(100vh - 8rem));

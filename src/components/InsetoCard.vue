@@ -13,7 +13,7 @@ defineProps<{
     <div class="inseto-card__body">
       <p class="eyebrow">{{ inseto.estagio }}</p>
       <h3>{{ inseto.nome }}</h3>
-      <p>{{ inseto.descricao }}</p>
+      <p class="descricao_inseto">{{ inseto.descricao }}</p>
     </div>
   </RouterLink>
 </template>
