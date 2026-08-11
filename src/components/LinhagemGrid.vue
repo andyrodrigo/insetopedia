@@ -5,6 +5,7 @@ import LinhagemCard from './LinhagemCard.vue'
 defineProps<{
   linhagens: Linhagem[]
   totalCriaturasPorLinhagem: Record<string, number>
+  tagsPorLinhagem: Record<string, string[]>
 }>()
 </script>
 
@@ -15,6 +16,7 @@ defineProps<{
       :key="linhagem.id"
       :linhagem="linhagem"
       :total-criaturas="totalCriaturasPorLinhagem[linhagem.id] ?? 0"
+      :tags="tagsPorLinhagem[linhagem.id] ?? []"
     />
   </div>
 </template>

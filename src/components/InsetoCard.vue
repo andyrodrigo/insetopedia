@@ -9,7 +9,7 @@ defineProps<{
 
 <template>
   <RouterLink class="inseto-card" :to="`/inseto/${inseto.id}`">
-    <InsetoImage :src="inseto.imagem" :alt="inseto.nome" />
+    <InsetoImage :src="inseto.imagem" :alt="inseto.nome" aspect-ratio="1 / 1" fit="contain" />
     <div class="inseto-card__body">
       <p class="eyebrow">{{ inseto.estagio }}</p>
       <h3>{{ inseto.nome }}</h3>

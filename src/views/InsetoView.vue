@@ -34,7 +34,7 @@ const origens = computed(() =>
     />
 
     <article class="inseto-detail">
-      <InsetoImage :src="inseto.imagem" :alt="inseto.nome" />
+      <InsetoImage :src="inseto.imagem" :alt="inseto.nome" aspect-ratio="3 / 4" fit="contain" />
 
       <div class="inseto-detail__content">
         <p class="eyebrow">{{ linhagem?.nome }} / {{ inseto.estagio }}</p>

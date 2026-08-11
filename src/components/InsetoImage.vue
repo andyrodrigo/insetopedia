@@ -1,19 +1,43 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref, watch } from 'vue'
 
-defineProps<{
-  src: string
-  alt: string
-}>()
+const props = withDefaults(
+  defineProps<{
+    src: string
+    alt: string
+    aspectRatio?: string
+    fit?: 'cover' | 'contain'
+  }>(),
+  {
+    aspectRatio: '4 / 3',
+    fit: 'cover',
+  },
+)
 
 const imagemFalhou = ref(false)
+const letraInicial = computed(() => props.alt.trim().slice(0, 1) || '?')
+
+watch(
+  () => props.src,
+  () => {
+    imagemFalhou.value = false
+  },
+)
 </script>
 
 <template>
-  <div class="inseto-image">
-    <img v-if="!imagemFalhou" :src="src" :alt="alt" @error="imagemFalhou = true" />
+  <div class="inseto-image" :style="{ aspectRatio }">
+    <img
+      v-if="src && !imagemFalhou"
+      :src="src"
+      :alt="alt"
+      :style="{ objectFit: fit }"
+      loading="lazy"
+      decoding="async"
+      @error="imagemFalhou = true"
+    />
     <div v-else class="inseto-image__placeholder" aria-hidden="true">
-      <span>{{ alt.slice(0, 1) }}</span>
+      <span>{{ letraInicial }}</span>
     </div>
   </div>
 </template>

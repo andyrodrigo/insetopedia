@@ -2,8 +2,8 @@
 import { computed, ref } from 'vue'
 import LinhagemGrid from '../components/LinhagemGrid.vue'
 import SearchBar from '../components/SearchBar.vue'
-import { filtrarLinhagens, listarInsetosDaLinhagem } from '../utils/catalogo'
 import { linhagens } from '../data'
+import { filtrarLinhagens, listarInsetosDaLinhagem } from '../utils/catalogo'
 
 const busca = ref('')
 
@@ -14,17 +14,46 @@ const totalCriaturasPorLinhagem = computed(() =>
     linhagens.map((linhagem) => [linhagem.id, listarInsetosDaLinhagem(linhagem).length]),
   ),
 )
+
+const tagsPorLinhagem = computed(() =>
+  Object.fromEntries(
+    linhagens.map((linhagem) => {
+      const total = listarInsetosDaLinhagem(linhagem).length
+      return [linhagem.id, ['civilização', total > 0 ? 'catalogada' : 'em pesquisa']]
+    }),
+  ),
+)
 </script>
 
 <template>
+  <section class="home-hero">
+    <div class="home-hero__content">
+      <p class="eyebrow">Arquivo de campo / Bestiário científico</p>
+      <h1>INSETOPEDIA</h1>
+      <p class="lead">
+        Enciclopédia das Civilizações dos Insetos, organizada como um catálogo vivo de linhagens,
+        espécimes e registros de um mundo fictício.
+      </p>
+      <div class="hero-meta" aria-label="Resumo do acervo">
+        <span>12 linhagens</span>
+        <span>27 criaturas nomeadas</span>
+        <span>100% frontend</span>
+      </div>
+    </div>
+
+    <div class="hero-plate" aria-hidden="true">
+      <div class="hero-plate__label">Fig. 01</div>
+      <div class="hero-plate__specimen">
+        <span></span>
+      </div>
+      <div class="hero-plate__caption">Placa provisória para ilustração de campo</div>
+    </div>
+  </section>
+
   <section class="page-section page-section--intro">
     <div>
-      <p class="eyebrow">Enciclopédia interativa</p>
-      <h1>Linhagens</h1>
-      <p class="lead">
-        Uma base de consulta para civilizações de insetos, preparada para crescer por arquivos
-        TypeScript de dados.
-      </p>
+      <p class="eyebrow">Civilizações</p>
+      <h2>Arquivo das linhagens</h2>
     </div>
 
     <SearchBar v-model="busca" label="Buscar" placeholder="Linhagem ou criatura" />
@@ -34,6 +63,7 @@ const totalCriaturasPorLinhagem = computed(() =>
     <LinhagemGrid
       :linhagens="linhagensFiltradas"
       :total-criaturas-por-linhagem="totalCriaturasPorLinhagem"
+      :tags-por-linhagem="tagsPorLinhagem"
     />
   </section>
 </template>
