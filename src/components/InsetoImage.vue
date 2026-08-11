@@ -17,6 +17,13 @@ const props = withDefaults(
 const imagemFalhou = ref(false)
 const letraInicial = computed(() => props.alt.trim().slice(0, 1) || '?')
 
+const imagemUrl = computed(() => {
+  if (!props.src) return ''
+
+  const caminho = props.src.replace(/^\//, '')
+  return `${import.meta.env.BASE_URL}${caminho}`
+})
+
 watch(
   () => props.src,
   () => {
@@ -29,7 +36,7 @@ watch(
   <div class="inseto-image" :style="{ aspectRatio }">
     <img
       v-if="src && !imagemFalhou"
-      :src="src"
+      :src="imagemUrl"
       :alt="alt"
       :style="{ objectFit: fit }"
       loading="lazy"
