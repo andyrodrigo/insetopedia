@@ -17,7 +17,7 @@ export const linhagens: Linhagem[] = [
     nome: 'Baratas',
     descricao: descricaoPendente,
     imagemCapa: '/images/baratas/capa.png',
-    criaturas: [],
+    criaturas: ['baratito', 'baratuno', 'baratrao'],
   },
   {
     id: 'abelhas',
@@ -26,7 +26,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoPendente,
     imagemCapa: '/images/abelhas/capa.png',
     tema: '#d69b16',
-    criaturas: ['celularva', 'abelaria', 'zguardiao'],
+    criaturas: ['celularva', 'abelaria', 'zanguardiao'],
   },
   {
     id: 'cupins',
@@ -42,7 +42,7 @@ export const linhagens: Linhagem[] = [
     nome: 'Vespas',
     descricao: descricaoPendente,
     imagemCapa: '/images/vespas/capa.png',
-    criaturas: [],
+    criaturas: ['vespescudo', 'vespaleiro', 'vesplorde'],
   },
   {
     id: 'carrapatos',
@@ -69,7 +69,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoPendente,
     imagemCapa: '/images/mosquitos/capa.png',
     tema: '#557e8a',
-    criaturas: ['morticle', 'criptulo', 'mosfetatu'],
+    criaturas: ['morticula', 'criptulo', 'mosferatu'],
   },
 
   {
@@ -86,7 +86,7 @@ export const linhagens: Linhagem[] = [
     nome: 'Moscas',
     descricao: descricaoPendente,
     imagemCapa: '/images/moscas/capa.png',
-    criaturas: [],
+    criaturas: ['tapuli', 'shogulo', 'moshinobi'],
   },
 
   {
@@ -101,10 +101,10 @@ export const linhagens: Linhagem[] = [
   {
     id: 'besouros',
     nome: 'Besouros',
-    insetoBase: 'roninva',
+    insetoBase: 'roninfa',
     descricao: descricaoPendente,
     imagemCapa: '/images/besouros/capa.png',
     tema: '#49505a',
-    criaturas: ['roninva', 'gusokulo', 'kabutouro'],
+    criaturas: ['roninfa', 'gusokulo', 'kabutouro'],
   },
 ]

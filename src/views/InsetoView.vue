@@ -55,7 +55,7 @@ function textoLista(itens: string[]): string {
 
       <div class="specimen-sheet__body">
         <p class="eyebrow">{{ linhagem?.nome ?? inseto.linhagem }} / {{ inseto.estagio }}</p>
-        <h1>nome: {{ inseto.nome }}</h1>
+        <h1>{{ inseto.nome }}</h1>
         <p class="specimen-sheet__english">{{ inseto.nomeIngles || 'Nome em inglês não catalogado' }}</p>
 
         <RouterLink
