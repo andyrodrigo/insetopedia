@@ -207,6 +207,8 @@ h3 {
 .home-hero,
 .lineage-hero,
 .evolution-tree,
+.specimen-sheet,
+.search-result,
 .linhagem-card,
 .inseto-card,
 .inseto-detail > .inseto-image,
@@ -776,6 +778,10 @@ h3 {
   gap: clamp(1.25rem, 4vw, 2rem);
 }
 
+.specimen-page {
+  gap: clamp(1.25rem, 4vw, 2rem);
+}
+
 .lineage-hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(18rem, 28rem);
@@ -840,6 +846,232 @@ h3 {
   gap: 0.15rem;
 }
 
+.search-results {
+  display: grid;
+  gap: 1rem;
+  margin-top: clamp(1.5rem, 5vw, 3.25rem);
+}
+
+.search-results__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+  gap: 1rem;
+}
+
+.search-result {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr);
+  overflow: hidden;
+  border-radius: 8px;
+  text-decoration: none;
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    transform 180ms ease;
+}
+
+.search-result:hover {
+  border-color: var(--line-strong);
+  box-shadow: 0 18px 38px rgba(45, 31, 18, 0.16);
+  transform: translateY(-2px);
+}
+
+.search-result .inseto-image {
+  min-height: 100%;
+  border-right: 1px solid var(--line);
+}
+
+.search-result__body {
+  display: grid;
+  gap: 0.45rem;
+  padding: 0.95rem;
+}
+
+.search-result__title {
+  color: var(--ink);
+  font-family: var(--font-title);
+  font-size: 1.2rem;
+  font-weight: 800;
+}
+
+.search-result__description {
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+.specimen-sheet {
+  display: grid;
+  grid-template-columns: minmax(18rem, 0.88fr) minmax(0, 1.12fr);
+  gap: clamp(1.25rem, 4vw, 3rem);
+  align-items: start;
+  overflow: hidden;
+  border-left: 7px double color-mix(in srgb, var(--linhagem-theme), var(--gold) 34%);
+  border-radius: 10px;
+  padding: clamp(1rem, 4vw, 2rem);
+}
+
+.specimen-sheet::before {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  content: "";
+  background:
+    radial-gradient(circle at 18% 18%, color-mix(in srgb, var(--linhagem-theme), transparent 84%), transparent 18rem),
+    linear-gradient(115deg, transparent 0 66%, rgba(167, 123, 47, 0.12));
+}
+
+.specimen-sheet__plate,
+.specimen-sheet__body {
+  position: relative;
+  z-index: 1;
+}
+
+.specimen-sheet__plate {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.specimen-sheet__plate .inseto-image {
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  box-shadow:
+    inset 0 0 0 10px rgba(255, 251, 240, 0.44),
+    var(--shadow-soft);
+}
+
+.specimen-sheet__plate-caption {
+  color: var(--muted);
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.specimen-sheet__body {
+  display: grid;
+  gap: 1.35rem;
+}
+
+.specimen-sheet__body h1 {
+  color: color-mix(in srgb, var(--linhagem-theme), var(--ink) 56%);
+  font-size: clamp(3rem, 8vw, 5.8rem);
+}
+
+.specimen-sheet__english {
+  color: var(--brown);
+  font-family: var(--font-ui);
+  font-size: 0.86rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.lineage-link {
+  width: fit-content;
+  border: 1px solid rgba(167, 123, 47, 0.38);
+  border-radius: 999px;
+  background: rgba(255, 248, 225, 0.56);
+  color: var(--green);
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  font-weight: 800;
+  padding: 0.55rem 0.8rem;
+  text-decoration: none;
+  transition:
+    border-color 180ms ease,
+    background 180ms ease;
+}
+
+.lineage-link:hover {
+  border-color: var(--line-strong);
+  background: var(--paper-light);
+}
+
+.specimen-reading {
+  display: grid;
+  gap: 0.75rem;
+  max-width: 72ch;
+}
+
+.specimen-reading p {
+  color: var(--ink-soft);
+  font-size: clamp(1.08rem, 2vw, 1.22rem);
+  line-height: 1.85;
+}
+
+.specimen-facts,
+.evolution-relations {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.specimen-facts section,
+.evolution-relations section {
+  border-top: 1px solid var(--line);
+  padding-top: 1rem;
+}
+
+.specimen-facts p,
+.specimen-facts a,
+.evolution-relations p {
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+
+.specimen-facts a {
+  color: var(--green);
+  font-family: var(--font-ui);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.specimen-tags,
+.relation-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.specimen-tags span,
+.relation-pills a {
+  border: 1px solid rgba(167, 123, 47, 0.38);
+  border-radius: 999px;
+  background: rgba(255, 248, 225, 0.56);
+  color: var(--brown);
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 0.42rem 0.65rem;
+  text-decoration: none;
+}
+
+.relation-pills a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: var(--green);
+  transition:
+    border-color 180ms ease,
+    background 180ms ease,
+    transform 180ms ease;
+}
+
+.relation-pills a:hover {
+  border-color: var(--line-strong);
+  background: var(--paper-light);
+  transform: translateY(-1px);
+}
+
+.relation-pills span {
+  color: var(--muted);
+  font-size: 0.66rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .evolution-tree {
   overflow: hidden;
   border-radius: 10px;
@@ -866,6 +1098,7 @@ h3 {
   overflow-x: auto;
   margin-top: 1rem;
   padding: 0.75rem 0.25rem 0.25rem;
+  scrollbar-color: rgba(108, 67, 40, 0.45) rgba(255, 251, 240, 0.42);
 }
 
 .evolution-tree__roots,
@@ -1088,6 +1321,14 @@ h3 {
   .lineage-hero__image {
     max-width: 34rem;
   }
+
+  .specimen-sheet {
+    grid-template-columns: 1fr;
+  }
+
+  .specimen-sheet__plate {
+    max-width: 34rem;
+  }
 }
 
 @media (max-width: 720px) {
@@ -1101,5 +1342,25 @@ h3 {
 
   .evolution-node__children {
     gap: 0.9rem;
+  }
+
+  .search-result,
+  .specimen-facts,
+  .evolution-relations {
+    grid-template-columns: 1fr;
+  }
+
+  .search-result .inseto-image {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .specimen-sheet {
+    padding: 1rem;
+  }
+
+  .evolution-tree__scroll {
+    margin-inline: -0.5rem;
+    padding-inline: 0.5rem;
   }
 }

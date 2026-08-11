@@ -20,7 +20,7 @@ const arvoreEvolutiva = computed(() => (linhagem.value ? montarArvoreEvolutiva(l
 
 <template>
   <section v-if="linhagem" class="page-section lineage-page">
-    <Breadcrumb :items="[{ label: 'Linhagens', to: '/' }, { label: linhagem.nome }]" />
+    <Breadcrumb :items="[{ label: 'Civilizações', to: '/' }, { label: linhagem.nome }]" />
 
     <article class="lineage-hero" :style="{ '--linhagem-theme': linhagem.tema ?? '#6f7d55' }">
       <div class="lineage-hero__content">
@@ -58,7 +58,7 @@ const arvoreEvolutiva = computed(() => (linhagem.value ? montarArvoreEvolutiva(l
   </section>
 
   <section v-else class="page-section">
-    <Breadcrumb :items="[{ label: 'Linhagens', to: '/' }, { label: 'Não encontrada' }]" />
+    <Breadcrumb :items="[{ label: 'Civilizações', to: '/' }, { label: 'Não encontrada' }]" />
     <h1>Linhagem não encontrada</h1>
   </section>
 </template>

@@ -1,5 +1,5 @@
 <template>
   <nav class="navigation" aria-label="Navegação principal">
-    <RouterLink to="/">Linhagens</RouterLink>
+    <RouterLink to="/">Civilizações</RouterLink>
   </nav>
 </template>

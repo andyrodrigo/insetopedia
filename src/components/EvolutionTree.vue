@@ -20,7 +20,7 @@ defineProps<{
       <h2 id="evolution-tree-title">Linhagem evolutiva</h2>
     </div>
 
-    <div v-if="nodes.length" class="evolution-tree__scroll">
+    <div v-if="nodes.length" class="evolution-tree__scroll" tabindex="0" aria-label="Árvore evolutiva">
       <ol class="evolution-tree__roots">
         <EvolutionNode
           v-for="node in nodes"

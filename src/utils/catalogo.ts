@@ -5,6 +5,7 @@ import type {
   InsetoId,
   Linhagem,
   LinhagemId,
+  ResultadoBusca,
 } from '../types/insetopedia'
 
 export const insetosPorId = new Map<InsetoId, Inseto>(insetos.map((inseto) => [inseto.id, inseto]))
@@ -96,6 +97,69 @@ export function filtrarLinhagens(termo: string): Linhagem[] {
       criaturas.some((inseto) => normalizarBusca(inseto.nome).includes(busca))
     )
   })
+}
+
+export function pesquisarCatalogo(termo: string): ResultadoBusca[] {
+  const busca = normalizarBusca(termo)
+
+  if (!busca) {
+    return []
+  }
+
+  const resultadosLinhagem = linhagens
+    .filter((linhagem) => {
+      const criaturas = listarInsetosDaLinhagem(linhagem)
+      const campos = [
+        linhagem.nome,
+        linhagem.nomeIngles ?? '',
+        linhagem.descricao,
+        ...criaturas.flatMap((inseto) => [inseto.nome, inseto.nomeIngles ?? '', ...inseto.tags]),
+      ]
+
+      return campos.some((campo) => normalizarBusca(campo).includes(busca))
+    })
+    .map<ResultadoBusca>((linhagem) => ({
+      id: linhagem.id,
+      tipo: 'linhagem',
+      titulo: linhagem.nome,
+      subtitulo: 'Civilização',
+      descricao: linhagem.descricao,
+      imagem: linhagem.imagemCapa,
+      tags: ['linhagem', `${listarInsetosDaLinhagem(linhagem).length} criaturas`],
+      to: `/linhagem/${linhagem.id}`,
+    }))
+
+  const resultadosInsetos = insetos
+    .filter((inseto) => {
+      const linhagem = buscarLinhagemPorId(inseto.linhagem)
+      const campos = [
+        inseto.nome,
+        inseto.nomeIngles ?? '',
+        inseto.estagio,
+        inseto.descricao,
+        linhagem?.nome ?? '',
+        linhagem?.nomeIngles ?? '',
+        ...inseto.tags,
+      ]
+
+      return campos.some((campo) => normalizarBusca(campo).includes(busca))
+    })
+    .map<ResultadoBusca>((inseto) => {
+      const linhagem = buscarLinhagemPorId(inseto.linhagem)
+
+      return {
+        id: inseto.id,
+        tipo: 'inseto',
+        titulo: inseto.nome,
+        subtitulo: linhagem?.nome ?? inseto.linhagem,
+        descricao: inseto.descricao,
+        imagem: inseto.imagem,
+        tags: [inseto.estagio, ...inseto.tags],
+        to: `/inseto/${inseto.id}`,
+      }
+    })
+
+  return [...resultadosInsetos, ...resultadosLinhagem]
 }
 
 function normalizarBusca(valor: string): string {

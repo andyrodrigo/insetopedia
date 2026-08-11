@@ -76,3 +76,16 @@ export interface EvolutionTreeNode {
   relacao?: EvolucaoDestino
   filhos: EvolutionTreeNode[]
 }
+
+export type ResultadoBuscaTipo = 'linhagem' | 'inseto'
+
+export interface ResultadoBusca {
+  id: string
+  tipo: ResultadoBuscaTipo
+  titulo: string
+  subtitulo: string
+  descricao: string
+  imagem: string
+  tags: string[]
+  to: string
+}
