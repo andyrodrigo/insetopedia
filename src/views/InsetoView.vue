@@ -49,7 +49,7 @@ function textoLista(itens: string[]): string {
       <aside class="specimen-sheet__plate">
         <InsetoImage :src="inseto.imagem" :alt="inseto.nome" aspect-ratio="4 / 5" fit="contain" />
         <p class="specimen-sheet__plate-caption">
-          Ilustração catalográfica provisória
+          Ilustração catalográfica
         </p>
       </aside>
 

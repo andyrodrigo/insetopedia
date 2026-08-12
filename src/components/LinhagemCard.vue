@@ -21,7 +21,10 @@ defineProps<{
     <div class="linhagem-card__body">
       <p class="eyebrow">Civilização</p>
       <h2>{{ linhagem.nome }}</h2>
-      <p>{{ linhagem.descricao }}</p>
+      <p>
+        {{ linhagem.descricao.slice(0, 150) }}
+        {{ linhagem.descricao.length > 150 ? '...' : '' }}
+      </p>
       <div class="tag-list" aria-label="Marcadores">
         <span v-for="tag in tags" :key="tag">{{ tag }}</span>
       </div>

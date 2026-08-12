@@ -38,7 +38,7 @@ const tagsPorLinhagem = computed(() =>
       </p>
       <div class="hero-meta" aria-label="Resumo do acervo">
         <span>12 linhagens</span>
-        <span>27 criaturas nomeadas</span>
+        <span>36 criaturas catalogadas</span>
         <span>100% frontend</span>
       </div>
     </div>
