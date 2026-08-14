@@ -82,7 +82,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoFormigas,
     imagemCapa: '/images/formigas/capa.png',
     tema: '#8f4f24',
-    criaturas: ['granovo', 'formilitar', 'forminheiro', 'formiéreo', 'formicial', 'formitanque', 'formidante'],
+    criaturas: ['granovo', 'formilitar', 'formajor', 'formiloto', 'formitanque', 'formicoptero'],
   },
   {
     id: 'baratas',
@@ -118,7 +118,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoVespas,
     imagemCapa: '/images/vespas/capa.png',
     tema: '#557e8a',
-    criaturas: ['vespescudo', 'vespaleiro', 'vespanes','vespealx', 'vesperreirox', 'vesplorde', 'realespa'],
+    criaturas: ['vespescudo', 'vesplebeu','vespaleiro', 'nobrespa', 'vespreiro', 'vesplorde', 'realespa'],
   },
   {
     id: 'carrapatos',
