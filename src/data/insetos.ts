@@ -11,11 +11,45 @@ Quando todas as outras opções falham, o Granovo pode recorrer ao seu último r
 Porém, os Granovos mais desenvolvidos possuem uma característica ainda mais peculiar. Quando estão próximos de completar sua transformação, sua casca começa a se tornar progressivamente mais fina. Nesse estágio, são arremessados contra as linhas inimigas como de costume. Ao atingir o alvo, a casca se rompe violentamente — mas, em vez de uma explosão, dela emerge uma Formilitar completamente desenvolvida, pronta para continuar o ataque.
 
 Assim, para o exército das formigas, um Granovo não é apenas uma arma: é também um soldado em formação, aguardando o momento certo para nascer no campo de batalha.`;
-const descricaoFormilitar = `As Formilitares são os soldados principais das colônias de formigas. Elas são responsáveis por proteger a colônia e combater ameaças externas.
 
-Sua carapuça é extremamente resistente, permitindo que resistam a ataques de inimigos poderosos. Além disso, possuem mandíbulas afiadas que utilizam para cortar alimentos e defender a colônia.
+const descricaoFormilitar = `À primeira vista, as Formilitares podem parecer pequenas e pouco letais. Não possuem ferrões, garras ou outras armas naturais aparentes, e seu corpo não parece especialmente preparado para o combate. Essa impressão, porém, é enganosa.
 
-Formilitares são conhecidas por sua capacidade de trabalhar em equipe, coordenando-se para realizar tarefas complexas como a construção de túneis e a defesa contra invasores.`;
+As Formilitares possuem uma força muito maior do que seu tamanho sugere. São capazes de erguer e arremessar objetos várias vezes maiores que elas e podem até lançar inimigos de tamanho consideravelmente superior. Uma Formilitar sozinha já é capaz de surpreender pela força, mas seu verdadeiro poder está em outro lugar.
+
+Organização.
+
+As Formilitares funcionam como um único exército. Lutam em perfeita cooperação, coordenando seus movimentos e estratégias por meio das antenas de rádio que carregam em seus capacetes. Informações podem percorrer as fileiras rapidamente, permitindo que grupos inteiros reajam como se fossem uma única criatura.
+
+Para uma Formilitar, a guerra não é apenas uma atividade: é seu modo de vida. Elas lutam para conquistar novos territórios, proteger suas colônias e, acima de tudo, aumentar seus próprios números.
+
+Elas compreendem uma verdade simples:
+
+quanto maior o exército, maior o poder.
+
+Uma Formilitar pode ser pequena. Uma dúzia pode ser perigosa. Centenas podem dominar um campo de batalha.
+
+E quando milhares marcham juntas, torna-se difícil dizer onde termina uma Formilitar e começa o exército.`;
+
+const descricaoFormajor = `As Formilitares são conhecidas por sua força fora do comum, mas algumas demonstram capacidades excepcionais mesmo para os padrões da colônia. Quando uma Formilitar combina força extraordinária, coragem em combate e talento natural para liderança, ela pode se desenvolver em uma Formajor.
+
+Formajores ocupam as altas patentes militares da colônia. Lideram tropas, coordenam formações e frequentemente carregam consigo histórias que as transformaram em verdadeiros heróis de guerra. Sua aparência acompanha sua função: possuem estatura maior, quatro braços extremamente fortes e uma cabeça desproporcionalmente grande, cuja carapaça lembra um enorme e exagerado capacete.
+
+Mesmo entre as Formajores existem diferentes patentes. Marcas naturais em seus exoesqueletos indicam sua posição na hierarquia e permitem que qualquer membro da colônia reconheça imediatamente a autoridade de uma delas.
+
+As Formajores de maior força física podem eventualmente desenvolver-se em Formitanques, tornando-se algumas das criaturas mais poderosas da colônia. Existe, porém, outro caminho reservado àquelas cujo maior talento está dentro de seu enorme cabeção. Uma Formajor de capacidade estratégica excepcional permanece nessa forma e recebe a mais alta patente militar existente: Formidante da Guerra.
+
+Apenas uma ocupa esse título, assumindo o comando de todo o exército da colônia. Afinal, nem todo grande cabeção precisa servir apenas para sustentar um capacete enorme.`;
+
+const descricaoFormiloto = `Algumas Formilitares demonstram um talento natural para compreender o movimento das tropas. São mais rápidas que as demais, percebem melhor o que acontece ao seu redor e instintivamente procuram lugares altos para observar a aproximação de inimigos. Por isso, costumam ocupar posições estratégicas dentro do exército, viajando sobre Formitanques ou sendo transportadas por Formicópteros até pontos de vantagem no campo de batalha.
+
+Ao se desenvolverem, tornam-se Formilotos. Suas asas permitem percorrer rapidamente grandes zonas de guerra, observar o movimento inimigo e realizar ataques aéreos quando necessário. Seus olhos funcionam como binóculos naturais, permitindo enxergar a grandes distâncias, enquanto suas antenas são capazes de transmitir sinais de longo alcance para coordenar tropas mesmo enquanto sobrevoam o campo de batalha.
+
+Formilotos são especialmente eficientes em reconhecimento e preparação de ofensivas. Algumas colônias mais experientes aprenderam a reconhecer um sinal particularmente preocupante: em dias de chuva, pequenas silhuetas de Formilotos podem ser vistas sobrevoando seus territórios, parcialmente escondidas pela neblina e pelas nuvens baixas.
+
+Quando isso acontece, dificilmente estão apenas de passagem. Estão observando.
+
+E quando a chuva cessa, geralmente o exército que elas estavam esperando também chega.`;
+
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
 
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
@@ -31,6 +65,14 @@ As Formilitares também podem se agarrar e permanecer de pé sobre o corpo da Fo
 Uma Formitanque não é apenas um tanque.
 
 É um tanque, um transporte de tropas, um centro de comando e uma fortaleza móvel — tudo em uma única criatura.`;
+
+const descricaoFormicoptero = `Formicópteros são raros, e uma colônia comum de Formilitares geralmente possui apenas um ou dois deles. Um Formicóptero surge quando um Formiloto extraordinariamente forte e habilidoso alcança sua última forma, tornando-se uma das unidades mais valiosas de todo o exército.
+
+No campo de batalha, são capazes de causar um verdadeiro estrago. Formicópteros sobrevoam as tropas inimigas derrubando Granovos, transportam até seis Formilitares de uma só vez e realizam rasantes usando seus braços cortantes contra tudo que estiver pelo caminho. Também são fortes o suficiente para agarrar adversários e carregá-los para o céu, enquanto o barulho e a força produzidos pelo bater de suas enormes asas podem dispersar pequenas tropas antes mesmo de um confronto direto.
+
+Fora das batalhas, porém, os Formicópteros possuem uma função ainda mais importante. Assim como os Formitanques, são indivíduos reprodutores da colônia. São eles que conseguem gerar novos Granovos e abastecer continuamente os túneis subterrâneos, permitindo que a população cresça e que novas gerações de Formilitares surjam.
+
+Formicópteros estão entre os Formilitares de vida mais longa, e perder um deles representa muito mais do que perder uma poderosa unidade de combate. Cada Formicóptero é responsável tanto por proteger a geração atual quanto por produzir a próxima, sendo tratado como um verdadeiro tesouro de seu exército.`;
 
 const descricaoBaratito = `Assim que a ooteca se abre, o Baratito já está pronto para cometer crimes. Sua coloração branca o torna facilmente visível durante a noite e, por ainda ser frágil, ele permanece dentro da própria ooteca, arrastando-a consigo e usando-a como esconderijo sempre que necessário.
 
@@ -177,6 +219,22 @@ Durante uma guerra, os Vespaleiros avançam lentamente atrás das fileiras de Ve
 O avanço dos Vespescudos pode parecer lento e previsível. O que vem depois, porém, é muito diferente.
 
 Invadir um território protegido por Vespaleiros é, para a maioria dos inimigos, pouco mais que uma sentença de morte.`;
+const descricaoNobrespa = `Durante o período em que permanece como Vespescudo, alguns indivíduos são escolhidos para seguir um caminho reservado a poucos. A partir desse momento, recebem tratamento especial: alimentação diferenciada, proteção constante e visitas frequentes de Vespreiros, responsáveis pelo refinamento de seu exoesqueleto e ferrão durante o desenvolvimento.
+
+Quando finalmente deixa sua contenção, o resultado é evidente. Seu exoesqueleto é mais resistente, brilhante e naturalmente ornamentado; seu corpo costuma ser um pouco maior e mais forte que o de um Vespaleiro comum. Um indivíduo que emerge nessas condições já não é chamado de Vespaleiro, mas de Nobrespa.
+
+Espera-se que uma Nobrespa esteja destinada a tornar-se a próxima Realespa. Esse é seu caminho mais comum e aquele que os Vespaleiros esperam que cumpra. Nem sempre, porém, isso acontece: algumas Nobrespas acabam seguindo outro destino e tornam-se Vesplordes.
+
+O que leva um Vespescudo a ser escolhido permanece incerto. Talvez alguns já nasçam marcados para a nobreza; talvez os Vespaleiros reconheçam precocemente aqueles com maior capacidade de liderança; a escolha pode ocorrer após uma demonstração excepcional durante suas primeiras defesas ou até resultar de interesses políticos dentro do território.
+
+Provavelmente não existe uma única resposta. Cada colônia parece possuir seus próprios critérios para decidir quem merece receber os privilégios — e carregar as expectativas — da nobreza.`;
+const descricaoVesplebeu = `Nem todo Vespescudo consegue completar seu desenvolvimento como Vespaleiro. Durante as primeiras defesas do território, sua estrutura protetora pode sofrer danos severos, ou o ferrão que daria origem à sua principal estrutura de combate pode ser permanentemente comprometido. Quando isso acontece, seu desenvolvimento segue outro caminho, dando origem ao Vesplebeu.
+
+Embora seu exoesqueleto continue forte, ele é muito menos protegido que o de um Vespaleiro, condição suficiente para que seja considerado indigno de integrar o exército. Isso, porém, está longe de torná-lo indefeso. A estrutura danificada de seu braço se desenvolve como uma espécie de forcado natural de duas pontas, ainda afiado e perigoso, enquanto o ferrão na extremidade do abdômen permanece perfeitamente funcional. E, como qualquer vespa, sua natureza continua agressiva.
+
+Impedidos de seguir a vida militar, os Vesplebeus formam grande parte da força de trabalho dos territórios. Coletam madeira, barro e outros materiais, cultivam recursos e trabalham na construção e manutenção dos enormes abrigos onde vivem as colônias.
+
+Para os orgulhosos Vespaleiros, talvez sejam aqueles que não conseguiram se tornar guerreiros. Para o território, entretanto, são justamente aqueles que garantem que exista algo para os guerreiros protegerem.`;
 const descricaoVesplorde = `Vesplordes vivem na região central de seus territórios, próximos às estruturas de abrigo onde os Vespaleiros descansam e os Vespescudos mais jovens se desenvolvem. É fácil saber onde um Vesplorde repousa: seus abrigos são os maiores e ficam sempre nas posições mais centrais e protegidas do território.
 
 A principal função dos Vesplordes é supervisionar seu exército e garantir que tudo dentro de seus domínios esteja funcionando como deveria. Eles acompanham o desenvolvimento dos Vespescudos, verificam as tropas de Vespaleiros e monitoram constantemente as fronteiras.
@@ -190,6 +248,36 @@ Vesplordes também participam ativamente das guerras. Habilidosos no uso de seu 
 Sozinho, um Vesplorde pode ser considerado um exército de uma vespa só.
 
 Mas dificilmente você encontrará um Vesplorde sozinho no meio de uma guerra.`;
+
+const descricaoRealespa = `Nos territórios dos Vespaleiros erguem-se seus enormes abrigos, construídos de barro, madeira e outros materiais naturais conforme os costumes de cada colônia. O território é dividido entre os Vesplordes, cada qual exercendo autoridade sobre seus domínios. Entretanto, o maior, mais protegido e sofisticado dos abrigos pertence sempre à Realespa.
+
+Uma Realespa não é necessariamente maior ou mais forte que um Vesplorde. Seu verdadeiro poder está em outro lugar: influência e autoridade. Sua palavra é a decisão final nos assuntos do território, e Realespas são conhecidas pelo temperamento furioso, pelo egoísmo e pela facilidade com que usam sua posição para fazer prevalecer seus próprios interesses.
+
+Seu exoesqueleto revela imediatamente sua condição. É extremamente protegido e naturalmente ornamentado, e a estrutura de sua cabeça assume a aparência de uma coroa integrada à própria carapaça. Uma de suas antigas estruturas de combate dá lugar a uma poderosa mão, utilizada para agarrar adversários e redirecionar ataques durante confrontos.
+
+Tamanho poder inevitavelmente produz inimigos. Não é incomum que Vesplordes desprezem sua Realespa ou conspirem para substituí-la. Uma das estratégias mais discretas é criar secretamente, dentro de seus próprios domínios, um Vespescudo destinado a tornar-se Nobrespa, preparando assim um possível pretendente ao trono.
+
+Quando uma Realespa morre, normalmente uma Nobrespa assume seu lugar e completa sua evolução. A sucessão, porém, não é uma regra inviolável. Um Vespaleiro excepcionalmente poderoso pode tomar o trono pela força, derrotando as Nobrespas que reivindicam a posição e tornando-se ele próprio uma Realespa.
+
+Esses casos são raros, mas possuem um significado especial para os Vespaleiros: uma Realespa que conquistou o trono em combate não foi escolhida, preparada ou favorecida — provou diante de todos que era digna dele. Por isso, costuma ser especialmente respeitada e amada pelo território.`
+
+const descricaoVespreiro = `Um Vesplebeu que demonstra habilidade excepcional em seu ofício pode, com o tempo, tornar-se um Vespreiro. Especialistas em moldar ferrões e trabalhar exoesqueletos, eles são responsáveis pela manutenção do exército e participam da construção e do reparo dos principais abrigos do território.
+
+Diferentemente dos Vesplebeus comuns, Vespreiros são bastante respeitados pelos Vespaleiros. Alguns chegam a se tornar o braço direito de um Vesplorde, que depende constantemente de seus conhecimentos para manter seus guerreiros preparados e seus domínios protegidos.
+
+Quando um Vespaleiro morre, seu corpo é levado a um Vespreiro. Nada é desperdiçado: o ferrão é removido, trabalhado e moldado para servir aos Vespescudos, enquanto as partes aproveitáveis do exoesqueleto são cuidadosamente reaproveitadas. Assim, mesmo depois da morte, a carapaça de um guerreiro continua servindo ao território.
+
+Vespreiros raramente participam de combates. Isso não significa, porém, que sejam adversários fáceis. São maiores e muito mais fortes que Vesplebeus comuns, e seu poderoso antebraço em forma de martelo, desenvolvido para trabalhar os exoesqueletos mais resistentes, também é perfeitamente capaz de quebrá-los com um único golpe.
+
+Por isso, existe entre os Vespaleiros um conselho simples: não irrite um Vespreiro.
+
+Diz a lenda que o misterioso Vespaleiro sem cabeça aprendeu o motivo da pior maneira possível — sua cabeça teria sido esmagada depois que ele cometeu o erro de irritar um deles.`
+
+const descricaoVespalgoz = `O raro Vespalgoz vive solitário, além das fronteiras dos territórios da Realespa. Guerreiros excepcionais, passam a vida caçando algumas das criaturas mais temidas do reino, entre elas os Escormônios e, principalmente, os Aracromantes, inimigos seculares dos Vespaleiros. Como não possuem grande habilidade para construção, costumam ocupar abrigos subterrâneos improvisados. São também conhecidos por possuir a ferroada mais dolorosa de que se tem conhecimento, capaz de imobilizar pela dor até criaturas extraordinariamente resistentes.
+
+Tornar-se um Vespalgoz exige circunstâncias incomuns. Alguns são caçadores de Aracromantes de talento excepcional, cuja habilidade e fama os distinguem antes mesmo da última troca de exoesqueleto, quando assumem uma aparência semelhante à de um Vesplorde negro. Outros surgem como únicos sobreviventes de exércitos destruídos, obrigados a sobreviver sozinhos até completar sua transformação. Mais raramente, sua origem é política: um Vespaleiro destinado a tornar-se Vesplorde pode ser expulso para impedir que reivindique um território, sendo condenado a deixar o reino. Independentemente da origem, todos compartilham o mesmo destino: vagar sozinhos.
+
+Embora não sejam propriamente malvistos, Vespalgozes jamais voltam a pertencer verdadeiramente ao reino. Podem atravessar seus territórios, são recebidos com respeito e até admiração, mas sempre como visitantes. Para um Vespalgoz, ser bem-vindo nunca significa poder ficar.`;
 
 const descricaoCarribal = `Um predador pode acreditar que encontrou uma refeição fácil ao avistar um monte de ovos expostos e amontoados. Mas basta se aproximar o suficiente.
 
@@ -421,6 +509,16 @@ Porque, por trás dos sorrisos, das pinturas coloridas e das tendas iluminadas, 
 Algo que ninguém conseguiu provar.
 
 Ainda.`;
+
+const descricaoAbracabulga = `Durante o período em que um Larvobo permanece em sua fase de Escapulgo, alguns demonstram um talento extraordinário para o ilusionismo. Conseguem desaparecer misteriosamente de dentro do próprio casulo, projetar sua voz para lugares distantes e até fazê-lo parecer completamente oculto, mesmo quando está diante dos olhos de quem o procura. Quando finalmente realizam seu último número e deixam o Escapulgo, esses indivíduos surgem como Abracabulgas.
+
+Abracabulgas não são maioria nos circos das Saltimbulgas. Normalmente há apenas uma ou duas em cada companhia, quando há alguma. Seu grande diferencial é o domínio do ilusionismo: seus números são tão impressionantes que conseguem deixar plateias inteiras fascinadas enquanto realizam desaparecimentos, aparições e truques aparentemente impossíveis.
+
+A hipnose também é uma habilidade comum entre elas. Abracabulgas frequentemente convidam insetos da plateia e os hipnotizam para que realizem todo tipo de comportamento absurdo diante do público, criando alguns dos números mais engraçados de seus espetáculos.
+
+Talvez a única coisa intrigante seja o fato de que, em certos números de desaparecimento, o inseto nem sempre reaparece. Isso costuma acontecer quando a plateia se diverte tanto que acaba esquecendo de exigir o retorno do voluntário. Existem também estranhos relatos de insetos que, depois de hipnotizados, decidem abandonar suas colônias e partir junto ao circo das Saltimbulgas.
+
+Curiosamente, muitos deles não estão mais com o circo quando ele retorna na temporada seguinte.`;
 
 const descricaoMorticula = `Aproximar-se de um lago durante a noite pode ser perigoso. Insetos relatam que, vindas da margem da água, Mortículas aparecem famintas para se alimentar dos desavisados. Elas se agarram ao corpo de suas vítimas e começam a consumi-las por dentro.
 
@@ -669,6 +767,98 @@ Apesar de passar grande parte da vida viajando e lutando por aqueles que precisa
 Quando sente que seus dias de batalha estão chegando ao fim, procura um lugar entre os seus. Ali, abandona a vida errante e passa seus últimos anos formando uma família.
 
 Depois de uma vida inteira procurando seu caminho, o velho guerreiro finalmente encontra um lugar para chamar de lar.`;
+const descricaoVudulha = `Para muitos insetos, encontrar uma Barântula é assistir à lenta aproximação da própria morte.
+
+Há relatos de viajantes que, ao atravessarem uma encruzilhada aparentemente deserta, viram uma abertura surgir na terra e dela emergir uma Barântula. Pouco pode ser feito depois disso. Sua força é brutal: ela morde, imobiliza e arrasta sua vítima para as profundezas, levando-a até o território das Aracromantes, onde provavelmente encontrará seu fim como sacrifício em algum ritual do Coven.
+
+Por isso, seu nome é pronunciado com cuidado por outras sociedades. Alguns evitam até mesmo repeti-lo, como se dizê-lo muitas vezes pudesse invocá-la do chão.
+
+Para as Vudulhas, porém, uma Barântula representa algo completamente diferente.
+
+Elas são protetoras, provedoras e figuras paternais dentro do Coven. É delas que vêm muitos dos ensinamentos transmitidos aos mais jovens, mas também boa parte da diversão e do bom humor da comunidade. Barântulas são professoras, contadoras de histórias, oradoras e líderes. Para uma jovem Vudulha, poucas coisas parecem tão grandiosas quanto um dia tornar-se uma delas.
+
+As Aracromantes enxergam-nas com um respeito ainda mais profundo. Barântulas são seus líderes espirituais e juízes, além de representarem o auge da experiência nas habilidades e tradições que um membro do Coven pode alcançar. Seu conhecimento sobre tecelagem, caça, rituais, natureza e os costumes de seu povo faz delas não apenas autoridades, mas principalmente mentoras.
+
+Curiosamente, as próprias Barântulas parecem dar pouca importância a tamanha reverência.
+
+Para elas, títulos, medo e prestígio são apenas interpretações daqueles que ainda enxergam o mundo a partir de si mesmos. Uma Barântula se considera somente um instrumento de uma essência muito maior que todos os seres e que se manifesta em tudo aquilo que existe:
+
+a matéria, o instinto, o ciclo, a contemplação da natureza e, inevitavelmente... a morte.`;
+const descricaoAracromante = `Aracromantes são figuras temidas por praticamente todas as sociedades de insetos. Sua aparência sinistra, os sons que produzem, seus estranhos rituais e a maneira como caçam utilizando armadilhas sofisticadas já seriam suficientes para alimentar inúmeras histórias. Mas existe um costume que causa ainda mais temor: Aracromantes frequentemente capturam outros insetos para utilizá-los em sacrifícios.
+
+Para uma Aracromante, porém, não existe nada de particularmente assustador nisso. Tudo faz parte das tradições e práticas religiosas de seu Coven. Elas não compreendem por que sua cultura é tratada com tamanho desprezo, afinal outras sociedades também caçam, disputam e protegem territórios, matam seus inimigos e possuem costumes que poderiam parecer estranhos quando observados por alguém de fora.
+
+Ainda assim, quase tudo relacionado às Aracromantes é tratado como mistério, superstição ou algo que simplesmente não deveria existir.
+
+Depois de gerações convivendo com essa reputação, elas aprenderam a encontrar nela alguma utilidade.
+
+Aracromantes deliberadamente tornam seus territórios tão assustadores quanto as histórias contadas sobre eles. Exoesqueletos vazios são deixados próximos às entradas dos abrigos, grandes teias delimitam os caminhos e seus pelos endurecidos, semelhantes a agulhas, são espalhados em locais estratégicos. Sons e sinais utilizados pelo Coven completam a atmosfera. Quanto mais aterrorizante parecer o lugar, menor a chance de algum estranho decidir entrar.
+
+Talvez o maior problema para sua reputação seja que praticamente tudo na vida de uma Aracromante exige algum tipo de ritual.
+
+Há rituais para caçar, para proteger o território, para celebrar, para tomar decisões e até mesmo para se alimentar. Muitos deles exigem um sacrifício e, segundo suas tradições, o inseto oferecido precisa necessariamente estar vivo no momento em que o ritual começa.
+
+As Aracromantes insistem que existe significado, tradição e propósito em cada uma dessas práticas.
+
+Curiosamente, essa explicação nunca parece tranquilizar ninguém.`;
+const descricaoBarantula = `Para muitos insetos, encontrar uma Barântula é assistir à lenta aproximação da própria morte.
+
+Há relatos de viajantes que, ao atravessarem uma encruzilhada aparentemente deserta, viram uma abertura surgir na terra e dela emergir uma Barântula. Pouco pode ser feito depois disso. Sua força é brutal: ela morde, imobiliza e arrasta sua vítima para as profundezas, levando-a até o território das Aracromantes, onde provavelmente encontrará seu fim como sacrifício em algum ritual do Coven.
+
+Por isso, seu nome é pronunciado com cuidado por outras sociedades. Alguns evitam até mesmo repeti-lo, como se dizê-lo muitas vezes pudesse invocá-la do chão.
+
+Para as Vudulhas, porém, uma Barântula representa algo completamente diferente.
+
+Elas são protetoras, provedoras e figuras paternais dentro do Coven. É delas que vêm muitos dos ensinamentos transmitidos aos mais jovens, mas também boa parte da diversão e do bom humor da comunidade. Barântulas são professoras, contadoras de histórias, oradoras e líderes. Para uma jovem Vudulha, poucas coisas parecem tão grandiosas quanto um dia tornar-se uma delas.
+
+As Aracromantes enxergam-nas com um respeito ainda mais profundo. Barântulas são seus líderes espirituais e juízes, além de representarem o auge da experiência nas habilidades e tradições que um membro do Coven pode alcançar. Seu conhecimento sobre tecelagem, caça, rituais, natureza e os costumes de seu povo faz delas não apenas autoridades, mas principalmente mentoras.
+
+Curiosamente, as próprias Barântulas parecem dar pouca importância a tamanha reverência.
+
+Para elas, títulos, medo e prestígio são apenas interpretações daqueles que ainda enxergam o mundo a partir de si mesmos. Uma Barântula se considera somente um instrumento de uma essência muito maior que todos os seres e que se manifesta em tudo aquilo que existe:
+
+a matéria, o instinto, o ciclo, a contemplação da natureza e, inevitavelmente... a morte.`;
+const descricaoEscorpete = `Nascido diretamente das entranhas de sua mãe junto de seus irmãos, o Escorpete chega ao mundo pequeno e vulnerável. Durante seus primeiros dias, permanece agarrado às costas dela, observando silenciosamente seus hábitos, sua alimentação e sua rotina. Mesmo entre mãe e filhotes, a comunicação é mínima, limitada a poucos gestos e apenas ao necessário.
+
+Com o passar do tempo, seu exoesqueleto endurece e ele finalmente se torna capaz de abandonar a proteção materna. Os irmãos — geralmente dois ou três — ainda tentam permanecer juntos durante os primeiros dias de independência, formando uma pequena família. Essa convivência, porém, raramente dura. Conflitos se tornam cada vez mais frequentes até que a presença uns dos outros se torna insuportável.
+
+É então que cada Escorpete segue seu próprio rumo. Mesmo jovem, suas pinças, garras e ferrão já são suficientes para caçar, defender-se e construir seu próprio abrigo, iniciando a vida solitária que provavelmente manterá pelo resto de sua existência.
+
+Escorpetes ainda possuem, entretanto, certos comportamentos de filhote. Gostam de brincar com suas presas e, às vezes, perseguem pequenos insetos sem qualquer intenção de comê-los. Viajantes também podem ser surpreendidos por um Escorpete que surge apenas para ameaçá-los e assustá-los antes de ir embora. Essas provocações parecem servir como uma espécie de aprendizado: é assim que descobrem como parecer perigosos, testar seus próprios limites e, principalmente, não demonstrar medo diante de outras criaturas.
+
+Há bons motivos para que essa independência aconteça tão cedo. Relatos de Escorpetes obrigados a permanecer por muito tempo com seus irmãos quase sempre terminam da mesma maneira: as disputas se tornam violentas e, eventualmente, um deles mata e devora os demais.
+
+Escorpetes conseguem tolerar a própria espécie por algum tempo. Gostar da companhia uns dos outros já é pedir demais.`;
+const descricaoEscormonio = `Poucas coisas são piores para um inseto desavisado do que passar perto do abrigo secreto de um Escormônio quando ele está com fome. A criatura pode surgir sem aviso, agarrando a presa simultaneamente com suas garras e poderosas pinças antes de aplicar o ferrão. Seu veneno é letal e seu exoesqueleto extremamente resistente, fazendo com que poucos insetos sejam capazes de enfrentá-lo em igualdade.
+
+Apesar do medo que provoca nas outras criaturas, a vida de um Escormônio é surpreendentemente tranquila. Depois das provocações e experiências da juventude como Escorpete, ele já não sente necessidade de demonstrar o quanto é perigoso. Torna-se um grande apreciador do silêncio e da paz, passando boa parte do tempo cuidando de seu abrigo, buscando água ou simplesmente descansando e aproveitando sua existência solitária.
+
+Escormônios demoram a sentir fome e, quando isso acontece, deixam seus esconderijos para caçar. Fora desses períodos, geralmente só desejam não ser perturbados. Fazer barulho demais próximo ao abrigo de um é uma maneira particularmente ruim de descobrir isso. Mesmo que esteja sem fome, o Escormônio pode matar o invasor e simplesmente guardá-lo para o próximo jantar.
+
+Talvez o período mais complicado de sua vida adulta seja justamente aquele em que precisa fazer algo para o qual sua existência inteira não o preparou: encontrar um parceiro.
+
+Sem qualquer traquejo social, dois Escormônios precisam superar a própria introversão, territorialidade e profunda desconfiança para permanecer próximos tempo suficiente. A aproximação costuma ser lenta e cuidadosa, com ambos tentando descobrir se o outro está interessado em acasalar ou prestes a atacar.
+
+Nem sempre eles descobrem a resposta a tempo.
+
+Quando a corte é bem-sucedida, permanecem juntos apenas pelo necessário antes de retornarem às suas vidas solitárias. Quando não é...
+
+às vezes um deles acaba descobrindo que compareceu ao encontro como jantar.`;
+const descricaoEscorzebu = `Sua aparência é assustadora e sua força, implacável. Um Escorzebu representa uma enorme ameaça até mesmo para grupos inteiros de insetos. Enfrentá-lo é como travar uma batalha no próprio inferno: seu exoesqueleto extremamente resistente, suas pinças gigantescas, o poderoso veneno de seu ferrão e toda a experiência acumulada ao longo da vida fazem dele um adversário que poucos desejam encontrar.
+
+Quando sente fome, deixa seu abrigo para caçar e dificilmente retorna com uma única presa. Escorzebus costumam capturar várias vítimas de uma vez, armazenando-as para os próximos períodos de alimentação.
+
+Apesar da aparência ainda mais ameaçadora, porém, o Escorzebu já não possui o comportamento profundamente solitário de sua forma anterior. Um Escormônio somente consegue alcançar essa evolução depois de superar uma das maiores dificuldades de sua existência: conviver com outro indivíduo e tornar-se pai ou mãe ao menos uma vez.
+
+Após os filhotes deixarem a proteção materna, a fêmea abandona seu antigo exoesqueleto e assume a forma de Escorzebu. No caso dos machos, a transformação ocorre após deixarem o abrigo da parceira depois do nascimento da prole. A experiência parece provocar uma mudança que vai muito além do corpo.
+
+Tendo finalmente desenvolvido alguma habilidade social, Escorzebus tornam-se muito mais tolerantes ao barulho, à proximidade e à convivência. Alguns chegam a compartilhar temporariamente seus abrigos com outros indivíduos. Conflitos ainda são frequentes — afinal, continuam sendo escorpiões —, mas já não costumam terminar em morte. Algumas pinçadas, ferimentos e um perdão silencioso normalmente são suficientes para restaurar a paz.
+
+Curiosamente, por trás da aparência de um verdadeiro soberano do inferno existe uma criatura geralmente calma e extremamente tímida. Escorzebus podem demonstrar essa timidez tanto diante de seus semelhantes quanto de outros insetos.
+
+Naturalmente, quase nenhum inseto tem coragem de se aproximar o bastante para descobrir isso.
+
+E talvez seja melhor assim. Timidez e fome são coisas completamente diferentes.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -709,7 +899,7 @@ export const insetos: Inseto[] = [
     nome: 'Formajor',
     nomeIngles: 'Majant',
     imagem: '/images/formigas/formajor.png',
-    descricao: descricaoPendente,
+    descricao: descricaoFormajor,
     linhagem: 'formigas',
     estagio: 'evolucao',
     ...dadosPendentes,
@@ -723,7 +913,7 @@ export const insetos: Inseto[] = [
     nome: 'Formiloto',
     nomeIngles: 'Antilot',
     imagem: '/images/formigas/formiloto.png',
-    descricao: descricaoPendente,
+    descricao: descricaoFormiloto,
     linhagem: 'formigas',
     estagio: 'evolucao',
     ...dadosPendentes,
@@ -750,7 +940,7 @@ export const insetos: Inseto[] = [
     nome: 'Formicóptero',
     nomeIngles: 'Antchopper',
     imagem: '/images/formigas/formicoptero.png',
-    descricao: descricaoPendente,
+    descricao: descricaoFormicoptero,
     linhagem: 'formigas',
     estagio: 'evolucao',
     ...dadosPendentes,
@@ -787,7 +977,7 @@ export const insetos: Inseto[] = [
   },
   {
     id: 'baratrao',
-    nome: 'Baratrao',
+    nome: 'Baratrão',
     nomeIngles: 'Roacheeter',
     imagem: '/images/baratas/baratrao.png',
     descricao: descricaoBaratrao,
@@ -809,21 +999,7 @@ export const insetos: Inseto[] = [
     estagio: 'base',
     ...dadosPendentes,
     tags: ['vespas'],
-    evolucoes: [{ insetoId: 'vesplebeu', tipo: 'ramificada' }, { insetoId: 'vespaleiro', tipo: 'ramificada' }, { insetoId: 'nobrespa', tipo: 'ramificada' }],
-  },
-  {
-    id: 'vesplebeu',
-    nome: 'Vesplebeu',
-    nomeIngles: 'Waspleb',
-    imagem: '/images/vespas/vesplebeu.png',
-    descricao: descricaoPendente,
-    linhagem: 'vespas',
-    estagio: 'evolucao',
-    ...dadosPendentes,
-    tags: ['vespas'],
-    evolucoes: [{ insetoId: 'vespreiro', tipo: 'linear' }],
-    evolucaoDe: [{ insetoId: 'vespescudo', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
+    evolucoes: [{ insetoId: 'vespaleiro', tipo: 'linear' }, { insetoId: 'nobrespa', tipo: 'especial' }, { insetoId: 'vesplebeu', tipo: 'ramificada' } ],
   },
   {
     id: 'vespaleiro',
@@ -844,7 +1020,7 @@ export const insetos: Inseto[] = [
     nome: 'Nobrespa',
     nomeIngles: 'Noblasp',
     imagem: '/images/vespas/nobrespa.png',
-    descricao: descricaoPendente,
+    descricao: descricaoNobrespa,
     linhagem: 'vespas',
     estagio: 'evolucao',
     ...dadosPendentes,
@@ -853,18 +1029,18 @@ export const insetos: Inseto[] = [
     evolucaoDe: [{ insetoId: 'vespescudo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
-  {
-    id: 'vespreiro',
-    nome: 'Vespreiro',
-    nomeIngles: 'Wasmith',
-    imagem: '/images/vespas/vespreiro.png',
-    descricao: descricaoPendente,
+    {
+    id: 'vesplebeu',
+    nome: 'Vesplebeu',
+    nomeIngles: 'Waspleb',
+    imagem: '/images/vespas/vesplebeu.png',
+    descricao: descricaoVesplebeu,
     linhagem: 'vespas',
     estagio: 'evolucao',
     ...dadosPendentes,
     tags: ['vespas'],
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'vesplebeu', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'vespreiro', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'vespescudo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -886,13 +1062,41 @@ export const insetos: Inseto[] = [
     nome: 'Realespa',
     nomeIngles: 'Royalasp',
     imagem: '/images/vespas/realespa.png',
-    descricao: descricaoPendente,
+    descricao: descricaoRealespa,
     linhagem: 'vespas',
     estagio: 'evolucao',
     ...dadosPendentes,
     tags: ['vespas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'nobrespa', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'vespreiro',
+    nome: 'Vespreiro',
+    nomeIngles: 'Wasmith',
+    imagem: '/images/vespas/vespreiro.png',
+    descricao: descricaoVespreiro,
+    linhagem: 'vespas',
+    estagio: 'evolucao',
+    ...dadosPendentes,
+    tags: ['vespas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'vesplebeu', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'vespalgoz',
+    nome: 'Vespalgoz',
+    nomeIngles: 'Waslayer',
+    imagem: '/images/vespas/vespalgoz.png',
+    descricao: descricaoVespalgoz,
+    linhagem: 'vespas',
+    estagio: 'evolucao',
+    ...dadosPendentes,
+    tags: ['vespas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'vespaleiro', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -1185,7 +1389,7 @@ export const insetos: Inseto[] = [
     estagio: 'evolucao',
     ...dadosPendentes,
     tags: ['pulgas'],
-    evolucoes: [{ insetoId: 'saltimbulga', tipo: 'linear' }, { insetoId: 'magipulga', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'saltimbulga', tipo: 'linear' }, { insetoId: 'abracabulga', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'larvobo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
@@ -1204,17 +1408,17 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
-    id: 'magipulga',
-    nome: 'Magipulga',
-    nomeIngles: 'Flegician',
-    imagem: '/images/pulgas/magipulga.png',
+    id: 'abracabulga',
+    nome: 'Abracabulga',
+    nomeIngles: 'Fleakadabra',
+    imagem: '/images/pulgas/abracabulga.png',
     descricao: descricaoPendente,
     linhagem: 'pulgas',
     estagio: 'evolucao',
     ...dadosPendentes,
     tags: ['pulgas'],
     evolucoes: [],
-    evolucaoDe: [{ insetoId: 'escapulgo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'escapulgo', tipo: 'ramificada' }],
     tipoEvolucao: 'linear',
   },
   {

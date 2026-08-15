@@ -74,10 +74,14 @@ Quando completam as três etapas de sua formação, tornam-se Gusokulos, permane
 
 Entretanto, a peregrinação não dura para sempre. Próximos ao fim de sua jornada, Kabutouros procuram outros de sua espécie, estabelecem uma moradia e podem formar família. Assim, para eles, viajar sozinho não significa viver sozinho: é o caminho que precisam percorrer antes de finalmente escolher onde permanecer.`;
 
+const descricaoAranhas = `As Aracromantes vivem em pequenos Covens, comunidades isoladas construídas em regiões protegidas por teias, armadilhas e abrigos subterrâneos. Sua sociedade é profundamente ligada aos rituais e às tradições transmitidas entre gerações, e praticamente todas as atividades importantes — da caça à alimentação — possuem algum significado cerimonial. Vudulhas crescem coletivamente dentro do Coven, aprendendo desde cedo a tecer, caçar, dançar e produzir seus curiosos bonecos, enquanto observam os adultos e participam dos primeiros rituais. Ao tornarem-se Aracromantes, passam a assumir responsabilidades na proteção, obtenção de alimento e realização das cerimônias da comunidade. Cada Coven é orientado por suas Barântulas, indivíduos mais velhos que atuam como líderes espirituais, professores e juízes, sendo respeitados pela experiência e pelo conhecimento acumulado. Para sociedades estrangeiras, os Covens são lugares assustadores, cercados de superstições devido aos sacrifícios, exoesqueletos e estranhos costumes de seus habitantes. Para uma Aracromante, porém, essas práticas não possuem qualquer intenção maligna: fazem parte de sua compreensão do instinto, da matéria, da natureza e do ciclo inevitável da vida e da morte.`
+
+const descricaoEscorpioes = `Os Escorpimônios são criaturas essencialmente solitárias, que vivem em abrigos subterrâneos próprios e demonstram pouca necessidade da companhia de seus semelhantes. Sua convivência começa ainda filhotes, quando Escorpetes permanecem sobre as costas da mãe até que seus exoesqueletos estejam resistentes o suficiente para abandoná-la. Mesmo entre irmãos, essa proximidade dura pouco: disputas tornam-se cada vez mais frequentes conforme crescem, levando cada um a procurar seu próprio território. Escormônios passam grande parte da vida cuidando de seus abrigos, caçando e evitando uns aos outros, encontrando parceiros apenas durante o período reprodutivo. Curiosamente, aqueles que chegam à forma de Escorzebu tornam-se mais tolerantes após a experiência de formar uma família, podendo compartilhar temporariamente territórios e abrigos com outros de sua espécie. Ainda assim, os escorpimônios não possuem cidades, governos ou líderes. Para eles, conviver significa saber respeitar o espaço do outro — e poucas regras são levadas tão a sério quanto não entrar sem convite no abrigo de um escorpimônio.`
+
 export const linhagens: Linhagem[] = [
   {
     id: 'formigas',
-    nome: 'Formigas',
+    nome: 'Formilitares',
     insetoBase: 'granovo',
     descricao: descricaoFormigas,
     imagemCapa: '/images/formigas/capa.png',
@@ -86,7 +90,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'baratas',
-    nome: 'Baratas',
+    nome: 'Baratunos',
     insetoBase: 'baratito',
     descricao: descricaoBaratas,
     imagemCapa: '/images/baratas/capa.png',
@@ -95,7 +99,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'abelhas',
-    nome: 'Abelhas',
+    nome: 'Abelárias',
     insetoBase: 'celularva',
     descricao: descricaoAbelhas,
     imagemCapa: '/images/abelhas/capa.png',
@@ -104,7 +108,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'cupins',
-    nome: 'Cupins',
+    nome: 'Kurupins',
     insetoBase: 'kurupim',
     descricao: descricaoCupins,
     imagemCapa: '/images/cupins/capa.png',
@@ -113,16 +117,16 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'vespas',
-    nome: 'Vespas',
+    nome: 'Vespaleiros',
     insetoBase: 'vespescudo',
     descricao: descricaoVespas,
     imagemCapa: '/images/vespas/capa.png',
     tema: '#557e8a',
-    criaturas: ['vespescudo', 'vesplebeu','vespaleiro', 'nobrespa', 'vespreiro', 'vesplorde', 'realespa'],
+    criaturas: ['vespescudo', 'vesplebeu','vespaleiro', 'nobrespa', 'vespreiro', 'vesplorde', 'realespa', 'vespalgoz'],
   },
   {
     id: 'carrapatos',
-    nome: 'Carrapatos',
+    nome: 'Mascapatos',
     insetoBase: 'carribal',
     descricao: descricaoCarrapatos,
     imagemCapa: '/images/carrapatos/capa.png',
@@ -131,16 +135,16 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'pulgas',
-    nome: 'Pulgas',
+    nome: 'Saltimbulgas',
     insetoBase: 'larvobo',
     descricao: descricaoPulgas,
     imagemCapa: '/images/pulgas/capa.png',
     tema: '#7c4a56',
-    criaturas: ['larvobo', 'escapulgo', 'saltimbulga', 'magipulga'],
+    criaturas: ['larvobo', 'escapulgo', 'saltimbulga', 'abracabulga'],
   },
   {
     id: 'mosquitos',
-    nome: 'Mosquitos',
+    nome: 'Mosferatus',
     insetoBase: 'morticle',
     descricao: descricaoMosquitos,
     imagemCapa: '/images/mosquitos/capa.png',
@@ -149,7 +153,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'gafanhotos',
-    nome: 'Gafanhotos',
+    nome: 'Beduinhotos',
     insetoBase: 'gafamelo',
     descricao: descricaoGafanhotos,
     imagemCapa: '/images/gafanhotos/capa.png',
@@ -158,7 +162,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'moscas',
-    nome: 'Moscas',
+    nome: 'Moshinobis',
     insetoBase: 'tapuli',
     descricao: descricaoMoscas,
     imagemCapa: '/images/moscas/capa.png',
@@ -167,7 +171,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'louva-deus',
-    nome: 'Louva-deus',
+    nome: 'Louvalins',
     insetoBase: 'totzen',
     descricao: descricaoLouvaDeus,
     imagemCapa: '/images/louva-deus/capa.png',
@@ -176,11 +180,29 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'besouros',
-    nome: 'Besouros',
+    nome: 'Kabutouros',
     insetoBase: 'roninfa',
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
     tema: '#49505a',
     criaturas: ['roninfa', 'gusokulo', 'kabutouro'],
+  },
+    {
+    id: 'aranhas',
+    nome: 'Aracromantes',
+    insetoBase: 'vudulha',
+    descricao: descricaoAranhas,
+    imagemCapa: '/images/aranhas/capa.png',
+    tema: '#49505a',
+    criaturas: ['vudulha', 'aracromante', 'barantula'],
+  },
+    {
+    id: 'escorpioes',
+    nome: 'Escorpimônios',
+    insetoBase: 'roninfa',
+    descricao: descricaoEscorpioes,
+    imagemCapa: '/images/escorpioes/capa.png',
+    tema: '#49505a',
+    criaturas: ['escorpete', 'escormonio', 'escorzebu'],
   },
 ]
