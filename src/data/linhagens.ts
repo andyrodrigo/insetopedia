@@ -187,7 +187,7 @@ export const linhagens: Linhagem[] = [
     tema: '#49505a',
     criaturas: ['roninfa', 'gusokulo', 'kabutouro'],
   },
-    {
+  {
     id: 'aranhas',
     nome: 'Aracromantes',
     insetoBase: 'vudulha',
@@ -196,10 +196,10 @@ export const linhagens: Linhagem[] = [
     tema: '#49505a',
     criaturas: ['vudulha', 'aracromante', 'barantula'],
   },
-    {
+  {
     id: 'escorpioes',
     nome: 'Escorpimônios',
-    insetoBase: 'roninfa',
+    insetoBase: 'escorpete',
     descricao: descricaoEscorpioes,
     imagemCapa: '/images/escorpioes/capa.png',
     tema: '#49505a',
