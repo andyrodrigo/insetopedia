@@ -81,7 +81,7 @@ const descricaoEscorpioes = `Os Escorpimônios são criaturas essencialmente sol
 export const linhagens: Linhagem[] = [
   {
     id: 'formigas',
-    nome: 'Formilitares',
+    nome: 'Formigas',
     insetoBase: 'granovo',
     descricao: descricaoFormigas,
     imagemCapa: '/images/formigas/capa.png',
@@ -90,7 +90,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'baratas',
-    nome: 'Baratunos',
+    nome: 'Baratas',
     insetoBase: 'baratito',
     descricao: descricaoBaratas,
     imagemCapa: '/images/baratas/capa.png',
@@ -99,16 +99,16 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'abelhas',
-    nome: 'Abelárias',
+    nome: 'Abelhas',
     insetoBase: 'celularva',
     descricao: descricaoAbelhas,
     imagemCapa: '/images/abelhas/capa.png',
     tema: '#d69b16',
-    criaturas: ['celularva', 'abelaria', 'zanguardiao', 'supremabelha'],
+    criaturas: ['celularva', 'abelaria', 'zanguardiao', 'maternelha', 'supremabelha', 'minarva','minerabelha','marcenelha'],
   },
   {
     id: 'cupins',
-    nome: 'Kurupins',
+    nome: 'Cupins',
     insetoBase: 'kurupim',
     descricao: descricaoCupins,
     imagemCapa: '/images/cupins/capa.png',
@@ -117,7 +117,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'vespas',
-    nome: 'Vespaleiros',
+    nome: 'Vespas',
     insetoBase: 'vespescudo',
     descricao: descricaoVespas,
     imagemCapa: '/images/vespas/capa.png',
@@ -135,7 +135,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'pulgas',
-    nome: 'Saltimbulgas',
+    nome: 'Pulgas',
     insetoBase: 'larvobo',
     descricao: descricaoPulgas,
     imagemCapa: '/images/pulgas/capa.png',
@@ -144,7 +144,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'mosquitos',
-    nome: 'Mosferatus',
+    nome: 'Mosquitos',
     insetoBase: 'morticle',
     descricao: descricaoMosquitos,
     imagemCapa: '/images/mosquitos/capa.png',
@@ -153,7 +153,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'gafanhotos',
-    nome: 'Beduinhotos',
+    nome: 'Gafanhotos',
     insetoBase: 'gafamelo',
     descricao: descricaoGafanhotos,
     imagemCapa: '/images/gafanhotos/capa.png',
@@ -162,7 +162,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'moscas',
-    nome: 'Moshinobis',
+    nome: 'Moscas',
     insetoBase: 'tapuli',
     descricao: descricaoMoscas,
     imagemCapa: '/images/moscas/capa.png',
@@ -171,7 +171,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'louva-deus',
-    nome: 'Louvalins',
+    nome: 'Louva-Deus',
     insetoBase: 'totzen',
     descricao: descricaoLouvaDeus,
     imagemCapa: '/images/louva-deus/capa.png',
@@ -180,7 +180,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'besouros',
-    nome: 'Kabutouros',
+    nome: 'Besouros',
     insetoBase: 'roninfa',
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
@@ -189,7 +189,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'aranhas',
-    nome: 'Aracromantes',
+    nome: 'Aranhas',
     insetoBase: 'vudulha',
     descricao: descricaoAranhas,
     imagemCapa: '/images/aranhas/capa.png',
@@ -198,7 +198,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'escorpioes',
-    nome: 'Escorpimônios',
+    nome: 'Escorpiões',
     insetoBase: 'escorpete',
     descricao: descricaoEscorpioes,
     imagemCapa: '/images/escorpioes/capa.png',

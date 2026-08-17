@@ -134,7 +134,7 @@ Quando uma Abelária morre, seu corpo libera um odor que funciona como um sinal 
 Para uma Abelária, proteger a colmeia não é uma ordem.
 
 É o trabalho mais importante de todos.`;
-const descricaoZanguardiao = `Os Zanguardões são a elite militar da grande colmeia. Diferentemente das Abelárias, que vivem principalmente dentro da colmeia e assumem a defesa quando ela é ameaçada, os Zanguardões passam grande parte de suas vidas no exterior, patrulhando os arredores, vigiando as fronteiras e identificando qualquer ameaça que possa se aproximar.
+const descricaoZanguardiao = `Os Zanguardiões são a elite militar da grande colmeia. Diferentemente das Abelárias, que vivem principalmente dentro da colmeia e assumem a defesa quando ela é ameaçada, os Zanguardiões passam grande parte de suas vidas no exterior, patrulhando os arredores, vigiando as fronteiras e identificando qualquer ameaça que possa se aproximar.
 
 Cada Zanguardião passa por um rígido treinamento antes de assumir seu posto. São preparados para combater, resistir e proteger a colmeia em qualquer situação. Quando encontram um intruso, não hesitam: avançam imediatamente, utilizando as armas naturais forjadas em seu próprio exoesqueleto.
 
@@ -144,9 +144,54 @@ Por isso, derrotar um Zanguardião não significa necessariamente estar a salvo.
 
 Mas existe uma regra simples entre os inimigos da grande colmeia:
 
-um Zanguardião é uma ameaça; um enxame de Zanguardões é uma guerra.
+um Zanguardião é uma ameaça; um enxame de Zanguardiões é uma guerra.
 
 Quando dezenas deles avançam juntos, suas armas, disciplina e coordenação transformam uma simples patrulha em uma força de combate capaz de expulsar quase qualquer invasor de seu território.`;
+const descricaoMaternelha = `Nem toda Abelária fêmea deseja passar pelo rigoroso treinamento necessário para se tornar uma Zanguardião. Embora nada as impeça de seguir esse caminho, poucas fazem essa escolha. A maioria permanece exercendo suas funções como Abelária ou opta por se tornar fértil, assumindo a importante tarefa de gerar novas Celularvas para a colmeia.
+
+Para se tornar uma Maternelha, uma Abelária deve se alimentar continuamente de um mel especial, capaz de preparar seu organismo para a transformação. Após ser fecundada pela primeira vez, ela troca seu exoesqueleto e atravessa um período particularmente frágil enquanto seu corpo se desenvolve até assumir a forma de uma Maternelha. Uma vez concluída a transformação, futuras fecundações não exigem que ela passe novamente pelo mesmo processo.
+
+Na colmeia, a maternidade é considerada uma função sagrada. Gerar novos indivíduos é visto não apenas como uma responsabilidade essencial para a sobrevivência da comunidade, mas também como um trabalho — e um dos mais difíceis que uma abelha pode exercer. Por isso, uma Maternelha nunca precisa cuidar sozinha de suas larvas. Abelárias atuam como assistentes durante praticamente todo o processo, cuidando das Celularvas e permitindo que a Maternelha concentre suas forças na geração de novos indivíduos.
+
+Mesmo assim, muitas Maternelhas não abandonam completamente a vida que levavam antes da transformação. Quando não estão fecundadas, algumas retornam voluntariamente às suas antigas funções de Abelária. Para elas, permanecer ociosa quando há trabalho a ser feito é uma forma de desserviço à colmeia.`;
+const descricaoSupremabelha = `Normalmente, colmeias de Abelárias não possuem uma Supremabelha simplesmente porque não necessitam de uma. A própria coletividade é capaz de organizar o trabalho e manter a colmeia funcionando como um único organismo. Entretanto, algumas colmeias atravessam períodos em que seus arredores se tornam particularmente hostis, seja pela ameaça de invasões, por ataques constantes ou até por conspirações de outras sociedades interessadas em interferir em seu funcionamento.
+
+Nesses momentos, uma Abelária ou um Zanguardião com grande capacidade de liderança pode inflamar os ânimos da colônia e assumir a forma de uma Supremabelha. Tanto machos quanto fêmeas podem passar por essa transformação, durante a qual seu exoesqueleto se modifica e se torna especialmente preparado para comandar a colmeia e liderar seus enxames contra ameaças externas.
+
+Uma vez estabelecida, porém, uma Supremabelha mantém sua posição até o fim de sua longa vida, mesmo que as ameaças que justificaram sua ascensão tenham desaparecido há muito tempo. Enquanto ela existir, não é necessário nenhum outra Abelária assumir a mesma função.
+
+As ordens de uma Supremabelha estão acima de questionamentos e até mesmo dos interesses individuais daqueles que compõem a colmeia. Sua presença inevitavelmente transforma uma sociedade antes sustentada quase inteiramente pela cooperação espontânea. As Abelárias tornam-se mais desconfiadas e cautelosas umas com as outras, e a unidade coletiva passa a dividir espaço com a obediência à sua líder.
+
+Ainda assim, revoltas contra uma Supremabelha são extremamente raras. Para muitas Abelárias, foi justamente sua liderança que permitiu à colmeia sobreviver ao período que levou à sua ascensão.`;
+const descricaoMinarva = `Nascidas nos túneis que se estendem pelos arredores das colmeias de Abelárias, as Minarvas despertam protegidas dentro de suas células ambulantes. Conforme se desenvolvem, aprendem aos poucos a controlar as pequenas pernas da estrutura que as abriga. Para uma Minarva, sua célula é proteção, meio de locomoção e, principalmente, instrumento de trabalho.
+
+Quando já estão mais desenvolvidas e compreendem sua função, as Minarvas passam a encher suas células com areia ou recursos encontrados durante as escavações e transportá-los para fora dos túneis. A areia precisa ser removida para que as galerias continuem avançando, enquanto tudo que possa ter alguma utilidade é separado e destinado à colmeia.
+
+Na testa de cada Minarva existe uma pequena estrutura bioluminescente, capaz de iluminar os túneis completamente escuros onde passam praticamente toda essa fase de suas vidas. As pernas de suas células são relativamente grandes e, quando bem controladas, permitem que se locomovam com uma velocidade surpreendente. Minarvas inexperientes, porém, podem perder o controle de suas células e causar pequenos acidentes nos túneis.
+
+Durante toda essa fase, uma Minarva jamais entra na colmeia. Ela apenas a observa à distância nas raras ocasiões em que deixa os túneis para descarregar o que coletou. De lá, vê Abelárias trazendo seu alimento e recolhendo os recursos extraídos da terra.
+
+Mesmo sem conhecer a colmeia por dentro, a Minarva cresce com a certeza de que seu pequeno trabalho sob a terra faz parte de algo muito maior — e que, de alguma forma, tudo aquilo funciona em conjunto.`;
+const descricaoMinerabelha = `Minerabelhas passam a maior parte de suas vidas fora da colmeia. Embora a visitem ocasionalmente, sua função está nos túneis que se espalham pelos arredores, onde trabalham continuamente na expansão das galerias e na extração de materiais necessários para a colônia.
+
+Seu corpo é resultado de uma especialização das Abelárias para a vida subterrânea, o que gerou essa nova casta. Um de seus antebraços possui o formato de uma picareta natural, formada pelo próprio exoesqueleto e perfeitamente adaptada para escavar terrenos resistentes. A estrutura bioluminescente que já possuíam quando Minarvas permanece após seu desenvolvimento e ilumina os túneis durante o trabalho. Sua cabeça, por sua vez, possui um exoesqueleto extremamente resistente, capaz de protegê-las contra impactos e aumentar suas chances de sobrevivência em pequenos desabamentos.
+
+Minerabelhas são escavadoras excepcionais, mas pouco preparadas para o combate. Não possuem ferrão e sua única arma é justamente o antebraço utilizado para trabalhar. Embora possa ser perigoso quando necessário, está longe de torná-las combatentes eficientes. Por isso, dependem quase completamente da proteção dos Zanguardiões para manter os arredores seguros e permitir que continuem trabalhando sem ameaças ou interrupções.
+
+A reprodução das Minerabelhas também funciona de maneira diferente daquela das Abelárias. Sua casta não possui Maternelhas e não depende das Abelárias para cuidar de suas larvas. Todas as Minerabelhas fêmeas são férteis e, quando geram uma Minarva, recebem das Abelárias uma célula ambulante onde a larva poderá crescer protegida.
+
+A mesma célula que serve como abrigo logo se torna seu primeiro meio de locomoção e, pouco depois, sua primeira ferramenta de trabalho. Assim, uma nova geração de Minerabelhas começa a contribuir com a colmeia muito antes de sequer conhecê-la por dentro.`;
+const descricaoMarcenelha = `Algumas Minerabelhas podem se desenvolver e se transformar em Marcenelhas. Essa mudança, porém, ocorre muito mais pela necessidade da colmeia do que pelo desejo individual. Sua força física aumenta consideravelmente e um de seus antebraços se desenvolve em uma estrutura serrilhada, formada pelo próprio exoesqueleto, tornando-se uma ferramenta extremamente eficiente para cortar e trabalhar a madeira necessária à colônia.
+
+Após a transformação, os túneis deixam de ser seu lar. Marcenelhas passam a viver em abrigos individuais construídos dentro de estruturas de madeira espalhadas pelo território da colmeia, onde encontram muito mais espaço e conforto do que possuíam durante a vida subterrânea.
+
+Seu tamanho avantajado, sua força e a resistência de seu exoesqueleto tornam uma Marcenelha perfeitamente capaz de se defender sozinha contra ameaças menores, mesmo sem possuir ferrão. Ainda assim, elas não são combatentes e continuam dependendo da vigilância constante e, diante de perigos maiores, dos enxames de Zanguardiões responsáveis pela proteção dos arredores.
+
+Marcenelhas são férteis, mas suas fêmeas raramente aceitam ser fecundadas. Durante esse período, precisariam retornar aos túneis para gerar e acompanhar suas Minarvas, abandonando temporariamente o conforto e a função que conquistaram na superfície. Depois da transformação, também é comum que Marcenelhas evitem se misturar com Minerabelhas, passando a enxergá-las cada vez mais como uma casta diferente da sua.
+
+Por viverem ainda mais próximas das fronteiras do território da colmeia, Marcenelhas também estão entre as abelhas mais expostas à influência de outras sociedades. O contato frequente com indivíduos estrangeiros faz com que escutem ideias pouco comuns dentro da colmeia, principalmente aquelas relacionadas à liberdade individual e à possibilidade de uma vida desvinculada das necessidades da coletividade.
+
+A maioria permanece fiel à colmeia. Algumas, entretanto, começam a questionar por que suas habilidades, seu trabalho e até mesmo sua transformação deveriam ser determinados pelas necessidades de uma sociedade da qual agora vivem tão distantes. Em casos extremos, esse afastamento pode transformá-las em informantes ou mesmo traidoras, fornecendo a outras sociedades informações sobre aquela mesma colmeia que os Zanguardiões passam a vida tentando proteger.`;
 
 const descricaoKurupim = `Os Kurupins são os jovens da tribo. Vivem e servem à grande árvore que é o lar de todos, realizando diversas funções essenciais para a comunidade, desde cuidar dos ovos até buscar alimentos para a tribo.
 
@@ -1029,7 +1074,7 @@ export const insetos: Inseto[] = [
     evolucaoDe: [{ insetoId: 'vespescudo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
-    {
+  {
     id: 'vesplebeu',
     nome: 'Vesplebeu',
     nomeIngles: 'Waspleb',
@@ -1069,7 +1114,7 @@ export const insetos: Inseto[] = [
     tags: ['vespas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'nobrespa', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
+    tipoEvolucao: 'especial',
   },
   {
     id: 'vespreiro',
@@ -1097,7 +1142,7 @@ export const insetos: Inseto[] = [
     tags: ['vespas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'vespaleiro', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
+    tipoEvolucao: 'lendaria',
   },
   {
     id: 'celularva',
@@ -1135,22 +1180,76 @@ export const insetos: Inseto[] = [
     estagio: 'evolucao',
     ...dadosPendentes,
     tags: ['abelhas'],
-    evolucoes: [],
+    evolucoes: [{ insetoId: 'supremabelha', tipo: 'lendaria' }],
     evolucaoDe: [{ insetoId: 'abelaria', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
-    id: 'supremabelha',
-    nome: 'Supremebee',
-    nomeIngles: 'Dronguard',
-    imagem: '/images/abelhas/supremabelha.png',
-    descricao: descricaoPendente,
+    id: 'maternelha',
+    nome: 'Maternelha',
+    nomeIngles: 'Materbee',
+    imagem: '/images/abelhas/maternelha.png',
+    descricao: descricaoMaternelha,
     linhagem: 'abelhas',
     estagio: 'evolucao',
     ...dadosPendentes,
     tags: ['abelhas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'abelaria', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'supremabelha',
+    nome: 'Supremabelha',
+    nomeIngles: 'Supremebee',
+    imagem: '/images/abelhas/supremabelha.png',
+    descricao: descricaoSupremabelha,
+    linhagem: 'abelhas',
+    estagio: 'evolucao',
+    ...dadosPendentes,
+    tags: ['abelhas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'abelaria', tipo: 'linear' }],
+    tipoEvolucao: 'lendaria',
+  },
+  {
+    id: 'minarva',
+    nome: 'Minarva',
+    nomeIngles: 'Minarva',
+    imagem: '/images/abelhas/minarva.png',
+    descricao: descricaoMinarva,
+    linhagem: 'abelhas',
+    estagio: 'base',
+    ...dadosPendentes,
+    tags: ['abelhas'],
+    evolucoes: [{ insetoId: 'abelaria', tipo: 'linear' }],
+  },
+  {
+    id: 'minerabelha',
+    nome: 'Minerabelha',
+    nomeIngles: 'Minebee',
+    imagem: '/images/abelhas/minerabelha.png',
+    descricao: descricaoMinerabelha,
+    linhagem: 'abelhas',
+    estagio: 'evolucao',
+    ...dadosPendentes,
+    tags: ['abelhas'],
+    evolucoes: [{ insetoId: 'marcenelha', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'minarva', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'marcenelha',
+    nome: 'Marcenelha',
+    nomeIngles: 'Timbee',
+    imagem: '/images/abelhas/marcenelha.png',
+    descricao: descricaoMarcenelha,
+    linhagem: 'abelhas',
+    estagio: 'evolucao',
+    ...dadosPendentes,
+    tags: ['abelhas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'minerabelha', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
