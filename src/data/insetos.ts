@@ -99,6 +99,43 @@ Seus quatro braços também são armas por si só. Um deles termina em uma lâmi
 Em último caso, o Baratrão revela sua característica mais inesperada: abre suas asas completamente desenvolvidas e voa diretamente contra o oponente.
 
 Poucas coisas são mais assustadoras do que acreditar que um Baratrão está encurralado e, de repente, vê-lo levantar voo em sua direção.`;
+const descricaoShinjinrata = `Shinjinratas são como são chamados os pequenos membros da Barakuza, uma organização com fins lucrativos dedicada a proteger a comunidade local — ou, pelo menos, é assim que ela própria descreve suas atividades.
+
+Ao ingressar na organização, o jovem membro recebe no peito a tatuagem de um Escorpimônio, um símbolo que transmite um recado bastante simples: ninguém deveria se meter com aqueles que carregam sua marca. Shinjinratas ostentam a tatuagem com orgulho e crescem acreditando que, enquanto pertencerem à Barakuza, sempre terão alguém perigoso ao seu lado.
+
+Desde cedo, recebem treinamento de luta e aprendem a utilizar seu pequeno braço afiado tanto como arma quanto como instrumento de intimidação. Apesar do tamanho e do exoesqueleto ainda pouco desenvolvido, Shinjinratas são extremamente rápidos e podem se tornar adversários perigosos quando necessário.
+
+Dentro da Barakuza, porém, seu trabalho raramente envolve confrontos diretos. Eles atuam principalmente como vigias e informantes, observando viajantes, identificando oportunidades e levando informações aos membros mais importantes da organização.
+
+Também é comum encontrá-los oferecendo jogos e desafios aos viajantes, normalmente propondo apostas envolvendo pequenas mercadorias. Aceitar dificilmente é uma boa ideia. Shinjinratas são especialistas tanto nos jogos quanto nos golpes que os acompanham. A vítima costuma acreditar que está ganhando no início, até perceber tarde demais que já apostou muito mais do que pretendia.
+
+E mesmo quando alguém consegue vencer honestamente, isso não significa que receberá o prêmio. Uma Shinjinrata acuada pode simplesmente agarrar os pertences apostados e correr de volta para o esconderijo da Barakuza.
+
+Segui-la até lá costuma ser um erro ainda maior.`;
+const descricaoKoburata = `Os membros mais comuns da Barakuza, Koburatas são extremamente leais à organização e seguem à risca as ordens daqueles que ocupam posições superiores na hierarquia.
+
+Koburatas circulam sem qualquer receio pelas comunidades locais, onde oferecem serviços de proteção em troca de alimento e mercadorias. A chegada de um deles, porém, já significa que o serviço foi contratado, independentemente de alguém ter solicitado sua presença. O pagamento é obrigatório: a Barakuza não aceita um não como resposta e é ainda menos tolerante com devedores.
+
+Todos carregam no peito o símbolo do Escorpimônio e pintam o rosto de maneira característica, fazendo questão de serem imediatamente reconhecidos como membros da organização — ou, como preferem dizer, como protetores da comunidade. Seu antebraço afiado, aliado à velocidade característica das baratas, torna um Koburata extremamente perigoso em combate. Mesmo quando gravemente feridos, possuem uma impressionante capacidade de regeneração, tornando confrontos prolongados contra eles especialmente arriscados.
+
+Apesar de toda a disciplina e lealdade à Barakuza, existe algo capaz de despertar facilmente a fúria de um Koburata: Baratunos.
+
+Há uma antiga rivalidade entre a Barakuza e as facções formadas por esses malditos ladrões furtivos. Koburatas consideram os Baratunos criminosos desordeiros que roubam e assaltam dentro de territórios que julgam estar sob sua proteção. Os Baratunos, por sua vez, pouco se importam com quem a Barakuza diz proteger ou com quem acredita mandar no lugar.
+
+Viver em uma comunidade onde Baratunos e membros da Barakuza disputam o mesmo território significa conviver com uma violência constante. De um lado, criminosos que roubam tudo que encontram pela frente; do outro, criminosos que cobram para impedir que isso aconteça.
+
+E nenhum dos dois costuma pedir permissão.`;
+const descricaoOyaburata = `Dentro da organização da Barakuza, os Oyaburatas são considerados os grandes protetores: membros mais velhos e experientes, responsáveis por garantir tanto a segurança física quanto as provisões daqueles que vivem sob sua influência. Geralmente são figuras conhecidas nas comunidades onde atuam e muitos são proprietários de estabelecimentos comerciais, mantendo uma presença muito mais estável e respeitável do que os demais membros da organização.
+
+Oyaburatas são extremamente fortes, resistentes e quase impossíveis de matar. Durante sua transformação, abandonam o antebraço afiado que utilizavam quando Koburatas, arrancando-o deliberadamente. Para eles, depender de uma lâmina é admitir que o próprio corpo ainda não atingiu seu verdadeiro potencial. Força física e domínio absoluto do corpo representam o ápice que um inseto pode alcançar.
+
+Para sustentar seu tamanho avantajado, um Oyaburata consome quantidades absurdas de alimento. Seus quatro braços enormes são utilizados para agarrar, imobilizar e dominar adversários diretamente. Parecem demonstrar pouca preocupação com ferimentos ou dor durante uma luta, chegando a despedaçar inimigos com as próprias mãos enquanto confiam em sua extraordinária capacidade de regeneração para reparar os danos sofridos depois.
+
+Na comunidade, um Oyaburata dificilmente passa despercebido. Sua reputação costuma precedê-lo, e mesmo aqueles que não pertencem à Barakuza aprendem rapidamente a tratá-lo com respeito — ainda que esse respeito quase sempre venha acompanhado de medo. Para os membros mais jovens da organização, porém, ele representa segurança, provisão e a certeza de que alguém poderoso estará disposto a protegê-los.
+
+Há, entretanto, rumores sobre a verdadeira origem da riqueza de muitos Oyaburatas. Dizem que seus estabelecimentos comerciais não passam de fachadas para uma atividade muito mais lucrativa: o comércio clandestino de néctar-kalmia, uma substância irresistível e destrutiva, extraída de flores tóxicas e responsável por arruinar incontáveis insetos, famílias e comunidades.
+
+Naturalmente, a Barakuza nega qualquer envolvimento.`;
 
 const descricaoCelularva = `Nessa fase de desenvolvimento, cada Celularva vive em seu próprio favo, localizado nas regiões mais altas da grande colmeia. Ali, é cuidadosamente alimentada e protegida, crescendo sabendo que é uma parte importante da comunidade.
 
@@ -1033,6 +1070,46 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'baratuno', tipo: 'linear' }],
     tipoEvolucao: 'linear',
+  },
+  {
+    id: 'shinjinrata',
+    nome: 'Shinjinrata',
+    nomeIngles: 'Shinjinroach',
+    imagem: '/images/baratas/shinjinrata.png',
+    descricao: descricaoShinjinrata,
+    linhagem: 'baratas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    tags: ['baratas'],
+    evolucoes: [{ insetoId: 'koburata', tipo: 'linear' }],
+  },
+  {
+    id: 'koburata',
+    nome: 'Koburata',
+    nomeIngles: 'Koburoach',
+    imagem: '/images/baratas/koburata.png',
+    descricao: descricaoKoburata,
+    linhagem: 'baratas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['baratas'],
+    evolucoes: [{ insetoId: 'oyaburata', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'shinjinrata', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'oyaburata',
+    nome: 'Oyaburata',
+    nomeIngles: 'Oyaburoach',
+    imagem: '/images/baratas/oyaburata.png',
+    descricao: descricaoOyaburata,
+    linhagem: 'baratas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['baratas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'koburata', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'vespescudo',

@@ -95,7 +95,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBaratas,
     imagemCapa: '/images/baratas/capa.png',
     tema: '#5c4b3a',
-    criaturas: ['baratito', 'baratuno', 'baratrao'],
+    criaturas: ['baratito', 'baratuno', 'baratrao','shinjinrata','koburata','oyaburata'],
   },
   {
     id: 'abelhas',
