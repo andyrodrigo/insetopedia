@@ -136,6 +136,62 @@ Na comunidade, um Oyaburata dificilmente passa despercebido. Sua reputação cos
 Há, entretanto, rumores sobre a verdadeira origem da riqueza de muitos Oyaburatas. Dizem que seus estabelecimentos comerciais não passam de fachadas para uma atividade muito mais lucrativa: o comércio clandestino de néctar-kalmia, uma substância irresistível e destrutiva, extraída de flores tóxicas e responsável por arruinar incontáveis insetos, famílias e comunidades.
 
 Naturalmente, a Barakuza nega qualquer envolvimento.`;
+const descricaoNinoracha = `Nascidos nos territórios silvestres dominados pelos Formilitares, Ninorachas crescem em um ambiente marcado por guerra, ocupação e opressão. Limitados às periferias, costumam viver com suas mães e numerosos irmãos em condições miseráveis, principalmente nos aglomerados conhecidos como Los Troncos Podritos.
+
+Grande parte das famílias é profundamente devota do Besouro da Luz, e os Ninorachas crescem cercados por essa crença desde muito pequenos. Para muitos, a fé é uma das poucas coisas que permaneceram intactas depois que suas comunidades perderam quase tudo.
+
+Ninorachas são extremamente resilientes. Os mais desenvolvidos assumem cedo a responsabilidade de ajudar suas famílias e fazem o que estiver ao seu alcance para garantir a sobrevivência dos irmãos menores. Mendigam, procuram restos de alimento e, quando necessário, cometem pequenos furtos. São rápidos, conhecem cada passagem e esconderijo de Los Troncos Podritos e sabem desaparecer com facilidade quando perseguidos por insetos que não pertencem à comunidade.
+
+Não existe uma única espécie da qual descendam todos os Ninorachas. Eles são resultado de gerações de cruzamentos entre diferentes populações de baratas que, expulsas de seus antigos territórios, acabaram obrigadas a conviver nos troncos amontoados das periferias. Por isso, indivíduos da mesma família podem desenvolver características bastante diferentes conforme amadurecem.
+
+Desde pequenos, escutam dos mais velhos histórias sobre como a vida era melhor antes das invasões dos Formilitares. Crescem ouvindo sobre territórios perdidos, famílias deslocadas e tudo aquilo que teria sido tomado de seu povo. Como consequência, muitos desenvolvem um ódio profundo pelos Formilitares muito antes de sequer encontrarem um pessoalmente.
+
+Dentro dessas comunidades, porém, existem figuras que os Ninorachas enxergam de maneira completamente diferente: as Cucarachas.
+
+Onde conseguem estabelecer sua influência, as Cucarachas organizam Los Troncos Podritos, reprimem crimes cometidos dentro da própria comunidade e trazem recursos e alguma prosperidade para lugares que há muito haviam sido abandonados à própria sorte. Para quem observa de fora, seus métodos e negócios podem ser bastante questionáveis. Para muitos Ninorachas, isso pouco importa.
+
+As Cucarachas são aqueles que apareceram quando ninguém mais apareceu.
+
+Por isso, quando imaginam um futuro diferente da pobreza dos troncos, muitos Ninorachas compartilham o mesmo sonho: crescer o suficiente para, um dia, tornar-se uma delas.`;
+const descricaoSicaracha = `Sicarachas são membros ativos do Cartel Cucaracha, envolvidos principalmente no controle da produção e da distribuição de néctar-kalmia. Eles recrutam insetos polinizadores para realizar a coleta e o processamento da substância, organizando depois sua distribuição para territórios muito além de Los Troncos Podritos. Doce e extremamente viciante, o néctar-kalmia provoca diferentes efeitos sobre os insetos que o consomem e seu uso prolongado pode trazer consequências devastadoras.
+
+Apesar de suas atividades criminosas, Sicarachas possuem um forte espírito de união familiar e uma devoção profunda ao Besouro da Luz. A crença chegou a Los Troncos Podritos através de insetos vindos do deserto e encontrou terreno fértil entre uma população desesperada por esperança e consolo. Sicarachas e muitos outros habitantes da comunidade carregam o escaravelho dourado no peito, acreditando que sua luz seja capaz de ofuscar as más ações cometidas por um inseto durante sua vida.
+
+Sicarachas também enxergam os Formilitares como ocupantes e não demonstram qualquer remorso em roubar deles ou utilizar contra eles os recursos que conseguem tomar. Ao mesmo tempo, precisam agir com cautela para evitar que suas operações com néctar-kalmia sejam descobertas. Ainda assim, confrontos entre Cucarachas e Formilitares são frequentes, provocados tanto pelas atividades criminosas do cartel quanto pela permanente rebeldia de seus membros contra a ocupação.
+
+Nem sempre, porém, as Cucarachas foram aquilo que são hoje.
+
+O grupo surgiu originalmente como um movimento de resistência, formado com o objetivo de expulsar os Formilitares e recuperar os antigos territórios de suas comunidades. O comércio de néctar-kalmia apareceu inicialmente como uma maneira de financiar essa luta, fornecendo recursos para sustentar seus membros e enfrentar um inimigo muito mais organizado.
+
+Em algum momento, a finalidade e o meio começaram a trocar de lugar.
+
+A resistência permaneceu como parte importante da identidade das Cucarachas, assim como o ódio aos Formilitares e os discursos sobre recuperar aquilo que lhes foi tomado. Na prática, porém, o controle do néctar-kalmia, a obtenção de recursos e a expansão do próprio poder passaram a ocupar uma parcela cada vez maior dos interesses do cartel.
+
+Hoje, nem mesmo os Sicarachas parecem concordar sobre onde termina a resistência e começa o império que construíram para financiá-la.`;
+const descricaoLucaracha = `Lucarachas são os membros noturnos do Cartel Cucaracha. Diferentemente de sicarachas, que são capazes de realizar voos curtos, suas asas são pouco desenvolvidas e incapazes de sustentá-los no ar, obrigando-os a permanecer no chão. Essa limitação, porém, é compensada por uma característica bastante peculiar: sua bioluminescência.
+
+Lucarachas conseguem controlar a intensidade das estruturas luminosas espalhadas pelo corpo, permitindo que enxerguem e trabalhem em ambientes completamente escuros sem depender de qualquer fonte externa de luz. Essa capacidade os torna especialmente eficientes durante a noite e em atividades realizadas no subterrâneo.
+
+Invasões e roubos noturnos estão entre suas especialidades, principalmente contra trincheiras, depósitos e túneis dos Formilitares. Lucarachas conseguem atravessar esses lugares no escuro, localizar recursos e desaparecer antes que sua presença seja percebida. Também são responsáveis por vigiar muitas das rotas utilizadas na coleta e produção de néctar-kalmia, permanecendo ativos enquanto grande parte dos outros insetos descansa.
+
+Quando desejam ser vistos, entretanto, sua bioluminescência se torna uma ferramenta de intimidação. Pontos verdes surgindo repentinamente na escuridão dão aos Lucarachas uma aparência quase sobrenatural, efeito que eles exploram deliberadamente para assustar curiosos e parecer criaturas muito mais perigosas do que realmente são.
+
+Lucarachas também controlam muitos dos pontos de comercialização de néctar-kalmia próximos a Los Troncos Podritos, onde as vendas só podem acontecer durante a noite. Sua própria luz funciona como um sistema de comunicação: quando um ponto está seguro e funcionando, um Lucaracha permanece nas proximidades e acende partes de seu corpo, sinalizando discretamente aos clientes que podem se aproximar. Ao menor sinal de perigo, as luzes desaparecem e o ponto deixa de existir na escuridão.
+
+Entre invasões, vigilância, proteção das rotas e controle dos pontos de venda, Lucarachas são membros essenciais para o funcionamento cotidiano das Cucarachas — especialmente depois que o sol desaparece.`;
+const descricaoCubaracha = `Cubarachas são conhecidos entre as Cucarachas por serem um pouco malucos. Especialistas em voo, possuem um controle extraordinário das próprias asas e são capazes de atravessar ambientes repletos de obstáculos em alta velocidade, realizando mudanças bruscas de direção que poucos insetos voadores conseguiriam acompanhar.
+
+Menores que os demais membros das Cucarachas, possuem um corpo verde que facilita sua camuflagem entre a vegetação. A combinação entre tamanho reduzido, velocidade e habilidade de voo faz deles transportadores perfeitos para o néctar-kalmia. Cubarachas distribuem a substância para territórios distantes, evitando caminhos conhecidos e atravessando rotas alternativas que seriam impraticáveis para outros membros do cartel.
+
+Seus olhos são especialmente adaptados ao voo, proporcionando excelente visão periférica e binocular durante manobras em alta velocidade. Suas antenas também possuem uma adaptação incomum: são capazes de captar sinais utilizados na comunicação dos Formilitares. Escutar essas transmissões permite que antecipem movimentações, percebam ataques, preparem fugas e alterem suas rotas antes que uma patrulha consiga interceptá-los.
+
+Fora das atividades criminosas, Cubarachas estão entre os membros mais sociáveis do cartel. Divertidos e fanfarrões, adoram a enorme diversidade encontrada em Los Troncos Podritos e confraternizam com praticamente todos os tipos de insetos que habitam aquela comunidade superpovoada. Também possuem uma conhecida dificuldade em recusar desafios, principalmente quando envolvem velocidade, perigo ou alguma ideia que qualquer inseto sensato consideraria absurda.
+
+Há quem diga, entretanto, que a imprudência dos Cubarachas possui outra explicação. Por transportarem grandes quantidades de néctar-kalmia e terem acesso constante à substância, existem suspeitas de que alguns deles consumam parte da própria carga durante o trabalho.
+
+Os Cubarachas negam.
+
+O comportamento deles não ajuda muito a tornar essa negativa convincente.`;
 
 const descricaoCelularva = `Nessa fase de desenvolvimento, cada Celularva vive em seu próprio favo, localizado nas regiões mais altas da grande colmeia. Ali, é cuidadosamente alimentada e protegida, crescendo sabendo que é uma parte importante da comunidade.
 
@@ -230,6 +286,7 @@ Por viverem ainda mais próximas das fronteiras do território da colmeia, Marce
 
 A maioria permanece fiel à colmeia. Algumas, entretanto, começam a questionar por que suas habilidades, seu trabalho e até mesmo sua transformação deveriam ser determinados pelas necessidades de uma sociedade da qual agora vivem tão distantes. Em casos extremos, esse afastamento pode transformá-las em informantes ou mesmo traidoras, fornecendo a outras sociedades informações sobre aquela mesma colmeia que os Zanguardiões passam a vida tentando proteger.`;
 
+
 const descricaoKurupim = `Os Kurupins são os jovens da tribo. Vivem e servem à grande árvore que é o lar de todos, realizando diversas funções essenciais para a comunidade, desde cuidar dos ovos até buscar alimentos para a tribo.
 
 Kurupim não possui olhos, mas isso não significa que seja incapaz de perceber o mundo ao seu redor. Ele sente tudo através dos outros sentidos, captando cada vibração no chão, cada movimento no ar e cada cheiro presente na mata. Sua comunicação também acontece através dos odores, permitindo que transmitam informações uns aos outros sem precisar sequer se mover.
@@ -281,6 +338,67 @@ Se encontrar o local, uma nova tribo poderá nascer ali.
 E, segundo os antigos, toda grande árvore começou assim:
 
 com um Tu'ipim que sonhou com um lugar onde ninguém havia chegado antes.`;
+const descricaoKuxapima = `Alguns poucos Kurupins ou Guaripins tornam-se tão conectados à natureza que acabam se transformando em Kuxapimãs. Eles continuam completamente cegos, mas desenvolvem numerosas antenas, capazes de perceber coisas que parecem estar além da compreensão dos demais insetos.
+
+Um Kuxapimã consegue identificar doenças tanto em insetos quanto em plantas e elaborar tratamentos para ambos utilizando elementos encontrados na natureza. Dizem também que são capazes de "ver" o passado e o futuro através de suas antenas quando se alimentam de uma mistura especial preparada com folhas da Grande Árvore. Ninguém sabe ao certo o que realmente percebem durante essa experiência, mas suas visões são levadas muito a sério pelos Kurupins.
+
+Os Kuxapimãs atuam como conselheiros e guias dos Kurupins mais jovens. São também responsáveis por transmitir as tradições da tribo, ensinar o significado e a elaboração de suas pinturas e organizar celebrações e rituais.
+
+Eles passam grande parte da vida no interior da Grande Árvore e raramente participam de batalhas. Isso, porém, não significa que sejam incapazes de lutar. Cada Kuxapimã decide por conta própria se deve assumir o papel de guerreiro quando necessário. Em algumas tribos de Kurupins, um deles ocupa naturalmente a posição de liderança; em outras, vários Kuxapimãs formam uma espécie de conselho responsável pelas decisões mais importantes.
+
+O destino dos Kuxapimãs também pode seguir caminhos diferentes. As fêmeas que desenvolvem a capacidade de sonhar acabam se transformando em Tu'ipins, incorporando ao próximo exoesqueleto a própria folha que carregavam nas costas durante sua vida como Kuxapimã.
+
+Entre os machos, porém, existe uma transformação muito mais rara.
+
+Alguns poucos podem se tornar Kupinguaris.`;
+const descricaoMboitapim = `Alguns Guaripins se tornam guerreiros protetores tão eficientes que acabam se transformando em M'boitapins, uma forma ainda mais especializada na proteção da Grande Árvore. Diferente dos demais, porém, o M'boitapim não acompanha grupos de caça. Ele percorre sozinho as fronteiras do território, mantendo-se atento a qualquer presença que se aproxime.
+
+Seu exoesqueleto desenvolveu numerosos espinhos, que funcionam tanto como defesa quanto como armas. Seu corpo também produz uma substância química capaz de causar intensa irritação e desorientação em outros insetos. O M'boitapim secreta essa substância através da mordida, das garras e dos próprios espinhos, além de espalhá-la deliberadamente sobre a ponta de sua lança.
+
+O M'boitapim continua completamente cego, mas suas numerosas antenas lhe permitem perceber o ambiente com uma precisão que supera a visão de muitos outros insetos. Ele consegue identificar a presença e até a quantidade de criaturas se aproximando a grandes distâncias e, de alguma forma, parece compreender suas intenções. Sua percepção é tão apurada que ele não ataca insetos que entram por engano no território dos Kurupins ou que apenas precisam atravessá-lo.
+
+Por isso, sua presença nas fronteiras da Grande Árvore é considerada um aviso. Entre outros insetos, diz-se que o protetor observa não apenas quem se aproxima, mas também suas intenções — e que somente aqueles que chegam sem malícia conseguem atravessar seu território em segurança.
+
+Durante a noite, a substância que recobre seus espinhos e antenas emite um brilho que se assemelha ao fogo. À distância, outros insetos enxergam apenas uma silhueta flamejante se movendo pela escuridão, acompanhada pelos enormes olhos de predador pintados em sua cabeça. O M'boitapim faz questão de ser visto. Exibe seu brilho para anunciar sua presença e produz sons que dão a impressão de que está cada vez mais próximo.
+
+Mas ninguém sabe ao certo de onde esses sons estão vindo.
+
+O M'boitapim sabe onde você está.
+
+Você só sabe onde ele está quando ele quer.`;
+const descricaoKupinguari = `De tempos em tempos, um Kuxapimã macho, após uma de suas experiências de contemplação do futuro, anuncia à tribo que irá se tornar um Kupinguari. A revelação dá início ao seu último ritual. Ele entrega a folha que carregou consigo, despede-se dos demais e agradece à Grande Árvore antes de abandonar seu território para nunca mais retornar. Para a tribo, não é uma expulsão nem uma morte, mas um rito de despedida e aceitação de seu destino.
+
+Longe da Grande Árvore, o Kuxapimã passa por uma transformação extrema. Seu corpo cresce até atingir mais de duas vezes o tamanho que possuía anteriormente, tornando-se o enorme Kupinguari. Antes de iniciar sua nova vida, ele próprio realiza suas últimas pinturas: um único e grande olho sobre a cabeça e uma enorme boca repleta de dentes sobre o abdômen.
+
+O olho representa a visão que ele jamais terá.
+
+A boca representa aquilo que ele passará a devorar.
+
+Durante a transformação, o Kupinguari perde as numerosas antenas que antes lhe permitiam compreender o mundo com extraordinária precisão. Agora, orienta-se principalmente pelo cheiro e por seus instintos. Até mesmo sua alimentação muda radicalmente: o antigo conhecedor e protetor da natureza torna-se um predador de outros insetos.
+
+O Kupinguari passa então a vagar pelas florestas, sempre distante da Grande Árvore onde nasceu. Caça qualquer criatura que encontre pelo caminho e, com o passar do tempo, parece esquecer pouco a pouco quem um dia foi.
+
+Suas garras e sua mordida possuem substâncias capazes de paralisar suas vítimas. Seu enorme abdômen consegue se expandir para comportar quantidades absurdas de alimento, permitindo que devore presas que, juntas, ultrapassam seu próprio tamanho. Às vezes, alimenta-se tanto que se torna incapaz de se locomover, permanecendo imóvel até que parte da digestão esteja concluída. Suas duas pernas adicionais ajudam a sustentar o enorme peso de seu corpo e tornam possível sua lenta caminhada pela mata.
+
+Entre os habitantes da floresta, o Kupinguari é conhecido como uma das criaturas mais assustadoras que podem ser encontradas longe das grandes sociedades. Sua agressividade é comparada — e muitas vezes considerada superior — à dos próprios Escorpimônios.
+
+Existe, porém, uma única exceção.
+
+Um Kupinguari jamais ataca outro cupim.
+
+Mesmo depois de perder suas antigas percepções, abandonar sua tribo e aparentemente esquecer quase tudo sobre sua vida anterior, alguma coisa permanece dentro dele. Talvez não saiba mais quem foi, mas ainda parece reconhecer aquilo a que pertence.
+
+E, apesar de sua existência monstruosa e solitária, a jornada do Kupinguari possui um propósito.
+
+Em algum momento de sua longa peregrinação, ele acaba vagando pelas proximidades de uma Grande Árvore desabitada. É ali que uma Tu'ipim o encontra. Diante dela, pela primeira vez desde sua transformação, o Kupinguari abandona sua agressividade e se acalma.
+
+Os dois permanecem juntos e dão origem a uma nova tribo.
+
+O Kupinguari vive apenas o suficiente para ver os primeiros Kurupins se desenvolverem e a nova comunidade começar a ocupar sua Grande Árvore. Seu enorme corpo então finalmente enfraquece.
+
+Depois de uma vida de despedida, fome, violência e esquecimento, o antigo Kuxapimã pode enfim descansar.
+
+Seu destino foi cumprido.`;
 
 const descricaoVespescudo = `Quando o ovo se abre, Vespescudo já está protegido dentro de sua estrutura de contenção. Há espaço apenas para observar o exterior, mover-se lentamente, receber alimento e continuar seu desenvolvimento.
 
@@ -1112,6 +1230,60 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'ramificada',
   },
   {
+    id: 'ninoracha',
+    nome: 'Ninoracha',
+    nomeIngles: 'Ninoracha',
+    imagem: '/images/baratas/ninoracha.png',
+    descricao: descricaoNinoracha,
+    linhagem: 'baratas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    tags: ['baratas'],
+    evolucoes: [{ insetoId: 'sicaracha', tipo: 'ramificada' }, { insetoId: 'lucaracha', tipo: 'ramificada' }, { insetoId: 'cubaracha', tipo: 'ramificada' }],
+  },
+  {
+    id: 'sicaracha',
+    nome: 'Sicaracha',
+    nomeIngles: 'Sicaracha',
+    imagem: '/images/baratas/sicaracha.png',
+    descricao: descricaoSicaracha,
+    linhagem: 'baratas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['baratas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'ninoracha', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'lucaracha',
+    nome: 'Lucaracha',
+    nomeIngles: 'Lucaracha',
+    imagem: '/images/baratas/lucaracha.png',
+    descricao: descricaoLucaracha,
+    linhagem: 'baratas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['baratas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'ninoracha', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'cubaracha',
+    nome: 'Cubaracha',
+    nomeIngles: 'Cubaracha',
+    imagem: '/images/baratas/cubaracha.png',
+    descricao: descricaoCubaracha,
+    linhagem: 'baratas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['baratas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'ninoracha', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
     id: 'vespescudo',
     nome: 'Vespescudo',
     nomeIngles: 'Waspield',
@@ -1473,7 +1645,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['cupins'],
-    evolucoes: [{ insetoId: 'guaripim', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'guaripim', tipo: 'linear' }, { insetoId: 'kuxapima', tipo: 'ramificada' }],
   },
   {
     id: 'guaripim',
@@ -1485,9 +1657,37 @@ export const insetos: Inseto[] = [
     estagio: 'forma final',
     ...dadosPendentes,
     tags: ['cupins'],
-    evolucoes: [{ insetoId: 'tuipim', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'mboitapim', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'kurupim', tipo: 'linear' }],
     tipoEvolucao: 'linear',
+  },
+  {
+    id: 'mboitapim',
+    nome: 'Mboitapim',
+    nomeIngles: 'Termitatá',
+    imagem: '/images/cupins/mboitapim.png',
+    descricao: descricaoMboitapim,
+    linhagem: 'cupins',
+    estagio: 'forma rara',
+    ...dadosPendentes,
+    tags: ['cupins'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'Guaripim', tipo: 'linear'}],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'kuxapima',
+    nome: 'Kuxapimã',
+    nomeIngles: 'Tershamante',
+    imagem: '/images/cupins/kuxapima.png',
+    descricao: descricaoKuxapima,
+    linhagem: 'cupins',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    tags: ['cupins'],
+    evolucoes: [{ insetoId: 'tuipim', tipo: 'ramificada' }, { insetoId: 'kupinguari', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'kurupim', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'tuipim',
@@ -1496,12 +1696,26 @@ export const insetos: Inseto[] = [
     imagem: '/images/cupins/tuipim.png',
     descricao: descricaoTuipim,
     linhagem: 'cupins',
-    estagio: 'forma especial',
+    estagio: 'forma raríssima',
     ...dadosPendentes,
     tags: ['cupins'],
     evolucoes: [],
-    evolucaoDe: [{ insetoId: 'guaripim', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
+    evolucaoDe: [{ insetoId: 'kuxapima', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'kupinguari',
+    nome: "Kupinguari",
+    nomeIngles: "Terminguari",
+    imagem: '/images/cupins/kupinguari.png',
+    descricao: descricaoKupinguari,
+    linhagem: 'cupins',
+    estagio: 'forma raríssima',
+    ...dadosPendentes,
+    tags: ['cupins'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'kuxapima', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'gafamelo',

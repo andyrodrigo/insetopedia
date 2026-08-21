@@ -95,7 +95,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBaratas,
     imagemCapa: '/images/baratas/capa.png',
     tema: '#5c4b3a',
-    criaturas: ['baratito', 'baratuno', 'baratrao','shinjinrata','koburata','oyaburata'],
+    criaturas: ['baratito', 'baratuno', 'baratrao','shinjinrata','koburata','oyaburata', 'ninoracha', 'sicaracha','lucaracha', 'cubaracha'],
   },
   {
     id: 'abelhas',
@@ -113,7 +113,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoCupins,
     imagemCapa: '/images/cupins/capa.png',
     tema: '#b17845',
-    criaturas: ['kurupim', 'guaripim', 'tuipim'],
+    criaturas: ['kurupim', 'guaripim', 'tuipim', 'mboitapim', 'kuxapima', 'kupinguari'],
   },
   {
     id: 'vespas',
