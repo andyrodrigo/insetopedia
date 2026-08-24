@@ -908,7 +908,9 @@ Com o passar do tempo, estranhos pensamentos começam a surgir na mente do Louvo
 
 É nesse momento que Parazeus surge.
 
-Parazeus continua se alimentando e lutando, mas toda a disciplina e serenidade que um dia fizeram parte de sua vida desaparecem. Seus movimentos tornam-se violentos e imprevisíveis. Durante o combate, partes de seu corpo podem se abrir, revelando os tentáculos do parasita que vivem em seu interior. Eles funcionam como braços adicionais, capazes de agarrar, chicotear e arremessar seus adversários.
+Não existe uma aparência única para um Parazeus. O parasita não transforma seu hospedeiro em uma nova forma: ele toma aquilo que o Louvolin já havia se tornado. Sua aparência, características físicas e habilidades permanecem ligadas ao corpo infectado, tornando alguns Parazeus muito mais perigosos que outros.
+
+Parazeus continua se alimentando e lutando, utilizando inclusive as habilidades e técnicas que seu hospedeiro aprendeu durante a vida. Mas toda a disciplina sobre quando e por que utilizá-las desaparece. Durante o combate, partes de seu corpo podem se abrir, revelando os tentáculos do parasita que vivem em seu interior. Eles funcionam como braços adicionais, capazes de agarrar, chicotear e arremessar seus adversários, muitas vezes incorporando-se à própria maneira de lutar do antigo Louvolin.
 
 Infeliz é o inseto que cruza seu caminho.
 
@@ -931,6 +933,400 @@ Ou pode ser contido e destruído antes que o parasita complete seu ciclo.
 Para os Louvolins, um Parazeus não é apenas um inimigo.
 
 É tudo aquilo que sua filosofia ensina a controlar, transformado em uma criatura que não possui mais controle sobre si mesma.`;
+const descricaoLouvolinGarra = `Durante sua jornada solitária, um Louvolin pode encontrar muitas adversidades, enfrentar inimigos aterradores e precisar ser especialmente forte, corajoso e agressivo para sobreviver. Quando passa repetidamente por experiências desse tipo, é comum que seu corpo comece a se transformar, dando origem a um Louvolin-garra.
+
+O Louvolin-garra aprendeu que a melhor maneira de superar seus adversários é tornar seu ataque tão eficiente que não lhes reste qualquer oportunidade de defesa. Seu corpo cresce e seu novo exoesqueleto torna-se muito mais especializado em força, velocidade e poder ofensivo.
+
+Esses Louvolins costumam viver em regiões cobertas por folhas secas. Sua coloração permite que permaneçam praticamente invisíveis nesse ambiente, desaparecendo novamente entre a vegetação após cada sequência de ataques.
+
+Suas garras tornam-se maiores, mais fortes e extremamente afiadas. Seus movimentos são explosivos: um Louvolin-garra pode surgir do meio das folhas e executar uma sequência de golpes tão rápida e brutal que seu adversário mal consegue compreender de onde veio o ataque antes que ele termine.
+
+O que define seu estilo é a combinação de agressividade, força, furtividade e coragem. Louvolins-garra não hesitam diante de criaturas muito maiores que eles. Pelo contrário: avançam com tamanha convicção que frequentemente conseguem derrotar adversários aparentemente superiores antes mesmo que estes tenham tempo de perceber como deveriam reagir.
+
+Para um Louvolin-garra, uma luta não deve ser uma longa troca de golpes. O ataque perfeito é aquele que encerra o confronto no mesmo instante em que começa.
+
+Sua filosofia pode ser resumida em uma única frase:
+
+"Meu primeiro movimento é o último, e não há defesa que o alcance antes de ele chegar."`;
+const descricaoLouvolinBranco = `Nos templos dos Louvolins, os Totzens aparecem misteriosamente em suas entradas, como se fossem presentes deixados para aqueles que ali vivem. Dizem que, sempre que isso acontece, um Louvolin-branco pode ser visto à distância, observando imóvel enquanto os pequenos Totzens são encontrados. Assim que são acolhidos pelos habitantes do templo, ele desaparece.
+
+Por isso, o Louvolin-branco é uma figura misteriosa e quase mística para os Louvolins. Aqueles que afirmam já ter estado próximos de um deles descrevem principalmente a estranha sensação de paz que parece existir ao seu redor.
+
+A jornada para se tornar um Louvolin-branco é marcada pela meditação quase absoluta e pela busca da compreensão de tudo aquilo que o cerca. É nas plantas que ele encontra sua maior inspiração: a paciência da espera, a serenidade, os movimentos lentos, como se existissem em um tempo diferente daquele dos insetos, e principalmente a capacidade de resistir sem precisar abandonar o lugar onde criaram suas raízes.
+
+Pouco a pouco, o Louvolin começa a praticar seus movimentos da mesma maneira que uma planta reage ao vento: cedendo quando necessário, retornando à posição original e mantendo suas raízes firmes. Seu treinamento leva o equilíbrio ao extremo.
+
+Quando finalmente se considera preparado, escolhe uma planta e inicia sua última meditação.
+
+Apoiando-se sobre apenas uma das pernas, permanece completamente imóvel. Não se alimenta e não realiza qualquer movimento voluntário durante meses. Sua mente entra em um estado de vazio tão profundo que sua própria existência parece se confundir com a planta sobre a qual repousa.
+
+Enquanto isso, a vegetação cresce lentamente ao seu redor, envolvendo seu corpo como um casulo.
+
+É de dentro dela que, algum tempo depois, emerge um Louvolin-branco.
+
+Dizem que, depois dessa transformação, ele passa a sobreviver apenas de água e luz solar. Grande parte de sua existência é passada em constante meditação. Um Louvolin-branco jamais inicia um ataque e mantém uma postura de absoluta passividade diante daqueles que encontra.
+
+Passividade, porém, jamais deve ser confundida com vulnerabilidade.
+
+O Louvolin-branco é um artista marcial extraordinário. Quando atacado, reage com movimentos precisos e elegantes, desviando e redirecionando os golpes de maneira que frequentemente faz o próprio adversário atingir a si mesmo. Em outras ocasiões, seu contra-ataque é tão rápido e sutil que o inimigo somente percebe que foi cortado depois que o movimento já terminou.
+
+Talvez o aspecto mais impressionante de observar um Louvolin-branco em combate seja perceber que ele mantém apenas um pé apoiado no chão e, ainda assim, pode vencer sem sair do lugar.
+
+Como uma planta enfrentando uma tempestade, seu corpo se move, inclina-se e cede.
+
+Mas sua raiz permanece onde sempre esteve.
+
+Seu estilo é conhecido pela elegância, agilidade, imprevisibilidade, equilíbrio e precisão defensiva. Para ele, não existe razão para decidir antecipadamente como uma luta deverá acontecer. O movimento do adversário é que determina sua resposta.
+
+Sua filosofia resume aquilo que aprendeu observando as plantas:
+
+"Não escolho para onde sopra o vento. Apenas me movo com ele, sem jamais abandonar minhas raízes."`;
+const descricaoLouvolinEscama = `Dizem que, entre todos os caminhos que um Louvolin pode percorrer, a jornada do Louvolin-escama é a mais longa.
+
+Durante anos, ele busca conhecimento nos mais diferentes lugares. Observa outras criaturas, enfrenta adversários, conhece novas formas de viver e aprende técnicas vindas de inúmeras fontes. Com o tempo, torna-se capaz de executar incontáveis formas de ataque e defesa.
+
+Ainda assim, não encontra a perfeição.
+
+Quanto mais aprende, mais percebe que toda técnica possui uma fraqueza. Uma defesa perfeita contra determinado ataque pode ser inútil contra outro. Uma postura vantajosa em certo terreno pode tornar-se uma limitação em outro. Não importa quanto conhecimento acumule, sempre haverá uma situação para a qual aquilo que aprendeu não será suficiente.
+
+Até que, em um dia de chuva, o sábio Louvolin observa a água.
+
+Percebe que ela jamais possui uma única forma. Torna-se uma gota ao cair, acompanha o caminho que encontra sobre o solo, assume a forma daquilo que a contém e, mesmo quando encontra um obstáculo, simplesmente procura outra maneira de continuar seu percurso.
+
+Finalmente, ele compreende aquilo que tantos anos de treinamento não conseguiram lhe ensinar.
+
+Em vez de procurar a forma perfeita, ele não deve possuir forma alguma.
+
+E então mergulha.
+
+Durante meses — às vezes anos — o Louvolin adapta seu corpo e suas técnicas ao ambiente aquático. No início, seus movimentos tornam-se lentos e desajeitados. Mas ele persiste até conseguir atacar, defender-se e movimentar-se dentro da água com a mesma naturalidade que possuía em terra ou no ar.
+
+Quando finalmente consegue permanecer submerso por períodos extraordinariamente longos, seu corpo completa a adaptação e ele emerge como um Louvolin-escama.
+
+O que define seu estilo é sua extraordinária capacidade de adaptação. Diferente de outros Louvolins especializados em determinada estratégia, o Escama busca o equilíbrio entre ataque e defesa e transforma o próprio ambiente em parte de sua técnica. É igualmente perigoso em terra, na água ou no ar.
+
+Suas asas permitem combinar ataques terrestres com movimentos aéreos inesperados. Paredes, árvores, pedras, correntes de água e até os movimentos de seus adversários podem ser incorporados ao combate. Existem relatos de Louvolins-escama capazes de atravessar a superfície da água durante uma luta com tamanha leveza que parecem caminhar sobre ela.
+
+A longa transformação aquática também modifica profundamente seu exoesqueleto. As escamas que passam a revesti-lo formam uma extraordinária armadura natural. Suas garras conseguem repelir golpes violentos, enquanto seu revestimento dificulta até mesmo a penetração de ferrões.
+
+Observar um Louvolin-escama lutar é como assistir a uma dança mortal. Ataque transforma-se em defesa, defesa transforma-se em movimento e movimento transforma-se novamente em ataque. Não importa onde o combate aconteça ou como seu adversário tente mudar a situação: o Escama parece nunca estar verdadeiramente em desvantagem.
+
+Pouquíssimos Louvolins percorrem uma jornada longa o suficiente para alcançar essa transformação. Por isso, encontrar um deles é extremamente raro, e sua aparência incomum dificilmente passa despercebida.
+
+Sua filosofia resume a descoberta que encerrou sua longa busca pela perfeição:
+
+"A forma perfeita é aquela que não precisa permanecer a mesma."`;
+const descricaoLouvolinFerrao = `Também conhecido como "Imortal", o Louvolin-ferrão precisa passar pelo inferno antes de se tornar aquilo que é.
+
+Durante sua jornada, alguns Louvolins ficam fascinados pela eficiência dos insetos capazes de secretar veneno, intimidar e ferroar seus adversários. Obcecado por esse tipo de ataque, o Louvolin começa a desenvolver uma técnica própria: em vez de utilizar suas garras da maneira tradicional que aprendeu no templo, passa a atacar com suas pontas, tentando reproduzir o movimento preciso de uma ferroada.
+
+Anos de prática o ensinam a se esquivar com uma eficiência assustadora e a identificar os pontos mais vulneráveis de seus adversários. Sua técnica passa a se basear em intimidar primeiro, atravessar os ataques do inimigo sem ser atingido e encontrar uma única abertura para acertar um ponto vital.
+
+Mas essa busca quase inevitavelmente o conduz a um adversário mais perigoso.
+
+Ao desafiar repetidamente criaturas peçonhentas para aperfeiçoar sua técnica, chega o momento em que o Louvolin encontra um inimigo mais habilidoso que ele. Uma esquiva falha. Um ferrão atravessa seu exoesqueleto. O veneno entra em seu corpo.
+
+E o Louvolin é derrotado.
+
+Aqueles que morrem encerram ali sua jornada.
+
+Aqueles que sobrevivem renascem como Louvolins-ferrão.
+
+Durante a transformação, seu organismo absorve e assimila a substância que quase o matou. Seu novo corpo torna-se imune a venenos e passa a produzir sua própria toxina, frequentemente semelhante àquela encontrada nos temidos Escorpimônios. A ponta de sua garra transforma-se em um verdadeiro ferrão, capaz de injetar veneno diretamente nos pontos vulneráveis que sua técnica já havia aprendido a encontrar.
+
+O Louvolin-ferrão também desenvolve grandes expansões laterais ao redor da cabeça. Quando abertas, elas fazem sua silhueta parecer ainda mais ameaçadora, lembrando uma criatura peçonhenta prestes a atacar. A intimidação faz parte de sua técnica: uma hesitação de poucos segundos pode ser tudo aquilo de que ele precisa.
+
+Em combate, Louvolins-ferrão são conhecidos por atravessar sequências inteiras de ataques apenas se esquivando, aproximando-se cada vez mais do adversário até encontrarem a abertura que procuram.
+
+Então ferroam.
+
+Uma única vez.
+
+Sua capacidade de sobreviver ao envenenamento que desencadeia sua transformação, somada à imunidade adquirida posteriormente, deu a esses Louvolins o apelido de "Imortais".
+
+Sua filosofia carrega a lembrança daquilo que precisaram enfrentar para existir:
+
+"Meu corpo se tornou uma arma letal. Sobrevivi ao pior, e nada mais pode me deter."`;
+const descricaoLouvolinMimico = `A busca do Louvolin-mímico é interminável.
+
+Sua complexa jornada acaba levando-o a questionar a própria individualidade. Durante uma meditação profunda, o Louvolin compreende que aquilo que ele é não termina nas fronteiras de seu próprio corpo. Ele faz parte de algo maior e, para ele, a existência de uma unidade isolada perde o sentido quando separada do coletivo.
+
+A partir desse momento, sua jornada deixa de ser uma busca pelo aperfeiçoamento de si mesmo e passa a ser uma tentativa de compreender como muitos indivíduos podem agir como se fossem um só.
+
+É nessa busca que o Louvolin se depara com as Formilitares.
+
+Ele observa fascinado seu modo de vida. Elas parecem nunca parar de lutar e, apesar de serem milhares de indivíduos, comportam-se em batalha como partes de uma única e gigantesca máquina de guerra. Cada Formilitar sabe onde deve estar, reage aos movimentos das demais e parece compreender imediatamente aquilo de que o coletivo necessita.
+
+O Louvolin começa então uma longa observação.
+
+Primeiro, copia seus movimentos. Depois, suas formações e estratégias. Por fim, começa a decodificar os complexos sinais transmitidos através das antenas das Formilitares.
+
+Quando finalmente consegue compreender e reproduzir sua comunicação, ocorre sua transformação.
+
+Seu novo exoesqueleto torna-se menor e adquire características semelhantes às de uma Formilitar, como se o Louvolin fosse apenas mais uma estranha especialização daquela sociedade. Ele perde suas asas, suas garras diminuem e suas antenas tornam-se extraordinariamente eficientes na comunicação com as formigas.
+
+Então, pela primeira vez, o Louvolin envia um sinal.
+
+As Formilitares o encontram.
+
+E ele é recrutado.
+
+A partir daquele momento, o Louvolin-mímico deixa de lutar apenas por si mesmo. Torna-se uma unidade do exército Formilitar e coloca sua extraordinária habilidade marcial a serviço do formigueiro. Em meio às guerras praticamente ininterruptas das formigas, encontra oportunidades intermináveis para continuar aperfeiçoando sua técnica.
+
+Encontrar um Louvolin-mímico no campo de batalha é uma visão difícil de esquecer. Em meio às fileiras organizadas de Formilitares surge, repentinamente, um poderoso artista marcial, atravessando inimigos que acreditavam conhecer perfeitamente o exército que enfrentavam.
+
+Apesar de menor, o Louvolin-mímico é estranhamente mais forte que a maioria dos outros Louvolins. Seus ataques são baseados em surpresa, coordenação e combinações com aqueles que lutam ao seu redor. Ele utiliza seus próprios aliados como extensões de sua técnica: uma formação pode se tornar sua defesa, uma investida pode criar a abertura para seu golpe e até o movimento de outra Formilitar pode ser incorporado à sua sequência de ataques.
+
+Suas antenas permanecem em comunicação constante com o coletivo. Por isso, em batalha, o Louvolin-mímico parece saber tudo aquilo que acontece ao seu redor.
+
+Ele nunca luta sozinho.
+
+Talvez seja justamente por isso que sua jornada seja considerada interminável. Garra, Ferrão, Branco e Escama encontraram caminhos para aperfeiçoar aquilo que eram. O Mímico escolheu um caminho no qual seu próprio desenvolvimento depende de todos aqueles que estão ao seu redor.
+
+Enquanto o coletivo mudar, ele também continuará mudando.
+
+Sua filosofia resume aquilo que descobriu ao abandonar os limites de sua individualidade:
+
+"Sozinho, sou apenas um. Com todos, meus limites deixam de ser meus."`;
+const descricaoLouvolinFantasma = `Dizem que o Louvolin-fantasma pode surgir em florestas cobertas por folhas secas. Ninguém sabe ao certo se ele realmente existe, pois os únicos relatos sobre sua presença estão ligados a insetos que decidiram desafiar a própria morte.
+
+De tempos em tempos, guerreiros que acreditam ter alcançado um nível extraordinário de habilidade partem em busca do Louvolin-fantasma. Entram sozinhos em regiões tomadas por folhas secas com a intenção de encontrá-lo e derrotá-lo.
+
+Nenhum deles jamais retornou.
+
+Ainda assim, insetos de visão especialmente apurada que atravessaram essas florestas afirmam ter visto algo entre a vegetação. Uma criatura assustadoramente semelhante às próprias folhas, tão perfeitamente camuflada que só podia ser percebida durante seus movimentos.
+
+Um vulto.
+
+Um sopro entre as folhas.
+
+E então nada.
+
+Esses relatos alimentam o mito do Louvolin-fantasma: um mestre capaz de decapitar seu adversário com um único golpe. Dizem que sua investida produz apenas um pequeno movimento na folhagem, semelhante a uma rajada de vento, e que a vítima sequer percebe que foi atacada antes que sua cabeça já esteja separada do corpo.
+
+Mas nenhuma história sobre o Fantasma é tão conhecida quanto a lenda do Exército de Vespaleiros Caído.
+
+Conta-se que um grande exército de Vespaleiros atravessava uma floresta de folhas secas em busca de um território considerado sagrado pelos Louvolins.
+
+Então o vento soprou.
+
+Um Vespaleiro caiu decapitado.
+
+O exército continuou avançando.
+
+O vento soprou novamente.
+
+Outro caiu.
+
+A cada novo movimento das folhas, mais um Vespaleiro perdia a cabeça. Os soldados tentavam encontrar o responsável, mas não havia inimigo algum entre eles — apenas folhas secas sendo carregadas pelo vento.
+
+Até que finalmente o viram.
+
+O Louvolin-fantasma surgiu abertamente diante do exército e iniciou uma sequência de investidas. Passava pelos Vespaleiros em uma velocidade impressionante, cortava seus aliados e desaparecia novamente entre as folhas antes que aqueles que haviam acabado de vê-lo conseguissem determinar para onde tinha ido.
+
+Atacavam onde ele estivera.
+
+Nunca onde estava.
+
+A técnica utilizada naquele dia tornou-se conhecida nas histórias dos Louvolins como Sopro do Vento da Morte.
+
+Dizem que nenhum Vespaleiro deixou aquela floresta.
+
+E é justamente aí que a lenda começa a desmoronar.
+
+Se todos os Vespaleiros morreram...
+
+Se ninguém acompanhava o exército...
+
+Se o Louvolin-fantasma jamais contou sua própria história...
+
+quem viu o que aconteceu para poder contar?`;
+const descricaoLouvolinLotus = `Louvolin-lotus é o título dado ao Grande Mestre que serve como guia espiritual dos templos Louvolins. Diz-se que sempre existe um deles e que, quando morre, outro eventualmente toma seu lugar.
+
+Mas ninguém sabe exatamente como essa sucessão acontece.
+
+O título vem daquele que teria sido o fundador da filosofia de elevação do corpo e do espírito seguida pelos Louvolins. Segundo as histórias mais antigas, o primeiro Louvolin-lotus possuía uma aparência semelhante a uma flor de lótus e parecia ter se tornado parte do próprio mundo das plantas.
+
+Representações desse primeiro mestre podem ser encontradas nos templos. Sua imagem costuma ser construída com pétalas de flores, sempre retratado em profunda meditação.
+
+Entretanto, algumas tradições afirmam que nunca existiu um segundo Louvolin-lotus.
+
+Para elas, o primeiro mestre é imortal e continua vivo em algum lugar desconhecido. Outras dizem que seu corpo realmente morre, mas seu espírito retorna através de outro Louvolin, que abandona sua antiga identidade e passa a ocupar seu lugar.
+
+Nenhuma dessas histórias jamais foi confirmada.
+
+Existem relatos de insetos que, enquanto vagavam em busca de iluminação, sentiram um intenso perfume de flores vindo de lugares onde nenhuma deveria existir. Ao seguirem o aroma, encontraram uma região coberta por flores e, no centro dela, um Louvolin-lotus meditando.
+
+Dizem que aqueles que chegam até ele são convidados a sentar.
+
+E meditar.
+
+Quando finalmente despertam do profundo transe em que entraram, não encontram mais o mestre.
+
+Nem as flores.
+
+Entre as inúmeras histórias atribuídas ao Louvolin-lotus, duas são especialmente conhecidas.
+
+A primeira conta sobre um bando de insetos que decidiu encontrar e eliminar o grande mestre.
+
+Após uma longa busca, encontraram-no meditando e o cercaram. O Louvolin-lotus não abriu os olhos, não mudou sua postura e não demonstrou qualquer reação à presença dos invasores.
+
+Eles avançaram.
+
+Nenhum conseguiu alcançá-lo.
+
+Galhos desprenderam-se das árvores nos momentos exatos. Raízes fizeram alguns tropeçar. Outros caíram em direção a plantas carnívoras que pareciam não estar ali momentos antes. Insetos chocaram-se uns contra os outros, pedras se desprenderam e acontecimentos tão improváveis começaram a se suceder que aqueles que conseguiram fugir juraram que a própria floresta estava protegendo o mestre.
+
+Durante todo o confronto, o Louvolin-lotus permaneceu meditando.
+
+A segunda lenda fala de um grande mestre Louvolin que passou anos procurando pelo Lotus com o objetivo de aperfeiçoar sua arte marcial.
+
+Ele finalmente o encontrou.
+
+Diferentemente de tantos outros, pediu apenas uma coisa:
+
+um combate.
+
+O Louvolin-lotus aceitou.
+
+O que aconteceu em seguida tornou-se conhecido como a técnica do Espelho da Alma.
+
+Durante toda a luta, o desafiante teve a absoluta certeza de estar enfrentando a si mesmo.
+
+Cada postura encontrava sua própria postura.
+
+Cada movimento recebia exatamente o movimento necessário para anulá-lo.
+
+Cada ataque lançado contra o Lotus parecia retornar contra aquele que o havia realizado.
+
+Quanto mais intensamente tentava derrotar o grande mestre, mais claramente percebia que estava lutando contra suas próprias limitações.
+
+Quando o combate terminou, o Louvolin-lotus continuava exatamente onde estivera antes de começar.
+
+Os mestres dos templos ensinam que tornar-se um Louvolin-lotus é o maior objetivo que um Louvolin poderia alcançar.
+
+Mas também ensinam algo que torna essa afirmação estranha:
+
+aquele que busca tornar-se o Lotus provavelmente ainda não está pronto para sê-lo.`;
+const descricaoLouvolinReiDiabo = `O Louvolin-rei-diabo é tido como um mito entre os insetos. Diz a lenda que um grande mestre Louvolin alcançou um nível de capacidade adaptativa em combate tão extraordinário que passou a acreditar que absolutamente nada poderia derrotá-lo.
+
+Convencido de suas habilidades, iniciou uma jornada desafiando os insetos mais poderosos que encontrava e derrotando cada um deles. Esse período de sua história ficou conhecido como A Provação, quando aperfeiçoou a técnica das Mil Respostas, capaz de adaptar seu estilo de combate a qualquer adversário ou situação. Foi durante esses desafios que recebeu o título de Rei-diabo.
+
+A segunda parte da lenda começa com seu encontro com um misterioso inseto voador chamado Barbu-lei, que o alertou de que, apesar de todas as suas vitórias, ainda havia algo que inevitavelmente o derrotaria: o tempo. O Rei-diabo então iniciou uma longa jornada em busca de superar a própria mortalidade e, segundo o mito, conseguiu tornar-se imortal.
+
+O último grande episódio de sua história é seu encontro com o Louvolin-lotus. Certo de que não havia mais nada que pudesse superá-lo, o Rei-diabo desafiou o grande mestre e terminou derrotado, aprisionado sob as raízes de uma planta.
+
+Permaneceu ali durante anos, incapaz de escapar e também incapaz de morrer. Foi durante esse longo aprisionamento que compreendeu a lição do Lotus sobre o verdadeiro problema de sua imortalidade e abandonou a arrogância que havia guiado sua jornada. Um dia, finalmente foi libertado.
+
+A história do Rei-diabo é tratada principalmente como uma antiga narrativa lendária entre os insetos que não pertencem aos Louvolins. Ainda assim, de tempos em tempos surgem relatos sobre uma criatura imponente, de aparência incomum e olhos vermelhos, avistada em diferentes lugares.
+
+Segundo essas histórias, o Rei-diabo ainda vaga pelo mundo.
+
+Mas aquele que antes procurava os mais fortes apenas para provar que poderia derrotá-los agora aparece diante de grandes injustiças, luta por aqueles que não poderiam vencê-las sozinhos e desaparece novamente.
+
+Se os relatos forem verdadeiros, talvez sua maior jornada tenha começado somente depois que sua lenda terminou.`;
+const descricaoLouvolinMilEspinhos = `A história do Louvolin-mil-espinhos é contada e recontada há muito tempo nas aldeias dos percevejos.
+
+Dizem que ele evita qualquer contato com outros insetos e prefere permanecer completamente sozinho, como se soubesse que sua simples proximidade representa um perigo, mesmo quando não possui intenção alguma de ferir.
+
+Quando alguém insiste em se aproximar, o Louvolin-mil-espinhos abre suas enormes asas e revela toda a sua aparência.
+
+Normalmente, isso basta.
+
+As cores intensas de seu exoesqueleto anunciam o perigo antes mesmo que seja necessário demonstrá-lo. Seu corpo inteiro é coberto por espinhos venenosos, enquanto as extremidades de suas garras desenvolveram ferrões impressionantes, estruturas que dificilmente seriam associadas a um Louvolin comum.
+
+Com as asas abertas e os grandes olhos estampados sobre elas encarando quem se aproxima, até os insetos mais corajosos costumam entender o aviso e recuar.
+
+Mas a história que tornou o Louvolin-mil-espinhos uma lenda começou durante os constantes ataques das Moshinobis às aldeias dos percevejos.
+
+Durante dias, elas surgiam repentinamente, saqueavam as aldeias e desapareciam antes que qualquer resistência organizada pudesse alcançá-las. Sua velocidade tornava praticamente impossível enfrentá-las.
+
+Até que, durante mais um ataque, algo diferente apareceu sobre os galhos.
+
+Um Louvolin observava as invasoras com suas enormes asas abertas.
+
+Era o Mil-Espinhos.
+
+Confiantes em sua velocidade e superioridade numérica, as Moshinobis decidiram atacá-lo juntas.
+
+Foi um erro.
+
+Diante da velocidade impressionante das Moshinobis, o Louvolin-mil-espinhos parecia quase desdenhoso. Esquivava-se e derrubava uma após a outra como se enfrentasse adversários comuns. Mesmo quando alguma conseguia se aproximar o suficiente para tocá-lo, descobria que isso também fazia parte de sua defesa: o simples contato com os espinhos de seu exoesqueleto podia causar um envenenamento letal.
+
+Logo, aquilo que deveria ser um ataque coordenado transformou-se em uma fuga generalizada.
+
+Foi então que os percevejos testemunharam a técnica que daria nome àquela criatura.
+
+O Louvolin girou violentamente o próprio corpo. Durante o movimento, cortou parte dos espinhos que cobriam seu exoesqueleto e os lançou em todas as direções.
+
+Os espinhos atravessaram o ar.
+
+Uma Moshinobi caiu.
+
+Depois outra.
+
+E outra.
+
+Em poucos instantes, as invasoras que fugiam começaram a cair em uma sequência quase perfeitamente sincronizada.
+
+Os percevejos chamaram aquela técnica de Giro dos Mil Espinhos.
+
+E o mestre que a executou passou a ser conhecido nas histórias de suas aldeias como Louvolin-mil-espinhos.
+
+Quando os habitantes finalmente tiveram coragem de sair de seus abrigos para agradecer ao estranho que os havia protegido, encontraram apenas as Moshinobis derrotadas.
+
+O Louvolin-mil-espinhos já havia desaparecido.`;
+const descricaoLouvolinSemFace = `Tudo o que se sabe sobre o Louvolin-sem-face começa com um problema:
+
+ele pode ser qualquer um.
+
+Dizem que esse misterioso Louvolin é capaz de trocar seu exoesqueleto com extraordinária facilidade e, em pouco tempo, surgir com a aparência de um inseto completamente diferente.
+
+Não se trata apenas de uma transformação visual. O Sem-Face parece compreender a comunicação, os comportamentos e até pequenos hábitos das criaturas que imita. Pode caminhar entre Formilitares como se sempre tivesse pertencido ao formigueiro, surgir entre Vespaleiros sem despertar suspeitas ou até apresentar-se como um Louvolin comum.
+
+Ninguém sabe ao certo como consegue fazer isso com tamanha naturalidade.
+
+Talvez porque, para o Sem-Face, já não exista uma identidade verdadeira para esconder.
+
+Sua misteriosa capacidade de transformação é conhecida nos relatos como Troca-Casca.
+
+Um Sem-Face pode entrar em determinado lugar como um Vespaleiro, eliminar silenciosamente um grupo de inimigos e abandoná-lo com a aparência de uma Aracromante. Quando aqueles que sobreviveram tentam reconstruir o ocorrido, as descrições parecem pertencer a criaturas completamente diferentes.
+
+Somente durante o combate sua verdadeira natureza parece revelar-se.
+
+Por alguns instantes, seus movimentos deixam de pertencer à criatura que está imitando. A postura muda. O corpo assume aquela precisão característica dos grandes artistas marciais Louvolins e seus braços raptoriais entram em ação.
+
+É então que surge a sensação mais perturbadora relatada por aqueles que afirmam tê-lo visto:
+
+os braços sempre estiveram ali.
+
+Ninguém simplesmente havia percebido.
+
+Algumas histórias descrevem um Sem-Face com asas. Outras juram que ele não possuía nenhuma. Há relatos de indivíduos enormes e ameaçadores, enquanto outros falam de criaturas pequenas que poderiam passar despercebidas em uma multidão.
+
+Talvez todos estejam certos.
+
+Talvez nenhum esteja.
+
+Os relatos envolvendo o Louvolin-sem-face tornaram-se tão numerosos que sua própria fama passou a alimentar a descrença em sua existência. Sempre que ocorre algum acontecimento extraordinário cuja explicação parece impossível, não demora para alguém afirmar que aquela criatura era, na verdade, o Sem-Face.
+
+Um general que inexplicavelmente abandonou uma batalha.
+
+Um estranho que apareceu em uma aldeia pouco antes de algum acontecimento importante.
+
+Um guerreiro desconhecido que desapareceu depois de derrotar dezenas de inimigos.
+
+Uma criatura que alguém conhecia havia anos e que, certo dia, simplesmente nunca mais foi vista.
+
+Sempre existe alguém disposto a dizer:
+
+"Era ele."
+
+E talvez seja justamente por isso que ninguém consiga descobrir o objetivo do Louvolin-sem-face.
+
+Depois que tudo termina, procurar pelo responsável já não adianta.
+
+Ele já é outra coisa.`;
 
 const descricaoRoninfa = `Roninfa viaja solitário em busca de alimento e aperfeiçoamento. Quando encontra o galho perfeito, ele o refina cuidadosamente até transformá-lo em sua espada de treinamento.
 
@@ -1523,23 +1919,149 @@ export const insetos: Inseto[] = [
     estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['louva-deus'],
-    evolucoes: [{ insetoId: 'parazeus', tipo: 'ramificada' }, { insetoId: 'louvomestre', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'louvolingarra', tipo: 'ramificada' }, { insetoId: 'louvolinbranco', tipo: 'ramificada' }, { insetoId: 'louvolinescama', tipo: 'ramificada' }, { insetoId: 'louvolinferrao', tipo: 'ramificada' }, { insetoId: 'louvolinmimico', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'totzen', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
-    id: 'louvomestre',
-    nome: '???',
-    nomeIngles: '',
-    imagem: '/images/louva-deus/louvomestre.png',
-    descricao: descricaoPendente,
+    id: 'louvolingarra',
+    nome: 'Louvolin-Garra',
+    nomeIngles: 'Claw Mantolin',
+    imagem: '/images/louva-deus/louvolinGarra.png',
+    descricao: descricaoLouvolinGarra,
     linhagem: 'louva-deus',
     estagio: 'forma especial',
     ...dadosPendentes,
     tags: ['louva-deus'],
-    evolucoes: [],
+    evolucoes: [{ insetoId: 'louvolinfantasma', tipo: 'lendaria' }],
     evolucaoDe: [{ insetoId: 'louvolin', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'louvolinbranco',
+    nome: 'Louvolin-Branco',
+    nomeIngles: 'White Mantolin',
+    imagem: '/images/louva-deus/louvolinBranco.png',
+    descricao: descricaoLouvolinBranco,
+    linhagem: 'louva-deus',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [{ insetoId: 'louvolinlotus', tipo: 'lendaria' }],
+    evolucaoDe: [{ insetoId: 'louvolin', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'louvolinescama',
+    nome: 'Louvolin-Escama',
+    nomeIngles: 'Scaled Mantolin',
+    imagem: '/images/louva-deus/louvolinEscama.png',
+    descricao: descricaoLouvolinEscama,
+    linhagem: 'louva-deus',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [{ insetoId: 'louvolinreidiabo', tipo: 'lendaria' }],
+    evolucaoDe: [{ insetoId: 'louvolin', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'louvolinferrao',
+    nome: 'Louvolin-Ferrão',
+    nomeIngles: 'Sting Mantolin',
+    imagem: '/images/louva-deus/louvolinFerrao.png',
+    descricao: descricaoLouvolinFerrao,
+    linhagem: 'louva-deus',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [{ insetoId: 'louvolinmilespinhos', tipo: 'lendaria' }],
+    evolucaoDe: [{ insetoId: 'louvolin', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'louvolinmimico',
+    nome: 'Louvolin-Mímico',
+    nomeIngles: 'Mimic Mantolin',
+    imagem: '/images/louva-deus/louvolinMimico.png',
+    descricao: descricaoLouvolinMimico,
+    linhagem: 'louva-deus',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [{ insetoId: 'louvolinsemface', tipo: 'lendaria' }],
+    evolucaoDe: [{ insetoId: 'louvolin', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'louvolinfantasma',
+    nome: 'Louvolin-Fantasma',
+    nomeIngles: 'Phantom Mantolin',
+    imagem: '/images/louva-deus/louvolinFantasma.png',
+    descricao: descricaoLouvolinFantasma,
+    linhagem: 'louva-deus',
+    estagio: 'forma lendaria',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'louvolin-garra', tipo: 'ramificada' }],
+    tipoEvolucao: 'lendaria',
+  },
+  {
+    id: 'louvolinlotus',
+    nome: 'Louvolin-Lótus',
+    nomeIngles: 'Lotus Mantolin',
+    imagem: '/images/louva-deus/louvolinLotus.png',
+    descricao: descricaoLouvolinLotus,
+    linhagem: 'louva-deus',
+    estagio: 'forma lendaria',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'louvolin-branco', tipo: 'ramificada' }],
+    tipoEvolucao: 'lendaria',
+  },
+  {
+    id: 'louvolinreidiabo',
+    nome: 'Louvolin-Rei-Diabo',
+    nomeIngles: 'Devil-King Mantolin',
+    imagem: '/images/louva-deus/louvolinReiDiabo.png',
+    descricao: descricaoLouvolinReiDiabo,
+    linhagem: 'louva-deus',
+    estagio: 'forma lendaria',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'louvolin-escama', tipo: 'ramificada' }],
+    tipoEvolucao: 'lendaria',
+  },
+  {
+    id: 'louvolinmilespinhos',
+    nome: 'Louvolin-Mil-Espinhos',
+    nomeIngles: 'Thousand-Thorn Mantolin',
+    imagem: '/images/louva-deus/louvolinMilEspinhos.png',
+    descricao: descricaoLouvolinMilEspinhos,
+    linhagem: 'louva-deus',
+    estagio: 'forma lendaria',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'louvolin-ferrao', tipo: 'ramificada' }],
+    tipoEvolucao: 'lendaria',
+  },
+  {
+    id: 'louvolinsemface',
+    nome: 'Louvolin-Sem-Face',
+    nomeIngles: 'Faceless Mantolin',
+    imagem: '/images/louva-deus/louvolinSemFace.png',
+    descricao: descricaoLouvolinSemFace,
+    linhagem: 'louva-deus',
+    estagio: 'forma lendaria',
+    ...dadosPendentes,
+    tags: ['louva-deus'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'louvolin-mimico', tipo: 'ramificada' }],
+    tipoEvolucao: 'lendaria',
   },
   {
     id: 'parazeus',
@@ -2000,3 +2522,4 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
 ]
+

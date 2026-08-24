@@ -176,7 +176,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoLouvaDeus,
     imagemCapa: '/images/louva-deus/capa.png',
     tema: '#568c45',
-    criaturas: ['totzen', 'louvolin', 'parazeus', 'louvomestre'],
+    criaturas: ['totzen', 'louvolin', 'parazeus', 'louvolingarra', 'louvolinbranco', 'louvolinescama', 'louvolinferrao', 'louvolinmimico', 'louvolinfantasma', 'louvolinlotus', 'louvolinreidiabo', 'louvolinmilespinhos', 'louvolinsemface'],
   },
   {
     id: 'besouros',
