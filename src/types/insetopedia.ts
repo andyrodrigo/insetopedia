@@ -68,6 +68,12 @@ export interface Linhagem {
   criaturas: InsetoId[]
 }
 
+export interface ItemGaleria {
+  imagem: string
+  titulo: string
+  descricao: string
+}
+
 export interface BreadcrumbItem {
   label: string
   to?: string

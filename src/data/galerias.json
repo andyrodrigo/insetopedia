@@ -1,0 +1,67 @@
+{
+  "formigas": [
+    { "imagem": "/images/formigas/capa2.png", "titulo": "Crônicas das Trincheiras", "descricao": "Estudo visual das colônias fortificadas das Formilitares." },
+    { "imagem": "/images/formigas/formicoptero.png", "titulo": "Vigilância aérea", "descricao": "Um Formicóptero em missão acima das entradas da colônia." }
+  ],
+  "baratas": [
+    { "imagem": "/images/baratas/capa.png", "titulo": "Refúgios Baratunos", "descricao": "Uma visão dos esconderijos improvisados das facções." },
+    { "imagem": "/images/baratas/oyaburata2.png", "titulo": "Autoridade da facção", "descricao": "Registro de um Oyaburata em seu território." }
+  ],
+  "abelhas": [
+    { "imagem": "/images/abelhas/capa.png", "titulo": "A vida da colmeia", "descricao": "Painel de observação do trabalho coletivo das Abelárias." },
+    { "imagem": "/images/abelhas/conceito002.png", "titulo": "Dia 1 na mina", "descricao": "" },
+    { "imagem": "/images/abelhas/conceito001.png", "titulo": "Dia 2 na mina", "descricao": "" },
+    { "imagem": "/images/abelhas/supremabelha.png", "titulo": "No coração da colmeia", "descricao": "Uma Supremabelha entre as estruturas da comunidade." }
+  ],
+  "cupins": [
+    { "imagem": "/images/cupins/capa.png", "titulo": "A Grande Árvore", "descricao": "O cupinzeiro se organiza em torno da árvore sagrada." },
+    { "imagem": "/images/cupins/cupinguari3.png", "titulo": "Guardião da mata", "descricao": "" },
+    { "imagem": "/images/cupins/conceito001.png", "titulo": "Kupinguari", "descricao": "" }
+  ],
+  "vespas": [
+    { "imagem": "/images/vespas/capa.png", "titulo": "Fortaleza de barro", "descricao": "Dia de torneio" },
+    { "imagem": "/images/vespas/conceito001.png", "titulo": "Estudo de conceito", "descricao": "Inimigos mortais" }
+  ],
+  "carrapatos": [
+    { "imagem": "/images/carrapatos/capa.png", "titulo": "Território de emboscada", "descricao": "O ambiente aparentemente vazio que esconde uma tribo de Carrapatos." },
+    { "imagem": "/images/carrapatos/carrabrigo.png", "titulo": "Abrigo vivo", "descricao": "Um Carrabrigo serve de proteção e morada para a tribo." },
+    { "imagem": "/images/carrapatos/conceito001.png", "titulo": "Emboscada", "descricao": "" }
+  ],
+  "pulgas": [
+    { "imagem": "/images/pulgas/capa.png", "titulo": "Palco itinerante", "descricao": "A chegada de uma trupe Saltimbulga a uma nova comunidade." },
+    { "imagem": "/images/pulgas/abracabulga.png", "titulo": "O último número", "descricao": "Registro de uma apresentação de ilusionismo Abracabulga." }
+  ],
+  "mosquitos": [
+    { "imagem": "/images/mosquitos/capa.png", "titulo": "Águas paradas", "descricao": "O ponto de origem do ciclo de vida dos Mosferatus." },
+    { "imagem": "/images/mosquitos/mosferatu.png", "titulo": "Após o anoitecer", "descricao": "Um Mosferatu deixa as margens em busca de alimento." }
+  ],
+  "gafanhotos": [
+    { "imagem": "/images/gafanhotos/capa.png", "titulo": "Travessia das dunas", "descricao": "Beduinhotos avançam pelas extensões do deserto." },
+    { "imagem": "/images/gafanhotos/gafindin.png", "titulo": "A rara revoada", "descricao": "Um Gafindin, visão extraordinária para os viajantes." }
+  ],
+  "moscas": [
+    { "imagem": "/images/moscas/capa.png", "titulo": "O movimento do enxame", "descricao": "Moshinobis surgem e desaparecem antes que possam ser contidos." },
+    { "imagem": "/images/moscas/shogulo.png", "titulo": "Guerreiro do enxame", "descricao": "Registro visual de um Shogulo em deslocamento." }
+  ],
+  "louva-deus": [
+    { "imagem": "/images/louva-deus/capa.png", "titulo": "Templo entre troncos", "descricao": "Uma comunidade Louvolin em seu espaço de contemplação." },
+    { "imagem": "/images/louva-deus/conceito01.png", "titulo": "Os cinco estilos", "descricao": "" },
+    { "imagem": "/images/louva-deus/conceito002.png", "titulo": "Luta Lendária", "descricao": "" }
+  ],
+  "besouros": [
+    { "imagem": "/images/besouros/capa.png", "titulo": "Jornada solitária", "descricao": "Um registro das longas viagens dos Kabutouros." },
+    { "imagem": "/images/besouros/kabutouro.png", "titulo": "Armadura de viagem", "descricao": "Detalhe de um Kabutouro durante sua travessia." },
+    { "imagem": "/images/besouros/conceito001.png", "titulo": "Confronto", "descricao": "" }
+  ],
+  "aranhas": [
+    { "imagem": "/images/aranhas/capa.png", "titulo": "Entre teias e rituais", "descricao": "Visão de um Coven protegido por seus próprios caminhos." },
+    { "imagem": "/images/aranhas/barantula.png", "titulo": "A voz do Coven", "descricao": "Uma Barântula, guardiã de memórias e tradições." },
+    { "imagem": "/images/aranhas/conceito001.png", "titulo": "Encruzilhada", "descricao": "" }
+  ],
+  "escorpioes": [
+    { "imagem": "/images/escorpioes/conceito002.png", "titulo": "Abrigo subterrâneo", "descricao": "A paisagem isolada que abriga os Escorpimônios." },
+    { "imagem": "/images/escorpioes/conceito001.png", "titulo": "Abrigo encontrado", "descricao": "" },
+    { "imagem": "/images/escorpioes/capa.png", "titulo": "Maternidade", "descricao": "" },
+    { "imagem": "/images/escorpioes/conceito003.png", "titulo": "O ataque de um Escorzebu", "descricao": "" }
+  ]
+}

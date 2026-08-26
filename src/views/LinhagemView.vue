@@ -5,6 +5,7 @@ import Breadcrumb from '../components/Breadcrumb.vue'
 import EvolutionTree from '../components/EvolutionTree.vue'
 import InsetoCard from '../components/InsetoCard.vue'
 import InsetoImage from '../components/InsetoImage.vue'
+import LinhagemTabs from '../components/LinhagemTabs.vue'
 import {
   buscarLinhagemPorId,
   listarInsetosDaLinhagem,
@@ -40,6 +41,8 @@ const arvoreEvolutiva = computed(() => (linhagem.value ? montarArvoreEvolutiva(l
         <InsetoImage :src="linhagem.imagemCapa" :alt="linhagem.nome" aspect-ratio="4 / 3" />
       </div>
     </article>
+
+    <LinhagemTabs :linhagem="linhagem" />
 
     <EvolutionTree :linhagem="linhagem" :nodes="arvoreEvolutiva" />
 

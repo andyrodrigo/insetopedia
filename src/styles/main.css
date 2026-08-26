@@ -782,6 +782,112 @@ h3 {
   gap: clamp(1.25rem, 4vw, 2rem);
 }
 
+.lineage-tabs {
+  display: flex;
+  width: fit-content;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  background: rgba(255, 251, 240, 0.62);
+  padding: 0.28rem;
+}
+
+.lineage-tabs a {
+  border-radius: 999px;
+  color: var(--muted);
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 800;
+  padding: 0.5rem 0.9rem;
+  text-decoration: none;
+  transition: background 180ms ease, color 180ms ease, box-shadow 180ms ease;
+}
+
+.lineage-tabs a:hover {
+  color: var(--green);
+}
+
+.lineage-tabs .lineage-tabs__link--active {
+  background: color-mix(in srgb, var(--linhagem-theme), var(--paper-light) 78%);
+  color: color-mix(in srgb, var(--linhagem-theme), var(--ink) 58%);
+  box-shadow: 0 2px 7px rgba(45, 31, 18, 0.12);
+}
+
+.gallery-page {
+  gap: clamp(1.25rem, 4vw, 2rem);
+}
+
+.gallery-heading {
+  display: grid;
+  gap: 0.5rem;
+  max-width: 50rem;
+  border-left: 7px double color-mix(in srgb, var(--linhagem-theme), var(--gold) 32%);
+  padding: clamp(0.75rem, 3vw, 1.25rem);
+}
+
+.gallery-heading h1 {
+  color: color-mix(in srgb, var(--linhagem-theme), var(--ink) 56%);
+  font-size: clamp(2.5rem, 7vw, 5rem);
+}
+
+.gallery-heading > p:last-child {
+  color: var(--ink-soft);
+  font-size: 1.08rem;
+  line-height: 1.65;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
+  gap: clamp(1rem, 3vw, 1.75rem);
+}
+
+.gallery-plate {
+  display: grid;
+  overflow: hidden;
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  background: rgba(255, 251, 240, 0.7);
+  box-shadow: var(--shadow-soft);
+  margin: 0;
+  padding: 0.5rem;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.gallery-plate:hover {
+  box-shadow: 0 20px 42px rgba(45, 31, 18, 0.18);
+  transform: translateY(-3px);
+}
+
+.gallery-plate .inseto-image {
+  border: 1px solid color-mix(in srgb, var(--linhagem-theme), var(--line-strong) 58%);
+  border-radius: 4px;
+}
+
+.gallery-plate figcaption {
+  display: grid;
+  gap: 0.45rem;
+  padding: 1rem 0.5rem 0.55rem;
+}
+
+.gallery-plate__number {
+  color: var(--brown);
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.gallery-plate h2 {
+  color: color-mix(in srgb, var(--linhagem-theme), var(--ink) 58%);
+  font-size: 1.45rem;
+}
+
+.gallery-plate p {
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
 .specimen-page {
   gap: clamp(1.25rem, 4vw, 2rem);
 }
