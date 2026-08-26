@@ -8,6 +8,16 @@
   </head>
   <body>
     <div id="app"></div>
+    <script>
+      // Restaura a rota que o 404.html do GitHub Pages redireciona para cá.
+      ;(function () {
+        const redirectedPath = new URLSearchParams(window.location.search).get('p')
+
+        if (redirectedPath) {
+          window.history.replaceState(null, '', redirectedPath + window.location.hash)
+        }
+      })()
+    </script>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

@@ -4,7 +4,8 @@ import InsetoView from '../views/InsetoView.vue'
 import LinhagemView from '../views/LinhagemView.vue'
 
 export const router = createRouter({
-  history: createWebHistory(),
+  // Mantém o prefixo configurado pelo Vite ("/insetopedia/" no GitHub Pages).
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',

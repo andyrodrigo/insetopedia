@@ -126,7 +126,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'carrapatos',
-    nome: 'Mascapatos',
+    nome: 'Carrapatos',
     insetoBase: 'carribal',
     descricao: descricaoCarrapatos,
     imagemCapa: '/images/carrapatos/capa.png',

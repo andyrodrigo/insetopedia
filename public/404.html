@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecionando…</title>
+    <script>
+      // O GitHub Pages entrega este arquivo para rotas que não são arquivos.
+      // Reencaminha a URL para o app, que a restaura antes do Vue Router iniciar.
+      ;(function () {
+        const base = '/insetopedia'
+        const path = window.location.pathname.startsWith(base)
+          ? window.location.pathname.slice(base.length) || '/'
+          : window.location.pathname
+        const destination = base + '/?p=' + encodeURIComponent(path) + window.location.hash
+
+        window.location.replace(destination)
+      })()
+    </script>
+  </head>
+  <body></body>
+</html>
