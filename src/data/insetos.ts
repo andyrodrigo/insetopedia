@@ -1456,6 +1456,66 @@ Naturalmente, quase nenhum inseto tem coragem de se aproximar o bastante para de
 
 E talvez seja melhor assim. Timidez e fome são coisas completamente diferentes.`;
 
+const descricaoLagracia = `Lagrácias nascem em pequenos grupos e passam sua curta infância sendo instruídas sobre a missão que deverão cumprir: espalhar a Palavra da Vida entre os outros insetos. Quando estão prontas, partem geralmente em duplas e seguem pelo mundo, visitando comunidades, povoados e até abrigos isolados para transmitir seus ensinamentos.
+
+Durante suas viagens, podem permanecer bastante tempo em uma mesma comunidade. Falam sobre a maneira correta de viver, aconselham aqueles que encontram e contam histórias sobre a Terra das Flores Douradas e a Grande Transformação que um dia as aguarda. Em alguns lugares, são recebidas com carinho e consideradas criaturas adoráveis e dignas de admiração.
+
+Em outros, nem tanto.
+
+Há quem considere as Lagrácias inconvenientes, insistentes e julgadoras. Alguns reclamam que elas comem demais, falam demais e fazem de menos. Mesmo quando percebem que sua presença não é particularmente desejada, uma Lagrácia pode interpretar a hostilidade como mais um motivo para permanecer e tentar ajudar.
+
+Por natureza, Lagrácias são lentas, tranquilas e completamente avessas à violência. Passam grande parte do tempo comendo, conversando e oferecendo conselhos, mas possuem pouca ou nenhuma capacidade de se defender. Sua aparência chamativa, somada a uma confiança quase inesgotável nas boas intenções dos outros, faz delas alvos fáceis para predadores e insetos mal-intencionados.
+
+Por isso, muitas jamais concluem sua missão.
+
+Uma Lagrácia pode entrar despreocupadamente em território de Aracromantes ou aproximar-se do abrigo de um Escormônio acreditando sinceramente que encontrou uma nova oportunidade para espalhar a Palavra da Vida. Para elas, nenhum inseto está além de uma boa conversa.
+
+Essa convicção, infelizmente, nem sempre é compartilhada pelo inseto que está ouvindo.`;
+const descricaoCrisanto = `Lagrácias acreditam piamente que todo inseto é capaz de passar pela Grande Transformação. Segundo a Palavra da Vida, ela pode ser alcançada por meio de boas ações, comportamento ilibado, alimentação exclusivamente vegetal e uma longa série de regras que, para a maioria dos insetos, não são nada fáceis de cumprir.
+
+Aqueles que seguirem corretamente esses ensinamentos um dia entrariam em sua própria crisálida dourada e, após a transformação, emergiriam com o exoesqueleto completamente modificado e dotados de asas. Somente então seriam capazes de partir em busca da lendária Terra das Flores Douradas.
+
+Para a enorme maioria dos insetos, naturalmente, isso jamais acontece.
+
+Com as Lagrácias, porém, acontece exatamente assim.
+
+Ao chegar o momento de sua metamorfose, uma Lagrácia transforma-se em um Crisanto, uma bela crisálida dourada cuja aparência lembra uma pequena figura sagrada. Presenciar a formação de um Crisanto pode ser uma experiência marcante, principalmente para aqueles que passaram muito tempo ouvindo uma Lagrácia falar sobre a Grande Transformação e agora a veem acontecer diante dos próprios olhos.
+
+Por isso, algumas comunidades guardam Crisantos em seus abrigos e os protegem cuidadosamente, ansiosas pelo momento em que a transformação finalmente estará completa. Há até insetos que fazem pedidos e orações diante deles, acreditando que a criatura que um dia emergirá dali poderá atendê-los.
+
+Curiosamente, os Crisantos parecem ouvir.
+
+Quando alguém fala diante deles, um brilho dourado pode surgir na região de sua superfície que lembra um rosto. O fenômeno costuma ser interpretado como uma resposta positiva às preces. Alguns afirmam, inclusive, que o brilho só aparece diante daqueles que vivem de acordo com as regras da Palavra da Vida.
+
+Ninguém sabe ao certo.
+
+Um Crisanto pode permanecer imóvel durante meses ou até mesmo anos, pois a Grande Transformação não possui duração determinada. Durante todo esse período, é completamente indefeso e precisa ser protegido. Sem alguém que zele por ele, a espera pela transformação pode terminar de maneira muito menos gloriosa: Crisantos continuam sendo alimento para muitos predadores.`;
+const descricaoSerafleta = `Serafletas são criaturas migratórias, mas seus destinos parecem seguir uma regra bastante peculiar: elas só pousam em lugares que já prosperaram.
+
+Pequenos bandos de Serafletas surgem ocasionalmente sobre comunidades organizadas, férteis e saudáveis, onde sua chegada é recebida como um sinal de prosperidade. Para muitos insetos, poucas coisas demonstram tão claramente que uma comunidade encontrou um bom caminho quanto avistar suas enormes asas brancas se aproximando no horizonte.
+
+Ao contrário das Lagrácias, Serafletas não se limitam a espalhar a Palavra da Vida por meio de discursos e conselhos. Durante o período em que permanecem em uma comunidade, trabalham ativamente para melhorá-la. Ajudam em tarefas coletivas, oferecem ensinamentos, fazem vigilância aérea e auxiliam os habitantes sempre que podem. Sua presença também torna o ambiente progressivamente mais fértil e belo, favorecendo o crescimento da vegetação e, principalmente, das flores.
+
+Sua aparência agradável, suas palavras doces e, sobretudo, sua disposição genuína para ajudar fazem com que sejam amadas pela maioria dos insetos que convivem com elas. Mesmo espécies pouco interessadas na Palavra da Vida costumam receber Serafletas de braços abertos.
+
+Entretanto, nem todos as admiram.
+
+Serafletas jamais parecem visitar comunidades que realmente necessitam de sua ajuda. Povoados miseráveis, territórios devastados, comunidades em guerra ou lugares que simplesmente não conseguiram prosperar por conta própria são ignorados durante suas migrações. Elas podem sobrevoar regiões inteiras em dificuldade sem demonstrar qualquer intenção de pousar.
+
+Nem mesmo a existência de uma ligação anterior parece fazer diferença. Uma comunidade que tenha acolhido Lagrácias, alimentado suas missionárias ou até protegido um Crisanto durante anos não possui qualquer garantia de receber uma Serafleta no futuro. Se o lugar não estiver próspero quando o bando passar, elas simplesmente seguem viagem.
+
+Por isso, alguns insetos enxergam uma profunda hipocrisia na maneira como vivem. As Lagrácias ensinam que a Palavra da Vida deve ser levada a todos e frequentemente arriscam a própria vida tentando alcançar aqueles que mais precisam ouvi-la. As Serafletas, por outro lado, possuem asas, força e capacidade para realizar muito mais — mas oferecem sua ajuda justamente àqueles que já aprenderam a viver sem ela.
+
+As próprias Serafletas não parecem incomodadas com essa contradição. Permanecem gentis e benevolentes, ajudam sinceramente enquanto estão presentes e, quando chega o momento, partem novamente com seu bando.
+
+Quando perguntadas para onde estão indo, a resposta é sempre a mesma:
+
+“Estamos migrando a caminho da Terra das Flores Douradas.”
+
+As Lagrácias passam a infância inteira falando sobre esse lugar. As Serafletas passam a vida inteira afirmando estar a caminho dele.
+
+Até hoje, porém, nenhum outro inseto jamais encontrou a Terra das Flores Douradas.`;
+
 const dadosPendentes = {
   caracteristicas: [] as string[],
   habitat: [] as string[],
@@ -2519,6 +2579,46 @@ export const insetos: Inseto[] = [
     tags: ['escorpioes'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'escormonio', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'lagracia',
+    nome: 'Lagrácia',
+    nomeIngles: 'Catergrace',
+    imagem: '/images/borboletas/lagracia.png',
+    descricao: descricaoLagracia,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'crisanto', tipo: 'linear' }],
+  },
+  {
+    id: 'crisanto',
+    nome: 'Crisanto',
+    nomeIngles: 'Chrysant',
+    imagem: '/images/borboletas/crisanto.png',
+    descricao: descricaoCrisanto,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'serafleta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'lagracia', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'serafleta',
+    nome: 'Serafleta',
+    nomeIngles: 'Seraphly',
+    imagem: '/images/borboletas/serafleta.png',
+    descricao: descricaoSerafleta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'crisanto', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
 ]
