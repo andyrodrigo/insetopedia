@@ -11,7 +11,6 @@ Quando todas as outras opções falham, o Granovo pode recorrer ao seu último r
 Porém, os Granovos mais desenvolvidos possuem uma característica ainda mais peculiar. Quando estão próximos de completar sua transformação, sua casca começa a se tornar progressivamente mais fina. Nesse estágio, são arremessados contra as linhas inimigas como de costume. Ao atingir o alvo, a casca se rompe violentamente — mas, em vez de uma explosão, dela emerge uma Formilitar completamente desenvolvida, pronta para continuar o ataque.
 
 Assim, para o exército das formigas, um Granovo não é apenas uma arma: é também um soldado em formação, aguardando o momento certo para nascer no campo de batalha.`;
-
 const descricaoFormilitar = `À primeira vista, as Formilitares podem parecer pequenas e pouco letais. Não possuem ferrões, garras ou outras armas naturais aparentes, e seu corpo não parece especialmente preparado para o combate. Essa impressão, porém, é enganosa.
 
 As Formilitares possuem uma força muito maior do que seu tamanho sugere. São capazes de erguer e arremessar objetos várias vezes maiores que elas e podem até lançar inimigos de tamanho consideravelmente superior. Uma Formilitar sozinha já é capaz de surpreender pela força, mas seu verdadeiro poder está em outro lugar.
@@ -29,7 +28,6 @@ quanto maior o exército, maior o poder.
 Uma Formilitar pode ser pequena. Uma dúzia pode ser perigosa. Centenas podem dominar um campo de batalha.
 
 E quando milhares marcham juntas, torna-se difícil dizer onde termina uma Formilitar e começa o exército.`;
-
 const descricaoFormajor = `As Formilitares são conhecidas por sua força fora do comum, mas algumas demonstram capacidades excepcionais mesmo para os padrões da colônia. Quando uma Formilitar combina força extraordinária, coragem em combate e talento natural para liderança, ela pode se desenvolver em uma Formajor.
 
 Formajores ocupam as altas patentes militares da colônia. Lideram tropas, coordenam formações e frequentemente carregam consigo histórias que as transformaram em verdadeiros heróis de guerra. Sua aparência acompanha sua função: possuem estatura maior, quatro braços extremamente fortes e uma cabeça desproporcionalmente grande, cuja carapaça lembra um enorme e exagerado capacete.
@@ -39,33 +37,19 @@ Mesmo entre as Formajores existem diferentes patentes. Marcas naturais em seus e
 As Formajores de maior força física podem eventualmente desenvolver-se em Formitanques, tornando-se algumas das criaturas mais poderosas da colônia. Existe, porém, outro caminho reservado àquelas cujo maior talento está dentro de seu enorme cabeção. Uma Formajor de capacidade estratégica excepcional permanece nessa forma e recebe a mais alta patente militar existente: Formidante da Guerra.
 
 Apenas uma ocupa esse título, assumindo o comando de todo o exército da colônia. Afinal, nem todo grande cabeção precisa servir apenas para sustentar um capacete enorme.`;
-
 const descricaoFormiloto = `Algumas Formilitares demonstram um talento natural para compreender o movimento das tropas. São mais rápidas que as demais, percebem melhor o que acontece ao seu redor e instintivamente procuram lugares altos para observar a aproximação de inimigos. Por isso, costumam ocupar posições estratégicas dentro do exército, viajando sobre Formitanques ou sendo transportadas por Formicópteros até pontos de vantagem no campo de batalha.
-
 Ao se desenvolverem, tornam-se Formilotos. Suas asas permitem percorrer rapidamente grandes zonas de guerra, observar o movimento inimigo e realizar ataques aéreos quando necessário. Seus olhos funcionam como binóculos naturais, permitindo enxergar a grandes distâncias, enquanto suas antenas são capazes de transmitir sinais de longo alcance para coordenar tropas mesmo enquanto sobrevoam o campo de batalha.
-
 Formilotos são especialmente eficientes em reconhecimento e preparação de ofensivas. Algumas colônias mais experientes aprenderam a reconhecer um sinal particularmente preocupante: em dias de chuva, pequenas silhuetas de Formilotos podem ser vistas sobrevoando seus territórios, parcialmente escondidas pela neblina e pelas nuvens baixas.
-
 Quando isso acontece, dificilmente estão apenas de passagem. Estão observando.
-
 E quando a chuva cessa, geralmente o exército que elas estavam esperando também chega.`;
-
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
-
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
-
 No campo de batalha, a Formitanque também exerce uma importante função de comando. Sua antena é capaz de emitir sinais de alerta que percorrem as tropas, indicando mudanças na formação, reorganizando as fileiras e coordenando complexas armadilhas de guerra. Quando uma Formitanque altera sua posição, dezenas ou até centenas de Formilitares podem mudar de estratégia em resposta aos seus sinais.
-
 Seu exoesqueleto possui espaços internos adaptados para o transporte de tropas e munição viva. Em seu interior, uma Formitanque é capaz de carregar duas Formilitares e quatro Granovos, protegidos por sua própria carapaça durante o avanço.
-
 E esse número pode ser ainda maior.
-
 As Formilitares também podem se agarrar e permanecer de pé sobre o corpo da Formitanque enquanto ela avança, transformando-a em uma verdadeira plataforma móvel de combate.
-
 Uma Formitanque não é apenas um tanque.
-
 É um tanque, um transporte de tropas, um centro de comando e uma fortaleza móvel — tudo em uma única criatura.`;
-
 const descricaoFormicoptero = `Formicópteros são raros, e uma colônia comum de Formilitares geralmente possui apenas um ou dois deles. Um Formicóptero surge quando um Formiloto extraordinariamente forte e habilidoso alcança sua última forma, tornando-se uma das unidades mais valiosas de todo o exército.
 
 No campo de batalha, são capazes de causar um verdadeiro estrago. Formicópteros sobrevoam as tropas inimigas derrubando Granovos, transportam até seis Formilitares de uma só vez e realizam rasantes usando seus braços cortantes contra tudo que estiver pelo caminho. Também são fortes o suficiente para agarrar adversários e carregá-los para o céu, enquanto o barulho e a força produzidos pelo bater de suas enormes asas podem dispersar pequenas tropas antes mesmo de um confronto direto.
@@ -74,30 +58,22 @@ Fora das batalhas, porém, os Formicópteros possuem uma função ainda mais imp
 
 Formicópteros estão entre os Formilitares de vida mais longa, e perder um deles representa muito mais do que perder uma poderosa unidade de combate. Cada Formicóptero é responsável tanto por proteger a geração atual quanto por produzir a próxima, sendo tratado como um verdadeiro tesouro de seu exército.`;
 
-const descricaoBaratito = `Assim que a ooteca se abre, o Baratito já está pronto para cometer crimes. Sua coloração branca o torna facilmente visível durante a noite e, por ainda ser frágil, ele permanece dentro da própria ooteca, arrastando-a consigo e usando-a como esconderijo sempre que necessário.
-
-Apesar da pouca experiência, Baratitos fazem questão de parecer durões. Eles cobrem a boca com um pedaço de tecido, imitando os bandidos dos velhos faroestes e tentando esconder qualquer sinal de medo ou insegurança.
-
-O Baratito leva sua ooteca até a toca de outros insetos e permanece escondido dentro dela, esperando o momento exato para sair e roubar. Sua primeira grande habilidade é a velocidade: entrar e sair rapidamente é essencial para um criminoso tão pequeno.
-
-Se algum problema surgir, o Baratito se protege dentro da casca resistente da ooteca. Pela abertura de sua mão direita, pode disparar uma gosma irritante contra o adversário, ganhando tempo para fugir — ou, se necessário, para sair da defensiva e atacar.
-
-Dentro do esconderijo de sua facção, os Baratitos ainda não são muito valorizados. Por serem pequenos e inexperientes, ficam encarregados apenas dos serviços menores, enquanto observam os criminosos mais experientes e aprendem com eles.`;
-const descricaoBaratuno = `Especialistas em assaltos, os Baratunos saem à noite para cometer crimes. Roubam tudo o que conseguem carregar e desaparecem antes que alguém consiga reagir. Com sua experiência em furtividade e fuga, raramente permanecem em um mesmo lugar por tempo suficiente para serem capturados.
-
-Baratunos cobrem completamente o rosto para evitar serem reconhecidos e, principalmente, para parecerem sempre iguais. Para suas vítimas, um Baratuno é apenas mais um criminoso anônimo entre tantos outros.
-
-Seu exoesqueleto possui uma proteção extra no peito, onde fica seu coração. Essa característica é essencial para sua sobrevivência: mesmo depois de decapitados ou esmagados, enquanto o coração continuar batendo, seus corpos são capazes de se regenerar.
-
-Quando ficam gravemente feridos, os Baratunos retornam ao esconderijo da facção e passam dias se recuperando. Para eles, ferimentos fazem parte do ofício. Assim que estiverem novamente em condições de lutar, deixam o esconderijo e voltam ao crime.`;
-const descricaoBaratrao = `Criminoso experiente, o Baratrão é reconhecido dentro da facção e tratado com grande respeito. Diferente dos outros membros, ele não esconde o rosto. Pelo contrário, faz questão de deixá-lo à mostra e usa um chapéu que simboliza sua posição na hierarquia.
-
-O Baratrão possui um corpo maior, mais forte e mais resistente que o de seus comparsas. Seu exoesqueleto é predominantemente negro, tornando sua presença ainda mais intimidadora. Além disso, possui quatro corações distribuídos por diferentes partes do corpo, o que faz dele um adversário extremamente difícil de matar.
-
-Seus quatro braços também são armas por si só. Um deles termina em uma lâmina semelhante a um facão, enquanto outro possui uma abertura capaz de disparar uma sequência de gosmas irritantes, como uma metralhadora. Os outros dois são usados para combate e locomoção, permitindo que o Baratrão lute com uma ferocidade muito maior que a de um Baratuno.
-
+const descricaoBaratito = `Assim que a ooteca se abre, o Baratito já está pronto para cometer seus primeiros crimes. Sua coloração branca o torna facilmente visível durante a noite e, como seu exoesqueleto ainda é frágil, ele permanece dentro da própria ooteca, arrastando-a consigo e usando-a como esconderijo sempre que necessário.
+Apesar da pouca experiência, Baratitos fazem questão de parecer durões. Cobrem a boca com um pedaço de tecido para parecerem mais intimidadores, tentando esconder qualquer sinal de medo ou insegurança.
+O Baratito leva sua ooteca até a toca de outros insetos e permanece escondido dentro dela, esperando o momento certo para sair e roubar. Sua primeira grande habilidade a ser aperfeiçoada é a velocidade: entrar, pegar o que puder e desaparecer rapidamente é essencial para um criminoso tão pequeno.
+Se algum problema surgir, o Baratito se protege dentro da casca resistente da ooteca. Lá de dentro, ele expele uma fumaça irritante que rapidamente nubla o ambiente, confundindo quem estiver por perto e lhe dando tempo para fugir.
+Dentro do esconderijo de sua facção, os Baratitos ainda não são muito valorizados. Pequenos e inexperientes, ficam encarregados dos serviços menores enquanto observam os criminosos mais experientes, aprendendo com eles os truques necessários para sobreviver — e crescer — no mundo do crime.`;
+const descricaoBaratuno = `Especialistas em assaltos, os Baratunos saem à noite para cometer crimes. Roubam tudo o que conseguem carregar e desaparecem antes que alguém tenha tempo de reagir. Experientes em furtividade e fuga, raramente permanecem no mesmo lugar por tempo suficiente para serem capturados.
+Os Baratunos desenvolvem naturalmente uma camada de exoesqueleto que cobre grande parte do rosto, formando uma espécie de máscara natural. Além de protegê-los, essa característica dificulta sua identificação e reforça sua aparência intimidadora. Para suas vítimas, um Baratuno é apenas mais um criminoso anônimo entre tantos outros.
+Seu exoesqueleto possui uma proteção reforçada no peito, onde fica o coração. Essa característica é essencial para sua sobrevivência: mesmo depois de decapitados ou gravemente esmagados, enquanto o coração continuar batendo, seus corpos são capazes de se regenerar.
+Quando ficam gravemente feridos, os Baratunos retornam ao esconderijo da facção e passam dias se recuperando. Para eles, ferimentos fazem parte do ofício. Assim que estão novamente em condições de agir, deixam o esconderijo e voltam ao crime.
+Os Baratunos também possuem uma arma natural. Seu corpo produz uma substância química altamente irritante, que pode ser expelida de forma concentrada através de um canal existente em seu braço direito. Para dispará-la, o Baratuno remove a própria mão, expondo a abertura do canal e permitindo que a substância seja lançada diretamente contra o alvo. Mesmo que a mão seja perdida durante a ação, ela pode ser regenerada com o tempo.
+A vida de um Baratuno consiste em acumular reputação dentro da própria facção e aperfeiçoar suas habilidades de sobrevivência no mundo do crime. O importante não é apenas conseguir roubar, mas não ser capturado e sempre retornar ao esconderijo para aproveitar tudo aquilo que conseguiu levar.`;
+const descricaoBaratrao = `Criminoso experiente, o Baratrão é reconhecido dentro da facção e tratado com grande respeito. Diferentemente dos outros membros, ele não esconde o rosto. Pelo contrário, faz questão de deixá-lo à mostra. Seu exoesqueleto forma sobre a cabeça uma cobertura semelhante a um chapéu, que simboliza sua posição na hierarquia e torna sua identidade imediatamente reconhecível.
+Baratrões são odiados por praticamente todas as comunidades de insetos, e é comum existirem recompensas por sua captura ou morte. Suas facções também mantêm uma forte rivalidade com a Barakuza, embora possuam uma frágil aliança com os Cucarachas, principalmente para a troca de mercadorias e obtenção de néctar-kalmia.
+Apesar de procurados, Baratrões são extremamente difíceis de capturar. Seu corpo é maior, mais forte e mais resistente que o de seus comparsas, e seu exoesqueleto predominantemente negro torna sua presença ainda mais intimidadora. Além disso, possuem quatro corações distribuídos por diferentes partes do corpo, fazendo com que ferimentos que seriam fatais para outros insetos dificilmente sejam suficientes para matá-los.
+Seus quatro braços também tornam o Baratrão especialmente perigoso. Dois deles possuem mãos completamente funcionais, enquanto os outros são altamente especializados. Um termina em uma grande lâmina semelhante a um facão; o outro possui uma abertura capaz de disparar, em rápida sequência, a substância irritante produzida por seu corpo. Com dois braços livres para agarrar, carregar e se locomover enquanto os outros permanecem prontos para o combate, o Baratrão consegue lutar com uma ferocidade muito maior que a de um Baratuno. Sua força física, somada à extraordinária resistência de seu corpo, permite que um Baratrão continue lutando mesmo depois de sofrer ferimentos que obrigariam qualquer outro membro da facção a recuar.
 Em último caso, o Baratrão revela sua característica mais inesperada: abre suas asas completamente desenvolvidas e voa diretamente contra o oponente.
-
 Poucas coisas são mais assustadoras do que acreditar que um Baratrão está encurralado e, de repente, vê-lo levantar voo em sua direção.`;
 const descricaoShinjinrata = `Shinjinratas são como são chamados os pequenos membros da Barakuza, uma organização com fins lucrativos dedicada a proteger a comunidade local — ou, pelo menos, é assim que ela própria descreve suas atividades.
 
@@ -208,24 +184,16 @@ Mesmo frágeis e ainda incapazes de desempenhar as funções das Abelárias ou d
 Elas sabem que ainda têm muito a aprender.
 
 Mas também sabem que a colmeia é parte delas — e elas são parte da colmeia.`;
-const descricaoAbelaria = `O dia a dia das Abelárias é marcado pelo trabalho. Dentro e fora da grande colmeia, cada grupo possui funções específicas e todas são essenciais para o funcionamento da comunidade.
-
+const descricaoAbelaria = `O dia a dia das Abelárias é marcado pelo trabalho. Dentro e fora da grande colmeia, cada grupo possui funções específicas, e todas são essenciais para o funcionamento da comunidade.
 As Abelárias são especialistas em produzir e manter tudo aquilo de que a colmeia precisa. Algumas cuidam e alimentam as Celularvas, outras constroem e reparam suas estruturas, enquanto outras trabalham no transporte de recursos, na produção de alimento e no planejamento das atividades da comunidade.
-
+Durante o crescimento, suas mãos podem assumir diferentes formas de acordo com o trabalho que realizam. Algumas desenvolvem estruturas especializadas para cortar, perfurar, serrar, golpear ou executar outras tarefas, enquanto outras mantêm mãos comuns. A cada troca de exoesqueleto, uma Abelária pode conservar a especialização que já possui ou desenvolver uma diferente, adaptando-se às funções que passa a exercer. Esse processo continua até sua última muda, quando assume definitivamente as mãos de sua forma adulta.
 Para elas, nenhum trabalho é pequeno quando contribui para o bem de todas.
-
 Mas a natureza das Abelárias muda completamente quando a colmeia é ameaçada.
-
 Ao primeiro sinal de perigo, grupos inteiros abandonam suas funções e se unem em um enorme enxame defensivo. Centenas ou milhares podem avançar juntas contra o invasor, utilizando suas ferramentas de trabalho como armas e lutando com uma determinação que poucos inimigos esperariam de criaturas tão pequenas.
-
 Cada Abelária está disposta a dar a própria vida por suas companheiras.
-
 E existe algo ainda mais assustador no modo como defendem sua colmeia.
-
 Quando uma Abelária morre, seu corpo libera um odor que funciona como um sinal de alarme. O cheiro se espalha rapidamente e pode atrair e enfurecer as outras Abelárias próximas, fazendo com que abandonem qualquer outra atividade e avancem imediatamente contra a ameaça.
-
 Para uma Abelária, proteger a colmeia não é uma ordem.
-
 É o trabalho mais importante de todos.`;
 const descricaoZanguardiao = `Os Zanguardiões são a elite militar da grande colmeia. Diferentemente das Abelárias, que vivem principalmente dentro da colmeia e assumem a defesa quando ela é ameaçada, os Zanguardiões passam grande parte de suas vidas no exterior, patrulhando os arredores, vigiando as fronteiras e identificando qualquer ameaça que possa se aproximar.
 
@@ -410,14 +378,13 @@ Como integrante da tropa de defesa do exército, Vespescudo participa de grandes
 
 Quando não estão em combate, permanecem posicionados nas fronteiras, lado a lado, formando uma enorme muralha viva. Para qualquer invasor, atravessar uma fronteira protegida por Vespescudos é como tentar atravessar uma fortaleza que marcha lentamente em sua direção.`;
 const descricaoVespaleiro = `
-Vespaleiros são extremamente territoriais e agressivos. Diferente dos Vespescudos, que só atacam quando são confrontados, os Vespaleiros são orgulhosos e facilmente provocados. O menor movimento nas proximidades de um deles pode ser interpretado como uma ameaça e dar início a um grande conflito.
-
-Seu exoesqueleto, semelhante a uma armadura medieval, é capaz de resistir a grandes quantidades de dano. Seus dois ferrões também são armas naturais extremamente perigosas: um assume a forma de uma espada, enquanto o outro se transforma em uma lança, capazes de causar ferimentos profundos e potencialmente fatais.
-
-Durante uma guerra, os Vespaleiros avançam lentamente atrás das fileiras de Vespescudos, usando-os como proteção enquanto se aproximam do inimigo. Quando estão próximos o suficiente, o enxame de Vespaleiros levanta voo por cima das formações e inicia um ataque violento e sem trégua.
-
-O avanço dos Vespescudos pode parecer lento e previsível. O que vem depois, porém, é muito diferente.
-
+Vespaleiros são os soldados dos territórios da Realespa. Sua vida é dedicada à guerra, à honra e à competição, e poucos prazeres são maiores para eles do que participar de torneios ou receber uma nova missão.
+O ferrão-lança desenvolvido em um de seus antebraços durante a fase de Vespescudo permanece após sua transformação, tornando-se parte definitiva de seu corpo. Junto ao ferrão do abdômen, forma um conjunto de armas naturais extremamente perigoso, capaz de causar ferimentos profundos e potencialmente fatais.
+Seu exoesqueleto também se torna mais espesso e resistente, formando placas que lembram uma armadura medieval e permitem que suportem grandes quantidades de dano.
+Vespaleiros são extremamente territoriais, orgulhosos e facilmente provocados. Diferentemente dos Vespescudos, que normalmente só atacam quando confrontados, eles podem interpretar até pequenos movimentos em suas proximidades como uma ameaça ou desafio à sua autoridade.
+Durante uma guerra, avançam lentamente atrás das fileiras de Vespescudos, utilizando a formação defensiva como proteção enquanto se aproximam do inimigo. Quando alcançam a distância necessária, levantam voo em enxame sobre seus próprios companheiros e mergulham contra as forças adversárias, iniciando um ataque violento e sem trégua.
+O avanço dos Vespescudos pode parecer lento e previsível.
+O que vem depois, porém, é muito diferente.
 Invadir um território protegido por Vespaleiros é, para a maioria dos inimigos, pouco mais que uma sentença de morte.`;
 const descricaoNobrespa = `Durante o período em que permanece como Vespescudo, alguns indivíduos são escolhidos para seguir um caminho reservado a poucos. A partir desse momento, recebem tratamento especial: alimentação diferenciada, proteção constante e visitas frequentes de Vespreiros, responsáveis pelo refinamento de seu exoesqueleto e ferrão durante o desenvolvimento.
 
@@ -435,32 +402,20 @@ Embora seu exoesqueleto continue forte, ele é muito menos protegido que o de um
 Impedidos de seguir a vida militar, os Vesplebeus formam grande parte da força de trabalho dos territórios. Coletam madeira, barro e outros materiais, cultivam recursos e trabalham na construção e manutenção dos enormes abrigos onde vivem as colônias.
 
 Para os orgulhosos Vespaleiros, talvez sejam aqueles que não conseguiram se tornar guerreiros. Para o território, entretanto, são justamente aqueles que garantem que exista algo para os guerreiros protegerem.`;
-const descricaoVesplorde = `Vesplordes vivem na região central de seus territórios, próximos às estruturas de abrigo onde os Vespaleiros descansam e os Vespescudos mais jovens se desenvolvem. É fácil saber onde um Vesplorde repousa: seus abrigos são os maiores e ficam sempre nas posições mais centrais e protegidas do território.
-
-A principal função dos Vesplordes é supervisionar seu exército e garantir que tudo dentro de seus domínios esteja funcionando como deveria. Eles acompanham o desenvolvimento dos Vespescudos, verificam as tropas de Vespaleiros e monitoram constantemente as fronteiras.
-
-Apesar de passarem a maior parte do tempo em seu próprio território, que defendem como se fosse uma extensão de seu próprio corpo, ocasionalmente deixam seus domínios para sobrevoar regiões vizinhas em busca de novos territórios promissores.
-
-Quando encontram uma região desocupada e adequada, a expansão é planejada. Se o território já estiver ocupado, porém, um plano de invasão é elaborado.
-
-Vesplordes também participam ativamente das guerras. Habilidosos no uso de seu enorme ferrão e de seu antebraço transformado em escudo, são capazes de intimidar e subjugar até mesmo os adversários mais formidáveis.
-
+const descricaoVesplorde = `Vesplordes vivem na região central dos territórios que controlam, próximos aos abrigos onde os Vespaleiros descansam e os Vespescudos mais jovens se desenvolvem. É fácil descobrir onde um deles repousa: seu abrigo costuma ser o maior e ocupa sempre uma das posições mais centrais e protegidas de seus domínios.
+Sua principal função é supervisionar o exército e garantir que tudo esteja funcionando como deveria. Acompanham o desenvolvimento dos Vespescudos, inspecionam as tropas de Vespaleiros e mantêm constante atenção sobre as fronteiras.
+Apesar de passarem a maior parte da vida dentro de seus próprios domínios, que defendem como se fossem uma extensão de seus corpos, ocasionalmente partem para sobrevoar regiões vizinhas em busca de novos lugares para expansão.
+Quando encontram uma região desocupada e adequada, planejam sua ocupação.
+Quando ela já possui habitantes, planejam sua invasão.
+Vesplordes também participam ativamente das guerras. Habilidosos tanto em terra quanto no ar, combinam sua velocidade com um enorme ferrão para intimidar e subjugar até mesmo adversários formidáveis.
 Sozinho, um Vesplorde pode ser considerado um exército de uma vespa só.
-
 Mas dificilmente você encontrará um Vesplorde sozinho no meio de uma guerra.`;
-
-const descricaoRealespa = `Nos territórios dos Vespaleiros erguem-se seus enormes abrigos, construídos de barro, madeira e outros materiais naturais conforme os costumes de cada colônia. O território é dividido entre os Vesplordes, cada qual exercendo autoridade sobre seus domínios. Entretanto, o maior, mais protegido e sofisticado dos abrigos pertence sempre à Realespa.
-
-Uma Realespa não é necessariamente maior ou mais forte que um Vesplorde. Seu verdadeiro poder está em outro lugar: influência e autoridade. Sua palavra é a decisão final nos assuntos do território, e Realespas são conhecidas pelo temperamento furioso, pelo egoísmo e pela facilidade com que usam sua posição para fazer prevalecer seus próprios interesses.
-
-Seu exoesqueleto revela imediatamente sua condição. É extremamente protegido e naturalmente ornamentado, e a estrutura de sua cabeça assume a aparência de uma coroa integrada à própria carapaça. Uma de suas antigas estruturas de combate dá lugar a uma poderosa mão, utilizada para agarrar adversários e redirecionar ataques durante confrontos.
-
+const descricaoRealespa = `Nos territórios dos Vespaleiros erguem-se enormes abrigos, construídos de barro, madeira e outros materiais naturais conforme os costumes de cada colônia. O reino é dividido entre os Vesplordes, cada qual exercendo autoridade sobre seus próprios domínios. Entretanto, o maior, mais protegido e sofisticado dos abrigos pertence sempre à Realespa.
+Uma Realespa não é necessariamente maior ou mais forte que um Vesplorde. Seu verdadeiro poder está em outro lugar: influência e autoridade. Sua palavra representa a decisão final nos assuntos do reino, e Realespas são conhecidas pelo temperamento furioso, pelo egoísmo e pela facilidade com que usam sua posição para fazer prevalecer os próprios interesses.
+Seu exoesqueleto revela imediatamente sua condição. Extremamente protegido e naturalmente ornamentado, apresenta formas muito mais elaboradas que as encontradas nas demais vespas. A estrutura de sua cabeça é a característica mais evidente, desenvolvendo-se de maneira semelhante a uma grande coroa integrada à própria carapaça.
 Tamanho poder inevitavelmente produz inimigos. Não é incomum que Vesplordes desprezem sua Realespa ou conspirem para substituí-la. Uma das estratégias mais discretas é criar secretamente, dentro de seus próprios domínios, um Vespescudo destinado a tornar-se Nobrespa, preparando assim um possível pretendente ao trono.
-
 Quando uma Realespa morre, normalmente uma Nobrespa assume seu lugar e completa sua evolução. A sucessão, porém, não é uma regra inviolável. Um Vespaleiro excepcionalmente poderoso pode tomar o trono pela força, derrotando as Nobrespas que reivindicam a posição e tornando-se ele próprio uma Realespa.
-
 Esses casos são raros, mas possuem um significado especial para os Vespaleiros: uma Realespa que conquistou o trono em combate não foi escolhida, preparada ou favorecida — provou diante de todos que era digna dele. Por isso, costuma ser especialmente respeitada e amada pelo território.`
-
 const descricaoVespreiro = `Um Vesplebeu que demonstra habilidade excepcional em seu ofício pode, com o tempo, tornar-se um Vespreiro. Especialistas em moldar ferrões e trabalhar exoesqueletos, eles são responsáveis pela manutenção do exército e participam da construção e do reparo dos principais abrigos do território.
 
 Diferentemente dos Vesplebeus comuns, Vespreiros são bastante respeitados pelos Vespaleiros. Alguns chegam a se tornar o braço direito de um Vesplorde, que depende constantemente de seus conhecimentos para manter seus guerreiros preparados e seus domínios protegidos.
@@ -472,7 +427,6 @@ Vespreiros raramente participam de combates. Isso não significa, porém, que se
 Por isso, existe entre os Vespaleiros um conselho simples: não irrite um Vespreiro.
 
 Diz a lenda que o misterioso Vespaleiro sem cabeça aprendeu o motivo da pior maneira possível — sua cabeça teria sido esmagada depois que ele cometeu o erro de irritar um deles.`
-
 const descricaoVespalgoz = `O raro Vespalgoz vive solitário, além das fronteiras dos territórios da Realespa. Guerreiros excepcionais, passam a vida caçando algumas das criaturas mais temidas do reino, entre elas os Escormônios e, principalmente, os Aracromantes, inimigos seculares dos Vespaleiros. Como não possuem grande habilidade para construção, costumam ocupar abrigos subterrâneos improvisados. São também conhecidos por possuir a ferroada mais dolorosa de que se tem conhecimento, capaz de imobilizar pela dor até criaturas extraordinariamente resistentes.
 
 Tornar-se um Vespalgoz exige circunstâncias incomuns. Alguns são caçadores de Aracromantes de talento excepcional, cuja habilidade e fama os distinguem antes mesmo da última troca de exoesqueleto, quando assumem uma aparência semelhante à de um Vesplorde negro. Outros surgem como únicos sobreviventes de exércitos destruídos, obrigados a sobreviver sozinhos até completar sua transformação. Mais raramente, sua origem é política: um Vespaleiro destinado a tornar-se Vesplorde pode ser expulso para impedir que reivindique um território, sendo condenado a deixar o reino. Independentemente da origem, todos compartilham o mesmo destino: vagar sozinhos.
@@ -634,90 +588,48 @@ Está imitando suas expressões.
 
 E, quando a vítima finalmente demonstra medo, o Larvobo sorri ainda mais.`;
 const descricaoEscapulgo = `Escapulgos são usados nas apresentações do circo dos Saltimbulgas. É possível perceber que os Larvobos em desenvolvimento estão lá dentro pelos olhos visíveis na fenda principal e pelas pequenas fendas espalhadas ao redor do resistente casulo.
-
 Os Saltimbulgas possuem diversos números envolvendo os Escapulgos. Eles pulam sobre eles, utilizam-nos como plataformas de elevação e até fazem suas vozes parecerem surgir de dentro das estruturas.
-
 Mas os números mais impressionantes são aqueles em que vários objetos afiados são atravessados pelo Escapulgo, perfurando completamente sua estrutura. Parece impossível que a criatura lá dentro possa sobreviver, mas a larva permanece tranquila.
-
 Em outros números, o Escapulgo é completamente fechado e submetido a diversas provas de que está vazio.
-
 E, mesmo assim, a larva simplesmente desaparece.
-
 O maior espetáculo, porém, é o nascimento de um Saltimbulga.
-
 As fendas do Escapulgo são completamente vedadas e os outros Saltimbulgas enchem toda a estrutura com água. A larva fica aparentemente sem qualquer possibilidade de escapar.
-
 Então as cortinas se fecham.
-
 Pouco depois, um Saltimbulga surge saltando do outro lado do palco.
-
 A plateia grita e aplaude.
-
 O Escapulgo é aberto diante de todos.
-
 Está completamente cheio de água.
-
 Mas está vazio.
-
 Ninguém sabe explicar como aquilo é possível.
-
 Ou pelo menos é isso que todos acreditam.
-
 Existe um rumor entre os insetos que conhecem os Saltimbulgas de perto: a larva dentro do Escapulgo não está realmente presa.
-
 Ela sabe como entrar e sair.
-
 Às vezes, um inseto chega ao seu abrigo e encontra um Escapulgo aparentemente abandonado. No dia seguinte, ninguém encontra mais o inseto.
-
 Mais tarde, porém, dois Saltimbulgas podem ser vistos carregando o Escapulgo de volta para o circo.
-
 E, dessa vez, a larva está novamente lá dentro.
-
 Como se nunca tivesse saído.`;
 const descricaoSaltimbulga = `Os Saltimbulgas são insetos itinerantes que levam seu circo de uma comunidade para outra. Em troca de hospitalidade, abrigo e alimento, oferecem entretenimento durante o período em que permanecem por lá.
-
 Saltimbulgas são artistas desde cedo. Ainda jovens, desenvolvem habilidades de acrobacia, ilusionismo e espetáculo, aprendendo a transformar suas capacidades naturais em números cada vez mais impressionantes.
-
 Seus saltos são extraordinários, sua escalada é rápida e precisa, e sua habilidade de escapar de situações aparentemente mortais faz com que muitos de seus espetáculos sejam verdadeiros desafios à própria morte.
-
 Diante da plateia, eles atravessam obstáculos, desaparecem de lugares impossíveis, desafiam a gravidade e realizam apresentações que fariam qualquer outro inseto acreditar que está diante de magia.
-
 Sua aparência, porém, pode causar uma impressão muito diferente.
-
 O corpo arredondado, os longos dentes afiados e o olhar fixo dão aos Saltimbulgas uma aparência naturalmente inquietante. Mas as pinturas coloridas espalhadas pelo corpo, combinadas com seu talento para contar histórias e falar diante de grandes multidões, fazem deles criaturas estranhamente carismáticas.
-
 Durante a temporada, o circo se torna parte da comunidade.
-
 As tendas são montadas, os espetáculos começam e insetos de todas as idades se reúnem para assistir às apresentações. Crianças riem dos Larvobos, adultos se impressionam com os truques dos Escapulgos e todos aguardam ansiosamente pelo próximo espetáculo.
-
 Mas existe um rumor que acompanha o circo por onde quer que passe.
-
 Muitos insetos desaparecem durante a temporada.
-
 Alguns simplesmente não retornam para casa. Outros são vistos pela última vez próximos às tendas. Nunca há provas suficientes para acusar os Saltimbulgas de qualquer coisa, e os artistas sempre partem antes que alguém consiga descobrir o que aconteceu.
-
 Por isso, nem todas as comunidades recebem o circo com entusiasmo.
-
 Alguns insetos adoram os Saltimbulgas.
-
 Outros preferem manter distância.
-
 E há aqueles que simplesmente têm medo deles.
-
 Porque, por trás dos sorrisos, das pinturas coloridas e das tendas iluminadas, talvez exista algo acontecendo.
-
 Algo que ninguém conseguiu provar.
-
 Ainda.`;
-
 const descricaoAbracabulga = `Durante o período em que um Larvobo permanece em sua fase de Escapulgo, alguns demonstram um talento extraordinário para o ilusionismo. Conseguem desaparecer misteriosamente de dentro do próprio casulo, projetar sua voz para lugares distantes e até fazê-lo parecer completamente oculto, mesmo quando está diante dos olhos de quem o procura. Quando finalmente realizam seu último número e deixam o Escapulgo, esses indivíduos surgem como Abracabulgas.
-
 Abracabulgas não são maioria nos circos das Saltimbulgas. Normalmente há apenas uma ou duas em cada companhia, quando há alguma. Seu grande diferencial é o domínio do ilusionismo: seus números são tão impressionantes que conseguem deixar plateias inteiras fascinadas enquanto realizam desaparecimentos, aparições e truques aparentemente impossíveis.
-
 A hipnose também é uma habilidade comum entre elas. Abracabulgas frequentemente convidam insetos da plateia e os hipnotizam para que realizem todo tipo de comportamento absurdo diante do público, criando alguns dos números mais engraçados de seus espetáculos.
-
 Talvez a única coisa intrigante seja o fato de que, em certos números de desaparecimento, o inseto nem sempre reaparece. Isso costuma acontecer quando a plateia se diverte tanto que acaba esquecendo de exigir o retorno do voluntário. Existem também estranhos relatos de insetos que, depois de hipnotizados, decidem abandonar suas colônias e partir junto ao circo das Saltimbulgas.
-
 Curiosamente, muitos deles não estão mais com o circo quando ele retorna na temporada seguinte.`;
 
 const descricaoMorticula = `Aproximar-se de um lago durante a noite pode ser perigoso. Insetos relatam que, vindas da margem da água, Mortículas aparecem famintas para se alimentar dos desavisados. Elas se agarram ao corpo de suas vítimas e começam a consumi-las por dentro.
@@ -1363,6 +1275,7 @@ Apesar de passar grande parte da vida viajando e lutando por aqueles que precisa
 Quando sente que seus dias de batalha estão chegando ao fim, procura um lugar entre os seus. Ali, abandona a vida errante e passa seus últimos anos formando uma família.
 
 Depois de uma vida inteira procurando seu caminho, o velho guerreiro finalmente encontra um lugar para chamar de lar.`;
+
 const descricaoVudulha = `Para muitos insetos, encontrar uma Barântula é assistir à lenta aproximação da própria morte.
 
 Há relatos de viajantes que, ao atravessarem uma encruzilhada aparentemente deserta, viram uma abertura surgir na terra e dela emergir uma Barântula. Pouco pode ser feito depois disso. Sua força é brutal: ela morde, imobiliza e arrasta sua vítima para as profundezas, levando-a até o território das Aracromantes, onde provavelmente encontrará seu fim como sacrifício em algum ritual do Coven.
@@ -1414,6 +1327,7 @@ Curiosamente, as próprias Barântulas parecem dar pouca importância a tamanha 
 Para elas, títulos, medo e prestígio são apenas interpretações daqueles que ainda enxergam o mundo a partir de si mesmos. Uma Barântula se considera somente um instrumento de uma essência muito maior que todos os seres e que se manifesta em tudo aquilo que existe:
 
 a matéria, o instinto, o ciclo, a contemplação da natureza e, inevitavelmente... a morte.`;
+
 const descricaoEscorpete = `Nascido diretamente das entranhas de sua mãe junto de seus irmãos, o Escorpete chega ao mundo pequeno e vulnerável. Durante seus primeiros dias, permanece agarrado às costas dela, observando silenciosamente seus hábitos, sua alimentação e sua rotina. Mesmo entre mãe e filhotes, a comunicação é mínima, limitada a poucos gestos e apenas ao necessário.
 
 Com o passar do tempo, seu exoesqueleto endurece e ele finalmente se torna capaz de abandonar a proteção materna. Os irmãos — geralmente dois ou três — ainda tentam permanecer juntos durante os primeiros dias de independência, formando uma pequena família. Essa convivência, porém, raramente dura. Conflitos se tornam cada vez mais frequentes até que a presença uns dos outros se torna insuportável.
@@ -1588,9 +1502,48 @@ Entre todas, nenhuma é repetida com tanta convicção quanto aquela que anuncia
 Para as Profeletas, existe uma evidência bastante simples de que esse acontecimento ainda está por vir:
 ninguém jamais encontrou a Terra das Flores Douradas.
 Se ela não existe em nenhum lugar do mundo presente, dizem elas, então só pode existir no mundo que ainda está por vir.`
-const descricaoMaligarta= ``;
-const descricaoSerpetrea= ``;
-const descricaoTrevoleta= ``;
+const descricaoMaligarta= `Maligarta é o nome pelo qual são conhecidas entre os outros insetos. Entre si, porém, elas se chamam Amigartas.
+São criaturas quase completamente evitadas pelas demais comunidades. Segundo as Fariletas, as Maligartas são amaldiçoadas e descendem dos insetos alados que, nas antigas histórias, traíram a Palavra da Vida. Sua aparência seria uma manifestação dessa corrupção: o corpo negro representaria as trevas, os longos chifres revelariam o tamanho de sua maldade e os inúmeros espinhos carregariam veneno. Dizem ainda que realizam rituais profanos, produzem sons e vibrações malignas e, contrariando a ordem natural, realizam sua transformação debaixo da terra em vez de passar pela Grande Transformação.
+Pouco disso é verdade.
+As Maligartas realmente podem ser venenosas quando ingeridas ou feridas, mas isso é consequência de sua alimentação extremamente restrita, que faz com que substâncias tóxicas se acumulem em seu corpo. Seus espinhos, apesar da aparência ameaçadora, não possuem veneno.
+A ironia é que dificilmente poderia existir um grupo mais dedicado à Palavra da Vida.
+Desde muito jovens, as Amigartas são ensinadas a seguir seus ensinamentos com absoluta rigorosidade. Isso determina o que podem comer, como devem se comportar e até como devem conviver umas com as outras. Para evitar que costumes considerados inadequados contaminem sua comunidade, vivem em grupos isolados. A má fama que possuem entre os demais insetos acaba favorecendo esse isolamento: enquanto os outros não querem se aproximar delas, as próprias Amigartas também preferem manter distância.
+Sua disciplina inclui longos períodos de jejum, às vezes durante vários dias. Como consequência, seu crescimento é lento e a Grande Transformação demora muito mais para chegar. Isso não é considerado um problema. Permanecer por mais tempo como Amigarta faz parte de sua formação, dando a cada uma tempo suficiente para aprender a viver de maneira perfeita segundo a Palavra da Vida.
+Quando acreditam ter cometido uma falta, podem impor punições a si mesmas. Algumas envolvem privação e esforço; outras chegam a causar sofrimento físico, como permanecer expostas ao sol por longos períodos. Uma Amigarta que desobedeça repetidamente aos ensinamentos ou cometa uma transgressão grave diante da comunidade pode ser expulsa, sendo obrigada a continuar sua vida sozinha.
+Apesar do que dizem sobre elas, as Amigartas não realizam sua transformação debaixo da terra.
+Grande parte dessa crença surgiu por causa de uma infeliz semelhança. O Maligroso, uma pupa pertencente a outra criatura, possui características muito semelhantes às das Maligartas e muitos insetos passaram a acreditar que aquela seria a forma assumida pelas Maligartas durante sua transformação. A verdadeira crisálida das Amigartas, a Serpétrea, raramente é reconhecida como tal. Sua aparência lembra de maneira tão convincente uma serpente ameaçadora que os insetos que a encontram geralmente preferem fugir a ver o que é.
+A confusão é especialmente perturbadora para aqueles que conhecem as antigas histórias da Palavra da Vida. Segundo seus ensinamentos, entre os insetos alados que traíram a Palavra havia uma lagarta que recebeu uma punição terrível:
+a lagarta traidora foi transformada em uma lagarta-serpente.
+E criaturas assim realmente existem.`;
+const descricaoSerpetrea= `De acordo com a história inicial da Palavra da Vida, duas lagartas receberam o mesmo ensinamento: deveriam segui-lo rigorosamente para que, um dia, desenvolvessem enormes asas e uma visão extraordinária, capazes de conduzi-las até a harmoniosa e fértil Terra das Flores Douradas.
+A lagarta clara seguia cada ensinamento corretamente. A lagarta escura, porém, falhava constantemente e, por isso, acabou amaldiçoada e transformada em uma serpente.
+Tomada pela inveja, a serpente cometeu então sua maior transgressão: engoliu a lagarta clara.
+Mas a lagarta clara havia seguido corretamente a Palavra da Vida e recebeu sua recompensa. Em vez de morrer, continuou se desenvolvendo dentro da barriga da serpente. Foi ali que ocorreu a primeira Grande Transformação. Quando seu desenvolvimento terminou, rompeu o corpo da serpente e emergiu com suas longas asas e a visão necessária para encontrar a Terra das Flores Douradas.
+É essa passagem que as Amigartas reproduzem em sua própria Grande Transformação.
+Quando uma Maligarta está pronta, afasta-se de sua comunidade e peregrina até um lugar isolado. Ali forma ao redor do próprio corpo a Serpétrea, uma crisálida cuja aparência lembra a cabeça ameaçadora de uma serpente. Dentro dela, permanece durante seu longo desenvolvimento, simbolicamente enfrentando e superando a mesma criatura que um dia tentou impedir a primeira Grande Transformação.
+A aparência da Serpétrea também possui uma função prática. Pendurada e completamente imóvel nos galhos, sua forma serpentina intimida predadores e insetos curiosos, mantendo-os afastados durante o período em que a Maligarta está indefesa. Mesmo quando a intimidação falha, sua alimentação anterior ainda oferece uma última proteção: se a Serpétrea for devorada ou gravemente ferida, aquele que a atacou pode acabar envenenado.
+Isso, porém, raramente acontece. Poucos insetos se arriscam a tocar em algo que parece uma serpente prestes a atacar.
+A história da Palavra da Vida conta ainda o destino da verdadeira lagarta-serpente. Depois de morta, seu corpo foi soterrado. A terra ao seu redor tornou-se amaldiçoada e formou sobre ela uma pupa negra, venenosa e coberta de espinhos. Dessa transformação profana teria surgido a grande inimiga alada.
+Por esse motivo, quando a Grande Transformação termina e a Maligarta finalmente emerge da Serpétrea, ela não abandona a antiga crisálida.
+Seu primeiro alimento é a própria Serpétrea.
+Ao devorar aquilo que representou a serpente, impede que seus restos alcancem o solo e repete simbolicamente a vitória da primeira lagarta sobre o mal.
+Para elas, deixar uma Serpétrea apodrecer sobre a terra significaria permitir que aquilo que foi vencido retornasse à terra e pudesse contaminá-la novamente.`;
+const descricaoTrevoleta= `Trevoleta é o nome pelo qual são conhecidas entre os outros insetos, uma referência à sua coloração completamente negra e à suposta ligação que possuem com as trevas. Entre si, porém, elas se chamam Ressuletas, nome que representa a vitória sobre a morte após sobreviverem à serpente devoradora durante a Grande Transformação.
+Ao emergir da Serpétrea, uma Ressuleta recebe uma missão clara segundo a Palavra da Vida: encontrar os lugares-chave e prepará-los para o futuro nascimento da Terra das Flores Douradas.
+Com seus grandes olhos brancos e sua visão extraordinária, grupos de Ressuletas percorrem o mundo em busca desses lugares. Quando encontram um deles, permanecem ali durante algum tempo, trabalhando em sua preparação. Quando consideram sua tarefa concluída, partem juntas em busca do próximo.
+Poucos insetos, entretanto, enxergam suas peregrinações dessa maneira.
+Existe um profundo preconceito em torno das Trevoletas, cuja aparência é frequentemente associada às antigas descrições das Mortiposas, descendentes da inimiga alada mencionada na Palavra da Vida. As Fariletas não cometem essa confusão. Para elas, as Trevoletas são borboletas traidoras que abandonaram o verdadeiro significado da Palavra e passaram a servir às Mortiposas.
+Por isso, a chegada de um grupo de Trevoletas costuma provocar medo. Muitos insetos abandonam temporariamente os lugares onde elas começam seus trabalhos, receosos do que possa acontecer ali.
+Quando finalmente retornam, porém, encontram algo difícil de conciliar com tudo aquilo que ouviram.
+O lugar geralmente está melhor do que antes.
+A terra pode estar mais fértil, os recursos mais abundantes e o ambiente mais favorável à vida. Para alguns, isso é suficiente para começar a questionar as histórias sobre elas.
+Para as Fariletas, não.
+Segundo seus ensinamentos, melhorar esses lugares faz parte da própria enganação. Afinal, a grande inimiga alada é conhecida como a Rainha da Enganação. Se suas seguidoras desejassem conquistar a confiança dos outros insetos, nada seria mais eficiente do que realizar boas ações diante deles.
+Diferentemente das Amigartas, as Ressuletas não procuram se manter afastadas das demais criaturas. Após a Grande Transformação, consideram que a Palavra da Vida já está solidificada dentro delas e, portanto, não temem mais que os maus comportamentos de outros insetos possam desviá-las de seu caminho. Ainda assim, são poucos os que estão dispostos a permanecer próximos o bastante para descobrir isso.
+Muitas histórias continuam circulando a seu respeito. Dizem que as Trevoletas são criaturas noturnas, que não suportam permanecer muito tempo sob a luz do sol, que seus olhos brancos enxergam coisas que deveriam permanecer ocultas e que sua presença anuncia acontecimentos terríveis.
+Trevoletas podem ser vistas trabalhando tranquilamente durante o dia. Podem conversar amigavelmente com quem se aproxima. Podem deixar para trás lugares melhores do que aqueles que encontraram.
+Nada disso parece suficiente.
+Para aqueles que já acreditam que elas servem à Rainha da Enganação, qualquer demonstração de que não são malignas pode ser interpretada apenas como prova de que sabem esconder muito bem sua verdadeira natureza.`;
 
 const descricaoPulguito = `Pulguitos nascem em famílias tão numerosas que dificilmente conseguem lembrar quem são todos os seus irmãos — e, às vezes, nem mesmo os nomes deles.
 Isso pouco importa. Entre os Pulgordos, toda a comunidade participa da criação dos filhotes. Pulguitos tratam praticamente qualquer adulto como se fosse um de seus pais, enquanto os mais velhos chamam qualquer Pulguito de filho, independentemente de quem realmente pertença à sua família.
@@ -1628,9 +1581,52 @@ Os próprios Pulgantes sabem disso e costumam explicar a história de seu povo a
 “Lugares fáceis criam Pulgordos. Pulgordos demais fazem lugares difíceis. Lugares difíceis geram Pulgantes. E Pulgantes encontram lugares fáceis.”
 E então tudo começa novamente.`;
 
-const descricaoSerpreita= ``;
-const descricaoMaligroso= ``;
-const descricaoMoriposa= ``;
+const descricaoSerpreita= `A vida de uma Serpreita, assim como a de toda a sua linhagem, é marcada pela solidão.
+Os ovos de sua espécie são depositados muito distantes uns dos outros, reduzindo ao máximo a possibilidade de encontro entre indivíduos. Desde o momento em que nasce, uma Serpreita precisa viver sozinha, aprender sozinha e, principalmente, sobreviver sozinha.
+Para uma criatura tão vulnerável, sua aparência é sua maior vantagem.
+A Serpreita não possui veneno, espinhos perigosos ou qualquer outra defesa capaz de enfrentar diretamente um predador. Por isso, passa grande parte da vida entre os galhos, onde sua aparência de serpente pode ser utilizada para intimidar qualquer criatura que se aproxime.
+Quando percebe uma ameaça, ergue a parte dianteira do corpo e assume uma postura agressiva. Seus enormes olhos de serpente são apenas marcas, mas tornam o disfarce bastante convincente. A Serpreita permanece imóvel, como se estivesse observando o invasor e esperando apenas que ele se aproxime um pouco mais.
+Na maioria das vezes, isso basta.
+Entre outros insetos, a intimidação é ainda mais eficiente por causa das histórias da Palavra da Vida. Muitos acreditam reconhecer imediatamente naquela criatura a lagarta-serpente das antigas histórias e preferem fugir antes de descobrir se aquilo diante deles realmente é capaz de atacar.
+Não é.
+Ao contrário do que contam as histórias, a Serpreita não é uma predadora. Sua anatomia sequer permitiria que engolisse outro inseto como a lendária serpente devoradora. Também não conhece a Palavra da Vida, não sabe que aparece em histórias religiosas e não faz ideia do significado que sua aparência possui para grande parte dos outros insetos.
+Existe ainda outra razão que torna difícil desfazer essa crença: Serpreitas não conseguem se comunicar com a maioria dos insetos.
+Sua comunicação é compreendida apenas por outras mariposas. Para isso, produzem fortes vibrações através de um órgão exposto que, quando projetado, lembra uma língua bifurcada. Para outras mariposas, essas vibrações carregam informação. Para um inseto que já acredita estar diante de uma serpente amaldiçoada, porém, a criatura erguer o corpo, exibir uma "língua" bifurcada e começar a produzir vibrações incompreensíveis dificilmente ajuda a esclarecer o mal-entendido.`;
+const descricaoMaligroso= `Quando uma Serpreita está pronta para se transformar, abandona os galhos onde passou a maior parte da vida, desce até o solo e cava um buraco. É ali, escondida sob a terra, que se transforma no Maligroso.
+A transformação subterrânea oferece proteção durante uma das fases mais vulneráveis de sua vida. O Maligroso permanece praticamente imóvel, mas não está completamente indefeso. Sua superfície é coberta por numerosos espinhos, que dificultam que seja engolido por predadores, e, quando perturbado, consegue produzir de dentro da pupa uma forte e assustadora vibração. Na maioria das vezes, isso é suficiente para convencer uma criatura curiosa a deixá-lo em paz.
+Existe, porém, uma proteção adicional que não pertence verdadeiramente ao Maligroso.
+Sua aparência lembra extraordinariamente a das Maligartas: o corpo negro, os dois longos chifres, os espinhos e os pequenos detalhes vermelhos e brancos fazem com que muitos insetos acreditem que aquela seja a verdadeira crisálida delas. Como as Maligartas são conhecidas por acumularem veneno no corpo, espalhou-se também a crença de que os espinhos do Maligroso são venenosos e que devorá-lo seria fatal.
+Nada disso é verdade, mas poucos predadores estão dispostos a descobrir.
+A semelhança possui consequências muito maiores do que simplesmente afastar animais famintos. A forma do Maligroso é assustadoramente próxima daquela atribuída pela Palavra da Vida à pupa amaldiçoada da grande Inimiga Alada. Por isso, encontrar um deles é considerado por muitos insetos um terrível sinal de mau agouro.
+A associação tornou-se tão forte que corpos negros acompanhados por dois chifres longos, espinhos e detalhes vermelhos ou brancos são imediatamente relacionados ao Maligroso, mesmo quando pertencem a criaturas completamente diferentes.
+Existe ainda um problema particularmente inconveniente: segundo a tradição, um Maligroso encontrado jamais deve ser enterrado novamente.
+Afinal, foi sob a terra que a pupa amaldiçoada teria se formado. Enterrá-la significaria ajudá-la a completar sua transformação.
+Assim, um inseto aterrorizado pode encontrar um Maligroso exposto, recusar-se a tocá-lo e seguir seu caminho. O próximo encontra a mesma criatura. Depois outro. E outro. Aquilo que deveria permanecer escondido durante todo o desenvolvimento acaba acumulando histórias simplesmente porque ninguém quer ser responsável por colocá-lo de volta no solo.
+Para os Aracromantes, porém, a situação é completamente diferente.
+Como não seguem a Palavra da Vida, eles não enxergam o Maligroso como sinal de azar. Pelo contrário: encontrar um deles é considerado uma excelente oportunidade. O Maligroso pode ser levado para seus territórios e utilizado em diferentes rituais. Às vezes, alguns de seus espinhos são removidos para outros usos, algo que, apesar da aparência brutal, não impede o desenvolvimento da criatura protegida em seu interior.
+Em um desses rituais, o Maligroso é mantido intacto e os participantes simplesmente aguardam.
+Eles precisam assistir àquilo que nascerá de dentro dele.
+Quando finalmente ocorre a transformação, emerge uma criatura cujo rosto, por uma estranha coincidência, possui certa semelhança com o das Barântulas.
+Para os seguidores da Palavra da Vida, aquilo parece confirmar um dos acontecimentos mais terríveis de suas histórias.
+Para os Aracromantes, significa exatamente outra coisa.
+Diante da criatura que abandona o corpo imóvel no qual permaneceu encerrada, eles contemplam aquilo que consideram uma das manifestações mais puras do ciclo natural:
+a morte.`;
+const descricaoMoriposa= `Assim como a Serpreita, a Mortiposa é incapaz de se comunicar com insetos que não sejam mariposas. Sua comunicação ocorre através das mesmas vibrações que, para outras espécies, soam estranhas e assustadoras.
+Sua vida também preserva a solidão característica de toda a linhagem. Mortiposas não formam comunidades e raramente procuram umas às outras. O contato entre indivíduos acontece principalmente durante a reprodução e, depois disso, cada uma volta ao seu próprio caminho. A fêmea perpetua esse modo de vida depositando seus ovos em locais muito distantes uns dos outros, garantindo que as novas Serpreitas também comecem suas vidas sozinhas.
+Apesar da aparência ameaçadora, Mortiposas não são grandes combatentes. Possuem longas garras afiadas e certamente podem utilizá-las quando necessário, mas é provável que muitas passem a vida inteira sem precisar delas para se defender.
+Isso acontece graças a uma capacidade extraordinária que nem mesmo os outros insetos compreendem.
+A Mortiposa consegue liberar ao redor do próprio corpo um odor que interfere na maneira como é percebida. Sob seu efeito, pode entrar em territórios ocupados, caminhar entre seus habitantes e procurar tranquilamente aquilo de que precisa. Os insetos ao redor não fogem aterrorizados nem ficam paralisados. Simplesmente não a reconhecem como algo que exija uma reação.
+Assim, uma Mortiposa pode atravessar uma comunidade inteira, alimentar-se e partir voando sem que ninguém tente verdadeiramente impedi-la.
+Depois que o efeito passa, entretanto, permanecem lembranças estranhas.
+Os insetos recordam que alguma coisa esteve ali. Uma figura magra, alada, com algo branco no rosto. Lembram-se de tê-la visto passar diante deles e, mais perturbador ainda, lembram-se de que nada fizeram.
+Não estavam paralisados.
+Não estavam escondidos.
+Talvez nem estivessem com medo.
+Simplesmente deixaram que ela passasse.
+Esses relatos alimentam ainda mais as histórias sobre a presença constante da Inimiga Alada. Segundo a Palavra da Vida, a Rainha da Enganação é capaz de ludibriar qualquer criatura e levá-la a permitir sua passagem e suas ações sem resistência.
+Para quem conhece essas histórias, descobrir que uma figura semelhante às antigas descrições esteve dentro de sua comunidade e que ninguém tentou detê-la parece uma confirmação difícil de ignorar.
+Por isso, comunidades visitadas por uma Mortiposa frequentemente se tornam mais suscetíveis aos ensinamentos da Palavra da Vida. Seus habitantes sabem que alguma coisa aconteceu. Sabem que uma criatura desconhecida caminhou entre eles. Alguns conseguem descrever suas asas, seu corpo negro e, principalmente, algo branco em seu rosto.
+O que ninguém consegue explicar é por que simplesmente permitiram que ela estivesse ali.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],

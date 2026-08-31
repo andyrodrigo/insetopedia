@@ -58,6 +58,14 @@ const descricaoBorboletas = `Elas são conhecidas por sua forte relação com a 
 Geralmente pacíficas, muitas dedicam parte de suas vidas a viajar, ensinar e aconselhar outros insetos. Sua aparência delicada e comportamento benevolente fazem com que sejam admiradas por muitos, embora seus ensinamentos também possam ser recebidos com desconfiança ou rejeição.
 Entre elas, a transformação do próprio corpo é vista como muito mais do que uma simples etapa da vida.`;
 
+const descricaoPulgoes = `Os pulgões estão entre os insetos mais numerosos e espalhados do mundo, vivendo praticamente em qualquer lugar onde encontrem alimento e abrigo. Podem formar suas próprias comunidades ou viver entre outros povos, adaptando-se facilmente às mais diferentes formas de vida.
+Pacíficos e trabalhadores, preocupam-se principalmente em encontrar um lugar onde possam viver e criar suas numerosas famílias. Por isso, é comum encontrá-los convivendo e trabalhando ao lado das mais diferentes espécies.
+Sua simplicidade e enorme capacidade de adaptação fazem dos pulgões uma presença comum em praticamente todo o mundo.`;
+
+const descricaoMariposas = `As mariposas são criaturas reservadas e geralmente solitárias, encontradas vivendo por conta própria ou entre outras comunidades, sem formar comunidades próprias.
+Seus hábitos incomuns, aparência muitas vezes assustadora e preferência pela vida noturna fizeram com que fossem cercadas por histórias, superstições e maus presságios.
+Muito diferentes entre si, suas diversas linhagens possuem modos de vida peculiares que contribuem para a fama misteriosa e sombria das mariposas.`;
+
 export const linhagens: Linhagem[] = [
   {
     id: 'formigas',
@@ -86,15 +94,7 @@ export const linhagens: Linhagem[] = [
     tema: '#d69b16',
     criaturas: ['celularva', 'abelaria', 'zanguardiao', 'maternelha', 'supremabelha', 'minarva','minerabelha','marcenelha'],
   },
-  {
-    id: 'cupins',
-    nome: 'Cupins',
-    insetoBase: 'kurupim',
-    descricao: descricaoCupins,
-    imagemCapa: '/images/cupins/capa.png',
-    tema: '#b17845',
-    criaturas: ['kurupim', 'guaripim', 'tuipim', 'mboitapim', 'kuxapima', 'kupinguari'],
-  },
+
   {
     id: 'vespas',
     nome: 'Vespas',
@@ -103,15 +103,6 @@ export const linhagens: Linhagem[] = [
     imagemCapa: '/images/vespas/capa.png',
     tema: '#557e8a',
     criaturas: ['vespescudo', 'vesplebeu','vespaleiro', 'nobrespa', 'vespreiro', 'vesplorde', 'realespa', 'vespalgoz'],
-  },
-  {
-    id: 'carrapatos',
-    nome: 'Carrapatos',
-    insetoBase: 'carribal',
-    descricao: descricaoCarrapatos,
-    imagemCapa: '/images/carrapatos/capa.png',
-    tema: '#6f5846',
-    criaturas: ['carribal', 'mascapato', 'carrabrigo'],
   },
   {
     id: 'pulgas',
@@ -123,31 +114,51 @@ export const linhagens: Linhagem[] = [
     criaturas: ['larvobo', 'escapulgo', 'saltimbulga', 'abracabulga'],
   },
   {
-    id: 'mosquitos',
-    nome: 'Mosquitos',
-    insetoBase: 'morticle',
-    descricao: descricaoMosquitos,
-    imagemCapa: '/images/mosquitos/capa.png',
-    tema: '#557e8a',
-    criaturas: ['morticula', 'criptulo', 'mosferatu'],
+    id: 'pulgoes',
+    nome: 'Pulgões',
+    insetoBase: 'pulguito',
+    descricao: descricaoPulgoes,
+    imagemCapa: '/images/pulgoes/capa.png',
+    tema: '#9AAA45',
+    criaturas: ['pulguito', 'pulgordo', 'pulgante'],
+  },
+
+  {
+    id: 'aranhas',
+    nome: 'Aranhas',
+    insetoBase: 'vudulha',
+    descricao: descricaoAranhas,
+    imagemCapa: '/images/aranhas/capa.png',
+    tema: '#6B3A78',
+    criaturas: ['vudulha', 'aracromante', 'barantula'],
   },
   {
-    id: 'gafanhotos',
-    nome: 'Gafanhotos',
-    insetoBase: 'gafamelo',
-    descricao: descricaoGafanhotos,
-    imagemCapa: '/images/gafanhotos/capa.png',
-    tema: '#79953e',
-    criaturas: ['gafamelo', 'beduinhoto', 'gafindin'],
+    id: 'carrapatos',
+    nome: 'Carrapatos',
+    insetoBase: 'carribal',
+    descricao: descricaoCarrapatos,
+    imagemCapa: '/images/carrapatos/capa.png',
+    tema: '#6f5846',
+    criaturas: ['carribal', 'mascapato', 'carrabrigo'],
   },
   {
-    id: 'moscas',
-    nome: 'Moscas',
-    insetoBase: 'tapuli',
-    descricao: descricaoMoscas,
-    imagemCapa: '/images/moscas/capa.png',
-    tema: '#5c4b3a',
-    criaturas: ['tapuli','pupula', 'shogulo', 'moshinobi', 'moscaville', 'vareninja'],
+    id: 'escorpioes',
+    nome: 'Escorpiões',
+    insetoBase: 'escorpete',
+    descricao: descricaoEscorpioes,
+    imagemCapa: '/images/escorpioes/capa.png',
+    tema: '#8B3028',
+    criaturas: ['escorpete', 'escormonio', 'escorzebu'],
+  },
+
+  {
+    id: 'cupins',
+    nome: 'Cupins',
+    insetoBase: 'kurupim',
+    descricao: descricaoCupins,
+    imagemCapa: '/images/cupins/capa.png',
+    tema: '#b17845',
+    criaturas: ['kurupim', 'guaripim', 'tuipim', 'mboitapim', 'kuxapima', 'kupinguari'],
   },
   {
     id: 'louva-deus',
@@ -167,24 +178,7 @@ export const linhagens: Linhagem[] = [
     tema: '#49505a',
     criaturas: ['roninfa', 'gusokulo', 'kabutouro'],
   },
-  {
-    id: 'aranhas',
-    nome: 'Aranhas',
-    insetoBase: 'vudulha',
-    descricao: descricaoAranhas,
-    imagemCapa: '/images/aranhas/capa.png',
-    tema: '#6B3A78',
-    criaturas: ['vudulha', 'aracromante', 'barantula'],
-  },
-  {
-    id: 'escorpioes',
-    nome: 'Escorpiões',
-    insetoBase: 'escorpete',
-    descricao: descricaoEscorpioes,
-    imagemCapa: '/images/escorpioes/capa.png',
-    tema: '#8B3028',
-    criaturas: ['escorpete', 'escormonio', 'escorzebu'],
-  },
+
   {
     id: 'borboletas',
     nome: 'Borboletas',
@@ -193,5 +187,42 @@ export const linhagens: Linhagem[] = [
     imagemCapa: '/images/borboletas/capa.png',
     tema: '#C49A32',
     criaturas: ['lagracia', 'crisanto', 'serafleta'],
+  },
+  {
+    id: 'mariposas',
+    nome: 'Mariposas',
+    insetoBase: 'serpreita',
+    descricao: descricaoMariposas,
+    imagemCapa: '/images/mariposas/capa.png',
+    tema: '#4A365F',
+    criaturas: ['serpreita', 'maligroso', 'mortiposa'],
+  },
+  {
+    id: 'mosquitos',
+    nome: 'Mosquitos',
+    insetoBase: 'morticle',
+    descricao: descricaoMosquitos,
+    imagemCapa: '/images/mosquitos/capa.png',
+    tema: '#557e8a',
+    criaturas: ['morticula', 'criptulo', 'mosferatu'],
+  },
+
+  {
+    id: 'gafanhotos',
+    nome: 'Gafanhotos',
+    insetoBase: 'gafamelo',
+    descricao: descricaoGafanhotos,
+    imagemCapa: '/images/gafanhotos/capa.png',
+    tema: '#79953e',
+    criaturas: ['gafamelo', 'beduinhoto', 'gafindin'],
+  },
+  {
+    id: 'moscas',
+    nome: 'Moscas',
+    insetoBase: 'tapuli',
+    descricao: descricaoMoscas,
+    imagemCapa: '/images/moscas/capa.png',
+    tema: '#5c4b3a',
+    criaturas: ['tapuli','pupula', 'shogulo', 'moshinobi', 'moscaville', 'vareninja'],
   },
 ]

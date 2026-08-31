@@ -67,5 +67,9 @@
   "borboletas": [
     { "imagem": "/images/borboletas/capa.png", "titulo": "Terra das Flores Douradas", "descricao": "" },
     { "imagem": "/images/borboletas/conceito001.png", "titulo": "Casulo-Pupa", "descricao": "" }
+  ],
+  "pulgoes": [
+    { "imagem": "/images/pulgoes/capa.png", "titulo": "Dia a dia dos Pulgordos", "descricao": "" },
+    { "imagem": "/images/pulgoes/conceito01.png", "titulo": "Em sua tranquilidade", "descricao": "" }
   ]
 }

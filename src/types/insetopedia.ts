@@ -14,6 +14,8 @@ export type LinhagemId =
   | 'aranhas'
   | 'escorpioes'
   | 'borboletas'
+  | 'pulgoes'
+  | 'mariposas'
 
 export type InsetoId = string
 
