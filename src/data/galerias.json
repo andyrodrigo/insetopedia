@@ -63,5 +63,9 @@
     { "imagem": "/images/escorpioes/conceito001.png", "titulo": "Abrigo encontrado", "descricao": "" },
     { "imagem": "/images/escorpioes/capa.png", "titulo": "Maternidade", "descricao": "" },
     { "imagem": "/images/escorpioes/conceito003.png", "titulo": "O ataque de um Escorzebu", "descricao": "" }
+  ],
+  "borboletas": [
+    { "imagem": "/images/borboletas/capa.png", "titulo": "Terra das Flores Douradas", "descricao": "" },
+    { "imagem": "/images/borboletas/conceito001.png", "titulo": "Casulo-Pupa", "descricao": "" }
   ]
 }

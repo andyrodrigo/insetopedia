@@ -1515,6 +1515,122 @@ Quando perguntadas para onde estão indo, a resposta é sempre a mesma:
 As Lagrácias passam a infância inteira falando sobre esse lugar. As Serafletas passam a vida inteira afirmando estar a caminho dele.
 
 Até hoje, porém, nenhum outro inseto jamais encontrou a Terra das Flores Douradas.`;
+const descricaoJulgarta = `Julgartas são ensinadas desde a infância sobre a Palavra da Vida e seguem seus ensinamentos à risca, acreditando que somente através da obediência absoluta estarão preparadas para a Grande Transformação. Diferentemente de outras lagartas, porém, acreditam que apenas a transformação de sua própria linhagem é verdadeira. As demais seriam imitações ou falsas transformações e, por isso, não veem qualquer razão para espalhar a Palavra da Vida entre outros insetos.
+Isso não significa que sejam indiferentes à maneira como os outros vivem.
+Julgartas são grandes observadoras e julgadoras do comportamento alheio, frequentemente condenando e recriminando qualquer atitude que considerem contrária aos seus ensinamentos. Poucas criaturas recebem tanta reprovação quanto suas vizinhas, as Salikartas. Para as Julgartas, a coloração negra e os espinhos vermelhos dessas lagartas são sinais evidentes de uma natureza maligna, e a rivalidade entre as duas populações alimenta um conflito que parece não ter fim.
+Muitos desses confrontos terminam com Julgartas mortas pelo veneno de suas adversárias. Incapazes de enfrentar sozinhas inimigos tão numerosos, estabeleceram uma aliança com as Formilitares, que auxiliam na defesa de seu território e em sua interminável guerra contra aqueles que consideram inimigos.
+Esse território é chamado de Caligo. As Julgartas realizam ali seus principais ritos no início da manhã e no fim da tarde, justamente quando uma intensa luz dourada atravessa seu território.
+Para elas, não existe qualquer dúvida sobre a origem desse fenômeno.
+A luz vem da Terra das Flores Douradas.`;
+const descricaoCrisalianca = `Quando uma Julgarta está completamente desenvolvida e preparada para a Grande Transformação, precisa passar pelo Ritual da Aliança. Durante vários dias recebe das demais uma farta alimentação e, ao final desse período, todos os chifres de seu corpo são removidos. Então faz sua aliança: promete seguir para sempre a Palavra da Vida e obedecer às Fariletas mais velhas e de maior hierarquia quando finalmente completar sua transformação.
+Seu corpo começa então a formar a Crisaliança.
+A estrutura resultante está entre os casulos mais duros e resistentes conhecidos, e completar a transformação em seu interior não é tarefa simples. Os ferimentos provocados pelo ritual podem matar algumas Julgartas antes mesmo que o processo termine. Outras aparentemente não encontram espaço suficiente para se desenvolver ou simplesmente não conseguem romper a rígida estrutura quando chega o momento de emergir.
+Segundo as Fariletas, porém, a explicação é outra.
+Elas ensinam que toda Julgarta é julgada enquanto permanece dentro da Crisaliança. Aquelas que seguiram rigidamente a Palavra da Vida e permaneceram verdadeiramente fiéis à sua promessa são aceitas pela Aliança e conseguem completar a Grande Transformação. As que morrem ou jamais conseguem sair simplesmente não foram consideradas dignas.
+Não haveria, portanto, nada que pudesse ter sido feito por elas.
+As Crisalianças são mantidas nas entradas de grandes árvores consideradas sagradas nas terras de Caligo, onde permanecem protegidas durante meses. Fariletas experientes costumam observá-las atentamente e afirmam conseguir reconhecer, pelo tempo transcorrido e por seu olhar inquisidor, quando uma transformação não terá sucesso.
+Quando chegam a essa conclusão, derramam sobre a Crisaliança um líquido que endurece sua superfície definitivamente.
+Aquelas das quais uma Farileta emerge deixam para trás apenas a lembrança do ritual. As que nunca se abrem, entretanto, permanecem intactas e tornam-se objetos extremamente valiosos, guardados como tesouros pelas Fariletas.
+Seu valor ultrapassa os limites de Caligo. Crisalianças são utilizadas como mercadoria para obter recursos de outros povos e, principalmente, para sustentar a presença das Formilitares que auxiliam na defesa de seu território. Por isso, Fariletas são extremamente cuidadosas com sua coleção.
+E possuem bons motivos.
+Poucas coisas atraem mais rapidamente a atenção de Baratunos e Cucarachas do que descobrir onde uma Farileta guarda suas Crisalianças.`;
+const descricaoFarileta = `Nada escapa ao olhar das Fariletas. Os enormes olhos representados em suas asas podem parecer assustadores, mas aqueles que convivem com elas costumam considerar muito mais intimidador o verdadeiro Olhar Inquisidor.
+Fariletas possuem uma capacidade visual extraordinária. Conseguem observar o ambiente em diferentes ângulos, identificar padrões quase imperceptíveis na natureza e enxergar espectros de luz invisíveis para muitos outros insetos. Segundo elas, essa percepção também permite algo ainda mais importante: descobrir quem um inseto realmente é.
+Basta olhar.
+Por isso, Fariletas raramente hesitam em dizer exatamente o que enxergam em alguém. Afirmam ser capazes de perceber o mal escondido nas criaturas, em seus comportamentos e até em características de seus próprios corpos.
+Os chifres das Julgartas são um exemplo. Para as Fariletas, elas nascem com essas estruturas como sinal de que ainda carregam um fardo que as impede de alcançar a Terra das Flores Douradas. Somente uma vida de rígida obediência à Palavra da Vida pode prepará-las para o momento em que finalmente removerão esse peso durante o Ritual da Aliança e estarão prontas para a verdadeira Grande Transformação.
+Nas terras de Caligo, o julgamento das Fariletas possui força muito maior que uma simples opinião.
+Elas governam as comunidades estabelecidas em seu território e decidem conflitos através de julgamentos raramente contestados. As Fariletas mais antigas e influentes formam a Grande Aliança, responsável por determinar os rumos de Caligo e interpretar aquilo que seus extraordinários olhos revelam.
+Sua influência também ultrapassa as fronteiras.
+Ao viajar para outras regiões, Fariletas frequentemente carregam consigo valiosas Crisalianças. Sua riqueza permite estabelecer alianças com líderes estrangeiros, oferecer recursos e auxílio e conquistar privilégios em troca de favores. Algumas tornam-se tão influentes que passam a exercer grande poder mesmo sobre comunidades muito distantes de sua terra natal.
+Mas talvez nenhuma visão das Fariletas seja mais importante que aquela que possuem da própria Terra das Flores Douradas.
+Segundo elas, essa terra não existe em algum lugar distante. Ela ocupa exatamente o mesmo mundo que Caligo, mas permanece escondida em outro espectro, invisível aos olhos daqueles incapazes de percebê-la. Uma Farileta precisa apenas mudar sua maneira de enxergar para contemplá-la.
+Em determinados momentos do dia, porém, os dois lugares se aproximam. A luz dourada atravessa Caligo e permite que as Julgartas realizem seus rituais mais próximas da terra que esperam alcançar depois da Grande Transformação.
+A Grande Aliança afirma enxergar ainda outra verdade.
+A Terra das Flores Douradas não termina nas fronteiras de Caligo.
+Ela continua pelas terras vizinhas.
+Por isso, segundo as Fariletas, Caligo também deverá continuar avançando até que suas fronteiras finalmente coincidam com aquilo que elas conseguem enxergar.
+A esse futuro inevitável dão o nome de Grande Caligo.`;
+const descricaoSalikarta = `Salikartas são ensinadas desde a infância sobre a Palavra da Vida e seguem seus ensinamentos à risca, acreditando que somente através da obediência absoluta estarão preparadas para a Grande Transformação. Diferentemente de outras lagartas, sabem que nem todo inseto é capaz de passar por ela e, por isso, são bastante seletivas ao decidir com quem compartilhar seus ensinamentos.
+Isso acaba fazendo pouca diferença.
+A aparência das Salikartas faz com que poucos insetos tenham coragem de se aproximar. Seus numerosos falsos espinhos vermelhos são frequentemente confundidos com estruturas venenosas, apesar das próprias Salikartas insistirem que são completamente inofensivos.
+O problema é que as Salikartas realmente são venenosas.
+Sua rigorosa alimentação, determinada pelas doutrinas da Palavra da Vida, torna seus corpos tóxicos. Predadores que tentam devorá-las podem terminar gravemente envenenados, assim como inimigos que as ferem durante um confronto. Naturalmente, isso apenas reforça entre outros insetos a crença de que o veneno está nos espinhos.
+As Salikartas mantêm uma guerra interminável contra as Julgartas pela posse de Caligo. Segundo suas histórias, o território pertenceu originalmente a elas, até que foram expulsas após um grande ataque das Formilitares. Desde então, permanecem espalhadas pelas regiões ao redor de Caligo, tornando qualquer tentativa de expulsá-las particularmente difícil: mesmo quando uma Salikarta é morta, seu agressor pode acabar envenenado durante o confronto.
+Apesar de terem perdido o território, jamais se afastam da região.
+As Salikartas acreditam que a Terra das Flores Douradas um dia começará a brotar em algum lugar próximo de Caligo e, a partir dali, suas flores se espalharão por todo o mundo. As Profeletas afirmam que isso somente acontecerá quando as Julgartas não estiverem mais naquela terra.
+Quando esse dia chegar, segundo elas, as flores finalmente poderão se expandir e todos os insetos poderão compartilhá-las juntos.`;
+const descricaoCrisaaba = `Nas regiões ao redor de Caligo existe um lugar sagrado para as Salikartas. Ali, enormes cipós cresceram entrelaçados de tal maneira que, quando observados à distância, parecem formar um gigantesco casulo natural.
+O lugar é conhecido como Cipó-Pupa.
+Toda Salikarta é aconselhada a alimentar-se bem quando sente que sua Grande Transformação se aproxima e, quando finalmente estiver preparada, iniciar uma peregrinação até o Cipó-Pupa. Ao chegar, escala seus enormes cipós em busca de um espaço onde possa se fixar e formar sua própria Crisaaba.
+O resultado transformou o lugar em uma paisagem difícil de encontrar em qualquer outra região.
+Centenas de Crisaabas permanecem presas aos cipós, espalhando seus padrões escuros e dourados por toda a estrutura. Mesmo insetos que não seguem a Palavra da Vida costumam considerar o Cipó-Pupa um dos lugares mais belos que podem visitar.
+Uma Salikarta permanece dentro de sua Crisaaba por pelo menos um ano. Não existe, entretanto, um período máximo conhecido. Entre elas, acredita-se que quanto mais longa for a transformação, maior será a sabedoria da criatura que um dia emergirá.
+Apesar da guerra constante nas regiões próximas de Caligo, insetos de diferentes espécies ainda fazem longas viagens para contemplar o Cipó-Pupa. Os mais afortunados podem até presenciar o raro momento em que uma Crisaaba finalmente se abre.
+A beleza do lugar, entretanto, deve ser apreciada com certa distância.
+Salikartas continuam perigosamente tóxicas durante sua transformação e, ocasionalmente, uma Crisaaba libera ao redor de si uma pequena quantidade de gás venenoso. Com centenas delas concentradas no mesmo lugar, aproximar-se demais pode transformar uma peregrinação contemplativa em um acidente bastante desagradável.
+Isso não impede os mais curiosos.
+Nenhuma Crisaaba possui exatamente os mesmos padrões dourados de outra. Alguns visitantes acreditam que essas formas escondem mensagens que podem ser lidas, e passam horas observando-as na tentativa de encontrar algum significado.
+Os mais corajosos chegam ainda mais perto.
+Nem todos consideram a mensagem que encontram digna do risco.`
+const descricaoProfeleta = `Profeletas estão entre as mais majestosas das borboletas. Suas enormes asas são maiores que as de qualquer outra espécie conhecida e fazem com que dificilmente passem despercebidas. Elas governam boa parte dos territórios ao redor de Caligo, procurando manter a estabilidade das comunidades e preservar a convivência entre os diferentes insetos que habitam a região.
+Seus olhos são capazes de enxergar espectros de luz invisíveis para muitas outras criaturas. Segundo as Profeletas, essa capacidade permite perceber padrões e mensagens escondidos pela própria natureza.
+Nenhum lugar parece revelar tantas mensagens quanto as Crisaabas.
+Depois da Grande Transformação, uma Profeleta costuma reunir outros insetos para contar aquilo que afirma ter compreendido durante o período em que permaneceu dentro de sua Crisaaba. Também interpreta os padrões encontrados em outras delas, tratando suas formas como mensagens que podem revelar acontecimentos do passado, advertências sobre o futuro, conselhos e novas interpretações da Palavra da Vida.
+Nem sempre é fácil compreender aquilo que uma Profeleta anuncia.
+Algumas mensagens são simples e diretas. Outras são tão enigmáticas que podem ser discutidas durante anos sem que se chegue a um consenso sobre seu verdadeiro significado. Por acumularem e interpretarem essas revelações, as Profeletas são consideradas por muitos insetos as grandes guardiãs do conhecimento.
+A Grande Transformação elimina os falsos espinhos que tornavam as Salikartas tão assustadoras, mas não elimina sua toxicidade. Profeletas continuam venenosas, embora sua aparência majestosa faça com que sejam muito mais facilmente aceitas e ouvidas por outros insetos.
+Algumas utilizam essa característica de maneira bastante extrema.
+Há Profeletas que interpretam suas revelações como um chamado para libertar Caligo e, por isso, juntam-se aos confrontos contra as Julgartas. Não são guerreiras particularmente habilidosas, mas derrotar uma delas pode ter um preço alto: seu corpo continua venenoso, e um inimigo que a morde ou fere durante o combate pode morrer pouco depois de conseguir sua vitória.
+Nem todos acreditam que as mensagens das Profeletas realmente venham da natureza. Alguns afirmam que seus padrões podem ser interpretados de inúmeras maneiras e que as próprias Profeletas enxergam neles aquilo que esperam encontrar.
+Ainda assim, algumas de suas profecias mais conhecidas aparentemente se realizaram, tornando difícil ignorá-las completamente.
+Entre todas, nenhuma é repetida com tanta convicção quanto aquela que anuncia o futuro surgimento da Terra das Flores Douradas.
+Para as Profeletas, existe uma evidência bastante simples de que esse acontecimento ainda está por vir:
+ninguém jamais encontrou a Terra das Flores Douradas.
+Se ela não existe em nenhum lugar do mundo presente, dizem elas, então só pode existir no mundo que ainda está por vir.`
+const descricaoMaligarta= ``;
+const descricaoSerpetrea= ``;
+const descricaoTrevoleta= ``;
+
+const descricaoPulguito = `Pulguitos nascem em famílias tão numerosas que dificilmente conseguem lembrar quem são todos os seus irmãos — e, às vezes, nem mesmo os nomes deles.
+Isso pouco importa. Entre os Pulgordos, toda a comunidade participa da criação dos filhotes. Pulguitos tratam praticamente qualquer adulto como se fosse um de seus pais, enquanto os mais velhos chamam qualquer Pulguito de filho, independentemente de quem realmente pertença à sua família.
+De natureza alegre e brincalhona, passam grande parte do dia correndo, explorando e brincando por toda a comunidade. Em muitos territórios, o som de seus gritos, risadas e pequenas patas correndo de um lado para o outro é considerado uma maneira bastante confiável de medir a felicidade da população.
+Por isso, mesmo as lideranças menos preocupadas com o bem-estar dos Pulgordos costumam fazer questão de proporcionar aos Pulguitos a melhor infância possível.
+Existe uma razão muito prática para isso.
+Quando crescem felizes, bem alimentados e protegidos, Pulguitos desenvolvem corpos grandes e arredondados e tornam-se Pulgordos. Quando passam a infância com pouco alimento, sem abrigo adequado ou em condições ruins, porém, seus corpos permanecem mais magros e pequenas asas começam a surgir em suas costas.
+É o primeiro sinal de que aquele Pulguito se tornará um Pulgante.
+Pulguitos alados crescerão inquietos, questionadores e rebeldes e, mais cedo ou mais tarde, provavelmente abandonarão o território onde nasceram. Para muitas lideranças, poucas coisas são tão preocupantes quanto perceber pequenas asas aparecendo nas costas das crianças de sua população.
+Curiosamente, os Pulguitos possuem uma enorme capacidade de adaptação. Mesmo quando nascem em comunidades cruéis, onde Pulgordos são mantidos como escravos ou criados como alimento por insetos predadores, rapidamente aprendem a considerar aquela realidade normal.
+Mas existem coisas às quais nem mesmo um Pulguito consegue se acostumar.
+Falta de comida, ausência de abrigo e, principalmente, não poder brincar.
+Quando uma comunidade enfrenta uma crise e pequenos pares de asas começam a aparecer por toda parte, é comum que suas lideranças tomem medidas desesperadas para acalmar os Pulguitos enquanto procuram uma solução para os problemas do território.
+Uma das mais conhecidas é chamar os famosos circos de Saltimbulgas.
+Poucas coisas conseguem fazer uma comunidade de Pulguitos esquecer seus problemas tão rapidamente.
+Pulguitos adoram Saltimbulgas.`;
+const descricaoPulgordo = `Pode-se dizer que o mundo pertence aos Pulgordos. Eles estão entre os insetos mais numerosos e abundantes que existem, espalhados por praticamente todos os lugares e convivendo lado a lado com as mais diferentes espécies. Dependendo de onde vivem, podem ser trabalhadores, aliados, vizinhos, escravos ou, em alguns casos, até mesmo comida.
+Pulgordos são extremamente pacíficos, facilmente manipuláveis e trabalhadores incansáveis, apesar de sua aparência lenta e desajeitada. Não possuem grandes ambições. Tudo o que esperam é encontrar um lugar seguro onde possam se alimentar, trabalhar e criar suas numerosas famílias.
+São capazes de realizar praticamente qualquer trabalho braçal em troca de alimento e abrigo, embora seja especialmente comum encontrá-los trabalhando como agricultores. Existe até a crença de que o tamanho dos Pulgordos revela a prosperidade de uma comunidade: quanto mais gordos eles forem, melhores provavelmente são as condições daquele lugar.
+As Formilitares mantêm uma aliança perpétua com incontáveis populações de Pulgordos. Em praticamente todos os territórios sob seu domínio, eles constituem grande parte da população e recebem proteção em troca de seu trabalho. Sua presença é tão aceita entre as Formilitares que os Pulgordos possuem acesso até mesmo aos túneis protegidos abaixo das trincheiras.
+Nem todos, porém, encontram lugares tão seguros para viver.
+Sua natureza pacífica faz deles presas extremamente fáceis. Vespaleiros frequentemente os capturam para utilizá-los como escravos, enquanto algumas espécies mantêm verdadeiras fazendas de Pulgordos, oferecendo alimento e abrigo para que suas populações cresçam antes de, ocasionalmente, devorar alguns deles.
+Estranhamente, nem mesmo isso costuma ser suficiente para fazê-los abandonar um território.
+Enquanto houver alimento, algum abrigo e espaço para continuar criando suas famílias, os Pulgordos permanecerão por perto.
+E continuarão se multiplicando.`;
+const descricaoPulgante = `Quando as condições de uma comunidade começam a piorar, algo curioso acontece entre os Pulgordos. Alguns Pulguitos passam a crescer de maneira diferente: seus corpos tornam-se mais magros e grandes asas começam a se desenvolver. É assim que surgem os Pulgantes.
+Ao contrário dos pacíficos e trabalhadores Pulgordos, Pulgantes são inquietos, reclamões e possuem enorme aversão ao trabalho. Dificilmente aceitam em silêncio aquilo que consideram injusto e sua natureza rebelde frequentemente acaba provocando revoltas não apenas entre os Pulgordos, mas também entre outros insetos insatisfeitos da comunidade.
+Por esse motivo, Pulgantes costumam estar entre os primeiros a serem perseguidos ou utilizados como exemplo por lideranças cruéis. Isso raramente resolve o problema. Outros Pulgantes aparecem, os Pulgordos começam a se agitar e aquilo que inicialmente parecia apenas a reclamação de alguns indivíduos pode terminar em uma grande revolução.
+Quando o caos finalmente se instala, porém, os Pulgantes fazem aquilo que sabem fazer melhor.
+Voam embora.
+Grupos inteiros partem em busca de lugares mais tranquilos e prósperos onde possam se estabelecer. Curiosamente, apesar de sua fama de rebeldes e encrenqueiros, Pulgantes migratórios costumam ser recebidos com toda a hospitalidade possível. Muitas comunidades chegam a convidá-los para permanecer definitivamente.
+Todos conhecem a razão.
+Quando encontram alimento abundante, segurança e boas condições de vida, seus descendentes deixam de desenvolver asas. A geração seguinte será formada principalmente pelos dóceis, trabalhadores e numerosos Pulgordos.
+Os próprios Pulgantes sabem disso e costumam explicar a história de seu povo através de um antigo ditado:
+“Lugares fáceis criam Pulgordos. Pulgordos demais fazem lugares difíceis. Lugares difíceis geram Pulgantes. E Pulgantes encontram lugares fáceis.”
+E então tudo começa novamente.`;
+
+const descricaoSerpreita= ``;
+const descricaoMaligroso= ``;
+const descricaoMoriposa= ``;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -2619,6 +2735,86 @@ export const insetos: Inseto[] = [
     tags: ['borboletas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'crisanto', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'julgarta',
+    nome: 'Julgarta',
+    nomeIngles: '',
+    imagem: '/images/borboletas/julgarta.png',
+    descricao: descricaoJulgarta,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'crisalianca', tipo: 'linear' }],
+  },
+  {
+    id: 'crisalianca',
+    nome: 'Crisaliança',
+    nomeIngles: '',
+    imagem: '/images/borboletas/crisalianca.png',
+    descricao: descricaoCrisalianca,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'farileta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'julgarta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'farileta',
+    nome: 'Farileta',
+    nomeIngles: '',
+    imagem: '/images/borboletas/farileta.png',
+    descricao: descricaoFarileta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'crisalianca', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'salikarta',
+    nome: 'Salikarta',
+    nomeIngles: '',
+    imagem: '/images/borboletas/salikarta.png',
+    descricao: descricaoSalikarta,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'crisaaba', tipo: 'linear' }],
+  },
+  {
+    id: 'crisaaba',
+    nome: 'Crisaaba',
+    nomeIngles: '',
+    imagem: '/images/borboletas/crisaaba.png',
+    descricao: descricaoCrisaaba,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'profeleta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'salikarta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'profeleta',
+    nome: 'Profeleta',
+    nomeIngles: '',
+    imagem: '/images/borboletas/profeleta.png',
+    descricao: descricaoProfeleta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'crisaaba', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
 ]
