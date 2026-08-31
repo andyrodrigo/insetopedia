@@ -186,7 +186,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBorboletas,
     imagemCapa: '/images/borboletas/capa.png',
     tema: '#C49A32',
-    criaturas: ['lagracia', 'crisanto', 'serafleta'],
+    criaturas: ['lagracia', 'crisanto', 'serafleta','salikarta','crisaaba','profeleta','julgarta','crisalianca','farileta','maligarta','serpetrea','trevoleta'],
   },
   {
     id: 'mariposas',
