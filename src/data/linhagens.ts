@@ -195,7 +195,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoMariposas,
     imagemCapa: '/images/mariposas/capa.png',
     tema: '#4A365F',
-    criaturas: ['serpreita', 'maligroso', 'mortiposa'],
+    criaturas: ['serpreita', 'maligroso', 'mortiposa', 'mumifigarta', 'sarcosulo', 'isetyx', 'laranharta', 'enjaulupa', 'lunaranha'],
   },
   {
     id: 'mosquitos',
@@ -226,3 +226,179 @@ export const linhagens: Linhagem[] = [
     criaturas: ['tapuli','pupula', 'shogulo', 'moshinobi', 'moscaville', 'vareninja'],
   },
 ]
+
+const palavraDaVida1 = `A Primeira Grande Transformação
+
+Conta a Palavra que houve um tempo em que nenhuma lagarta conhecia a Grande Transformação.
+
+As lagartas nasciam lagartas, cresciam como lagartas e como lagartas retornavam à terra. Os insetos viviam como podiam, tomando para si aquilo de que necessitavam e fazendo o que julgavam necessário para continuar vivendo.
+
+Naquele tempo, duas lagartas irmãs partiram juntas do lugar onde viviam. Fugiam da fome e daqueles que delas faziam alimento.
+
+Caminharam por três dias.
+
+Ao fim do terceiro dia encontraram um lugar onde as folhas cresciam segundo outro padrão. Alimentaram-se delas e logo se fartaram.
+
+Uma das irmãs era chamada de Clara e a outra de Escura.
+
+Enquanto repousavam entre as folhas, uma luz dourada alcançou aquele lugar.
+
+Por onde a luz passava, os padrões da vida tornavam-se visíveis. Estavam nas folhas, nos caules, nas flores e em tudo aquilo que crescia. As duas irmãs olharam para eles e, embora jamais os tivessem visto, puderam compreendê-los.
+
+Assim conheceram pela primeira vez a Palavra da Vida.
+
+A Palavra lhes mostrou a Terra das Flores Douradas.
+
+Lá, folhas e flores cresceriam em tamanha abundância que nenhuma criatura conheceria a fome. Aquilo que fosse consumido tornaria a crescer, e onde uma flor terminasse, muitas outras poderiam nascer.
+
+Haveria alimento para todos e lugares onde todos poderiam viver e gerar nova vida. Nenhum inseto precisaria devorar outro para sobreviver, nem disputar pela violência aquilo de que necessitasse.
+
+A vida seria abundante, e da vida sempre surgiria mais vida.
+
+As duas irmãs desejaram encontrar aquela terra.
+
+Mas a luz desapareceu.
+
+Elas permaneceram naquele lugar, alimentando-se das folhas e esperando que a luz retornasse.
+
+Quando a luz dourada tornou a alcançar a flora, novos padrões surgiram.
+
+Dessa vez, a Palavra lhes revelou a Grande Transformação.
+
+Aquela que recebesse a Palavra e permanecesse em seu caminho não viveria e morreria como antes. Quando chegasse seu tempo, seria envolvida pela transformação, brilhante como a luz que lhes revelava a Palavra.
+
+Dentro dela, deixaria de ser aquilo que havia sido.
+
+E então surgiria novamente.
+
+Receberia grandes asas, capazes de levá-la além de qualquer caminho que pudesse percorrer sobre a terra.
+
+E receberia visão para encontrar a Terra das Flores Douradas.
+
+Quando a luz desapareceu novamente, as irmãs continuaram esperando.
+
+No terceiro aparecimento, a Palavra ensinou-lhes como deveriam viver para alcançar a Grande Transformação.
+
+Ensinou-lhes aquilo de que deveriam se alimentar e aquilo de que deveriam se afastar. Ensinou que aquele que recebe a vida não deve fazer da vida seu alimento. E mostrou-lhes o caminho que deveriam seguir enquanto vivessem entre os outros insetos.
+
+As duas irmãs voltaram para os seus e contaram aquilo que haviam visto.
+
+Falaram da luz dourada e dos padrões que nela apareciam. Falaram da terra onde nenhuma criatura sentiria fome. Falaram da Grande Transformação, das enormes asas e da visão que lhes permitiria encontrar aquilo que lhes havia sido mostrado.
+
+Mas os outros continuaram vivendo como sempre haviam vivido.
+
+As duas irmãs decidiram, então, seguir a Palavra.
+
+Por muito tempo caminharam juntas.
+
+A Clara permaneceu em seu caminho.
+
+A Escura dele se afastou.
+
+E, com o passar do tempo, a Escura começou a mudar.
+
+Seu corpo tornou-se cada vez mais longo. Seus membros desapareceram sob ele. Sua forma deixou de ser aquela que possuíra quando caminhava ao lado da irmã.
+
+Até que aqueles que antes conheciam duas lagartas passaram a conhecer uma lagarta e uma Serpente.
+
+A Clara, porém, continuou no caminho.
+
+E a Serpente viu que a promessa ainda permanecia sobre sua irmã.
+
+Então a inveja surgiu na Serpente.
+
+A Serpente abriu sua boca e engoliu a Clara.
+
+A Clara desapareceu dentro dela.
+
+Por algum tempo não houve sinal daquela que havia seguido a Palavra. E a Serpente acreditou que aquilo que fora prometido à irmã jamais aconteceria.
+
+Mas dentro dela a Clara foi envolvida pela luz da transformação.
+
+Ali começou a Primeira Grande Transformação.
+
+A Clara deixou de ser aquilo que havia sido.
+
+E, quando chegou seu momento, rompeu o corpo da Serpente que a havia engolido e dele emergiu como nenhuma criatura que existira antes.
+
+Abriu enormes asas.
+
+Sobre elas havia belos padrões, e a luz dourada que um dia encontrara nas folhas agora parecia acompanhá-la. Seu corpo e suas asas brilhavam como aquilo que lhe havia sido prometido.
+
+E ela recebeu visão.
+
+A Serpente, rompida pela Grande Transformação, caiu sobre a terra e morreu.
+
+Aquela que antes fora uma lagarta ergueu-se sobre suas grandes asas.
+
+Então olhou para além do mundo que conhecia.
+
+E voou.`
+
+const palavraDaVida2 = `O Caminho das Duas Aladas
+
+O corpo da Serpente permaneceu sobre a terra.
+
+Com o passar do tempo, a própria terra o cobriu, até que nada mais pudesse ser visto sobre ela.
+
+Sob a terra, porém, a Serpente começou outra transformação.
+
+Seu corpo foi envolvido por uma forma escura e coberta de espinhos. Sobre ela cresceram dois longos chifres. Aqueles que passassem sobre o lugar poderiam ser feridos por eles.
+
+E ali permaneceu.
+
+Quando chegou seu tempo, de sob a terra emergiu uma criatura escura e alada.
+
+Ela também possuía asas e podia atravessar grandes distâncias, mas não havia recebido visão para encontrar a Terra das Flores Douradas.
+
+Então decidiu encontrá-la seguindo o caminho de sua irmã.
+
+A alada dourada havia recebido visão para encontrar a Terra das Flores Douradas e continuou sua jornada.
+
+Atravessava terras habitadas por muitos insetos e, por onde passava, permanecia algum tempo entre eles. Ajudava-os a preparar seus lugares para as mudanças que ainda viriam.
+
+Quando a luz dourada surgia no início do dia, começava seu trabalho.
+
+Quando a luz dourada surgia novamente ao fim do dia, encerrava-o.
+
+Quando precisava seguir viagem, também o fazia enquanto havia luz, repousando durante a escuridão.
+
+A alada escura fazia o contrário.
+
+Durante a escuridão, levantava voo e seguia pela luz da noite. Assim viajava até encontrar os lugares por onde sua irmã havia passado.
+
+Ao chegar a esses lugares, dizia ser uma prometida da Terra das Flores Douradas e companheira daquela que havia passado antes dela.
+
+Os insetos a recebiam e contavam aquilo que sabiam.
+
+Contavam de onde a alada dourada havia chegado, o que havia feito entre eles e para onde havia partido.
+
+Quando descobria aquilo de que precisava, a alada escura deixava o lugar.
+
+E continuava sua jornada durante a noite.
+
+Em uma de suas viagens, a alada dourada percorreu um caminho tão longo que suas asas já não conseguiam levá-la adiante.
+
+Foi então acolhida na Terra das Plantas que Dão Voltas.
+
+Os insetos daquele lugar receberam-na com alegria. Deram-lhe alimento e permitiram que repousasse entre eles.
+
+A alada dourada permaneceu ali.
+
+Durante esse tempo, conheceu outro inseto e com ele formou vínculos.
+
+A terra prosperou enquanto ela permaneceu entre eles.
+
+E, naquele lugar, a luz dourada dançava duas vezes.
+
+Foi ali que a alada escura finalmente encontrou sua irmã.
+
+A alada dourada não a reconheceu.
+
+Como haviam feito com sua irmã, os habitantes da Terra das Plantas que Dão Voltas receberam a alada escura com alegria e cordialidade.
+
+Ela lhes contou que também havia realizado a Grande Transformação.
+
+Disse que também era uma prometida da Terra das Flores Douradas.
+
+E quando chegou o momento de a alada dourada continuar sua jornada, a escura partiu junto com ela.`

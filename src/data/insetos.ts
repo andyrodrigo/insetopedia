@@ -1627,6 +1627,144 @@ Esses relatos alimentam ainda mais as histórias sobre a presença constante da 
 Para quem conhece essas histórias, descobrir que uma figura semelhante às antigas descrições esteve dentro de sua comunidade e que ninguém tentou detê-la parece uma confirmação difícil de ignorar.
 Por isso, comunidades visitadas por uma Mortiposa frequentemente se tornam mais suscetíveis aos ensinamentos da Palavra da Vida. Seus habitantes sabem que alguma coisa aconteceu. Sabem que uma criatura desconhecida caminhou entre eles. Alguns conseguem descrever suas asas, seu corpo negro e, principalmente, algo branco em seu rosto.
 O que ninguém consegue explicar é por que simplesmente permitiram que ela estivesse ali.`;
+const descricaoMumifigarta = `É recomendado se afastar ao encontrar uma Mumifigarta ou mesmo sinais de sua presença. À primeira vista, parecem inofensivas, apesar da aparência desagradável. Movem-se pouco, passam longos períodos se alimentando no mesmo lugar e seguem lentamente para o próximo, sempre parcialmente enroladas em sua própria seda.
+
+Mumifigartas não costumam demonstrar agressividade. O que assusta é seu comportamento peculiar. Podem permanecer quase imóveis por horas e, repentinamente, realizar movimentos rápidos e inesperados. Sua vocalização lembra os ruídos de um inseto agonizante, acompanhados ocasionalmente por uma risada lenta e perturbadora.
+
+Mas não se engane pensando que isso as torna criaturas pouco inteligentes.
+
+Mumifigartas nascem de dentro dos corpos de insetos mortos, e tudo em suas vidas parece girar em torno da morte. Durante boa parte da fase de lagarta, alimentam-se exclusivamente de plantas. Em algum momento, porém, esse comportamento muda.
+
+A Mumifigarta escolhe um local e prepara uma armadilha com sua seda. Quando outro inseto fica preso, ela se aproxima lentamente e começa a envolvê-lo com novos fios, reforçando a armadilha até que qualquer tentativa de fuga se torne impossível.
+
+Então espera.
+
+Ela não mata sua presa. Permanece próxima, observando-a por dias, até que morra sozinha. Há relatos de Mumifigartas que parecem rir enquanto observam o inseto definhar.
+
+Somente depois da morte ela se alimenta.
+
+A Mumifigarta abre uma passagem no abdômen do cadáver, devora seu interior e entra no exoesqueleto vazio.`;
+const descricaoSarcosulo = `Quando uma Mumifigarta está pronta para se transformar, ela captura um inseto maior que si e começa a preparar seu Sarcosulo.
+
+Primeiro, envolve a vítima em uma espessa bolsa de seda. Depois, abre seu abdômen e se alimenta lentamente de seu interior, até que reste apenas o exoesqueleto vazio. A Mumifigarta então entra no cadáver e permanece ali para iniciar sua transformação.
+
+O resultado possui duas camadas de proteção. Por fora, há um resistente invólucro de seda, difícil de romper. Por dentro, o exoesqueleto da própria vítima protege a criatura durante sua transformação. O conjunto é chamado de Sarcosulo.
+
+Diz a lenda que abrir um Sarcosulo traz anos de azar. Por isso, mesmo quando encontrados aparentemente abandonados, poucos insetos ousam tocar neles.
+
+Aqueles que abrem um encontram, sob a seda, uma criatura cadaverizada, imóvel dentro dos restos de sua vítima. Dizem que, se ela abrir os olhos e enxergar quem perturbou seu descanso, não importa para onde esse inseto fuja: jamais escapará daquilo que um dia sairá de lá.
+
+Sarcosulos também podem ser encontrados abertos e vazios.
+
+Esses são considerados ainda piores.
+
+Afinal, significa que aquilo que estava lá dentro já saiu.
+
+E talvez ainda esteja por perto.`;
+const descricaoIsetyx = `Isetyx é um inseto alado, branco e de aparência fantasmagórica que vaga durante a noite. Durante o dia, permanece adormecida, despertando apenas quando a escuridão chega e começa sua busca por vítimas.
+
+Apesar das grandes asas, seu voo é lento e cansado. Acredita-se que isso aconteça porque a Isetyx não consegue se alimentar e passou tempo demais imóvel dentro de seu Sarcosulo.
+
+Ela não possui boca. Tudo que a mantém viva vem do alimento acumulado antes de sua transformação.
+
+Por isso, uma Isetyx vive apenas alguns dias.
+
+Mas isso não serve de consolo para os outros insetos. Para muitos, encontrar uma Isetyx é a última coisa que acontecerá em suas vidas.
+
+A criatura possui um único objetivo durante sua curta existência: reproduzir.
+
+À noite, procura insetos que caminham sozinhos. Quando encontra um possível parceiro, aproxima-se lentamente e inicia uma encantadora dança de corte. Seus movimentos, suas asas abertas e sua aparência são descritos como irresistíveis. Enfeitiçado, o inseto aceita seu chamado e os dois acasalam naquela mesma noite.
+
+Ele não verá o amanhecer.
+
+O parceiro morre durante a noite nupcial, e seu corpo torna-se o depósito para o ovo de uma nova Mumifigarta. Quando a pequena criatura nascer, encontrará ao seu redor seu primeiro alimento.
+
+A Isetyx então parte imediatamente em busca do próximo parceiro. Não há descanso: cada noite pode ser sua última.
+
+Algumas produzem armadilhas de seda para impedir que seus pretendentes escapem. Outras utilizam o círculo de seda preso entre suas antenas para refletir a luz da lua, atraindo insetos para o lugar onde aguardam.
+
+Mas, quando finalmente se revela, armadilhas raramente são necessárias.
+
+Dizem que nenhum inseto consegue resistir à beleza de uma Isetyx quando ela abre suas asas e começa a se mover sob a luz da lua.
+
+É uma dança de corte, prazer e reprodução.
+
+Uma dança de prazer e morte.`;
+const descricaoLaranharta = `Para os insetos, aranhas são vistas com muita desconfiança e possuem uma péssima reputação devido à aparência assustadora, ao modo como se alimentam e à sua cultura considerada bizarra. Mas as Laranhartas conseguem ser ainda mais mal faladas do que elas.
+
+Conta-se que a primeira Laranharta foi uma lagarta amaldiçoada por um poderoso Aracromante, tornando-se uma mistura de lagarta e aranha. Segundo a lenda, desde então as Laranhartas precisam se alimentar de outros insetos, capturando e devorando aqueles que encontram pelo caminho.
+
+Elas andam de maneira estranha, lembrando aranhas. Quando encontram outro inseto, podem levantar parte do corpo e suas longas patas peludas, exibindo uma aparência ameaçadora. Se o inseto fugir, uma Laranharta assustada pode persegui-lo, fazendo-o correr desesperadamente.
+
+Alguns insetos corajosos tentam enfrentá-las. Nesse caso, porém, a Laranharta pode liberar ao seu redor uma nuvem de pelos extremamente irritantes, tornando a aproximação perigosa.
+
+Há quem diga que ser mordido por uma Laranharta ou atingido por seus pelos transmite sua maldição. Os primeiros sintomas seriam coceira e irritação pelo corpo, seguidos lentamente pela transformação do inseto em uma aranha. Por isso, acredita-se que o tratamento deva começar imediatamente, antes que a transformação se torne irreversível.
+
+Laranhartas vivem isoladas e praticamente ninguém deseja ter contato com elas. Sua aparência e seu comportamento defensivo costumam ser suficientes para manter qualquer um afastado.
+
+Existe, porém, um relato famoso que contradiz boa parte dessas histórias.
+
+Durante uma perseguição, um inseto chamado Percevus acabou preso durante uma noite inteira em um buraco junto de uma Laranharta. Segundo ele, depois que percebeu que não havia como escapar, descobriu que a criatura não demonstrava qualquer intenção de devorá-lo. Parecia apenas uma lagarta extremamente introvertida e assustada, que reagia agressivamente sempre que acreditava estar em perigo.
+
+Os dois permaneceram no buraco durante a noite e chegaram a se alimentar das mesmas plantas. Quando finalmente conseguiram sair, simplesmente seguiram caminhos diferentes.
+
+O relato de Percevus mudou a lenda em algumas regiões, mas não exatamente da maneira que ele esperava.
+
+Passou-se a dizer que Laranhartas só devoram insetos em determinadas noites, sob luas específicas.
+
+O medo continuou.`;
+const descricaoEnjaulupa = `Quando a Laranharta já não consegue mais conter seus instintos de transformação, procura o lugar mais isolado que puder encontrar e começa a construir sua própria contenção.
+
+Durante muito tempo, trabalha sua seda até formar uma estrutura rendada extremamente resistente. Ela precisa ser forte o bastante para impedir que qualquer inseto consiga penetrá-la e, principalmente, para garantir que aquilo que surgir após sua transformação não consiga sair de dentro.
+
+Quando a contenção finalmente está pronta, a Laranharta entra e começa a preparar uma segunda camada de proteção. Reveste o próprio corpo com mais seda e libera seus pelos, deixando-os presos por toda a superfície da pupa. Dessa forma, mesmo algum inseto audacioso o bastante para alcançar uma Enjaulupa terá bons motivos para não tocá-la.
+
+A estrutura normalmente é construída suspensa em lugares altos, isolados e de difícil acesso.
+
+As precauções são extremamente eficazes para manter predadores, curiosos e outros insetos afastados. Durante um longo período, a Enjaulupa permanece pendurada e praticamente intocada enquanto a transformação acontece silenciosamente em seu interior.
+
+Quanto à capacidade de manter o resultado da transformação preso, porém, a história é outra.
+
+Em uma noite de lua cheia, quando finalmente se completa a metamorfose, alguma coisa desperta dentro da Enjaulupa.
+
+Está faminta.
+
+Está desesperada para sair.
+
+A contenção que a Laranharta passou tanto tempo construindo é violentamente arrebentada de dentro para fora, e a criatura que estava aprisionada ali escapa e desaparece voando pela noite.
+
+Por isso, encontrar uma Enjaulupa intacta é motivo para manter distância.
+
+Encontrar uma Enjaulupa arrebentada no chão é um sinal de perigo muito maior.`;
+const descricaoLunaranha = `A Lunaranha é uma das criaturas mais temidas pelos insetos. Uma aberração assustadora que muitos descrevem simplesmente como uma aranha alada, maior e mais forte que uma Barântula.
+
+Mas há uma diferença importante entre elas. Enquanto Barântulas demonstram consciência e possuem seus próprios hábitos e comportamentos, a Lunaranha parece passar boa parte da vida dominada por instintos que nem ela própria compreende.
+
+Seu primeiro momento de vida é também um dos mais perigosos.
+
+Assim que termina sua transformação, a Lunaranha desperta faminta dentro da Enjaulupa. Ela arrebenta a contenção construída pela própria Laranharta e imediatamente parte em busca de um inseto para se alimentar.
+
+Seu ataque é brutal. O enorme tamanho, as patas peludas e as poderosas garras tornam extremamente difícil contê-la. Somente depois de conseguir alimento a criatura parece finalmente se acalmar.
+
+Então procura algum reduto solitário e passa a viver afastada dos demais. Durante boa parte do tempo, há relatos de Lunaranhas alimentando-se tranquilamente de plantas e evitando outros insetos.
+
+Seu comportamento, porém, possui uma estranha relação com os ciclos da Lua.
+
+Durante a Lua Minguante, pode ser encontrada vagando pelas noites de maneira confusa. Sua simples aparição costuma provocar pânico, embora normalmente só ataque quando se sente ameaçada.
+
+Durante a Lua Nova, desaparece completamente. Ninguém sabe para onde vão as Lunaranhas nessas noites.
+
+Com a Lua Crescente, tornam-se inquietas. Voam durante a noite por grandes distâncias procurando uma parceira ou parceiro.
+
+Mas é durante a Lua Cheia que todo inseto aprende a temê-las.
+
+Alguma coisa parece tomar conta da Lunaranha. Seu comportamento muda, seus instintos se sobrepõem a qualquer outra coisa e surge uma necessidade incontrolável de se alimentar.
+
+Ela caça.
+
+E continua caçando.
+
+Até que a noite termine, deixando um rastro de corpos por onde passou.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -2891,6 +3029,86 @@ export const insetos: Inseto[] = [
     tags: ['mariposas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'maligroso', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'mumifigarta',
+    nome: 'Mumifigarta',
+    nomeIngles: 'Mummifillar',
+    imagem: '/images/mariposas/mumifigarta.png',
+    descricao: descricaoMumifigarta,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'sarcosulo', tipo: 'linear' }],
+  },
+  {
+    id: 'sarcosulo',
+    nome: 'Sarcosulo',
+    nomeIngles: 'Sarcocoon',
+    imagem: '/images/mariposas/sarcosulo.png',
+    descricao: descricaoSarcosulo,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'isetyx', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'mumifigarta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'isetyx',
+    nome: 'Isetyx',
+    nomeIngles: 'Isetyx',
+    imagem: '/images/mariposas/isetyx.png',
+    descricao: descricaoIsetyx,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'sarcosulo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'laranharta',
+    nome: 'Laranharta',
+    nomeIngles: 'Werespider',
+    imagem: '/images/mariposas/laranharta.png',
+    descricao: descricaoLaranharta,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'enjaulupa', tipo: 'linear' }],
+  },
+  {
+    id: 'enjaulupa',
+    nome: 'Enjaulupa',
+    nomeIngles: 'Encagecoon',
+    imagem: '/images/mariposas/enjaulupa.png',
+    descricao: descricaoEnjaulupa,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'lunaranha', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'laranharta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'lunaranha',
+    nome: 'Lunaranha',
+    nomeIngles: 'Lunarachnid',
+    imagem: '/images/mariposas/lunaranha.png',
+    descricao: descricaoLunaranha,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'enjaulupa', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
