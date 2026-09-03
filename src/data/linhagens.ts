@@ -150,7 +150,6 @@ export const linhagens: Linhagem[] = [
     tema: '#8B3028',
     criaturas: ['escorpete', 'escormonio', 'escorzebu'],
   },
-
   {
     id: 'cupins',
     nome: 'Cupins',
@@ -195,7 +194,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoMariposas,
     imagemCapa: '/images/mariposas/capa.png',
     tema: '#4A365F',
-    criaturas: ['serpreita', 'maligroso', 'mortiposa', 'mumifigarta', 'sarcosulo', 'isetyx', 'laranharta', 'enjaulupa', 'lunaranha'],
+    criaturas: ['serpreita', 'maligroso', 'mortiposa', 'carnicalha', 'mortume', 'decreptera', 'decrepteramacho', 'mumifigarta', 'sarcosulo', 'isetyx', 'laranharta', 'enjaulupa', 'lunaranha'],
   },
   {
     id: 'mosquitos',

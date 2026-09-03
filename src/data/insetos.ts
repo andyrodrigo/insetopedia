@@ -1627,6 +1627,43 @@ Esses relatos alimentam ainda mais as histórias sobre a presença constante da 
 Para quem conhece essas histórias, descobrir que uma figura semelhante às antigas descrições esteve dentro de sua comunidade e que ninguém tentou detê-la parece uma confirmação difícil de ignorar.
 Por isso, comunidades visitadas por uma Mortiposa frequentemente se tornam mais suscetíveis aos ensinamentos da Palavra da Vida. Seus habitantes sabem que alguma coisa aconteceu. Sabem que uma criatura desconhecida caminhou entre eles. Alguns conseguem descrever suas asas, seu corpo negro e, principalmente, algo branco em seu rosto.
 O que ninguém consegue explicar é por que simplesmente permitiram que ela estivesse ali.`;
+const descricaoCarnicalha = `A Carniçalha vive nos territórios das Aracromantes, participando ativamente de sua cultura e compartilhando seus costumes, entre eles o de se alimentar exclusivamente de outros insetos. Normalmente, uma lagarta seria tratada como refeição ou sacrifício pelo Coven, mas uma Carniçalha que não cometa nenhuma transgressão é aceita como membro da comunidade.
+
+Ela caça junto às Aracromantes, participa dos mesmos rituais de alimentação e ajuda a cuidar e proteger seus ninhos.
+
+A Carniçalha veste-se com uma mortalha de seda que ela mesma produz, decorando-a com pedaços dos insetos mortos durante as refeições compartilhadas. É extremamente criteriosa e escolhe cuidadosamente cada peça que fará parte de sua mortalha. Por isso, poucas visões são tão aterradoras quanto uma pequena lagarta caminhando sob um enorme manto carregado de restos mortais.
+
+Carniçalhas possuem grande apreço por decorações fúnebres e frequentemente são responsáveis por ornamentar as teias nas entradas dos territórios das Aracromantes. Cabeças, asas, pernas e outros restos são cuidadosamente posicionados como decoração e, principalmente, como aviso para quem se aproxima.
+
+Ninguém sabe como essa estranha aliança começou, mas a Carniçalha tornou-se uma das poucas lagartas de mariposa conhecidas por viver em comunidade.`;
+const descricaoMortume = `Quando envelhece e já não consegue carregar a enorme coleção de partes de insetos de sua mortalha, a Carniçalha reorganiza cuidadosamente seus restos e os prende com novas camadas de seda, formando uma espécie de casulo mortuário conhecido como Mortume.
+
+Lá dentro, sua transformação ocorre lentamente. É uma das metamorfoses mais demoradas conhecidas, podendo levar anos para terminar. Durante esse tempo, o Mortume acaba incorporado às próprias decorações fúnebres do Coven das Aracromantes.
+
+As Vudulhas costumam tecer novas teias ao seu redor, formando longas linhas onde penduram bonecos de gravetos, amuletos e outras pequenas decorações. Com o passar dos anos, é comum que todos simplesmente se acostumem com sua presença e quase se esqueçam de que ainda existe algo se transformando lá dentro.
+
+Mas um dia as teias começam a tremer.
+
+Os bonecos pendurados balançam, chocando-se uns contra os outros e produzindo estranhos sons e vibrações por todo o emaranhado. Para as Aracromantes, esse é o sinal de que o Mortume finalmente está próximo de se abrir.
+
+O Coven então se reúne e aguarda ansiosamente pelo novo membro, preparando um grande ritual de renascimento.
+
+Quando finalmente se rompe, o Mortume deixa para trás apenas sua velha pilha de restos, seda e decorações acumuladas durante anos.
+
+Uma lembrança de que aquilo que foi esquecido nem sempre deixou de existir.`;
+const descricaoDecreptera = `Um Coven de Aracromantes geralmente possui apenas uma ou, no máximo, duas Decrépteras. As fêmeas costumam ser mais robustas, com cores claras e desbotadas, enquanto os machos são mais magros e escuros, além de possuírem um padrão diferente no abdômen. Independentemente do sexo, as Decrépteras emergem do Mortume já extremamente velhas e cansadas — e, contraditoriamente, podem viver por muitos anos.
+
+Diferentemente de quando era uma Carniçalha, a Decréptera possui uma alimentação predominantemente herbívora. Sua boca envelhecida e seu organismo já não lidam tão bem com a carne de outros insetos, tornando esse tipo de alimentação difícil e desgastante. Por isso, prefere folhas e outros alimentos vegetais, embora ainda coma insetos quando sua participação em algum ritual do Coven exige.
+
+Também se tornam mais isoladas. Costumam construir seus abrigos no interior de árvores altas, onde recebem ocasionalmente a visita de membros do Coven. Raramente descem até a comunidade, fazendo isso principalmente durante cerimônias e dias ritualísticos.
+
+A Decréptera exerce uma função especial entre as Aracromantes: utilizando restos dos mortos, ela é capaz de ler o futuro dos insetos e alertar o Coven sobre catástrofes e maus presságios. Diz-se que seus muitos anos vasculhando cadáveres lhe deram sabedoria suficiente para reconhecer, entre ossadas e restos mortais, os padrões ocultos do destino.
+
+Uma única Decréptera pode acompanhar várias gerações do Coven. Por isso, muitas Aracromantes que recorrem aos seus conselhos sequer eram nascidas quando ela ainda caminhava entre elas como uma Carniçalha.
+
+Sua fama ultrapassa os territórios das Aracromantes. Mesmo conhecendo os perigos de atravessá-los, alguns insetos de fora se arriscam até o abrigo de uma Decréptera na esperança de conhecer o próprio futuro.
+
+Geralmente, a Decréptera aceita realizar a leitura em troca de alguma coisa. Ainda assim, procurar seus serviços nunca é totalmente seguro. Mesmo que ela própria já não tenha grande interesse em comer outros insetos, nada impede que considere o visitante uma oferenda adequada para algum ritual — ou simplesmente um bom jantar para as Aracromantes.`;
 const descricaoMumifigarta = `É recomendado se afastar ao encontrar uma Mumifigarta ou mesmo sinais de sua presença. À primeira vista, parecem inofensivas, apesar da aparência desagradável. Movem-se pouco, passam longos períodos se alimentando no mesmo lugar e seguem lentamente para o próximo, sempre parcialmente enroladas em sua própria seda.
 
 Mumifigartas não costumam demonstrar agressividade. O que assusta é seu comportamento peculiar. Podem permanecer quase imóveis por horas e, repentinamente, realizar movimentos rápidos e inesperados. Sua vocalização lembra os ruídos de um inseto agonizante, acompanhados ocasionalmente por uma risada lenta e perturbadora.
@@ -3029,6 +3066,60 @@ export const insetos: Inseto[] = [
     tags: ['mariposas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'maligroso', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'carnicalha',
+    nome: 'Carniçalha',
+    nomeIngles: 'Shroudead',
+    imagem: '/images/mariposas/carnicalha.png',
+    descricao: descricaoCarnicalha,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'mortume', tipo: 'linear' }],
+  },
+  {
+    id: 'mortume',
+    nome: 'Mortume',
+    nomeIngles: 'Corpsile',
+    imagem: '/images/mariposas/mortume.png',
+    descricao: descricaoMortume,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'decreptera', tipo: 'linear' }, { insetoId: 'decrepteramacho', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'carnicalha', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'decreptera',
+    nome: 'Decréptera',
+    nomeIngles: 'Decreptera',
+    imagem: '/images/mariposas/decreptera.png',
+    descricao: descricaoDecreptera,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'mortume', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'decrepteramacho',
+    nome: 'Decréptera',
+    nomeIngles: 'Decreptera',
+    imagem: '/images/mariposas/decreptera2.png',
+    descricao: descricaoDecreptera,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'mortume', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
