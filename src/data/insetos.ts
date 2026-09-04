@@ -1802,6 +1802,84 @@ Ela caça.
 E continua caçando.
 
 Até que a noite termine, deixando um rastro de corpos por onde passou.`;
+const descricaoWendivora = `Dizem que a primeira Wendívora foi uma lagarta que, incapaz de encontrar alimento durante um inverno rigoroso, acabou devorando outra lagarta. Aquele primeiro ato de canibalismo teria mudado sua natureza para sempre.
+
+Seu corpo é longo, pálido e fino, semelhante a um galho seco caído. Os ovos das Wendívoras eclodem durante o inverno, e desde cedo elas aprendem a viver no frio e na privação. Movem-se o mínimo possível, permanecendo imóveis enquanto esperam que algum inseto cruze seu caminho.
+
+Seu formato faz com que sejam facilmente confundidas com simples galhos. Quando uma presa se aproxima ou toca seu corpo, porém, a Wendívora ataca com velocidade impressionante, agarrando-a com suas garras e devorando-a desesperadamente.
+
+Dizem que a Fome da Wendívora nunca passa — apenas aumenta. Ela é eternamente insaciável. Mesmo logo após se alimentar ou em períodos de abundância, continua caçando e devorando qualquer inseto que encontre, tornando-se cada vez maior à medida que se alimenta.
+
+Sua mordida é tão fria quanto sua atitude, e suas garras extremamente afiadas perfuram com facilidade o exoesqueleto de outros insetos. Uma vez capturada, é muito difícil para uma presa escapar.
+
+Uma das poucas maneiras de distingui-la de um galho comum é pelo cheiro de carniça que carrega consigo. Ainda assim, o melhor é observar cuidadosamente onde se pisa durante o fim do outono e, principalmente, durante o inverno.`;
+const descricaoRestritupa = `Quando atinge o tamanho adequado, deixando várias mudas menores pelo caminho ao longo de sua vida, a Wendívora se contorce completamente e se transforma em uma Restritupa.
+
+A Restritupa representa para ela um terrível período de privação. Presa lá dentro, não consegue fazer nada além de observar sua comida passando diante de seus olhos enquanto sua fome insaciável a consome.
+
+O tempo de transformação varia de acordo com cada Wendívora. Ela permanece confinada pelo tempo que for necessário para aprender a controlar seu desejo incontrolável de comer. Somente quando isso finalmente acontece sua transformação se completa.
+
+Mesmo assim, conquistar a liberdade não é fácil.
+
+Para sair, ela precisa forçar uma abertura na própria Restritupa. A estrutura foi formada para conter completamente uma lagarta ainda maior do que ela própria aparenta ser, e rompê-la exige um enorme esforço. Eventualmente, porém, ela encontra uma saída e finalmente se liberta das amarras de que precisava.`;
+const descricaoHematocrata = `Não existe mariposa mais simpática e elegante que uma Hematocrata. Ela possui um ar de inseto nobre e costuma ser muito cortês com os outros insetos. Pode viver dentro de comunidades ou manter-se mais afastada, mas costuma visitar a comunidade local e, às vezes, ajuda trazendo recursos dos mais variados tipos.
+
+Hematocratas são insetos noturnos, nunca sendo vistos durante o dia. Acostumados com o frio do inverno desde a fase de lagarta, dizem que permanecem em seus abrigos porque o calor do sol os incomoda bastante. Durante a noite, podem ser vistos voando elegantemente pelo céu e, quando precisam escapar de predadores, conseguem se camuflar como folhas usando o verso de suas asas.
+
+Apesar de toda essa gentileza incomum em uma mariposa, uma Hematocrata às vezes apresenta o olhar de alguém que está se contendo, como se desejasse algo que não pudesse demonstrar em público.
+
+Uma Hematocrata só entra no abrigo de outro inseto quando é convidada.
+
+Infelizmente, ela ainda precisa dos fluidos de outros insetos para sobreviver. Por isso, às vezes devora uma presa ou apenas se alimenta de sua hemolinfa, perfurando seu corpo com as presas afiadas e utilizando a tromba para sugá-la.
+
+Insetos que sobreviveram a esses ataques às vezes não conseguem se lembrar direito do que aconteceu. Outros se recordam e chegam a acusar uma Hematocrata de tê-los atacado.
+
+A reputação das Hematocratas, porém, costuma ser inabalável.
+
+E, curiosamente, insetos que insistem demais nessas acusações às vezes acabam desaparecendo.`;
+const descricaoZunambularva = `As Entérreas são lagartas que passam grande parte de suas vidas no subsolo. Levam uma vida relativamente comum, construindo abrigos subterrâneos e alimentando-se de raízes e outros recursos de origem vegetal.
+
+Embora não formem comunidades próprias, costumam participar da vida agrícola de comunidades conjuntas de insetos, ajudando a fertilizar o solo e comercializando os recursos que encontram debaixo da terra.
+
+Entretanto, o modo de vida das Entérreas favorece o contato com alguma coisa maldita que existe no solo.
+
+De vez em quando, uma delas começa a agir de maneira estranha, apresentando comportamentos que fogem aos padrões sociais. No início, não é fácil perceber o que está acontecendo. A Entérrea parece apenas doente, mas, com o passar do tempo, começa a se comportar como se já não tivesse plena consciência de seus próprios atos.
+
+Nesse estado, passa a perseguir outros insetos, surgindo debaixo da terra e grunhindo coisas sem sentido. É quando passam a chamá-la de Zunambularva.
+
+Embora o mal costume surgir primeiro entre as Entérreas, ele não permanece restrito a elas. A Zunambularva passa a perseguir e atacar outros insetos e, quando consegue agarrar uma vítima, tenta feri-la repetidamente. Durante o ataque, alguma coisa parece ser deixada em seu corpo, como se tivesse sido plantada ali. Os insetos que conseguem escapar muitas vezes acreditam ter sobrevivido, até começarem a apresentar os mesmos comportamentos algum tempo depois, independentemente da espécie a que pertençam.
+
+Nos estágios mais avançados, alguma coisa começa a crescer para fora da cabeça da Zunambularva. Ela continua vagando e agindo de maneira errática enquanto consegue se mover, até finalmente morrer, completamente paralisada pela criatura que tomou seu corpo.
+
+Uma única Zunambularva representa um enorme perigo para qualquer colônia ou comunidade de insetos. Quando uma é identificada, deve ser eliminada imediatamente, antes que o contágio consiga se espalhar.
+
+Há comunidades que já foram inteiramente devastadas por esse mal. Quando outros insetos finalmente chegaram até elas, encontraram apenas seus habitantes imóveis, com estranhas criaturas crescendo de seus corpos.`;
+const descricaoEsporantalho = `Esporantalho é o nome dado à forma final da criatura que cresce no corpo dos insetos contaminados pelo mal das Zunambularvas.
+
+Ele se desenvolve sobre o corpo de seu hospedeiro, assumindo uma forma assustadora que costuma espantar imediatamente os insetos que já aprenderam a reconhecer sua silhueta — e, infelizmente, contaminar aqueles que nunca a viram antes.
+
+Nesse estágio, o Esporantalho já não pode controlar seu hospedeiro para perseguir e atacar outros insetos. Em vez disso, quando percebe alguma criatura próxima, libera uma grande quantidade de esporos ao seu redor. Se algum deles atingir outro inseto, o mal da Zunambularva pode começar a se desenvolver também naquele corpo.
+
+Qualquer inseto que morra como Zunambularva e permaneça intocado por tempo suficiente acabará desenvolvendo um Esporantalho. Mas existe uma situação ainda pior: quando o hospedeiro estava próximo de se transformar em pupa.
+
+Independentemente do estágio da contaminação, se o inseto iniciar sua transformação, o Esporantalho toma conta do processo. Em vez de uma metamorfose normal, surge uma criatura ainda maior e mais assustadora. As Pupoterradas estão entre as mais atingidas, pois as próprias Entérreas possuem maior chance de já carregarem o mal quando chega o momento de sua transformação.
+
+Ao encontrar um Esporantalho pelo caminho, o melhor é manter a maior distância possível. Nem mesmo é necessário tocá-lo: o vento pode carregar seus esporos malditos até outros insetos.
+
+Quando muitos Esporantalhos surgem em uma mesma região, permanecer ali pode se tornar impossível. Lugares assim costumam ser abandonados por tempo indeterminado, até que seja considerado seguro retornar.`;
+const descricaoAssombralada = `Quando a vida de uma Entérrea segue seu ciclo normal, sem qualquer contaminação, uma Assombralada nasce de dentro da Pupoterrada.
+
+Elas sempre emergem durante a noite, e presenciar esse momento pode ser um grande susto para quem não está acostumado. Como a Pupoterrada permanece escondida no subsolo, a Assombralada parece simplesmente surgir de dentro da terra, abrindo suas grandes asas brancas e voando de maneira errática em direção ao céu noturno.
+
+A Assombralada não possui boca e, por isso, não consegue se comunicar como muitos outros insetos. Em vez disso, produz vibrações que resultam em sons estranhos e inquietantes, capazes de causar calafrios em quem os escuta pela primeira vez.
+
+Assim que deixam o solo, começam quase imediatamente a procurar por parceiros. Durante essa busca, parecem ignorar completamente os insetos de outras espécies, passando por eles como se não estivessem ali — quase como se pertencessem a outro mundo.
+
+À noite, é possível vê-las subindo e descendo repetidamente no ar, enquanto produzem seus sons vibracionais na tentativa de atrair outras Assombraladas. A visão de suas formas completamente brancas pairando na escuridão já foi responsável por muitos sustos e até pesadelos entre outros insetos.
+
+Apesar de sua aparência e comportamento assustadores, não existe nada de maligno nas Assombraladas. Seu comportamento tem uma explicação bastante simples: elas possuem apenas poucos dias de vida e sequer são capazes de se alimentar. Todo o curto período de sua existência adulta é dedicado a encontrar um parceiro e se reproduzir.
+
+Entender isso, entretanto, não torna menos assustador ver uma delas surgindo inesperadamente do chão no meio da noite.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3203,6 +3281,89 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'wendivora',
+    nome: 'Wendívora',
+    nomeIngles: 'Wendigore',
+    imagem: '/images/mariposas/wendivora.png',
+    descricao: descricaoWendivora,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'restritupa', tipo: 'linear' }],
+  },
+  {
+    id: 'restritupa',
+    nome: 'Restritupa',
+    nomeIngles: 'Restrictupa',
+    imagem: '/images/mariposas/restritupa.png',
+    descricao: descricaoRestritupa,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'hematocrata', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'wendivora', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'hematocrata',
+    nome: 'Hematocrata',
+    nomeIngles: 'Hematocrat',
+    imagem: '/images/mariposas/hematocrata.png',
+    descricao: descricaoHematocrata,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'restritupa', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  //Entérrea (Buriarth)
+  {
+    id: 'zunambularva',
+    nome: 'Zunambularva',
+    nomeIngles: 'Zomnambularva',
+    imagem: '/images/mariposas/zunambularva.png',
+    descricao: descricaoZunambularva,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'esporantalho', tipo: 'linear' }],
+  },
+  //Pupoterrada (Pupentombed)
+  {
+    id: 'esporantalho',
+    nome: 'Esporantalho',
+    nomeIngles: 'Sporescrow',
+    imagem: '/images/mariposas/esporantalho.png',
+    descricao: descricaoEsporantalho,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'assombralada', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'zunambularva', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'assombralada',
+    nome: 'Assombralada',
+    nomeIngles: 'Phaunted',
+    imagem: '/images/mariposas/assombralada.png',
+    descricao: descricaoAssombralada,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'esporantalho', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+
+  {
     id: 'pulguito',
     nome: 'pulguito',
     nomeIngles: 'Aphiling',
@@ -3243,4 +3404,3 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'especial',
   },
 ]
-
