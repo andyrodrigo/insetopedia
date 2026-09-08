@@ -1698,11 +1698,11 @@ Esses são considerados ainda piores.
 Afinal, significa que aquilo que estava lá dentro já saiu.
 
 E talvez ainda esteja por perto.`;
-const descricaoIsetyx = `Isetyx é um inseto alado, branco e de aparência fantasmagórica que vaga durante a noite. Durante o dia, permanece adormecida, despertando apenas quando a escuridão chega e começa sua busca por vítimas.
+const descricaoIsetyx = `Isetyx é um inseto feminino, alado, branco e de aparência fantasmagórica que vaga durante a noite. Durante o dia, permanece adormecida, despertando apenas quando a escuridão chega e começa sua busca por parceiros.
 
-Apesar das grandes asas, seu voo é lento e cansado. Acredita-se que isso aconteça porque a Isetyx não consegue se alimentar e passou tempo demais imóvel dentro de seu Sarcosulo.
+Apesar das grandes asas, seu voo é lento e cansado. Acredita-se que isso aconteça porque Isetyx não consegue se alimentar e passou tempo demais imóvel dentro de seu Sarcosulo.
 
-Ela não possui boca. Tudo que a mantém viva vem do alimento acumulado antes de sua transformação.
+Ela não possui boca. Tudo o que a mantém viva vem do alimento acumulado antes de sua transformação.
 
 Por isso, uma Isetyx vive apenas alguns dias.
 
@@ -1710,23 +1710,184 @@ Mas isso não serve de consolo para os outros insetos. Para muitos, encontrar um
 
 A criatura possui um único objetivo durante sua curta existência: reproduzir.
 
-À noite, procura insetos que caminham sozinhos. Quando encontra um possível parceiro, aproxima-se lentamente e inicia uma encantadora dança de corte. Seus movimentos, suas asas abertas e sua aparência são descritos como irresistíveis. Enfeitiçado, o inseto aceita seu chamado e os dois acasalam naquela mesma noite.
+Quando a noite chega, Isetyx começa a liberar um poderoso feromônio pelo ambiente. Machos de diversas espécies conseguem percebê-lo a grandes distâncias e parecem incapazes de ignorar seu chamado. Mesmo sem saber exatamente o que procuram, seguem o rastro até encontrá-la.
+
+Quando um possível parceiro finalmente se aproxima, Isetyx abre suas grandes asas brancas e se movimenta lentamente sob a luz da lua. Sua aparência apenas reforça a impressão de encantamento, mas é o perfume liberado por seu corpo que torna sua presença praticamente irresistível.
+
+O inseto aceita seu chamado e os dois acasalam naquela mesma noite.
 
 Ele não verá o amanhecer.
 
-O parceiro morre durante a noite nupcial, e seu corpo torna-se o depósito para o ovo de uma nova Mumifigarta. Quando a pequena criatura nascer, encontrará ao seu redor seu primeiro alimento.
+O parceiro morre durante a noite nupcial, e Isetyx deposita um ovo em seu corpo. Ali ele permanece adormecido, cercado pelo alimento que um dia poderá sustentar uma nova Mumifigarta.
 
-A Isetyx então parte imediatamente em busca do próximo parceiro. Não há descanso: cada noite pode ser sua última.
+Isetyx então parte imediatamente em busca do próximo parceiro. Não há descanso: cada noite pode ser sua última.
 
-Algumas produzem armadilhas de seda para impedir que seus pretendentes escapem. Outras utilizam o círculo de seda preso entre suas antenas para refletir a luz da lua, atraindo insetos para o lugar onde aguardam.
+Algumas produzem armadilhas de seda para dificultar a fuga daqueles que conseguem resistir ao chamado. Outras utilizam o círculo de seda preso entre suas antenas para refletir a luz da lua, tornando-se ainda mais fáceis de encontrar na escuridão.
 
-Mas, quando finalmente se revela, armadilhas raramente são necessárias.
+Mas armadilhas raramente são necessárias.
 
-Dizem que nenhum inseto consegue resistir à beleza de uma Isetyx quando ela abre suas asas e começa a se mover sob a luz da lua.
+Dizem que, depois de sentir o perfume de uma Isetyx, poucos insetos conseguem abandonar sua busca. Quando finalmente a encontram de asas abertas sob a luz da lua, muitos acreditam ter sido sua beleza que os levou até ali.
 
-É uma dança de corte, prazer e reprodução.
+Não sabem que já estavam seguindo seu chamado muito antes de vê-la.`;
+const descricaoErubis = `Erubis é uma figura misteriosa entre os insetos. Embora seja o macho de sua linhagem, não possui órgãos reprodutores, fazendo com que Isetyx precise buscar parceiros entre outros insetos.
 
-Uma dança de prazer e morte.`;
+Erubis voa por diferentes lugares coletando diversas substâncias da natureza, como pólen das flores, açúcares de frutas fermentadas e outros materiais encontrados em cadáveres. Ele reúne tudo o que encontra e carrega consigo parte dessas substâncias, inclusive na boca. Estranhamente, nunca parece se alimentar, utilizando a boca apenas para transportar aquilo que coleta.
+
+Nenhum inseto jamais viu Erubis matar alguém. Ainda assim, é comum encontrá-lo revirando cadáveres, o que frequentemente levanta suspeitas sobre o ocorrido e alimenta histórias sobre sua responsabilidade por aquelas mortes.
+
+Erubis é capaz de reconhecer o cheiro deixado por uma Isetyx. Ele não copula com ela, mas observa o acasalamento à distância e espera até que a fêmea deposite seu ovo no corpo do parceiro morto.
+
+Somente então Erubis se aproxima.
+
+Ele encontra o ovo dentro do cadáver e começa a utilizar as substâncias que coletou, preparando alguma coisa em seu interior. Ninguém sabe exatamente o que ele faz ali.
+
+Dizem que, seja lá qual for o procedimento realizado por Erubis, é ele que permite ao ovo finalmente eclodir. Enquanto nenhum Erubis aparece, o ovo permanece adormecido dentro do cadáver.
+
+É como se somente ele fosse capaz de trazer uma Mumifigarta à vida.`;
+const descricaoFalsilha = `O ciclo inteiro da linhagem da Falsilha é uma grande maluquice.
+
+Seus ovos eclodem próximos a colônias de insetos que, por alguma razão desconhecida, possuem uma estranha ligação com elas. Desde que nasce, a pequena larva apresenta cheiro, sons e movimentos praticamente idênticos aos das crias daquela espécie.
+
+Quando encontrada por um adulto, é comum que seja imediatamente recolhida e levada para dentro da colônia como se fosse apenas mais uma larva perdida.
+
+E é aí que começam os problemas.
+
+No início, a Falsilha não passa de mais uma boca a ser alimentada. Entretanto, raramente se contenta em receber o mesmo que as outras. Sua aparência inofensiva e uma extraordinária capacidade de conquistar os adultos fazem com que, pouco a pouco, consiga mais alimento, atenção e privilégios que as demais larvas.
+
+As outras crias não costumam ser tão facilmente encantadas.
+
+Por isso, lugares onde cresce uma Falsilha frequentemente se tornam ambientes de pequenas disputas e rivalidades, muitas delas discretamente provocadas pela própria intrusa. Nos piores casos, outras larvas têm seu desenvolvimento prejudicado enquanto a Falsilha cresce cada vez mais. Existem até relatos de crias inconvenientes que desapareceram ou morreram em circunstâncias estranhas sem que os adultos jamais suspeitassem de sua favorita.
+
+Mas essa boa vida possui prazo determinado.
+
+Quanto mais a Falsilha cresce, mais difícil se torna acreditar que ela pertence àquela colônia. Seu cheiro continua familiar, seus comportamentos ainda parecem corretos e os adultos que cuidaram dela por tanto tempo continuam reconhecendo naquela criatura algo da pequena larva que criaram.
+
+A aparência, entretanto, começa a contar outra história.
+
+A antiga favorita passa a receber olhares demorados e desconfiados. Aos poucos, aprende a evitar os adultos, escondendo-se e permanecendo isolada durante boa parte do tempo, aparecendo principalmente quando precisa ser alimentada.
+
+A colônia continua cuidando dela.
+
+Mas já não parece ter tanta certeza do motivo.`;
+const descricaoAberrosulo = `Conforme cresce, a Falsilha percebe que alguma coisa mudou.
+
+Os adultos que antes disputavam sua atenção passam a observá-la por mais tempo. Alguns hesitam antes de alimentá-la, outros conversam sobre sua aparência quando acreditam estar longe o suficiente para não serem ouvidos. Às vezes, ela percebe que alguém a seguiu depois que tentou se esconder.
+
+Sua audição extraordinariamente apurada torna impossível ignorar essas mudanças. Mesmo isolada, a Falsilha escuta perguntas sobre seu tamanho, seu corpo e o motivo de continuar tão diferente das outras crias.
+
+Ela talvez não compreenda exatamente o que acontecerá quando chegar o momento de sua transformação, mas entende algo muito mais simples:
+
+já não confiam nela.
+
+Por isso, quando sente que a metamorfose se aproxima, não procura ajuda nem tenta realizá-la da maneira como viu outras crias fazerem. Afasta-se e procura o lugar mais escondido que consegue encontrar.
+
+Mas precisa fazer tudo às pressas.
+
+Sem qualquer ensinamento sobre como preparar adequadamente sua transformação, a Falsilha começa a recolher tudo o que encontra ao redor. Folhas, gravetos, fibras e outros materiais são unidos em uma tentativa desesperada de construir uma cobertura onde possa permanecer protegida enquanto estiver indefesa.
+
+O resultado é chamado de Aberrasulo.
+
+Nenhum é exatamente igual ao outro, mas todos possuem a mesma aparência improvisada e inadequada. Partes mal encaixadas, materiais escolhidos sem cuidado e regiões da própria pupa que permanecem expostas denunciam uma construção feita por uma criatura que precisava desaparecer rapidamente.
+
+Muito raramente tudo funciona. O Aberrasulo permanece escondido pelo tempo necessário e a transformação consegue terminar sem ser perturbada.
+
+O mais comum, entretanto, é que seja encontrado.
+
+Durante algum tempo, os habitantes da colônia apenas observam aquela estrutura com estranheza, tentando compreender o que surgiu dentro de seu próprio abrigo. Até que alguém percebe a verdade.
+
+Aquilo era a Falsilha.
+
+A descoberta costuma provocar medo e revolta. Os mesmos insetos que a encontraram pequena, alimentaram, protegeram e acompanharam seu crescimento finalmente compreendem que passaram todo aquele tempo criando uma criatura que nunca pertenceu àquela família.
+
+E, incapaz de fugir ou se defender, o Aberrasulo escuta tudo.
+
+Para a colônia, sua existência e toda a história de sua criação passam a ser vistas como uma grande aberração. Muitos Aberrasulos são destruídos antes que a transformação consiga terminar.
+
+Alguns, entretanto, sobrevivem.`;
+const descricaoFrankaptera = `O nascimento de uma Frankáptera é marcado pela dor e pela rejeição.
+
+Quando percebe que seu Aberrasulo está sendo destruído pelos mesmos insetos que a criaram, ela não possui outra escolha além de interromper a própria transformação. Ainda incompleta, rompe aquilo que resta de sua proteção e emerge antes do momento adequado.
+
+É assim que começa sua nova vida.
+
+Dependendo da espécie que a criou, ela pode terminar ali mesmo. Mas algumas conseguem lutar e fugir às pressas da colônia.
+
+A fuga costuma ser violenta. Sem que suas asas tenham sequer terminado de se formar e ainda carregando características de lagarta misturadas às de uma mariposa adulta, a Frankáptera precisa atravessar um lugar inteiro que até pouco tempo considerava seu lar. Seu tamanho geralmente avantajado lhe dá alguma chance de sobreviver e, durante a tentativa desesperada de encontrar uma saída, pode ferir ou matar alguns daqueles que tentam impedi-la.
+
+As coisas que precisa fazer para escapar jamais são esquecidas.
+
+Toda a atenção e o carinho que recebeu durante a infância rapidamente se tornam lembranças de um passado distante. Para aqueles que a criaram, a criatura que deixou o Aberrasulo já não é a pequena larva que um dia acolheram.
+
+É uma aberração.
+
+A transformação interrompida deixa seu corpo permanentemente incompleto. Alguns membros nunca terminam de se desenvolver, outros permanecem pequenos ou praticamente imóveis, enquanto partes que deveriam existir simplesmente não chegam a se formar. Somam-se a isso as mutilações e cicatrizes adquiridas durante sua fuga.
+
+Algumas Frankápteras tentam corrigir essas imperfeições de uma maneira peculiar.
+
+Utilizando seda, prendem ao próprio corpo partes retiradas de insetos mortos. Uma perna pode ser costurada onde deveria existir um membro que nunca se desenvolveu. Outra pode ser colocada sobre uma perna atrofiada ou imóvel. Antenas, garras e outras estruturas também podem ser adicionadas quando a Frankáptera acredita que alguma coisa está faltando em sua aparência.
+
+Essas partes não voltam à vida e tampouco se tornam verdadeiros membros. A Frankáptera consegue movimentá-las apenas indiretamente, puxando-as através do próprio corpo ou usando-as como extensões rígidas. Muitas são pouco úteis e algumas não possuem função alguma.
+
+Ainda assim, ela continua acrescentando e substituindo partes.
+
+Para a Frankáptera, aquele corpo remendado pode parecer uma tentativa de finalmente possuir tudo aquilo que deveria ter desenvolvido.
+
+Para os outros insetos, o efeito costuma ser exatamente o contrário.
+
+Uma Frankáptera costuma passar a vida sozinha. Quando tenta se aproximar de outros insetos, sua aparência imediatamente provoca medo e repulsa, obrigando-a novamente a fugir ou se esconder.
+
+Para quase todos que a encontram, ela é apenas um monstro.
+
+Poucos imaginariam que, antes de se tornar aquilo, ela já teve uma família.`;
+const descricaoFrankopata = `Frankopatas são extremamente raros.
+
+Eles só conseguem surgir quando um Aberrasulo permanece escondido durante todo o período necessário para que a transformação seja concluída. Quando isso acontece, a criatura que emerge possui vantagens que uma Frankáptera jamais teve oportunidade de desenvolver completamente.
+
+Entre elas estão suas asas e um dos antebraços, cuja extremidade forma uma estrutura longa, rígida e extremamente cortante.
+
+Como todos de sua linhagem, o Frankopata possui uma audição extraordinariamente apurada. Mesmo antes de deixar o Aberrasulo, consegue perceber muito do que acontece ao seu redor e sabe que dificilmente será recebido como uma das criaturas que cresceram naquela colônia.
+
+Por isso, geralmente foge assim que nasce.
+
+Se seu Aberrasulo for encontrado próximo ao fim da transformação, pode precisar lutar para sair, mas suas asas tornam a fuga consideravelmente mais fácil. Sua coloração também permite que desapareça com enorme facilidade entre árvores, folhas secas e diversos outros ambientes.
+
+Depois disso, porém, muitos não vão muito longe.
+
+Frankopatas possuem uma estranha obsessão pela colônia onde foram criados.
+
+Eles parecem se lembrar daqueles que os maltrataram quando ainda eram Falsilhas e costumam permanecer escondidos nas proximidades, esperando oportunidades para se vingar de cada um deles.
+
+É durante a noite que esse comportamento se torna especialmente assustador. Um Frankopata pode permanecer imóvel e camuflado durante muito tempo, praticamente invisível para quem passa próximo dele. Quando finalmente encontra aquele que procura, nem sempre utiliza suas asas ou força para terminar o serviço rapidamente.
+
+Ele prefere ser visto.
+
+Surge diante de sua vítima depois de abandonar a camuflagem e passa a persegui-la lentamente, como se quisesse que ela compreendesse exatamente o que está acontecendo. Mesmo quando poderia alcançá-la voando, muitas vezes continua caminhando até que a perseguição finalmente termine.
+
+Por isso, uma colônia onde nasceu um Frankopata raramente volta a se sentir completamente segura. Seus habitantes sabem que a criatura pode continuar vivendo escondida nos arredores e que talvez esteja apenas esperando alguém específico sair sozinho.
+
+Curiosamente, essa violência não parece se estender indiscriminadamente aos demais insetos. Frankopatas demonstram pouca ou nenhuma empatia e não possuem qualquer interesse em conversar com aqueles que consideram irrelevantes. São incapazes de falar e comunicam-se com outras mariposas através de vibrações, mas geralmente nem sequer tentam estabelecer contato com outras criaturas.
+
+Longe da colônia onde cresceram, podem levar uma vida surpreendentemente normal.
+
+Também estão entre os poucos insetos que não demonstram repulsa diante de uma Frankáptera.
+
+Mas a maior vingança dessa linhagem contra aqueles que a rejeitaram não está nas mortes que deixa para trás.
+
+Tanto Frankopatas quanto Frankápteras retornam às proximidades da antiga colônia quando chega o momento de deixar seus ovos. Eles os depositam onde sabem que as pequenas larvas poderão ser encontradas.
+
+Depois partem.
+
+Curiosamente, ambos morrem antes que seus ovos eclodam.
+
+E algum tempo depois, um inseto encontra uma pequena larva aparentemente perdida.
+
+Ela possui o cheiro certo.
+Produz os sons certos.
+Move-se como uma de suas crias.
+
+Então ele a recolhe.
+
+E tudo começa novamente.`;
 const descricaoLaranharta = `Para os insetos, aranhas são vistas com muita desconfiança e possuem uma péssima reputação devido à aparência assustadora, ao modo como se alimentam e à sua cultura considerada bizarra. Mas as Laranhartas conseguem ser ainda mais mal faladas do que elas.
 
 Conta-se que a primeira Laranharta foi uma lagarta amaldiçoada por um poderoso Aracromante, tornando-se uma mistura de lagarta e aranha. Segundo a lenda, desde então as Laranhartas precisam se alimentar de outros insetos, capturando e devorando aqueles que encontram pelo caminho.
@@ -1880,6 +2041,109 @@ Assim que deixam o solo, começam quase imediatamente a procurar por parceiros. 
 Apesar de sua aparência e comportamento assustadores, não existe nada de maligno nas Assombraladas. Seu comportamento tem uma explicação bastante simples: elas possuem apenas poucos dias de vida e sequer são capazes de se alimentar. Todo o curto período de sua existência adulta é dedicado a encontrar um parceiro e se reproduzir.
 
 Entender isso, entretanto, não torna menos assustador ver uma delas surgindo inesperadamente do chão no meio da noite.`;
+const descricaoFlamecante = `Flamecante aprende logo cedo que o contato não será o ponto forte de sua jornada. Ainda no início da vida, ele e seus irmãos descobrem, de maneira dolorosa, que precisam manter certa distância uns dos outros.
+
+Os espinhos urticantes que crescem por todo o seu corpo causam dor extrema e uma sensação de queimadura que pode persistir por horas após o contato. À medida que cresce, seus espinhos também aumentam, assim como a intensidade de seus efeitos.
+
+Essa defesa é extremamente útil para afastar predadores e inimigos, mas também acaba afastando amigos e dificultando boas relações. Quanto mais Flamecante cresce, mais os outros insetos preferem manter distância. Até mesmo entre irmãos surge a necessidade de respeitar o espaço uns dos outros.
+
+Aos poucos, Flamecante desenvolve menos apego e passa a evitar interações sociais, construindo ao redor de si uma barreira tanto física quanto psicológica.
+
+O que é uma pena, pois sua aparência chama atenção por onde passa. Flamecante é considerada uma das lagartas mais belas e pacíficas que existem.`;
+const descricaoPupandoura = `Pupandoura é o grande momento de transformação de Flamecante. Sabendo que seu corpo é perigoso para os outros, ele procura um lugar isolado e, de preferência, escondido para realizar sua transformação. Geralmente escolhe o interior de troncos, túneis ou comunidades abandonadas.
+
+Durante a transformação, Pupandoura começa a desenvolver uma espessa camada de pelos urticantes para proteger seu interior. Os pelos maiores se desprendem aos poucos e se espalham pelo ambiente, podendo até ser carregados pelo vento para lugares mais distantes.
+
+O problema é que Pupandoura se torna muito bela com sua camada de pelos dourados e cor de fogo, despertando a curiosidade de quem a encontra. Um inseto que tenta se aproximar acaba entrando em contato com os pelos espalhados ao redor e, ao se contorcer de dor, pode cair sobre uma quantidade ainda maior deles. Em muitos casos, isso acaba levando-o à morte.
+
+No interior de Pupandoura, porém, a transformação não é apenas física, mas também psicológica. Dizem que, durante seu desenvolvimento, o ser lá dentro perde completamente o contato com a realidade e passa meses mergulhado em um pesadelo horrível.
+
+Tudo o que há de belo por fora não condiz com o que acontece lá dentro.`;
+const descricaoGorgondusa = `A fêmea que emerge de Pupandoura nasce como Gorgondusa. É uma mariposa sem asas, com um abdômen muito longo, próprio para produzir e carregar seus ovos. Mas, além dos ovos, seu corpo produz continuamente uma enorme quantidade de pelos urticantes ao redor da cabeça. São tantos que ela própria precisa enrolá-los para que não atrapalhem sua visão.
+
+Gorgondusa rasteja pelo ambiente onde nasceu durante praticamente toda a sua vida, transformando aquele lugar em um abrigo escondido da sociedade. Raramente se afasta, saindo apenas para buscar alimento antes de retornar.
+
+Seu abrigo geralmente contém vários corpos de insetos mortos, já endurecidos pelo tempo. Essa, inclusive, costuma ser a primeira visão de Gorgondusa ao nascer: os corpos daqueles que tentaram se aproximar de Pupandoura durante sua transformação. Estranhamente, ela mantém todos intactos, talvez como um lembrete para si mesma do que acontece com aqueles que se aproximam.
+
+Entrar no abrigo de uma Gorgondusa é extremamente perigoso. Além do cenário de corpos endurecidos, pelos urticantes costumam estar espalhados por todo o lugar.
+
+Mas o maior perigo é encontrá-la.
+
+Ao perceber a presença de um visitante, Gorgondusa se assusta e libera de uma só vez uma quantidade tão grande de pelos que sobreviver se torna quase impossível.
+
+Ver Gorgondusa arregalar os olhos e seus pelos se arrepiarem é, possivelmente, a última visão de um inseto.
+
+Esse fechamento eu manteria. Ele cria uma imagem muito forte e faz a referência à Górgona funcionar sem copiar o poder da Medusa. Não é o olhar que mata — mas ver o rosto dela reagindo significa que provavelmente já é tarde demais.`;
+const descricaoQuimerydra = `O macho que emerge de Pupandoura nasce como Quimerydra. Ele mantém a beleza colorida de sua forma como Flamecante, enquanto os pelos urticantes ao redor da cabeça lembram aqueles que cobriam Pupandoura. Ainda assim, sua aparência parece uma mistura de várias criaturas, principalmente pelas diferenças marcantes de cor entre suas asas e as diferentes seções do corpo.
+
+Quimerydra só consegue se comunicar por vibrações com outras mariposas, mas também é capaz de produzir um forte ruído estridente para assustar quem se aproxima.
+
+Diferentemente de Gorgondusa, ele abandona seu abrigo logo após nascer e parte voando, sempre em busca de isolamento. Quando outro inseto o encontra, Quimerydra faz o possível para afastá-lo. Primeiro utiliza seu ruído estridente e, se isso não funcionar, estende para o alto suas quatro enormes corematas. Cobertas por longos pelos e quase tão compridas quanto seu próprio corpo, elas lembram grandes serpentes. Seus movimentos dão a impressão de que cada uma possui vida própria e, por causa da aparência de Quimerydra, poucos insetos arriscam descobrir se aqueles pelos também são urticantes.
+
+Cobertas por pelos urticantes e quase tão longas quanto seu próprio corpo, elas lembram grandes serpentes. Seus movimentos independentes dão a impressão de que cada uma possui vida própria.
+
+Quimerydra raramente precisa fazer mais do que isso para afastar alguém. Em último caso, porém, um confronto direto costuma terminar com o adversário morto ou sofrendo fortes queimaduras.
+
+Durante suas viagens em busca de lugares isolados, Quimerydra pode acabar entrando no abrigo de uma Gorgondusa. Ele reconhece imediatamente os sinais de um local onde alguém de sua espécie nasceu e abre suas corematas, espalhando um perfume capaz de acalmá-la completamente.
+
+Durante a reprodução, porém, as duas mariposas acabam se envenenando mortalmente, ficando com seus dias de vida contados. Embora sejam naturalmente resistentes às próprias substâncias urticantes, essa proteção não se estende completamente às produzidas por outros indivíduos. Gorgondusa morre pouco depois de colocar seus ovos.
+
+O último ato de Quimerydra é recolhê-los e partir em voo, levando-os para algum lugar distante dali.`;
+const descricaoPaplicata = `Os ovos das Paplicatas costumam eclodir em lugares altos, de onde as pequenas lagartas passam boa parte da infância observando outros insetos e aprendendo seus comportamentos.
+
+Desde muito jovens, possuem a capacidade de inflar e deformar partes de seus corpos moles, criando formas que lembram criaturas maiores e ameaçadoras. No início, utilizam essa habilidade apenas para afugentar possíveis predadores, mas, conforme crescem, aprendem que a imitação pode servir para algo muito mais elaborado.
+
+Para continuar seu desenvolvimento, uma Paplicata precisa se alimentar de ovos e pequenas larvas de outros insetos.
+
+Ela nasce com um estranho dom que torna essa tarefa possível. Depois de permanecer algum tempo em contato com determinado inseto, consegue copiar características únicas dele. Seu cheiro, seus sons e até mesmo seus hábitos podem ser reproduzidos com impressionante precisão, permitindo que a Paplicata se infiltre em colônias e abrigos como se pertencesse àquele lugar.
+
+Curiosamente, sua aparência nunca é uma cópia perfeita. A Paplicata continua sendo uma lagarta de corpo mole, apenas inflando, comprimindo e deformando partes de si para criar uma imitação aproximada daquele que está copiando. Mesmo assim, a combinação de cheiro, sons e comportamento costuma ser suficiente para enganar os demais.
+
+Paplicatas mais experientes podem permanecer durante bastante tempo em uma comunidade, alimentando-se discretamente sem levantar suspeitas. Alguns insetos mais atentos percebem que existe alguma coisa estranha quando as observam por tempo suficiente, mas muitas vezes só compreendem o que estão vendo quando a imitação falha de maneira evidente — e percebem que aquela figura familiar é, na verdade, uma lagarta disforme andando entre eles.
+
+Existem relatos de Paplicatas que conseguiram imitar indivíduos importantes para obter acesso a lugares restritos e privilégios dentro de uma comunidade. Outras chegam a eliminar o inseto que copiaram, diminuindo as chances de que sua presença seja descoberta.
+
+Mas são os ovos e as pequenas larvas que mais têm motivos para temê-las.
+
+Quando consegue ficar sozinha com suas presas, a Paplicata já não precisa manter a encenação. Aproxima-se com seu falso rosto moldado no corpo inflado e devora as pequenas criaturas ainda vivas.
+
+Por isso, em muitas comunidades, os filhotes crescem ouvindo histórias sobre uma criatura capaz de entrar em qualquer abrigo e assumir o lugar de alguém conhecido para encontrá-los. Às vezes essas histórias são contadas para alertá-los de um perigo verdadeiro.
+
+Outras vezes, são apenas uma maneira bastante eficiente de fazer os pequenos se comportarem.`;
+const descricaoPupargula = `Quando está completamente desenvolvida, a Paplicata pode finalmente abandonar suas imitações e iniciar sua transformação. Ela procura um lugar alto e protegido, onde constrói a pupa dentro da qual se transformará em um novo inseto.
+
+Sua extraordinária habilidade de modelar estruturas não desaparece durante esse processo. Em vez de formar uma pupa comum, a Paplicata constrói uma estrutura extremamente resistente, moldada para imitar a aparência de uma grande e ameaçadora mariposa. Essa forma é conhecida como Pupárgula.
+
+Para outros insetos, nem sempre é fácil compreender o que estão vendo. A criatura parece imóvel demais para estar viva, mas sua aparência imponente faz surgir a dúvida de que talvez seja uma perigosa mariposa apenas esperando o momento de atacar. Para a maioria, descobrir a resposta não vale o risco, e a simples presença de uma Pupárgula é suficiente para mantê-los afastados.
+
+Há ainda algo que torna essa impressão muito mais convincente. A estrutura utilizada pela Pupárgula para se prender ao local pode ser contraída pelo inseto que se desenvolve em seu interior. De tempos em tempos, ela muda ligeiramente de posição, fazendo parecer que aquela estranha criatura realmente vive ali e apenas permanece imóvel durante longos períodos.
+
+Por isso, lugares ocupados por uma Pupárgula costumam provocar a desconfortável sensação de estar sendo observado.
+
+E essa sensação não está completamente errada.
+
+Mesmo durante sua transformação, a criatura consegue perceber parte do que acontece ao seu redor. Continua observando movimentos e reconhecendo os insetos que passam por perto, como fazia quando ainda era uma Paplicata. Às vezes, quando alguém para e a encara diretamente, a Pupárgula lentamente muda de posição.`;
+const descricaoHarpitera= `Harpítera poderia ser apenas uma mariposa comum.
+
+Ela já não precisa se alimentar de ovos ou pequenas larvas e possui habilidades mais do que suficientes para levar uma vida segura e tranquila. Sua visão binocular e periférica é extraordinária, consegue permanecer em voo por longos períodos e possui força e uma capacidade de manobra impressionantes. Além disso, os anos passados observando e imitando outras criaturas lhe deram um profundo conhecimento sobre os hábitos e comportamentos dos mais diversos insetos.
+
+Entretanto, poucas Harpíteras parecem interessadas em uma vida tranquila.
+
+Fascinadas pela complexidade das relações entre outros insetos, elas costumam aceitar trabalhos que poucos estariam dispostos a realizar em troca de favores. Normalmente são procuradas para encontrar, capturar, sequestrar ou até mesmo eliminar um indivíduo específico.
+
+Curiosamente, uma Harpítera não aceita qualquer serviço. Antes de fechar um acordo, costuma querer conhecer toda a história por trás do pedido. Quem é o alvo, por que deve ser capturado ou morto e, principalmente, o que receberá em troca são questões de grande importância para ela. Somente depois de ouvir tudo decide se aceita o trato.
+
+Quando parte atrás de alguém, as habilidades desenvolvidas ao longo de sua vida tornam a Harpítera uma caçadora extremamente eficiente. Ela conhece os hábitos de outros insetos, enxerga movimentos a grandes distâncias e utiliza sua velocidade e extraordinária capacidade de voo para alcançar o alvo. Ao encontrá-lo, suas grandes garras permitem agarrá-lo em pleno movimento e carregá-lo para praticamente onde desejar.
+
+Isso faz com que algumas Harpíteras sejam procuradas justamente quando alguém precisa que determinado inseto seja trazido de volta — enquanto outras são contratadas quando é preferível que ele nunca retorne.
+
+Mas existe uma parte do acordo que jamais deve ser esquecida.
+
+Uma Harpítera pode escolher cuidadosamente quais serviços aceita, mas, depois de aceitar um trato, espera que o outro lado também cumpra sua palavra.
+
+Se o pagamento ou favor combinado não for realizado, ela não considera o assunto encerrado.
+
+Harpíteras nunca esquecem uma dívida. E não costumam sentir pena de quem passa a dever algo a elas.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3222,7 +3486,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma casulo',
     ...dadosPendentes,
     tags: ['mariposas'],
-    evolucoes: [{ insetoId: 'isetyx', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'isetyx', tipo: 'ramificada' }, { insetoId: 'erubis', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'mumifigarta', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
@@ -3238,7 +3502,75 @@ export const insetos: Inseto[] = [
     tags: ['mariposas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'sarcosulo', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'erubis',
+    nome: 'Erubis',
+    nomeIngles: 'Erubis',
+    imagem: '/images/mariposas/erubis.png',
+    descricao: descricaoErubis,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'sarcosulo', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'falsilha',
+    nome: 'Falsilha',
+    nomeIngles: 'Falspring',
+    imagem: '/images/mariposas/falsilha.png',
+    descricao: descricaoFalsilha,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'aberrosulo', tipo: 'linear' }],
+  },
+  {
+    id: 'aberrosulo',
+    nome: 'Aberrosulo',
+    nomeIngles: 'Aberrasalis',
+    imagem: '/images/mariposas/aberrosulo.png',
+    descricao: descricaoAberrosulo,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'frankaptera', tipo: 'ramificada' }, { insetoId: 'frankopata', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'falsilha', tipo: 'linear' }],
     tipoEvolucao: 'linear',
+  },
+  {
+    id: 'frankaptera',
+    nome: 'Frankáptera',
+    nomeIngles: 'Frankaptera',
+    imagem: '/images/mariposas/frankaptera.png',
+    descricao: descricaoFrankaptera,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'aberrosulo', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'frankopata',
+    nome: 'Frankopata',
+    nomeIngles: 'Frankopath',
+    imagem: '/images/mariposas/frankopata.png',
+    descricao: descricaoFrankopata,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'aberrosulo', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'laranharta',
@@ -3362,7 +3694,100 @@ export const insetos: Inseto[] = [
     evolucaoDe: [{ insetoId: 'esporantalho', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
-
+  {
+    id: 'paplicata',
+    nome: 'Paplicata',
+    nomeIngles: 'Bogeygänger',
+    imagem: '/images/mariposas/paplicata.png',
+    descricao: descricaoPaplicata,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'pupargula', tipo: 'linear' }],
+  },
+  {
+    id: 'pupargula',
+    nome: 'Pupárgula',
+    nomeIngles: 'Pupargoyle',
+    imagem: '/images/mariposas/pupargula.png',
+    descricao: descricaoPupargula,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'harpitera', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'paplicata', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'harpitera',
+    nome: 'Harpítera',
+    nomeIngles: 'Harptera',
+    imagem: '/images/mariposas/harpitera.png',
+    descricao: descricaoHarpitera,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupargula', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'flamecante',
+    nome: 'Flamecante',
+    nomeIngles: 'Flamesting',
+    imagem: '/images/mariposas/flamecante.png',
+    descricao: descricaoFlamecante,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'pupandoura', tipo: 'linear' }],
+  },
+  {
+    id: 'pupandoura',
+    nome: 'Pupandoura',
+    nomeIngles: 'Pupandorild',
+    imagem: '/images/mariposas/pupandoura.png',
+    descricao: descricaoPupandoura,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'gorgondusa', tipo: 'ramificada' }, { insetoId: 'quimerydra', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'flamecante', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'gorgondusa',
+    nome: 'Gorgondusa',
+    nomeIngles: 'Gorgondusa',
+    imagem: '/images/mariposas/gorgondusa.png',
+    descricao: descricaoGorgondusa,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupandoura', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'quimerydra',
+    nome: 'Quimerydra',
+    nomeIngles: 'Chimaerydra',
+    imagem: '/images/mariposas/quimerydra.png',
+    descricao: descricaoQuimerydra,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupandoura', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
   {
     id: 'pulguito',
     nome: 'pulguito',
