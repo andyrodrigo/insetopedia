@@ -68,6 +68,11 @@
     { "imagem": "/images/borboletas/capa.png", "titulo": "Terra das Flores Douradas", "descricao": "" },
     { "imagem": "/images/borboletas/conceito001.png", "titulo": "Casulo-Pupa", "descricao": "" }
   ],
+  "mariposas": [
+    { "imagem": "/images/mariposas/capa.png", "titulo": "Noite das Mariposas", "descricao": "" },
+    { "imagem": "/images/mariposas/conceito001.png", "titulo": "Decréptera Macho", "descricao": "" },
+    { "imagem": "/images/mariposas/conceito002.png", "titulo": "Falsilha descoberta", "descricao": "" }
+  ],
   "pulgoes": [
     { "imagem": "/images/pulgoes/capa.png", "titulo": "Dia a dia dos Pulgordos", "descricao": "" },
     { "imagem": "/images/pulgoes/conceito01.png", "titulo": "Em sua tranquilidade", "descricao": "" }

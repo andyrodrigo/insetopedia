@@ -2071,9 +2071,7 @@ Mas o maior perigo é encontrá-la.
 
 Ao perceber a presença de um visitante, Gorgondusa se assusta e libera de uma só vez uma quantidade tão grande de pelos que sobreviver se torna quase impossível.
 
-Ver Gorgondusa arregalar os olhos e seus pelos se arrepiarem é, possivelmente, a última visão de um inseto.
-
-Esse fechamento eu manteria. Ele cria uma imagem muito forte e faz a referência à Górgona funcionar sem copiar o poder da Medusa. Não é o olhar que mata — mas ver o rosto dela reagindo significa que provavelmente já é tarde demais.`;
+Ver Gorgondusa arregalar os olhos e seus pelos se arrepiarem é, possivelmente, a última visão de um inseto.`;
 const descricaoQuimerydra = `O macho que emerge de Pupandoura nasce como Quimerydra. Ele mantém a beleza colorida de sua forma como Flamecante, enquanto os pelos urticantes ao redor da cabeça lembram aqueles que cobriam Pupandoura. Ainda assim, sua aparência parece uma mistura de várias criaturas, principalmente pelas diferenças marcantes de cor entre suas asas e as diferentes seções do corpo.
 
 Quimerydra só consegue se comunicar por vibrações com outras mariposas, mas também é capaz de produzir um forte ruído estridente para assustar quem se aproxima.
@@ -2144,6 +2142,41 @@ Uma Harpítera pode escolher cuidadosamente quais serviços aceita, mas, depois 
 Se o pagamento ou favor combinado não for realizado, ela não considera o assunto encerrado.
 
 Harpíteras nunca esquecem uma dívida. E não costumam sentir pena de quem passa a dever algo a elas.`;
+const descricaoFantasioche = `Fantasioche é uma lagarta muito pequena que desenvolveu uma estratégia bastante peculiar de sobrevivência. Ela constrói um estojo feito de poeira, areia, pelos e outros materiais e vive escondida dentro dele, em segredo.
+
+Entretanto, para conseguir um abrigo ainda mais seguro contra predadores, ela molda seu estojo como um pequeno boneco, cuja aparência costuma atrair lagartas e outros insetos jovens.
+
+Assim, Fantasioches acabam sendo levados para abrigos seguros e usados como brinquedos pelas larvas. Lá dentro, encontram tudo de que precisam: alimento fácil, diversão e segurança. Como conseguem se alimentar de quase qualquer coisa e são muito pequenas, podem comer sem serem percebidas, entrando e saindo de sua pequena casa por qualquer uma das duas extremidades.
+
+Fantasioche participa das brincadeiras em segredo, e sua esperteza faz com que quase nunca seja encontrada. Às vezes, chega a abandonar temporariamente a casa para não levantar suspeitas.
+
+Podem até se tornar brinquedos de filhotes de aranhas e, nesses casos, alimentar-se secretamente de suas teias.
+
+O único problema é que, às vezes, são vistas se movendo sozinhas. Isso pode assustar pequenas larvas e fazer com que o brinquedo seja considerado amaldiçoado. Também podem causar problemas quando coisas começam a desaparecer sem que exista um culpado.
+
+E não adianta culpar o boneco.`;
+const descricaoApotroche = `Quando está perto de se desenvolver, Fantasioche modifica sua casa para que pareça assustadora e se fecha dentro dela para iniciar sua transformação. Essa pupa é chamada de Apotroche.
+
+A estratégia exata depende do conhecimento que possui sobre o ambiente onde vive. Fantasioches são extremamente inteligentes e conseguem avaliar como poderão atravessar esse estágio vulnerável. Se perceberem que o boneco será considerado amaldiçoado e deixado em paz, formam o Apotroche onde já estão. Se acreditarem que será destruído, abandonam o ambiente e procuram algum lugar lá fora onde sua aparência assustadora possa manter outros insetos distantes.
+
+Alguns sabem que podem ser usados como decoração por aranhas e Decrépteras e vão diretamente até seus refúgios, permanecendo próximos à entrada para que sejam encontrados e levados para dentro.
+
+Alguns insetos, por medo ou superstição, mantêm distância dos Apotroches. Outros fazem justamente o contrário e os utilizam como amuletos para afastar o mal.
+
+Dizem que a Inimiga Alada não entra em um abrigo que tenha um Apotroche.`;
+const descricaoPolterposa = `Polterposa é uma mariposa pequena e extremamente esperta. Quando abandona seu Apotroche, ela já sabe exatamente onde pretende se esconder e como poderá viver no ambiente em que passou sua juventude.
+
+Encontrar um Apotroche vazio e rompido costuma provocar diferentes interpretações. Para alguns insetos, significa que algo amaldiçoado saiu de dentro dele e agora está à solta no abrigo. Para outros, significa apenas que o amuleto cumpriu sua função, protegeu o local da Inimiga Alada e acabou destruído no processo.
+
+No primeiro caso, Polterposa não costuma desperdiçar a oportunidade. Se os moradores abandonarem o abrigo por considerá-lo assombrado, ela permanece escondida e assume o controle do lugar. Com o tempo, outras Polterposas podem se juntar a ela, e passam a produzir vibrações, ruídos e movimentos estranhos para manter visitantes afastados. Algumas chegam a imitar vozes e sons de outros insetos sem jamais se mostrarem, preservando por muito tempo a reputação sobrenatural do local.
+
+Nem todas, porém, precisam viver escondidas. Algumas conseguem conviver normalmente com os habitantes dos abrigos onde nasceram. As que surgem nos refúgios de Decrépteras, por exemplo, podem tornar-se suas ajudantes. Outras preferem permanecer secretas, assustando os moradores apenas quando necessário para roubar alimento ou conseguir aquilo de que precisam sem serem descobertas.
+
+Por isso, a vida de uma Polterposa depende muito menos de força do que de sua capacidade de conhecer os insetos ao seu redor e descobrir como assustá-los. Algumas usam essa habilidade para encontrar segurança, outras para conseguir alimento ou moradia.
+
+Mas, quando não precisam de nada disso, muitas continuam assombrando lugares mesmo assim.
+
+Elas simplesmente gostam de pregar peças.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3432,7 +3465,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma casulo',
     ...dadosPendentes,
     tags: ['mariposas'],
-    evolucoes: [{ insetoId: 'decreptera', tipo: 'linear' }, { insetoId: 'decrepteramacho', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'decreptera', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'carnicalha', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
@@ -3441,20 +3474,6 @@ export const insetos: Inseto[] = [
     nome: 'Decréptera',
     nomeIngles: 'Decreptera',
     imagem: '/images/mariposas/decreptera.png',
-    descricao: descricaoDecreptera,
-    linhagem: 'mariposas',
-    estagio: 'forma final',
-    ...dadosPendentes,
-    tags: ['mariposas'],
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'mortume', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'decrepteramacho',
-    nome: 'Decréptera',
-    nomeIngles: 'Decreptera',
-    imagem: '/images/mariposas/decreptera2.png',
     descricao: descricaoDecreptera,
     linhagem: 'mariposas',
     estagio: 'forma final',
@@ -3787,6 +3806,46 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'pupandoura', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'fantasioche',
+    nome: 'Fantasioche',
+    nomeIngles: 'Fantoppet',
+    imagem: '/images/mariposas/fantasioche.png',
+    descricao: descricaoFantasioche,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'apotroche', tipo: 'linear' }],
+  },
+  {
+    id: 'apotroche',
+    nome: 'Apotroche',
+    nomeIngles: 'Apotroppet',
+    imagem: '/images/mariposas/apotroche.png',
+    descricao: descricaoApotroche,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'polterposa', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'fantasioche', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'polterposa',
+    nome: 'Polterposa',
+    nomeIngles: 'Polterguise',
+    imagem: '/images/mariposas/polterposa.png',
+    descricao: descricaoPolterposa,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'apotroche', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
   },
   {
     id: 'pulguito',
