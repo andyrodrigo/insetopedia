@@ -194,7 +194,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoMariposas,
     imagemCapa: '/images/mariposas/capa.png',
     tema: '#4A365F',
-    criaturas: ['serpreita', 'maligroso', 'mortiposa', 'carnicalha', 'mortume', 'decreptera', 'zunambularva', 'esporantalho', 'assombralada', 'laranharta', 'enjaulupa', 'lunaranha', 'wendivora', 'restritupa', 'hematocrata', 'paplicata','pupargula','harpitera', 'mumifigarta', 'sarcosulo', 'isetyx', 'erubis', 'falsilha','aberrosulo','frankaptera','frankopata','flamecante','pupandoura','gorgondusa','quimerydra', 'fantasioche','apotroche','polterposa'],
+    criaturas: ['serpreita', 'maligroso', 'mortiposa', 'carnicalha', 'mortume', 'decreptera', 'laranharta', 'enjaulupa', 'lunaranha', 'wendivora', 'restritupa', 'hematocrata', 'paplicata','pupargula','harpitera', 'zunambularva', 'esporantalho', 'assombralada', 'mumifigarta', 'sarcosulo', 'isetyx', 'erubis', 'falsilha','aberrosulo','frankaptera','frankopata','flamecante','pupandoura','gorgondusa','quimerydra', 'fantasioche','apotroche','polterposa','chapelirio', 'manicumulo','gargalhaco'],
   },
   {
     id: 'mosquitos',

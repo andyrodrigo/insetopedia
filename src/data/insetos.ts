@@ -2177,6 +2177,53 @@ Por isso, a vida de uma Polterposa depende muito menos de força do que de sua c
 Mas, quando não precisam de nada disso, muitas continuam assombrando lugares mesmo assim.
 
 Elas simplesmente gostam de pregar peças.`;
+const descricaoChapelirio = `Chapelírio inicia sua vida como uma lagarta bastante comum e infantil. Convive normalmente com outros insetos e costuma ser bem-quisto, mas as coisas começam a mudar quando cresce e realiza sua primeira muda.
+
+Ninguém sabe exatamente como ou por que isso acontece, mas sua cabeça anterior permanece sobre o novo exoesqueleto como um chapéu. A partir desse momento, o Chapelírio parece desenvolver também uma nova personalidade.
+
+De forma bastante estranha, às vezes ele volta a agir como sua personalidade infantil anterior, mudando inclusive a própria voz. O ciclo continua a cada nova muda: uma nova cabeça se soma às anteriores e outra personalidade parece surgir, como se vários indivíduos diferentes passassem a viver dentro da mesma lagarta. Não se sabe se o Chapelírio apenas se lembra de como era antes ou se, nesses momentos, uma de suas antigas personalidades realmente volta a assumir o controle.
+
+Com o tempo, esse comportamento começa a afastar aqueles que conviviam com ele. O mais perturbador é que cada nova personalidade parece mais insana que a anterior, tornando sua convivência cada vez mais difícil.
+
+Quando já carrega várias de suas antigas cabeças, o Chapelírio costuma estar praticamente irreconhecível para aqueles que o conheceram no início da vida. Acaba ganhando a fama de uma lagarta maluca e bizarra, tanto pela aparência quanto pelas muitas personalidades que parecem habitar seu corpo.`;
+const descricaoManicumulo = `Um Manicúmulo é considerado um dos casulos mais assustadores existentes.
+
+Antes de preparar seu casulo, o Chapelírio retira todas as cabeças anteriores que carregava e as dispõe ao redor do próprio corpo, prendendo-as com seda. Geralmente faz isso deitado sobre uma folha, deixando inicialmente apenas sua cabeça atual para fora.
+
+Dizem, porém, que ele também acaba se separando dessa última cabeça, abandonando-a como uma concha. Ninguém sabe ao certo o que permanece dentro do casulo depois disso, pois até a cabeça mais recente fica completamente imóvel junto às demais.
+
+Estranhamente, durante todo o desenvolvimento, os rostos do Manicúmulo parecem vivos e mortos ao mesmo tempo. Permanecem imóveis, mas sua aparência provoca a constante impressão de que ainda há alguma coisa neles.
+
+E sua aparência está longe de ser o aspecto mais perturbador.
+
+Durante todo o período de transformação, é possível ouvir risadas vindas de dentro do Manicúmulo. Algumas são sombrias, outras parecem gargalhadas genuinamente divertidas e algumas possuem a voz infantil dos primeiros anos do Chapelírio. 
+
+Às vezes, mais de uma delas pode ser ouvida ao mesmo tempo.
+
+As vozes se sobrepõem em tons e personalidades diferentes, como se vários indivíduos estivessem rindo juntos dentro daquele único casulo.
+
+Algumas vezes, uma risada parece provocar outra, e há quem jure ter ouvido duas das vozes conversando entre si. Nunca é possível compreender sobre o que falam.
+
+Para muitos insetos, poucas coisas são tão assustadoras quanto escutar essas risadas durante a noite. Às vezes nem é preciso encontrar o Manicúmulo para perceber sua presença.
+
+Basta ouvir para saber que alguma coisa muito errada está acontecendo lá dentro.`;
+const descricaoGargalhaco = `Gargalhaço é uma mariposa muito esquisita. A maioria dos insetos se sente desconfortável perto dele, embora não seja exatamente por sua aparência que, apesar de estranha, pode até parecer acolhedora.
+
+Gargalhaço costuma rir e conversar sozinho. Também tenta constantemente chamar a atenção daqueles ao redor, fazendo brincadeiras que dificilmente agradam e demonstrando uma necessidade quase incansável de divertir os outros.
+
+Às vezes, enquanto conversa sozinho, Gargalhaço muda repentinamente a voz, a postura e o comportamento, parecendo conversar com outra de suas próprias personas. Algumas dessas vozes são muito semelhantes às que podiam ser ouvidas em seu Manicúmulo.
+
+Possui uma habilidade teatral extraordinária, sendo capaz de assumir diferentes personas e imitar outros insetos de maneira estranhamente convincente. Vozes, trejeitos e comportamentos podem ser reproduzidos com tanta precisão que alguns ficam perplexos ou assustados ao reconhecer alguém conhecido sendo perfeitamente imitado através do rosto teatral de um Gargalhaço.
+
+Gargalhaço parece ter muita dificuldade em compreender quando uma brincadeira deixou de ser divertida. Pode esconder objetos importantes, imitar a voz de alguém querido para enganar outro inseto, surgir inesperadamente durante a noite ou insistir em uma encenação mesmo quando todos ao redor demonstram medo. Quando finalmente percebe que passou dos limites, muitas vezes parece genuinamente confuso com a reação dos demais.
+
+A maioria parece completamente perturbada do juízo e age muito além do que é considerado socialmente aceitável. Sua imprevisibilidade faz com que sua presença seja motivo de desconfiança e que muitos prefiram manter distância.
+
+Estranhamente, porém, o Gargalhaço quase sempre parece estar tentando se enturmar, como se tentasse compensar o afastamento que acompanha sua linhagem desde o Chapelírio. É comum encontrá-lo sozinho e aparentemente triste. Quando alguém se aproxima, porém, sua expressão pode mudar imediatamente para uma alegria exagerada, obsessiva e assustadora.
+
+Aqueles que tentam manter algum convívio com um Gargalhaço costumam ser surpreendidos por brincadeiras de péssimo gosto, comportamentos inconvenientes e sua completa imprevisibilidade. Apesar disso, geralmente não são vistos fazendo nada realmente errado. São seus hábitos, especialmente noturnos, e seu comportamento perturbador que acabam provocando repulsa e afastamento.
+
+Ainda assim, sempre existe a história de algum Gargalhaço que levou uma de suas brincadeiras longe demais. Quando perguntam o que aconteceu, porém, cada inseto conta uma coisa diferente.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3845,6 +3892,46 @@ export const insetos: Inseto[] = [
     tags: ['mariposas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'apotroche', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'chapelirio',
+    nome: 'Chapelirio',
+    nomeIngles: 'Hatteniac',
+    imagem: '/images/mariposas/chapelirio.png',
+    descricao: descricaoChapelirio,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'manicumulo', tipo: 'linear' }],
+  },
+  {
+    id: 'manicumulo',
+    nome: 'Manicúmulo',
+    nomeIngles: 'Asylomb',
+    imagem: '/images/mariposas/manicumulo.png',
+    descricao: descricaoManicumulo,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'gargalhaco', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'chapelirio', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'gargalhaco',
+    nome: 'Gargalhaço',
+    nomeIngles: 'Cacklown',
+    imagem: '/images/mariposas/gargalhaco.png',
+    descricao: descricaoGargalhaco,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'manicumulo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
