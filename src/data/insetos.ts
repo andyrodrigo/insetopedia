@@ -2270,6 +2270,10 @@ Sua aparência peluda, aliada à sujeira e ao lodo que permanecem sobre seu corp
 Apesar de inofensivo, costuma causar pavor quando é encontrado. Dificilmente alguém consegue identificar imediatamente onde está seu verdadeiro rosto, confundindo a carranca formada pelas asas com a face de uma criatura muito maior.
 
 Muitos fogem antes de perceber que o terrível monstro que encontraram estava apenas parado, esperando por uma Sirêntria.`;
+const descricaoAssustrutora = ``;
+const descricaoFortrutura = ``;
+const descricaoRecluzela = ``;
+const descricaoBesteriano = ``;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3952,6 +3956,60 @@ export const insetos: Inseto[] = [
     tags: ['mariposas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'pupandoura', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'assustrutora',
+    nome: 'Assustrutora',
+    nomeIngles: 'Frightructor',
+    imagem: '/images/mariposas/assustrutora.png',
+    descricao: descricaoAssustrutora,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'fortrutura', tipo: 'linear' }],
+  },
+  {
+    id: 'fortrutura',
+    nome: 'Fortrutura',
+    nomeIngles: 'Fortructure',
+    imagem: '/images/mariposas/fortrutura.png',
+    descricao: descricaoFortrutura,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'recluzela', tipo: 'ramificada' }, { insetoId: 'besteriano', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'assustrutora', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'recluzela',
+    nome: 'Recluzela',
+    nomeIngles: 'Reclusel',
+    imagem: '/images/mariposas/recluzela.png',
+    descricao: descricaoRecluzela,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'fortrutura', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'besteriano',
+    nome: 'Besteriano',
+    nomeIngles: 'Beastherian',
+    imagem: '/images/mariposas/besteriano.png',
+    descricao: descricaoBesteriano,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'fortrutura', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
   {
