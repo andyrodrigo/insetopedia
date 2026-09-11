@@ -2224,6 +2224,52 @@ Estranhamente, porém, o Gargalhaço quase sempre parece estar tentando se entur
 Aqueles que tentam manter algum convívio com um Gargalhaço costumam ser surpreendidos por brincadeiras de péssimo gosto, comportamentos inconvenientes e sua completa imprevisibilidade. Apesar disso, geralmente não são vistos fazendo nada realmente errado. São seus hábitos, especialmente noturnos, e seu comportamento perturbador que acabam provocando repulsa e afastamento.
 
 Ainda assim, sempre existe a história de algum Gargalhaço que levou uma de suas brincadeiras longe demais. Quando perguntam o que aconteceu, porém, cada inseto conta uma coisa diferente.`;
+const descricaoIpupiarta = `Nascido no ambiente aquático, Ipupiarta é uma lagarta completamente adaptada a viver sob a água. Seus pelos e membros favorecem a natação, permitindo que se desloque rapidamente pelas águas.
+
+Ipupiarta normalmente se alimenta de plantas aquáticas e possui uma aparência tranquila e indefesa. Mas é apenas fingimento. Quando algo se aproxima e surge a oportunidade, Ipupiarta abre sua poderosa mandíbula e persegue o alvo, usando também suas garras afiadas, normalmente escondidas, para se prender à presa.
+
+Ele consegue viver alimentando-se apenas de plantas, mas comer outros insetos acelera bastante seu processo de crescimento. Por isso, está sempre atento às oportunidades.
+
+Normalmente, seu maior truque é simplesmente ficar quieto e esperar que a presa o considere inofensivo. Mas possui outros recursos quando precisa, chegando a se fazer de vítima para atrair alguém. Um deles é ficar chorando próximo à margem da água, esperando chamar a atenção de algum inseto caridoso. Também pode se fingir de morto até que a presa esteja perto o suficiente.
+
+Quando ela percebe o engano, geralmente já está ao alcance das garras do Ipupiarta.`;
+const descricaoTesaurea = `Existe uma crença sobre a Tesáurea. Dizem que ela é capaz de realizar um desejo. Tudo que um inseto precisa fazer é encontrar uma e fazer seu pedido.
+
+Durante a noite, em determinado estágio de seu desenvolvimento, o lugar na superfície da água onde a Tesáurea está submersa exibe um brilho dourado que pode ser visto à distância e atrai outros insetos.
+
+Ao mergulhar e seguir a luz, o inseto deve abrir a vegetação aquática que esconde a Tesáurea e fazer seu pedido diretamente à criatura lá dentro, antes de subir novamente à superfície.
+
+A belíssima transformação ocorre dentro de uma bolsa de seda que aprisiona uma bolha de ar, onde a Tesáurea se desenvolve enquanto uma vibração pacífica envolve aqueles que se aproximam.
+
+Porém, algumas intercorrências podem acontecer. Às vezes, o inseto fica encantado com a beleza da Tesáurea e permanece tempo demais diante dela, afogando-se antes de conseguir retornar. Também pode ficar preso na vegetação ou ser devorado por Ipupiartas e outros seres aquáticos que estejam por perto.
+
+Nem sempre o inseto que busca seu desejo no fundo da água retorna dela.`;
+const descricaoSirentria = `Sirêntria é um inseto efêmero. Fêmea de sua espécie, possui uma vida muito curta. Não tem boca e sobrevive apenas com as reservas acumuladas anteriormente, vivendo geralmente um dia para cada inseto que devorou quando ainda era uma Ipupiarta.
+
+É uma mariposa de asas curtas e incapaz de voar. Seu corpo é completamente adaptado ao ambiente aquático, e ela utiliza seu breve tempo de vida principalmente para encontrar e reproduzir com o macho de sua espécie, o Carrântano.
+
+Sirêntria é considerada a mais bela das mariposas, quiçá um dos insetos mais belos existentes. Durante a noite, emerge parcialmente da água e produz uma belíssima vibração para chamar o Carrântano. Dizem que essa vibração é hipnótica e induz aqueles que a escutam a seguir em sua direção.
+
+Quando um Carrântano chega voando, os dois podem acasalar na superfície da água. Depois disso, Sirêntria retorna às profundezas e deposita seus ovos.
+
+O problema é que sua vibração também atrai outros insetos. Hipnotizados, eles se aproximam e, ao encontrarem a bela mariposa na água, continuam seguindo-a mesmo sem qualquer adaptação ao ambiente aquático. Enquanto a Sirêntria continuar vibrando, podem avançar cada vez mais fundo até morrerem afogados.
+
+E ela não para até que o Carrântano chegue.
+
+Alguns Ipupiartas aprenderam a se aproveitar disso, permanecendo próximos e esperando que algum inseto entre na água para capturá-lo.
+
+Poucos insetos conseguiram escapar dessa armadilha para contar a história e alertar os outros.`;
+const descricaoCarrantano = `Assim que sai de dentro da Tesáurea, Carrântano realiza seu último nado até a superfície e voa para os arredores da porção de água onde viveu. Macho da linhagem, ele não possui mais adaptações aquáticas e precisa passar sua curta vida nas proximidades do lugar onde nasceu.
+
+Sem boca, sobrevive apenas das reservas acumuladas anteriormente, vivendo geralmente um dia para cada inseto que devorou quando ainda era uma Ipupiarta. Por isso, encontrar uma parceira antes que suas reservas terminem é extremamente importante.
+
+Para evitar gastar energia desnecessariamente, Carrântano prefere caminhar lentamente ou permanecer imóvel enquanto espera que a vibração de uma Sirêntria o chame. Assim, acaba quase se confundindo com a paisagem ao redor, sem sequer parecer uma mariposa comum.
+
+Sua aparência peluda, aliada à sujeira e ao lodo que permanecem sobre seu corpo depois de sair da água, já seria suficiente para torná-lo desagradável aos olhos de muitos insetos. Porém, suas asas possuem marcas que lembram dois enormes olhos malvados, formando uma carranca que parece pertencer a um predador muito maior. Carrântano também possui um cheiro forte, característico dos lugares úmidos onde vive.
+
+Apesar de inofensivo, costuma causar pavor quando é encontrado. Dificilmente alguém consegue identificar imediatamente onde está seu verdadeiro rosto, confundindo a carranca formada pelas asas com a face de uma criatura muito maior.
+
+Muitos fogem antes de perceber que o terrível monstro que encontraram estava apenas parado, esperando por uma Sirêntria.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3801,6 +3847,60 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'ipupiarta',
+    nome: 'Ipupiarta',
+    nomeIngles: 'Ipupillar',
+    imagem: '/images/mariposas/ipupiarta.png',
+    descricao: descricaoIpupiarta,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'tesaurea', tipo: 'linear' }],
+  },
+  {
+    id: 'tesaurea',
+    nome: 'Tesáurea',
+    nomeIngles: 'Treasureate',
+    imagem: '/images/mariposas/tesaurea.png',
+    descricao: descricaoTesaurea,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'sirentria', tipo: 'ramificada' }, { insetoId: 'carrantano', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'ipupiarta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'sirentria',
+    nome: 'Sirêntria',
+    nomeIngles: 'Sirentria',
+    imagem: '/images/mariposas/sirentria.png',
+    descricao: descricaoSirentria,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'tesaurea', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'carrantano',
+    nome: 'Carrântano',
+    nomeIngles: 'Frowamp',
+    imagem: '/images/mariposas/carrantano.png',
+    descricao: descricaoCarrantano,
+    linhagem: 'mariposas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'tesaurea', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
     id: 'flamecante',
     nome: 'Flamecante',
     nomeIngles: 'Flamesting',
@@ -3896,7 +3996,7 @@ export const insetos: Inseto[] = [
   },
   {
     id: 'chapelirio',
-    nome: 'Chapelirio',
+    nome: 'Chapelírio',
     nomeIngles: 'Hatteniac',
     imagem: '/images/mariposas/chapelirio.png',
     descricao: descricaoChapelirio,
