@@ -2398,6 +2398,9 @@ Quando entra em seu período fértil, ela e a comunidade organizam um grande tor
 Quando chega o momento de colocar seus ovos, Besólita viaja para longe do lugar onde vive e procura uma região com abundância de alimento para sua cria. Deposita seu ovo e parte, mesmo tendo capacidade mais do que suficiente para protegê-lo.
 
 Para ela, isso é necessário. Uma Lourarva criada sob a proteção da mãe aprenderia a confiar na força de Besólita em vez de desenvolver a própria.`;
+const descricaoBarbarva = ``;
+const descricaoDraugrupa = ``;
+const descricaoBersourkor = ``;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3063,7 +3066,7 @@ export const insetos: Inseto[] = [
   {
     id: 'lourarva',
     nome: 'Lourarva',
-    nomeIngles: 'Lourarva',
+    nomeIngles: 'Laurarva',
     imagem: '/images/besouros/lourarva.png',
     descricao: descricaoLourarva,
     linhagem: 'besouros',
@@ -3089,7 +3092,7 @@ export const insetos: Inseto[] = [
   {
     id: 'besocles',
     nome: 'Bésocles',
-    nomeIngles: 'Besocles',
+    nomeIngles: 'Beetlecles',
     imagem: '/images/besouros/besocles.png',
     descricao: descricaoBesocles,
     linhagem: 'besouros',
@@ -3103,7 +3106,7 @@ export const insetos: Inseto[] = [
   {
     id: 'besolita',
     nome: 'Besólita',
-    nomeIngles: 'Besolita',
+    nomeIngles: 'Beetlolyta',
     imagem: '/images/besouros/besolita.png',
     descricao: descricaoBesolita,
     linhagem: 'besouros',
@@ -3113,6 +3116,46 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'pupumento', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'barbarva',
+    nome: 'Barbarva',
+    nomeIngles: 'Barbarva',
+    imagem: '/images/besouros/barbarva.png',
+    descricao: descricaoBarbarva,
+    linhagem: 'besouros',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'draugrupa', tipo: 'linear' }],
+  },
+  {
+    id: 'draugrupa',
+    nome: 'Draugrupa',
+    nomeIngles: 'Draugrupa',
+    imagem: '/images/besouros/draugrupa.png',
+    descricao: descricaoDraugrupa,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'bersourkor', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'barbarva', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'bersourkor',
+    nome: 'Bersourkor',
+    nomeIngles: 'Berserkeetle',
+    imagem: '/images/besouros/bersourkor.png',
+    descricao: descricaoBersourkor,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'draugrupa', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
   },
   {
     id: 'morticula',
