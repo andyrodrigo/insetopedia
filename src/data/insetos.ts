@@ -1246,7 +1246,7 @@ Seu chapéu de palha esconde os olhos como um sinal de que não busca conflitos.
 
 Se for atacado, porém, Roninfa precisa demonstrar o resultado de seu treinamento incessante. Apesar de possuir um corpo frágil, suas habilidades de combate não devem ser subestimadas. Anos de prática transformam seu simples galho em uma arma surpreendentemente eficiente.
 
-Roninfa passa anos vagando pelo mundo, aperfeiçoando corpo e espírito enquanto busca o caminho que o levará à próxima fase de sua vida.
+Roninfa passa grande parte de sua vida larval vagando pelo mundo, aperfeiçoando corpo e espírito enquanto busca o caminho que o levará à próxima fase de sua vida.
 
 Dizem que, durante sua existência como larva, Roninfa passa por três grandes estágios de evolução espiritual. São conhecidos como as Três Etapas Espirituais do Roninfa.`;
 const descricaoGusokulo = `Após encontrar o lugar perfeito para descansar e completar as três etapas espirituais, o corpo de Roninfa se transforma em uma poderosa armadura que ele vestirá quando estiver pronto.
@@ -1266,13 +1266,13 @@ const descricaoKabutouro = `A filosofia de vida de Kabutouro é simples: viver c
 
 Kabutouro percorre diferentes sociedades de insetos e, às vezes, decide juntar-se às suas causas. Temido e respeitado, dificilmente passa despercebido por onde anda. Sua imponente armadura, seus chifres e seu letal braço em forma de katana anunciam a presença de um guerreiro que passou a vida inteira aperfeiçoando suas habilidades.
 
-Dizem que o tamanho de seus chifres revela sua força e experiência. Quanto maiores os chifres, mais velho e formidável é o Kabutouro.
+Dizem que o tamanho de seus chifres revela sua força e dedicação de treino quando era uma lagarta. Quanto maiores os chifres, mais formidável é o Kabutouro.
 
 Quando dois Kabutouros se encontram, porém, nem sempre há espaço para convivência pacífica. É comum que desafiem um ao outro para descobrir quem é o melhor guerreiro. Essas batalhas podem durar horas e, algumas vezes, terminam com a morte de um dos combatentes.
 
 Apesar de passar grande parte da vida viajando e lutando por aqueles que precisam de proteção, Kabutouro não permanece sozinho para sempre.
 
-Quando sente que seus dias de batalha estão chegando ao fim, procura um lugar entre os seus. Ali, abandona a vida errante e passa seus últimos anos formando uma família.
+Quando sente que seus dias de batalha estão chegando ao fim, procura um lugar entre os seus. Ali, abandona a vida errante e passa o restante de sua vida formando uma família..
 
 Depois de uma vida inteira procurando seu caminho, o velho guerreiro finalmente encontra um lugar para chamar de lar.`;
 
@@ -2270,10 +2270,134 @@ Sua aparência peluda, aliada à sujeira e ao lodo que permanecem sobre seu corp
 Apesar de inofensivo, costuma causar pavor quando é encontrado. Dificilmente alguém consegue identificar imediatamente onde está seu verdadeiro rosto, confundindo a carranca formada pelas asas com a face de uma criatura muito maior.
 
 Muitos fogem antes de perceber que o terrível monstro que encontraram estava apenas parado, esperando por uma Sirêntria.`;
-const descricaoAssustrutora = ``;
-const descricaoFortrutura = ``;
-const descricaoRecluzela = ``;
-const descricaoBesteriano = ``;
+const descricaoAssustrutora = `Marcada pelo trauma, a Assustrutora abandona a casa de sua mãe ainda muito jovem e imediatamente começa a reunir os materiais disponíveis ao seu redor para construir seu próprio refúgio. Galhos, folhas, cascas, musgos, líquens e outros materiais podem ser utilizados, fazendo com que cada casa tenha uma aparência diferente de acordo com o ambiente e com a própria lagarta.
+
+Assustrutora é um nome genérico dado às lagartas de diferentes espécies que apresentam esse comportamento. Apesar de suas diferenças, todas compartilham o mesmo trauma e um forte instinto de construir, com urgência, um lugar onde possam se proteger.
+
+Viver longe de uma sociedade organizada em um mundo repleto de predadores é praticamente uma sentença de morte para essas lagartas. Para piorar, a maioria possui um sabor muito apreciado por diversos predadores. Um refúgio bem construído acaba sendo sua principal chance de sobrevivência.
+
+As Assustrutoras carregam suas casas nas costas e se recolhem completamente ao menor sinal de perigo. Por passarem grande parte da vida protegidas dessa forma, tornam-se facilmente ermitãs e antissociais, evitando qualquer exposição desnecessária.
+
+Mas nenhuma casa nasce perfeita. Sua resistência acaba sendo testada durante ataques e, sempre que sobrevivem a um deles, as Assustrutoras aprendem com as falhas de sua construção. Substituem materiais, reforçam pontos vulneráveis e aperfeiçoam pouco a pouco suas habilidades, tornando o refúgio cada vez mais resistente.
+
+Para uma Assustrutora, construir bem não é apenas uma habilidade.
+
+É o que determina se ela terá a oportunidade de continuar crescendo.
+
+Nem todas chegam à fase adulta, e elas sabem muito bem disso.`;
+const descricaoFortrutura = `Quando chega o momento de se transformar, a Assustrutora constrói sua Fortrutura, uma estrutura feita para protegê-la durante o período mais vulnerável de sua vida. É nesse momento que tudo o que aprendeu sobre construção será colocado à prova.
+
+Por isso, nenhuma Assustrutora inicia sua Fortrutura sem se lembrar da história das Três Assustrutoras, uma antiga narrativa transmitida cuidadosamente entre elas. Os detalhes mudam a cada versão, mas seu ensinamento permanece o mesmo: nenhuma brecha deve ser ignorada e nenhuma estrutura deve ser considerada resistente antes de ser realmente testada.
+
+Conta-se que três Assustrutoras construíram suas casas utilizando materiais e técnicas diferentes. Quais eram esses materiais e quais técnicas utilizaram depende de quem conta a história. Depois de uma vida inteira aperfeiçoando suas construções, cada uma finalmente ergueu sua própria Fortrutura e iniciou a transformação.
+
+Durante esse período, foram encontradas por um esperto Besteriano.
+
+Ele atacou a primeira Fortrutura e conseguiu destruí-la. Algumas versões culpam os materiais, outras a maneira como foram encaixados ou uma pequena falha deixada durante a construção. O destino da primeira Assustrutora, entretanto, nunca muda.
+
+O Besteriano tentou então invadir a segunda e a terceira Fortrutura. Ambas foram danificadas de maneiras diferentes, mas resistiram aos seus ataques.
+
+Sem conseguir entrar pela força, o Besteriano esperou.
+
+Quando as duas Assustrutoras finalmente completaram sua transformação, ele se apresentou como uma criatura bondosa e inofensiva. Uma delas acreditou nele e lhe deu exatamente a abertura de que precisava.
+
+A outra permaneceu escondida.
+
+No fim da história, apenas a Assustrutora mais medrosa, protegida por uma Fortrutura resistente e desconfiada demais para sair quando foi chamada, conseguiu escapar.`;
+const descricaoRecluzela = `A medrosa Reclusela se desenvolve como uma mariposa adulta sem asas e de aparência larviforme. Depois de tudo o que enfrentou como Assustrutora, ela já conhece muito bem os perigos existentes fora de seu abrigo.
+
+Algumas Recluselas continuam aperfeiçoando a casa que carregaram durante toda a vida. Reforçam seus pontos vulneráveis, substituem materiais e corrigem antigas falhas até transformá-la em uma estrutura extremamente difícil de danificar.
+
+Até que chega o momento em que a Reclusela considera sua obra finalmente segura.
+
+Essa decisão marca uma mudança definitiva em sua vida. Convencida de que seu abrigo é suficiente para protegê-la do mundo, ela deixa de sair. Com o passar do tempo, o medo do exterior e sua paranoia apenas aumentam, até que abandonar a segurança da casa se torna impensável.
+
+A partir daí, a Reclusela não sai sequer para se alimentar. Consumirá lentamente as reservas acumuladas durante sua juventude e permanecerá em reclusão até gastar sua última gota de energia.
+
+É justamente durante esse período que chega seu momento de reprodução.
+
+Os Besterianos começam então a procurar pelas Recluselas, tentando entrar em seus abrigos ou convencê-las a permitir sua aproximação. Não é uma tarefa fácil. Algumas jamais cedem, enquanto outras acabam vencidas pela necessidade de reprodução e permitem que um Besteriano se aproxime o suficiente para acasalar.
+
+Depois disso, a Reclusela permanece dentro de sua casa e deposita ali seus ovos.
+
+A maioria morre antes ou pouco depois de eles eclodirem.
+
+Os filhotes começam, portanto, a vida no mesmo lugar que deveria representar segurança absoluta. Ao redor deles estão as marcas das inúmeras tentativas de invasão sofridas pela casa e, muitas vezes, o corpo da própria mãe.
+
+Assim que conseguem, abandonam o abrigo.
+
+Saem para um mundo que aprenderam a temer antes mesmo de conhecê-lo, carregando consigo apenas uma lembrança da mãe: uma história que escutavam enquanto ainda estavam dentro dos ovos.
+
+Possivelmente, a única história que ela conhecia.
+
+A história das Três Assustrutoras.`;
+const descricaoBesteriano = `O Besteriano surge da Fortrutura como uma mariposa grande, forte e alada. Assustado até mesmo com a própria força, abandona sua antiga proteção e começa a experimentar o mundo exterior com muito cuidado.
+
+Acostumado desde pequeno a tomar medidas de segurança, ele logo percebe que muitos dos perigos que tanto temia podem ser evitados. Aprende a voar, reconhecer ameaças e escapar de situações arriscadas, tornando-se progressivamente mais confiante.
+
+A jornada do Besteriano é, antes de tudo, uma libertação de seu próprio medo.
+
+Depois de superar boa parte dele, porém, descobre que possui uma missão particularmente difícil: encontrar uma Reclusela e convencê-la a reproduzir.
+
+O coitado do Besteriano provavelmente enfrenta uma das cortes mais difíceis entre todos os insetos. Convencer uma Reclusela de que ele não pretende lhe fazer mal — ou encontrar alguma maneira de atravessar a extraordinária proteção de seu abrigo — pode ser uma tarefa quase impossível.
+
+E existe um problema ainda pior.
+
+Besterianos também conhecem a história das Três Assustrutoras.
+
+Eles cresceram ouvindo a mesma história que as Recluselas e sabem perfeitamente que, agora, são eles o vilão dela.
+
+Muitos tentam cortejar várias Recluselas sem qualquer sucesso. Alguns acabam perdendo a paciência e tentam forçar uma entrada no abrigo. Raríssimos encontram alguma falha estrutural e conseguem abrir uma passagem que permita o acasalamento.
+
+Mas toda a força de um Besteriano costuma valer muito pouco contra uma casa aperfeiçoada durante uma vida inteira.
+
+Por isso, a maior parte dos sucessos vem da lábia.
+
+Os mais habilidosos conseguem conquistar a confiança de mais de uma Reclusela e continuam procurando outras durante sua vida. Fora do período reprodutivo, levam uma existência relativamente solitária, mas, ao contrário das fêmeas, podem socializar com outros insetos e conhecer lugares e histórias que jamais ouviriam dentro de uma Fortrutura.
+
+Infelizmente, boa parte dessas histórias são apenas boatos sobre mariposas e aranhas assustadoras.`;
+const descricaoLourarva = `A Lourarva nasce como a maioria, uma larva pequena e comilona em aparência, mas possui um grande ímpeto pelo desenvolvimento e pela perfeição. Ela simplesmente não para de treinar sua força e de se desafiar a feitos cada vez maiores. Naturalmente, estabelece uma rotina de sono, alimentação e treino, que segue rigorosamente.
+
+A rotina bem estruturada da Lourarva traz grandes resultados. Em sua terceira muda, ela se torna enorme, vigorosa e confiante. Seu espírito competitivo aumenta e ela começa a procurar adversários para competir em basicamente qualquer coisa que envolva demonstração de força, geralmente encontrando verdadeira rivalidade apenas entre os seus e insetos maiores.
+
+A derrota é encarada como um desafio pessoal. Quando perde, a Lourarva treina e come ainda mais com um objetivo em mente. Superar a si mesma e superar seus desafiantes torna-se seu estilo de vida até chegar à última muda.
+
+Em sua muda final, sua cabeça ganha um belo detalhe dourado, do qual se orgulha, juntamente com seu corpo enorme e poderoso. É nesse momento que a Lourarva para de competir e passa a buscar uma utilidade real para sua força.
+
+Geralmente, procura um grupo de insetos ou uma comunidade que precise de ajuda com algo que exija grande força. O trabalho de uma Lourarva pode ser muito variado, desde um combate real contra alguém muito forte ou até mesmo um enxame, até carregar sozinha algo necessário ou recuperar alguma coisa de difícil acesso.
+
+Esse grande trabalho é considerado o momento de glória da Lourarva. Depois de realizá-lo, ela permanece naquele lugar pelo resto de seus dias como larva, onde passa a ser admirada pelo feito que realizou.`;
+const descricaoPupumento = `Quando chega o momento, a Lourarva começa a construir uma câmara no lugar onde viveu seus últimos dias como larva, dispensando a ajuda dos insetos que gostariam de auxiliá-la.
+
+Ela cava um túnel e constrói uma enorme câmara subterrânea onde, sem qualquer receio de passar por sua fase mais vulnerável, transforma-se no Pupumento.
+
+O Pupumento possui uma aparência que parece retratar o estilo de vida que teve como Lourarva, lembrando um inseto absurdamente forte carregando algo ainda mais pesado que o próprio corpo.
+
+Os insetos que receberam a ajuda da Lourarva durante seu grande trabalho costumam não apenas proteger a câmara, mas também enfeitá-la com objetos e símbolos que remetem ao feito realizado. Assim, a câmara se torna um lugar de respeito e admiração pelo inseto que repousa em seu interior.
+
+A câmara do Pupumento costuma ser visitada até mesmo por insetos de outros lugares, que oferecem algum recurso à comunidade em troca da oportunidade de conhecê-la. Quanto maior tiver sido o feito da Lourarva, mais glorificado e visitado será seu Pupumento.`;
+const descricaoBesocles = `A vida de Bésocles é uma vida de aventuras. Ele costuma deixar o lugar onde foi glorificado e partir em busca de desafios maiores e, segundo ele, mais necessários, transformando a ideia de seu grande trabalho em um ideal de vida.
+
+Bésocles mantém sua rotina de treinamento para conservar sua força. É um inseto assustadoramente forte e robusto, que utiliza seus enormes chifres e seus quatro braços para realizar os mais difíceis feitos.
+
+Os Bésocles competem por fêmeas, geralmente várias ao longo da vida, enfrentando uns aos outros em disputas de força e combate. Nessas ocasiões, seus enormes chifres são especialmente importantes para agarrar, erguer e derrubar seus adversários.
+
+Apesar da aparência intimidadora, Bésocles costuma ser bem-humorado e continua aceitando disputas competitivas durante suas viagens. Seu tamanho, sua força e sua aparência fazem dele um inseto frequentemente admirado, e poucos têm coragem de enfrentá-lo verdadeiramente.
+
+Por sua dedicação quase exclusiva à força, porém, Bésocles não está entre os insetos mais inteligentes. Às vezes pode ser enganado e usado por outros, chegando a participar de guerras consideradas injustas ou a realizar feitos reprováveis sem compreender completamente aquilo em que se envolveu.
+
+Quando percebe o que fez, isso pode atingir justamente uma das coisas das quais mais se orgulha: sua reputação.`;
+const descricaoBesolita = `Diferentemente de Bésocles, Besólita não deixa o lugar onde realizou seu grande trabalho, tornando-se uma espécie de protetora local. Ela não possui a mesma força física do macho de sua linhagem nem seus enormes chifres, mas continua sendo um inseto assustadoramente grande e forte.
+
+Besólita entende que o ideal não é possuir apenas um corpo poderoso, mas também uma mente poderosa, e inicia uma busca pelo equilíbrio entre os dois.
+
+Durante o início de sua nova vida, aprende tudo o que pode sobre o lugar e os insetos que decidiu proteger, desenvolvendo um intelecto muito superior ao de Bésocles sem abandonar completamente seus treinamentos. Besólitas costumam se tornar excelentes líderes de enxames locais, tanto na estratégia de guerra quanto no treinamento de seus integrantes.
+
+Quando entra em seu período fértil, ela e a comunidade organizam um grande torneio de combate, que costuma atrair Bésocles que estejam viajando pela região. As competições são assistidas por inúmeros insetos e acabam trazendo muitos recursos para a comunidade. Ao final, Besólita sempre aceita o vencedor como parceiro por um curto período.
+
+Quando chega o momento de colocar seus ovos, Besólita viaja para longe do lugar onde vive e procura uma região com abundância de alimento para sua cria. Deposita seu ovo e parte, mesmo tendo capacidade mais do que suficiente para protegê-lo.
+
+Para ela, isso é necessário. Uma Lourarva criada sob a proteção da mãe aprenderia a confiar na força de Besólita em vez de desenvolver a própria.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -2935,6 +3059,60 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'gusokulo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
+  },
+  {
+    id: 'lourarva',
+    nome: 'Lourarva',
+    nomeIngles: 'Lourarva',
+    imagem: '/images/besouros/lourarva.png',
+    descricao: descricaoLourarva,
+    linhagem: 'besouros',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'pupumento', tipo: 'linear' }],
+  },
+  {
+    id: 'pupumento',
+    nome: 'Pupumento',
+    nomeIngles: 'Pupument',
+    imagem: '/images/besouros/pupumento.png',
+    descricao: descricaoPupumento,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'besocles', tipo: 'ramificada' },{ insetoId: 'besolita', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'lourarva', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'besocles',
+    nome: 'Bésocles',
+    nomeIngles: 'Besocles',
+    imagem: '/images/besouros/besocles.png',
+    descricao: descricaoBesocles,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupumento', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'besolita',
+    nome: 'Besólita',
+    nomeIngles: 'Besolita',
+    imagem: '/images/besouros/besolita.png',
+    descricao: descricaoBesolita,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupumento', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'morticula',
