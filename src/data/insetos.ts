@@ -2398,9 +2398,90 @@ Quando entra em seu período fértil, ela e a comunidade organizam um grande tor
 Quando chega o momento de colocar seus ovos, Besólita viaja para longe do lugar onde vive e procura uma região com abundância de alimento para sua cria. Deposita seu ovo e parte, mesmo tendo capacidade mais do que suficiente para protegê-lo.
 
 Para ela, isso é necessário. Uma Lourarva criada sob a proteção da mãe aprenderia a confiar na força de Besólita em vez de desenvolver a própria.`;
-const descricaoBarbarva = ``;
-const descricaoDraugrupa = ``;
-const descricaoBersourkor = ``;
+const descricaoBarbarva = `A Barbarva é um inseto extremamente territorial. Logo após nascer, escolhe uma pequena região para chamar de sua e passa grande parte da vida naquele local, cavando túneis e escavando troncos de madeira em decomposição.
+
+É desse território que retira praticamente tudo de que precisa: alimento, abrigo, recursos e pedaços de madeira que transforma em ferramentas de batalha.
+
+O nome Barbarva foi dado por outros insetos, pois a maioria é incapaz de compreender sua linguagem e afirma escutar apenas uma sequência de sons parecidos com “bar, bar, bar”. Insetos que vivem próximos às Barbarvas, entretanto, conseguem aprender a se comunicar com elas e, principalmente, sabem respeitar seus territórios.
+
+Quando um desconhecido invade suas terras, a Barbarva não costuma atacar imediatamente. Primeiro, bate com força seu pedaço de pau contra a casca de madeira que carrega, enquanto reclama em sua língua incompreensível e encara o invasor com seu habitual olhar furioso. Normalmente, esse aviso é suficiente.
+
+Se o invasor não for embora, porém, ela parte para o ataque com grande fúria.
+
+Como seu exoesqueleto ainda não possui a resistência que terá na fase adulta, a Barbarva utiliza uma grossa casca de madeira para se proteger dos golpes. Com o tempo, desenvolve técnicas bastante eficientes de defesa e ataque utilizando sua proteção e seus pedaços de madeira.
+
+Apesar de ainda ser apenas uma larva, pode ser um adversário bastante perigoso.
+
+O recomendado é simplesmente deixá-la em paz.`;
+const descricaoDraugrupa = `No território de uma Barbarva, chega um momento em que ela simplesmente parece desaparecer. Nenhum de seus pertences permanece na superfície e não há qualquer sinal de que ainda esteja por perto, como se tivesse abandonado definitivamente o lugar.
+
+Porém, ao explorar seu território, é possível encontrar túneis recém-escavados que levam até uma câmara subterrânea. É ali que repousa a Draugrupa.
+
+Dentro da câmara estão todos os pertences que acumulou durante sua vida como Barbarva. A Draugrupa permanece imóvel entre eles, mas seus olhos parecem acompanhar constantemente qualquer um que entre no local.
+
+Sua aparência é perturbadora. O corpo possui a coloração e o aspecto de um inseto morto e fossilizado, embora esteja claramente vivo e pareça estar esperando por alguma coisa.
+
+Dizem que, se alguém tentar retirar qualquer objeto de sua câmara, a Draugrupa se levanta e persegue o ladrão até a morte. Verdade ou não, poucos estão dispostos a descobrir. Esse inseto é extremamente apegado a tudo aquilo que conquistou enquanto era uma Barbarva.
+
+Às vezes, quando permanece por muito tempo em sua câmara, é possível ouvir sons grotescos vindos das profundezas de seus túneis.
+
+Em regiões onde os territórios de várias Barbarvas são vizinhos, existem relatos de enormes túneis compartilhados, compostos por diversas câmaras. Cada Draugrupa ocupa a sua própria câmara e protege exclusivamente seus próprios pertences.
+
+Poucos insetos se aventuram nesses lugares.
+
+Dizem que aqueles que o fazem costumam ter pesadelos depois.`;
+const descricaoBersourkor = `O Bersourkor não é o maior dos escaravelhos e muito menos o mais forte, mas certamente está entre os mais furiosos.
+
+Ele costuma permanecer no mesmo território que ocupava durante suas fases anteriores e se torna ainda mais agressivo na fase adulta. Agora, além de possuir um exoesqueleto duro e resistente, um de seus braços termina em uma pesada estrutura de corte. Dizem que um golpe bem aplicado é capaz de partir o exoesqueleto de outro inseto ao meio.
+
+Mesmo com toda essa proteção natural, o Bersourkor continua utilizando sua velha casca de madeira para se defender. A combinação entre ela e seu braço de corte resulta em uma técnica de ataque e defesa impressionante, aperfeiçoada desde os tempos em que ainda era uma Barbarva.
+
+Bersourkors são facilmente irritáveis. Pisar em seu território ou se aproximar demais de seus pertences pode ser suficiente para que alguém seja considerado seu próximo alvo.
+
+Em combate, entram em um estado de fúria quase cega e lutam até o fim. Ferimentos que fariam outros insetos recuar parecem apenas deixá-los ainda mais perigosos. Mesmo gravemente machucado, um Bersourkor continuará lutando da maneira que conseguir.
+
+Apesar de sua fama, eles não são irracionais. Quando abordado com cuidado e respeito, um Bersourkor é perfeitamente capaz de responder da mesma maneira. Alguns chegam a criar fortes vínculos com pequenos grupos de outros insetos e passam a considerá-los parte de seu círculo, embora esse comportamento não seja muito comum.
+
+O Bersourkor raramente abandona seu território. Uma das poucas exceções acontece durante o período reprodutivo, quando alguns indivíduos partem em busca de parceiros.
+
+Quando isso acontece, o melhor é não ficar no caminho.`;
+const descricaoGiglope = `Giglopes nascem no interior de troncos em decomposição e logo começam a se alimentar ferozmente. Conforme devoram a madeira e outros materiais ao seu redor, as passagens abertas no tronco tornam-se sua moradia. Às vezes, ampliam essas passagens até o solo, conectando o tronco a túneis subterrâneos e formando algo semelhante a uma pequena caverna.
+
+Um Giglope se alimenta tanto que cresce enormemente a cada muda, tornando-se uma das maiores e mais pesadas larvas entre os escaravelhos. Conforme cresce, passa a buscar cada vez mais alimentos ricos em proteína, incluindo outros insetos menores. Com seu tamanho avantajado, encontrar presas não costuma ser difícil.
+
+As entradas das moradias dos Giglopes são consideradas lugares perigosos. Muitas vítimas veem apenas seu enorme olho falso surgir na escuridão antes que um inseto menor seja agarrado e arrastado para dentro da toca.
+
+Um Giglope é perfeitamente capaz de conversar e interagir normalmente com outros insetos, mas não é considerado confiável. Se estiver com fome, pode decidir comer até mesmo alguém que confiava nele. Não faz isso por perder o controle, mas porque acredita que o maior tem direito sobre os menores.
+
+Alguns insetos particularmente corajosos desafiam-se a entrar na toca de um Giglope como forma de testar sua própria bravura. Nem todos retornam. Entre muitos Vespaleiros, porém, enfrentar e derrotar um Giglope tornou-se uma espécie de desafio pessoal, criando uma antiga rivalidade entre os dois insetos.`;
+const descricaoGolitauro = `Uma das piores coisas que pode acontecer a um inseto é entrar no labirinto subterrâneo de um Golitauro.
+
+Por algum motivo, próximo de sua transformação, os túneis abaixo do tronco onde vivia o Giglope formam um imenso complexo subterrâneo onde é extremamente fácil se perder. Suas paredes são revestidas por um substrato feito com matéria do próprio tronco, tornando-as sólidas e resistentes. Possivelmente é a mesma técnica que o Giglope utilizava para reforçar os enormes túneis por onde passava.
+
+Ninguém sabe ao certo por que o labirinto existe.
+
+Alguns dizem que ele simplesmente se forma durante a vida do Giglope e só parece complexo para quem não conhece seus caminhos. Outros acreditam que ele o constrói propositalmente para dificultar que alguém encontre seu corpo enquanto se transforma.
+
+Existe ainda uma explicação muito mais assustadora.
+
+Dizem que o labirinto foi feito para que outros insetos entrem e não consigam mais sair. Assim, quando finalmente despertar, o Golitauro já terá sua primeira vítima perdida em algum lugar de seus túneis.
+
+Existe apenas um relato conhecido de um inseto que conseguiu atravessar o labirinto, encontrar o Golitauro e ainda localizar a saída antes que ele despertasse. Segundo seu relato, a criatura permanecia imóvel em uma câmara escondida nas profundezas do complexo.
+
+Era gigantesca, assustadora e incrivelmente dura e resistente.`;
+const descricaoGladolias = `O gigantesco escaravelho Gladolias possui uma fama terrível: eles esmagam por diversão.
+
+Sua alimentação é principalmente frutífera. São excelentes escaladores e conseguem encontrar frutas com facilidade, não tendo mais qualquer necessidade de devorar outros insetos. Isso, porém, não os impede de bater, empurrar ou esmagar algum apenas porque podem.
+
+Gladolias ainda vive em sua complexa toca subterrânea e costuma ser arrogante e desdenhoso com insetos menores. O ideal é manter certa distância de um, pois não é incomum alguém ser simplesmente empurrado para longe sem motivo algum.
+
+Eles também realizam disputas entre si. Durante o período reprodutivo, um macho precisa derrotar a própria fêmea em combate corporal para conquistar o direito de acasalar com ela.
+
+Curiosamente, Gladolias adora competições de luta. É extremamente comum encontrá-los em qualquer evento que envolva combate, principalmente nos torneios realizados por aqueles que eram seus antigos inimigos quando ainda eram Giglopes: os Vespaleiros.
+
+Gladolias parece não se importar mais com a antiga rivalidade.
+
+Desde que tenha a oportunidade de subjugar um adversário, pouco importa quem esteja organizando o torneio.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3155,6 +3236,46 @@ export const insetos: Inseto[] = [
     tags: ['besouros'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'draugrupa', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'giglope',
+    nome: 'Giglope',
+    nomeIngles: 'Giglope',
+    imagem: '/images/besouros/giglope.png',
+    descricao: descricaoGiglope,
+    linhagem: 'besouros',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'golitauro', tipo: 'linear' }],
+  },
+  {
+    id: 'golitauro',
+    nome: 'Golitauro',
+    nomeIngles: 'Golitauro',
+    imagem: '/images/besouros/golitauro.png',
+    descricao: descricaoGolitauro,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'gladolias', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'giglope', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'gladolias',
+    nome: 'Gladolias',
+    nomeIngles: 'Gladolias',
+    imagem: '/images/besouros/gladolias.png',
+    descricao: descricaoGladolias,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'golitauro', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {

@@ -175,7 +175,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
     tema: '#49505a',
-    criaturas: ['roninfa', 'gusokulo', 'kabutouro', 'lourarva','pupumento','besocles','besolita', 'barbarva', 'draugrupa', 'bersourkor'],
+    criaturas: ['roninfa', 'gusokulo', 'kabutouro', 'lourarva','pupumento','besocles','besolita', 'barbarva', 'draugrupa', 'bersourkor', 'giglope', 'golitauro', 'gladolias'],
   },
 
   {
