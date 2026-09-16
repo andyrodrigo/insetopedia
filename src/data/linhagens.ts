@@ -171,7 +171,7 @@ export const linhagens: Linhagem[] = [
   {
     id: 'besouros',
     nome: 'Besouros',
-    insetoBase: 'roninfa',
+    insetoBase: 'infantarva',
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
     tema: '#49505a',
