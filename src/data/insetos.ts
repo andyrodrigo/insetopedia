@@ -1240,42 +1240,6 @@ Depois que tudo termina, procurar pelo responsável já não adianta.
 
 Ele já é outra coisa.`;
 
-const descricaoRoninfa = `Roninfa viaja solitário em busca de alimento e aperfeiçoamento. Quando encontra o galho perfeito, ele o refina cuidadosamente até transformá-lo em sua espada de treinamento.
-
-Seu chapéu de palha esconde os olhos como um sinal de que não busca conflitos. Roninfa jamais encara outro inseto diretamente: quando encontra alguém pelo caminho, baixa o chapéu e procura um lugar pacífico onde possa continuar treinando e se alimentando.
-
-Se for atacado, porém, Roninfa precisa demonstrar o resultado de seu treinamento incessante. Apesar de possuir um corpo frágil, suas habilidades de combate não devem ser subestimadas. Anos de prática transformam seu simples galho em uma arma surpreendentemente eficiente.
-
-Roninfa passa grande parte de sua vida larval vagando pelo mundo, aperfeiçoando corpo e espírito enquanto busca o caminho que o levará à próxima fase de sua vida.
-
-Dizem que, durante sua existência como larva, Roninfa passa por três grandes estágios de evolução espiritual. São conhecidos como as Três Etapas Espirituais do Roninfa.`;
-const descricaoGusokulo = `Após encontrar o lugar perfeito para descansar e completar as três etapas espirituais, o corpo de Roninfa se transforma em uma poderosa armadura que ele vestirá quando estiver pronto.
-
-O Gusokulo permanece imóvel, resistindo ao vento forte, ao sol escaldante, à chuva e a qualquer outra intempérie. As pequenas pernas localizadas na parte inferior da carapaça raramente são utilizadas e só entram em ação quando outro inseto decide atacá-lo.
-
-Mesmo parecendo incapaz de lutar, Gusokulo possui armas escondidas em sua própria estrutura. As três lâminas em suas costas e os chifres de sua carapaça podem ser usados como armas letais.
-
-Quando necessário, Gusokulo consegue girar seu corpo com uma velocidade surpreendente, transformando sua carapaça em uma arma capaz de ferir e, por vezes, até decapitar um adversário. Tudo isso sem praticamente deixar seu lugar.
-
-Dizem que, depois de derrotar um inimigo, Gusokulo sobe sobre o corpo daquele que caiu e permanece ali, imóvel como antes.
-
-Para quem encontra a cena, não há dúvida sobre o significado.
-
-É um aviso para o próximo que decidir tentar a sorte.`;
-const descricaoKabutouro = `A filosofia de vida de Kabutouro é simples: viver com pouco e usar sua força para proteger aqueles que não podem se proteger sozinhos.
-
-Kabutouro percorre diferentes sociedades de insetos e, às vezes, decide juntar-se às suas causas. Temido e respeitado, dificilmente passa despercebido por onde anda. Sua imponente armadura, seus chifres e seu letal braço em forma de katana anunciam a presença de um guerreiro que passou a vida inteira aperfeiçoando suas habilidades.
-
-Dizem que o tamanho de seus chifres revela sua força e dedicação de treino quando era uma lagarta. Quanto maiores os chifres, mais formidável é o Kabutouro.
-
-Quando dois Kabutouros se encontram, porém, nem sempre há espaço para convivência pacífica. É comum que desafiem um ao outro para descobrir quem é o melhor guerreiro. Essas batalhas podem durar horas e, algumas vezes, terminam com a morte de um dos combatentes.
-
-Apesar de passar grande parte da vida viajando e lutando por aqueles que precisam de proteção, Kabutouro não permanece sozinho para sempre.
-
-Quando sente que seus dias de batalha estão chegando ao fim, procura um lugar entre os seus. Ali, abandona a vida errante e passa o restante de sua vida formando uma família..
-
-Depois de uma vida inteira procurando seu caminho, o velho guerreiro finalmente encontra um lugar para chamar de lar.`;
-
 const descricaoVudulha = `Para muitos insetos, encontrar uma Barântula é assistir à lenta aproximação da própria morte.
 
 Há relatos de viajantes que, ao atravessarem uma encruzilhada aparentemente deserta, viram uma abertura surgir na terra e dela emergir uma Barântula. Pouco pode ser feito depois disso. Sua força é brutal: ela morde, imobiliza e arrasta sua vítima para as profundezas, levando-a até o território das Aracromantes, onde provavelmente encontrará seu fim como sacrifício em algum ritual do Coven.
@@ -2356,7 +2320,60 @@ Por isso, a maior parte dos sucessos vem da lábia.
 Os mais habilidosos conseguem conquistar a confiança de mais de uma Reclusela e continuam procurando outras durante sua vida. Fora do período reprodutivo, levam uma existência relativamente solitária, mas, ao contrário das fêmeas, podem socializar com outros insetos e conhecer lugares e histórias que jamais ouviriam dentro de uma Fortrutura.
 
 Infelizmente, boa parte dessas histórias são apenas boatos sobre mariposas e aranhas assustadoras.`;
-const descricaoLourarva = `A Lourarva nasce como a maioria, uma larva pequena e comilona em aparência, mas possui um grande ímpeto pelo desenvolvimento e pela perfeição. Ela simplesmente não para de treinar sua força e de se desafiar a feitos cada vez maiores. Naturalmente, estabelece uma rotina de sono, alimentação e treino, que segue rigorosamente.
+
+const descricaoInfantarva = `Infantarva é como são chamadas as larvas de escaravelhos em sua primeira muda. Mesmo pertencendo a linhagens completamente diferentes, todas possuem praticamente a mesma aparência e aquela expressão infantil de quem ainda não sabe muito bem o que está fazendo naquele mundo.
+
+Infantarvas costumam ser extremamente esfomeadas, e a primeira coisa que fazem ao nascer é começar a comer tudo o que encontram ao redor. Por esse motivo, seus ovos geralmente são deixados pelas mães em ambientes ricos em alimento. A escolha do lugar, porém, pode ter significados muito diferentes: pode ser pela alimentação disponível, por ser um território específico, pelo local de nascimento da mãe ou até por ser considerado um lugar sagrado. Isso depende da linhagem à qual a Infantarva pertence.
+
+Apesar de serem extremamente parecidas, um observador experiente consegue identificar sua linhagem através de diferenças minúsculas: padrões de manchas, tamanho dos pelos, pequenos detalhes nas mandíbulas, discretas alterações de cor e outras características que poderiam parecer irrelevantes.
+
+Entretanto, quem realmente conhece as diferentes linhagens muitas vezes nem precisa procurar essas marcas. O comportamento de uma Infantarva costuma denunciar sua origem, pois, mesmo tão jovem, ela já parece absorver naturalmente aspectos da cultura de sua linhagem.
+
+Na segunda muda, as diferenças começam a se tornar muito mais evidentes. Sua aparência passa a incorporar características próprias e ela recebe um novo nome, correspondente à linhagem à qual pertence.
+
+Na terceira e última muda larval, qualquer semelhança entre elas praticamente desaparece. As antigas Infantarvas podem apresentar diferenças enormes de tamanho, coloração, comportamento e anatomia, já possuindo muitas das características únicas que definirão sua forma final como larva.
+
+E isso produz uma consequência muito boa para as cinco já prontas: Roninfa, Lourarva, Barbarva, Giglope e Shenanta agora deixam de ser “a larva” e passam a representar formas posteriores da infância de uma criatura que começou como Infantarva.`;
+const descricaoRoninfa = `Desde que era Infantarva, ela já apresenta características próprias de um Roninfa. Demonstrando grande interesse por pequenos galhos e fibras de madeira, utilizando as mandíbulas para retirar finas tiras de material vegetal e entrelaçá-las até formar seu característico chapéu.
+
+Roninfa também procura entre os galhos aquele que considera adequado para seu treinamento. Quando encontra o perfeito, trabalha cuidadosamente sua superfície, removendo irregularidades e ajustando seu formato até transformá-lo em uma simples espada de madeira.
+
+Depois de aperfeiçoar suficientemente suas primeiras habilidades, toma uma decisão característica de sua linhagem: deixa o lugar onde nasceu e parte sozinho. A partir desse momento, passa a viajar em busca de alimento e aperfeiçoamento, carregando consigo apenas aquilo que produziu.
+
+Seu chapéu esconde os olhos como um sinal de que não busca conflitos. Roninfa jamais encara outro inseto diretamente: quando encontra alguém pelo caminho, baixa o chapéu e procura um lugar pacífico onde possa continuar treinando e se alimentando.
+
+Se for atacado, porém, precisa demonstrar o resultado de seu treinamento incessante. Apesar de ainda possuir um corpo relativamente frágil, suas habilidades de combate não devem ser subestimadas. A prática transforma seu simples galho em uma arma surpreendentemente eficiente.
+
+Com a terceira muda, Roninfa se torna maior e mais resistente. Seu chapéu é refeito para acompanhar o novo tamanho, enquanto um novo galho é escolhido e trabalhado com muito mais cuidado. A mudança física é interpretada como consequência do próprio aperfeiçoamento, e seus treinamentos tornam-se cada vez mais exigentes.
+
+Essas transformações deram origem à crença nas Três Etapas Espirituais do Roninfa: a primeira começa ainda como Infantarva, antes de partir; a segunda marca o abandono do lugar onde nasceu e o início de sua jornada; e a terceira representa o Roninfa maduro, que continuará vagando e aperfeiçoando corpo e espírito até encontrar o caminho que o levará à próxima fase de sua vida.`;
+const descricaoGusokulo = `Após encontrar o lugar perfeito para descansar e completar as três etapas espirituais, o corpo de Roninfa se transforma em uma poderosa armadura que ele vestirá quando estiver pronto.
+
+O Gusokulo permanece imóvel, resistindo ao vento forte, ao sol escaldante, à chuva e a qualquer outra intempérie. As pequenas pernas localizadas na parte inferior da carapaça raramente são utilizadas e só entram em ação quando outro inseto decide atacá-lo.
+
+Mesmo parecendo incapaz de lutar, Gusokulo possui armas escondidas em sua própria estrutura. As três lâminas em suas costas e os chifres de sua carapaça podem ser usados como armas letais.
+
+Quando necessário, Gusokulo consegue girar seu corpo com uma velocidade surpreendente, transformando sua carapaça em uma arma capaz de ferir e, por vezes, até decapitar um adversário. Tudo isso sem praticamente deixar seu lugar.
+
+Dizem que, depois de derrotar um inimigo, Gusokulo sobe sobre o corpo daquele que caiu e permanece ali, imóvel como antes.
+
+Para quem encontra a cena, não há dúvida sobre o significado.
+
+É um aviso para o próximo que decidir tentar a sorte.`;
+const descricaoKabutouro = `A filosofia de vida de Kabutouro é simples: viver com pouco e usar sua força para proteger aqueles que não podem se proteger sozinhos.
+
+Kabutouro percorre diferentes sociedades de insetos e, às vezes, decide juntar-se às suas causas. Temido e respeitado, dificilmente passa despercebido por onde anda. Sua imponente armadura, seus chifres e seu letal braço em forma de katana anunciam a presença de um guerreiro que passou a vida inteira aperfeiçoando suas habilidades.
+
+Dizem que o tamanho de seus chifres revela sua força e dedicação de treino quando era uma lagarta. Quanto maiores os chifres, mais formidável é o Kabutouro.
+
+Quando dois Kabutouros se encontram, porém, nem sempre há espaço para convivência pacífica. É comum que desafiem um ao outro para descobrir quem é o melhor guerreiro. Essas batalhas podem durar horas e, algumas vezes, terminam com a morte de um dos combatentes.
+
+Apesar de passar grande parte da vida viajando e lutando por aqueles que precisam de proteção, Kabutouro não permanece sozinho para sempre.
+
+Quando sente que seus dias de batalha estão chegando ao fim, procura um lugar entre os seus. Ali, abandona a vida errante e passa o restante de sua vida formando uma família..
+
+Depois de uma vida inteira procurando seu caminho, o velho guerreiro finalmente encontra um lugar para chamar de lar.`;
+const descricaoLourarva = `A Lourarva nasce como a maioria, uma Infantarva pequena e comilona em aparência, mas possui um grande ímpeto pelo desenvolvimento e pela perfeição. Ela simplesmente não para de treinar sua força e de se desafiar a feitos cada vez maiores. Naturalmente, estabelece uma rotina de sono, alimentação e treino, que segue rigorosamente.
 
 A rotina bem estruturada da Lourarva traz grandes resultados. Em sua terceira muda, ela se torna enorme, vigorosa e confiante. Seu espírito competitivo aumenta e ela começa a procurar adversários para competir em basicamente qualquer coisa que envolva demonstração de força, geralmente encontrando verdadeira rivalidade apenas entre os seus e insetos maiores.
 
@@ -2482,6 +2499,41 @@ Curiosamente, Gladolias adora competições de luta. É extremamente comum encon
 Gladolias parece não se importar mais com a antiga rivalidade.
 
 Desde que tenha a oportunidade de subjugar um adversário, pouco importa quem esteja organizando o torneio.`;
+const descricaoShenanta = `Ainda como Infantarva, Shenanta já demonstra uma estranha relação com as árvores. Embora seja tão esfomeada quanto qualquer outra, por vezes interrompe a alimentação e permanece imóvel diante de uma árvore por longos períodos, como se simplesmente a estivesse contemplando.
+
+Em sua segunda muda, ela adquire sua característica coloração azulada. Costuma permanecer próxima às raízes das árvores, alimentando-se delas e passando longos períodos parcialmente enterrada em contemplação. Ninguém sabe exatamente o que chama sua atenção, mas Shenanta parece demonstrar preferência por determinadas árvores, podendo ignorar várias delas antes de se acomodar diante de uma específica.
+
+Shenanta é sociável, embora prefira passar a maior parte do tempo sozinha, comendo e contemplando. Apesar de gostar da solidão, recebe tranquilamente a companhia de outros insetos e não parece se incomodar quando permanecem próximos enquanto ela se alimenta.
+
+Devido à sua alimentação praticamente incessante, cresce absurdamente ao longo das mudas. Na terceira, seu tamanho já se torna impressionante e sua coloração azulada muito mais evidente.
+
+Em sua muda final, além de atingir proporções enormes, os arredores de sua cabeça desenvolvem formas que lembram cabeças de serpentes. Isso provoca interpretações bastante diferentes entre outros insetos. Alguns grupos, especialmente seguidores da Palavra da Vida, preferem manter distância ou chegam a temer a enorme Shenanta por sua estranha aparência serpentina.
+
+Outros povos, como os Kurupins, não veem qualquer problema e consideram a tranquila Shenanta uma criatura de aparência fascinante.
+
+Shenanta raramente entra em conflito com outros insetos, mas, quando necessário, sabe muito bem utilizar seu enorme tamanho e peso para se proteger.`;
+const descricaoShirvana = `A transformação em Shirvana ocorre de forma misteriosa. Quando chega o momento, Shenanta geralmente segue determinada em alguma direção, como se tivesse sido guiada até lá por um sinal interior.
+
+O lugar escolhido costuma ficar sob uma árvore, e às vezes Shenanta precisa cavar até encontrar o ponto exato onde realizará sua transformação.
+
+Shirvana emana uma estranha aura de tranquilidade. Não é incomum que um inseto viajando pelas proximidades sinta que algo o chama até aquele lugar e, ao chegar, encontre Shirvana pacificamente posicionada, como se estivesse esperando por ele. Alguns acabam imitando sua posição e permanecem diante dela por muito tempo, retornando de lá tomados por uma profunda sensação de paz.
+
+Há quem diga que o olho na testa de Shirvana consegue enxergar aquilo que aflige um inseto e retirar dele esse peso caso permaneça em sua companhia por tempo suficiente. Por isso, encontrar uma Shirvana é considerado uma bênção.
+
+Um viajante contou certa vez ter sentido o chamado de uma Shirvana que, estranhamente, não se encontrava sob as raízes de uma árvore, mas em um jardim oculto. Segundo ele, o próprio Louvolin-branco estava sentado diante dela. O viajante se juntou aos dois, e os três permaneceram ali, em completo silêncio, durante horas.`;
+const descricaoMeganesha = `Ao despertar de sua longa transformação, Meganesha deixa para trás a quietude absoluta de Shirvana, mas parece carregar consigo parte da serenidade daquele estágio.
+
+É uma criatura enorme e imponente, cujo peso e força poderiam facilmente torná-la ameaçadora. Apesar disso, Meganesha costuma tratar outros insetos com tranquilidade e parece especialmente disposta a ajudar aqueles que encontra enfrentando alguma dificuldade. Suas quatro mãos são fortes e habilidosas, capazes de mover grandes obstáculos, enquanto o enorme chifre à frente da cabeça permite erguer e afastar aquilo que poucos insetos conseguiriam sequer deslocar.
+
+Talvez por isso, encontrar um Meganesha diante de um caminho bloqueado seja considerado um sinal de sorte. Ele parece sentir satisfação especial em abrir passagens, retirar troncos caídos, pedras e outros obstáculos, muitas vezes permanecendo por perto até que todos consigam atravessar.
+
+Isso não significa que seja incapaz de lutar. Meganeshas são extremamente fortes e difíceis de derrubar. Quando precisam enfrentar outro inseto, utilizam o peso do próprio corpo, os quatro braços e seus chifres para agarrar, empurrar e levantar o adversário. Seus confrontos costumam parecer muito mais uma disputa de força do que uma tentativa de ferir, e mesmo entre eles é comum que uma luta termine assim que um dos dois demonstra não conseguir mais resistir.
+
+Curiosamente, alguns Meganeshas também demonstram um apetite quase tão impressionante quanto aquele que possuíam quando Shenantas. Frutas maduras e seiva são capazes de fazê-los abandonar por algum tempo até mesmo suas longas caminhadas. Meganesha também parece possuir um conhecimento incomum sobre as árvores. Mesmo em lugares desconhecidos, costuma encontrar aquelas onde poderá conseguir alimento em abundância. Utilizando seus fortes braços dianteiros, abre a superfície da árvore até fazer a seiva escorrer.
+
+Apesar de seu enorme apetite, raramente guarda o alimento apenas para si. Outros insetos que estejam por perto podem se aproximar e se alimentar da seiva que Meganesha fez brotar, e ele parece não se incomodar com a companhia.
+
+Alguns acreditam que esse conhecimento vem do longo tempo que Shenanta passa contemplando as árvores. Outros simplesmente dizem que Meganesha sempre sabe onde procurar.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3105,16 +3157,30 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'ramificada',
   },
   {
+    id: 'infantarva',
+    nome: 'Infantarva',
+    nomeIngles: 'Infantarva',
+    imagem: '/images/besouros/infantarva.png',
+    descricao: descricaoInfantarva,
+    linhagem: 'besouros',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' }, { insetoId: 'shenanta', tipo: 'ramificada' }],
+  },
+  {
     id: 'roninfa',
     nome: 'Roninfa',
     nomeIngles: 'Roninfa',
     imagem: '/images/besouros/roninfa.png',
     descricao: descricaoRoninfa,
     linhagem: 'besouros',
-    estagio: 'forma inicial',
+    estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [{ insetoId: 'gusokulo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'gusokulo',
@@ -3137,7 +3203,7 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/kabutouro.png',
     descricao: descricaoKabutouro,
     linhagem: 'besouros',
-    estagio: 'forma comum',
+    estagio: 'forma final',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [],
@@ -3151,10 +3217,12 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/lourarva.png',
     descricao: descricaoLourarva,
     linhagem: 'besouros',
-    estagio: 'forma inicial',
+    estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [{ insetoId: 'pupumento', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'pupumento',
@@ -3177,7 +3245,7 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/besocles.png',
     descricao: descricaoBesocles,
     linhagem: 'besouros',
-    estagio: 'forma comum',
+    estagio: 'forma final',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [],
@@ -3191,7 +3259,7 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/besolita.png',
     descricao: descricaoBesolita,
     linhagem: 'besouros',
-    estagio: 'forma comum',
+    estagio: 'forma final',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [],
@@ -3205,10 +3273,12 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/barbarva.png',
     descricao: descricaoBarbarva,
     linhagem: 'besouros',
-    estagio: 'forma inicial',
+    estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [{ insetoId: 'draugrupa', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'draugrupa',
@@ -3231,7 +3301,7 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/bersourkor.png',
     descricao: descricaoBersourkor,
     linhagem: 'besouros',
-    estagio: 'forma comum',
+    estagio: 'forma final',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [],
@@ -3245,10 +3315,12 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/giglope.png',
     descricao: descricaoGiglope,
     linhagem: 'besouros',
-    estagio: 'forma inicial',
+    estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [{ insetoId: 'golitauro', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'golitauro',
@@ -3271,11 +3343,53 @@ export const insetos: Inseto[] = [
     imagem: '/images/besouros/gladolias.png',
     descricao: descricaoGladolias,
     linhagem: 'besouros',
-    estagio: 'forma comum',
+    estagio: 'forma final',
     ...dadosPendentes,
     tags: ['besouros'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'golitauro', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'shenanta',
+    nome: 'Shenanta',
+    nomeIngles: 'Shenanta',
+    imagem: '/images/besouros/shenanta.png',
+    descricao: descricaoShenanta,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'shirvana', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'shirvana',
+    nome: 'Shirvana',
+    nomeIngles: 'Shirvana',
+    imagem: '/images/besouros/shirvana.png',
+    descricao: descricaoShirvana,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'meganesha', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'shenanta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'meganesha',
+    nome: 'Meganesha',
+    nomeIngles: 'Meganesha',
+    imagem: '/images/besouros/meganesha.png',
+    descricao: descricaoMeganesha,
+    linhagem: 'besouros',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'shirvana', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
