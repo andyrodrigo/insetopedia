@@ -1508,6 +1508,10 @@ Muitas histórias continuam circulando a seu respeito. Dizem que as Trevoletas s
 Trevoletas podem ser vistas trabalhando tranquilamente durante o dia. Podem conversar amigavelmente com quem se aproxima. Podem deixar para trás lugares melhores do que aqueles que encontraram.
 Nada disso parece suficiente.
 Para aqueles que já acreditam que elas servem à Rainha da Enganação, qualquer demonstração de que não são malignas pode ser interpretada apenas como prova de que sabem esconder muito bem sua verdadeira natureza.`;
+const descricaoClerigarta = '';
+const descricaoConclavida = '';
+const descricaoCleroleta = '';
+const descricaoPontiarca = '';
 
 const descricaoPulguito = `Pulguitos nascem em famílias tão numerosas que dificilmente conseguem lembrar quem são todos os seus irmãos — e, às vezes, nem mesmo os nomes deles.
 Isso pouco importa. Entre os Pulgordos, toda a comunidade participa da criação dos filhotes. Pulguitos tratam praticamente qualquer adulto como se fosse um de seus pais, enquanto os mais velhos chamam qualquer Pulguito de filho, independentemente de quem realmente pertença à sua família.
@@ -3225,7 +3229,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma inicial',
     ...dadosPendentes,
     tags: ['besouros'],
-    evolucoes: [{ insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' }, { insetoId: 'shenanta', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' }, { insetoId: 'shenanta', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }],
   },
   {
     id: 'roninfa',
@@ -3482,7 +3486,7 @@ export const insetos: Inseto[] = [
   {
     id: 'glorifario',
     nome: 'Glorifário',
-    nomeIngles: 'Glorificarius',
+    nomeIngles: 'Gloriflar',
     imagem: '/images/besouros/glorifario.png',
     descricao: descricaoGlorifario,
     linhagem: 'besouros',
@@ -3496,7 +3500,7 @@ export const insetos: Inseto[] = [
   {
     id: 'prataladino',
     nome: 'Prataladino',
-    nomeIngles: 'Prataladino',
+    nomeIngles: 'Silverladin',
     imagem: '/images/besouros/prataladino.png',
     descricao: descricaoPrataladino,
     linhagem: 'besouros',
@@ -3964,6 +3968,60 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'crisanto', tipo: 'linear' }],
     tipoEvolucao: 'linear',
+  },
+  {
+    id: 'clerigarta',
+    nome: 'Clerigarta',
+    nomeIngles: 'Clerillar',
+    imagem: '/images/borboletas/clerigarta.png',
+    descricao: descricaoClerigarta,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'conclavida', tipo: 'linear' }],
+  },
+  {
+    id: 'conclavida',
+    nome: 'Conclávida',
+    nomeIngles: 'Conclrysalis',
+    imagem: '/images/borboletas/conclavida.png',
+    descricao: descricaoConclavida,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'trevoleta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'clerigarta', tipo: 'ramificada' }, { insetoId: 'pontiarca', tipo: 'ramificada' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'cleroleta',
+    nome: 'Cleroleta',
+    nomeIngles: 'Clergyfly',
+    imagem: '/images/borboletas/cleroleta.png',
+    descricao: descricaoCleroleta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'conclavida', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'pontiarca',
+    nome: 'Pontíarca',
+    nomeIngles: 'Pontiarca',
+    imagem: '/images/borboletas/pontiarca.png',
+    descricao: descricaoPontiarca,
+    linhagem: 'borboletas',
+    estagio: 'forma rara',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'conclavida', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'julgarta',
