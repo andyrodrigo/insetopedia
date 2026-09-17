@@ -2534,6 +2534,65 @@ Curiosamente, alguns Meganeshas também demonstram um apetite quase tão impress
 Apesar de seu enorme apetite, raramente guarda o alimento apenas para si. Outros insetos que estejam por perto podem se aproximar e se alimentar da seiva que Meganesha fez brotar, e ele parece não se incomodar com a companhia.
 
 Alguns acreditam que esse conhecimento vem do longo tempo que Shenanta passa contemplando as árvores. Outros simplesmente dizem que Meganesha sempre sabe onde procurar.`;
+const descricaoMalharda = `Desde quando ainda era uma Infantarva, Malharda já demonstrava uma personalidade séria e levava tudo a sério até demais. Em sua segunda muda, desenvolve um exoesqueleto mais duro, que combina com sua natureza introvertida.
+
+Malharda é considerada extremamente confiável e leal. Não costuma fazer promessas, mas, quando as faz, tenta o possível e o impossível para cumpri-las.
+
+Essa característica muitas vezes é aproveitada por outros insetos. Quando convencida da importância de alguma empreitada, pode acompanhar outro inseto como uma fiel aliada. Isso acontece principalmente com as formas adultas de sua própria linhagem, que costumam convencê-la de que a parceria será um aprendizado importante para ajudá-la a um dia se tornar um Resplansouro.
+
+A grande maioria das Malhardas torna-se facilmente seguidora do Besouro da Luz, uma vertente da Palavra da Vida que tem como figura central um Resplansouro lendário. Elas seguem à risca os ensinamentos dessa vertente, conciliando-os com seus próprios ideais de honra e lealdade.`;
+const descricaoEscalibupa = `A Escalibupa define aquilo em que a Malharda se tornará. Quando chega o momento de sua transformação, ela precisa encontrar uma raiz forte que possa se tornar parte de sua futura arma. Para isso, cava o subterrâneo de diferentes plantas em busca da raiz ideal. Quando finalmente a encontra, finca um dos braços firmemente nela e inicia sua transformação em Escalibupa.
+
+Todo o processo faz parte de uma grande tradição e possui diversos objetivos. O primeiro é conseguir unificar o braço à raiz. Durante a transformação, seu exoesqueleto penetra a raiz de forma afiada e passa a envolvê-la, formando uma estrutura de corte e combate semelhante aos ferrões, lâminas e outras armas naturais encontradas em diferentes insetos.
+
+O processo alonga o braço enquanto mantém a raiz em seu interior. Algumas Escalibupas conseguem produzir uma estrutura perfeitamente afiada; outras... nem tanto.
+
+Outro objetivo é desenvolver um exoesqueleto tão belo e resistente quanto possível. Dizem que a escolha da raiz correta influencia diretamente o resultado. Outros afirmam que depende do caráter da Malharda, de seu destino ou até de sua devoção ao Besouro da Luz. Há quem acredite que esses fatores determinam inclusive a cor e a homogeneidade do futuro exoesqueleto.
+
+A maioria das que não consegue realizar corretamente a união com a raiz torna-se Glorifário. Aquelas que conseguem podem se transformar em Prataladinos ou Resplansouros.
+
+A união com a raiz não é biologicamente necessária para que a Escalibupa complete sua transformação. Entretanto, sem ela, sua forma adulta não desenvolverá adequadamente o característico braço afiado, algo que representa uma enorme perda de prestígio entre os membros da linhagem.
+
+Por isso, embora não seja necessária para sobreviver, encontrar a raiz tornou-se uma parte essencial da transformação.`;
+const descricaoGlorifario = `Ao contrário do que muitos pensam, um Glorifário pode possuir um braço afiado conquistado durante sua fase de Escalibupa. Geralmente, porém, sua lâmina não é tão afiada ou uniforme quanto a dos outros dois. Estranhamente, isso costuma gerar ainda mais preconceito. Dizem que um Glorifário que conseguiu desenvolver o braço afiado não possuía bom caráter e, por isso, não foi digno de receber um exoesqueleto de prata ou ouro. Já os mais comuns, que sequer desenvolveram a lâmina, são vistos apenas como indivíduos sem prestígio.
+
+O exoesqueleto do Glorifário ainda é belo e resistente, mesmo sem as colorações mais prestigiadas da linhagem. Pode apresentar diferentes tons, como bronze, castanho ou cores mais escuras, embora o mais comum seja alguma tonalidade de verde-jade, com ou sem manchas escuras de formatos variados.
+
+Quando não possuem o braço afiado, lutam utilizando os espinhos cortantes nas laterais dos braços. Alguns também os utilizam para escalar e realizar ataques surpresa, prática eficiente, mas considerada desonrada entre os membros de sua linhagem.
+
+Glorifários são frequentemente vistos acompanhados por uma Malharda, cuja lealdade utilizam como suporte de combate e, algumas vezes, até mesmo como isca para ataques surpresa. Juntos, partem em missões pelas quais o Glorifário espera conquistar a glória que não obteve durante sua Escalibupa.
+
+Essas missões geralmente exigem algum pagamento em recursos ou serviços. Isso tende a prejudicar ainda mais a reputação dos Glorifários, pois cobrar por seus feitos é visto com maus olhos por muitos de sua linhagem. Para o Glorifário, entretanto, é também uma necessidade: ele precisa de recursos suficientes para manter a si mesmo e sua Malharda na ativa.`;
+const descricaoPrataladino = `O Prataladino é a forma que conseguiu desenvolver um exoesqueleto de prata. Essa coloração representa enorme prestígio dentro da linhagem. Seu exoesqueleto brilha e reflete a luz de maneira impressionante, e Prataladinos são frequentemente vistos como modelos de comportamento, moral e ética. Os costumes da crença do Besouro da Luz são profundamente assimilados por eles e tornam-se a base tanto de sua conduta pessoal quanto da imagem que representam perante a sociedade.
+
+Por algum motivo desconhecido, Prataladinos desenvolvem o braço afiado com grande facilidade, sendo extremamente raro encontrar um que não o possua. Quando isso acontece, geralmente significa que ele entrou na fase de Escalibupa antes de encontrar sua raiz. Mesmo sem possuir o prestigioso braço afiado, esses indivíduos costumam ser considerados destinados, pois ainda assim alcançaram o exoesqueleto prateado.
+
+Apesar de toda a fama, o exoesqueleto de um Prataladino não é necessariamente mais resistente que o de um Glorifário. Quanto à beleza e ao prestígio, porém, poucos membros da linhagem ousariam fazer a mesma comparação.
+
+Seu braço afiado e uniforme é um dos maiores símbolos de seu prestígio. Prataladinos aprendem a utilizá-lo com grande habilidade em combate, e os mais respeitados entre os guerreiros costumam ser aqueles que melhor dominam sua própria lâmina.
+
+Prataladinos são frequentemente cooptados para integrar o Exército do Besouro da Luz. Após participarem de alguma missão determinada pela organização, recebem um pequeno território próprio dentro do gigantesco domínio das Sacerdoletas. Essas missões geralmente envolvem a conquista de novos territórios ou a recuperação de regiões destinadas à Organização do Besouro da Luz.
+
+Sua reputação costuma ser ilibada, e os Prataladinos sabem utilizá-la quando necessário. Quando não estão servindo ao exército, normalmente vivem em seus próprios territórios, acolhendo como protegidos outros insetos que ali habitam e procurando manter aquelas terras prósperas e seguras.
+
+Para os insetos que vivem sob sua proteção, o Prataladino é visto como um senhor responsável pela segurança do território e das rotas pertencentes à Organização do Besouro da Luz.`;
+const descricaoResplansouro = `O prestígio do Resplansouro vem puramente da coloração dourada de seu exoesqueleto. Objetivamente, ele não possui qualquer superioridade em relação ao Prataladino. Toda essa distinção existe por causa da conhecida história do Besouro da Luz, que teria sido um Resplansouro.
+
+De acordo com a história, um Resplansouro apareceu nas regiões próximas a Caligo afirmando ter estado na Terra das Flores Douradas, onde teria encontrado a Borboleta da Luz, conhecida como o primeiro inseto a realizar a Grande Transformação após cumprir a Palavra da Vida.
+
+Ele passou a ser conhecido como Besouro da Luz por vários motivos: por afirmar ter sido escolhido como enviado da Borboleta da Luz para conduzir outros insetos à Terra das Flores Douradas; por possuir um exoesqueleto dourado considerado perfeito e luminoso; e, principalmente, porque refletia uma luz branca e perfeita nos períodos que antecediam o início e o fim do dia.
+
+Segundo a crença, aqueles banhados por essa luz poderiam entrar na Terra das Flores Douradas. Suas más ações seriam ofuscadas pela luz que vinha diretamente daquele lugar, permitindo que mesmo aqueles que até então não haviam seguido a Palavra da Vida pudessem ser aceitos pela Borboleta da Luz.
+
+Durante sua passagem, o Besouro da Luz reuniu insetos de diferentes espécies e, ao lado deles, enfrentou incontáveis inimigos. Seus feitos extraordinários foram narrados tantas vezes que hoje são conhecidos em quase todos os lugares.
+
+A história termina quando ele reúne um grande grupo de seguidores e os conduz pelo caminho para a Terra das Flores Douradas. Nenhum deles jamais foi visto novamente.
+
+A veracidade dessa história é motivo de constantes debates. Questiona-se quanto de seus feitos realmente aconteceu, se foram exagerados com o tempo, se o Besouro da Luz realmente encontrou aquilo que dizia ter encontrado, se era apenas um mentiroso ou até mesmo se existiu.
+
+Ainda assim, sua narrativa alcançou lugares e povos extremamente diferentes. Existem até mesmo baratas que seguem seus ensinamentos, algo que muitos considerariam impossível.
+
+Seja qual for a verdade sobre o Besouro da Luz, uma consequência é incontestável: nascer Resplansouro praticamente torna o indivíduo automaticamente associado à sua figura.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3391,6 +3450,76 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'shirvana', tipo: 'linear' }],
     tipoEvolucao: 'linear',
+  },
+  {
+    id: 'malharda',
+    nome: 'Malharda',
+    nomeIngles: 'Malharda',
+    imagem: '/images/besouros/malharda.png',
+    descricao: descricaoMalharda,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'escalibupa', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'escalibupa',
+    nome: 'Escalibupa',
+    nomeIngles: 'Escalibupa',
+    imagem: '/images/besouros/escalibupa.png',
+    descricao: descricaoEscalibupa,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'glorifario', tipo: 'ramificada' },{ insetoId: 'prataladino', tipo: 'ramificada' },{ insetoId: 'resplansouro', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'malharda', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'glorifario',
+    nome: 'Glorifário',
+    nomeIngles: 'Glorificarius',
+    imagem: '/images/besouros/glorifario.png',
+    descricao: descricaoGlorifario,
+    linhagem: 'besouros',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'escalibupa', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'prataladino',
+    nome: 'Prataladino',
+    nomeIngles: 'Prataladino',
+    imagem: '/images/besouros/prataladino.png',
+    descricao: descricaoPrataladino,
+    linhagem: 'besouros',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'escalibupa', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'resplansouro',
+    nome: 'Resplansouro',
+    nomeIngles: 'Resplansouro',
+    imagem: '/images/besouros/resplansouro.png',
+    descricao: descricaoResplansouro,
+    linhagem: 'besouros',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'escalibupa', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'morticula',
