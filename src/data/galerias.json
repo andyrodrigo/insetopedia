@@ -76,5 +76,8 @@
   "pulgoes": [
     { "imagem": "/images/pulgoes/capa.png", "titulo": "Dia a dia dos Pulgordos", "descricao": "" },
     { "imagem": "/images/pulgoes/conceito01.png", "titulo": "Em sua tranquilidade", "descricao": "" }
+  ],
+  "zigentomos": [
+    { "imagem": "/images/zigentomos/capa.png", "titulo": "Zigentomos", "descricao": "" }
   ]
 }
