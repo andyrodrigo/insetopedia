@@ -4256,7 +4256,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma casulo',
     ...dadosPendentes,
     tags: ['borboletas'],
-    evolucoes: [{ insetoId: 'clerigarta', tipo: 'ramificada' }, { insetoId: 'pontiarca', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'cleroleta', tipo: 'ramificada' }, { insetoId: 'pontiarca', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'clerigarta', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },

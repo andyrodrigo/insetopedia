@@ -179,7 +179,7 @@ export const linhagens: Linhagem[] = [
   },
   {
     id: 'besouros',
-    nome: 'Besouros',
+    nome: 'Escaravelhos',
     insetoBase: 'infantarva',
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
@@ -194,11 +194,11 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBorboletas,
     imagemCapa: '/images/borboletas/capa.png',
     tema: '#C49A32',
-    criaturas: ['lagracia', 'crisanto', 'serafleta','maligarta','serpetrea','trevoleta','salikarta','crisaaba','profeleta','julgarta','crisalianca','farileta','seminarta','confessalida','sacerdoleta','clerigarta','conclavida','cleroleta','pontiarca', 'batizarta','assalida','prospeleta','fielarta','vitralida','devoleta','cogularia','esticasulo','inquisileta'],
+    criaturas: ['lagracia', 'crisanto', 'serafleta','maligarta','serpetrea','trevoleta','julgarta','crisalianca','farileta','salikarta','crisaaba','profeleta','seminarta','confessalida','sacerdoleta','clerigarta','conclavida','cleroleta','pontiarca', 'batizarta','assalida','prospeleta','fielarta','vitralida','devoleta','cogularia','esticasulo','inquisileta'],
   },
   {
     id: 'mariposas',
-    nome: 'Mariposas',
+    nome: 'Mariposas Noturnas',
     insetoBase: 'serpreita',
     descricao: descricaoMariposas,
     imagemCapa: '/images/mariposas/capa.png',
