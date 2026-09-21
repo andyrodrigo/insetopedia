@@ -1508,10 +1508,207 @@ Muitas histórias continuam circulando a seu respeito. Dizem que as Trevoletas s
 Trevoletas podem ser vistas trabalhando tranquilamente durante o dia. Podem conversar amigavelmente com quem se aproxima. Podem deixar para trás lugares melhores do que aqueles que encontraram.
 Nada disso parece suficiente.
 Para aqueles que já acreditam que elas servem à Rainha da Enganação, qualquer demonstração de que não são malignas pode ser interpretada apenas como prova de que sabem esconder muito bem sua verdadeira natureza.`;
-const descricaoClerigarta = '';
-const descricaoConclavida = '';
-const descricaoCleroleta = '';
-const descricaoPontiarca = '';
+const descricaoClerigarta = `As Clerigartas não apenas seguem a vertente da Palavra da Vida que surgiu após o aparecimento do Besouro da Luz, como são consideradas as herdeiras dessa nova vertente. Elas sabem que seu destino é se tornar uma Cleroleta e fazer parte do Consílio do Besouro da Luz, e se dedicam a isso durante toda a fase inicial.
+
+A vertente do Besouro da Luz muda muitas coisas da Palavra da Vida original, mas, para elas, algumas tradições específicas devem ser mantidas, como a alimentação mais exclusiva, que faz com que sejam venenosas por dentro. Isso não é um problema, pois vivem dentro do gigantesco território de sua vertente, onde suas moradas são mais reclusas e protegidas.
+
+Por pertencerem a uma linhagem dominante, recebem respeito e proteção gratuitamente e costumam se tornar arrogantes devido a esse tratamento.
+
+Entre elas, existe uma competição velada pelas posições que ocuparão depois da Grande Transformação. Aparentemente, conseguem descobrir como está a qualificação atual umas das outras usando as antenas nos lugares onde suas rivais se alimentaram.
+
+Existem boatos de que, mesmo sendo uma das maiores transgressões à Palavra da Vida, algumas comem secretamente Clerigartas menores que parecem promissoras — ou mesmo ovos que julgam que serão.
+
+A organização do Besouro da Luz trata isso como um grande boato infundado e nunca se pronuncia a respeito.`;
+const descricaoConclavida = `Uma das maiores mudanças da Palavra da Vida na vertente do Besouro da Luz é que a Grande Transformação pode ocorrer em qualquer lugar, inclusive embaixo da terra, tornando válida até mesmo a transformação subterrânea para se chegar à Terra das Flores Douradas.
+
+Entretanto, as Clerigartas não apenas precisam realizar a Grande Transformação a céu aberto, como devem fazê-la penduradas em um local elevado. Durante o processo, costumam ser protegidas por insetos que trabalham para a organização, embora isso não garanta completamente sua segurança. Existe muito interesse envolvendo uma Conclávida.
+
+Algumas Clerigartas prestigiadas aos olhos das Cleroletas podem participar da Grande Transformação da Luz. Elas são levadas ao centro territorial da organização e se tornam Conclávidas em um local secreto, onde permanecem apenas as Cleroletas do Conselho da Pontíarca.
+
+Dizem que as escolhidas são as mais promissoras e que uma delas pode se tornar a nova Pontíarca durante essa Grande Transformação fechada. O evento ocorre várias vezes, mas raramente uma delas surge branca enquanto a Pontíarca ainda está viva, sã e não muito velha. Quando isso acontece, é considerado um sinal de que apenas uma delas é a verdadeira herdeira do Besouro da Luz.
+
+Nem todas sobrevivem à Grande Transformação. Segundo a organização, as mais promissoras passam por uma transformação mais difícil e, por isso, algumas simplesmente não retornam do evento sigiloso.
+
+Entre as que realizam a transformação fora desse local, que são a grande maioria, ocasionalmente ocorrem ataques que terminam com a morte ou o rapto da Conclávida, mesmo quando ela está sob a proteção de algum Prataladino.
+
+É sabido que a valiosa forma da Conclávida desperta interesse e que alguns procuram endurecê-la para utilizá-la no comércio.
+
+Existem, porém, boatos de que a própria organização do Besouro da Luz promove alguns desses acontecimentos por motivos desconhecidos. Tudo isso é tratado oficialmente como teoria da conspiração.`;
+const descricaoCleroleta = `As Cleroletas são as herdeiras do gigantesco território da Organização do Besouro da Luz. Elas podem migrar livremente por essas terras e participam dos conselhos de decisão que regem os territórios, dividindo sua autoridade com os líderes locais, que geralmente também são seguidores da vertente.
+
+Com as grandes mudanças trazidas pelo Besouro da Luz, até mesmo as Mariposas passaram a poder alcançar a Terra das Flores Douradas. Isso fez com que a vertente se espalhasse por toda parte, criando uma enorme dominação territorial indireta.
+
+O objetivo da organização é proteger e identificar a rota percorrida pelo Besouro da Luz até a Terra das Flores Douradas para que, um dia, todos os insetos possam seguir o mesmo caminho e entrar lá. É uma missão longa e árdua, que exige atravessar lugares que ainda não aceitam a vertente e proteger continuamente aqueles onde ela já se estabeleceu.
+
+Todos os anos, as Cleroletas realizam longas viagens em conjunto, procurando identificar os lugares por onde o Besouro da Luz passou.
+
+Elas afirmam conseguir enxergar sua rota graças à visão extraordinária que receberam após a Grande Transformação. Mesmo depois da enorme expansão territorial da organização, porém, o caminho para a Terra das Flores Douradas continua muito longo e parece atravessar lugares cada vez mais remotos.`;
+const descricaoPontiarca = `Pontíarca é o título dado às Cleroletas brancas que, segundo a Organização do Besouro da Luz, surgem praticamente uma por vez e apenas durante a Grande Transformação da Luz. A Pontíarca é a líder da organização e herdeira de supostos poderes excepcionais. Seu cargo é geralmente mais simbólico do que ligado às decisões cotidianas, embora isso dependa muito de quem ocupa a posição.
+
+O primeiro Pontíarca foi Borbilau, uma Cleroleta branca que alegou ter encontrado o Besouro da Luz em sua última rota. De acordo com Borbilau, a Borboleta da Luz era uma Cleroleta, e o Besouro da Luz pediu que ele permanecesse para reunir os próximos grupos e guiá-los até a Terra das Flores Douradas.
+
+Borbilau reuniu várias Cleroletas e iniciou uma grande organização dedicada a proteger a rota e continuar a mensagem do Besouro da Luz, permitindo que outros insetos também seguissem a nova — e mais fácil de cumprir — Palavra da Vida. A organização perdurou por gerações, assim como o título de Pontíarca.
+
+Afirma-se que a Pontíarca consegue refletir a luz da Terra das Flores Douradas através da marca dourada em sua cabeça no início e no fim do dia, assim como fazia o Besouro da Luz, ofuscando as más ações dos insetos.
+
+As Faroletas, porém, afirmam que a Borboleta da Luz original pertencia à sua espécie, o que provoca uma grande intriga entre a velha e a nova vertente da Palavra da Vida.
+
+As Serafletas, que também são completamente brancas, não gostam dessa afirmação. Apesar de concordarem que todos podem chegar à Terra das Flores Douradas, preferem se manter afastadas dessa disputa.
+
+As Profeletas não contestam a história sobre a origem da vertente, mas não acreditam na suposta Luz refletida, nem pelo Besouro da Luz nem pela Pontíarca.
+
+As Sacerdoletas seguem e reafirmam todos esses ensinamentos.
+
+Já alguns insetos que não seguem a vertente do Besouro da Luz afirmam ter visto outras Cleroletas brancas. Segundo eles, elas apenas vivem escondidas da Organização.`;
+const descricaoFielarta = `Fielartas são abundantes e vivem em grandes grupos, compartilhando cultura e comportamento. Seus numerosos grupos estão espalhados pelos mais diversos territórios, e elas podem seguir qualquer uma das vertentes da Palavra da Vida. Normalmente adotam aquela predominante em seu local de nascimento, acompanhando o consenso do grupo ao qual pertencem.
+
+Em sua segunda muda, realizam um ritual no qual seu novo exoesqueleto é iluminado para receber a proteção da Terra das Flores Douradas. Segundo elas, é essa bênção que lhes concede a capacidade de liberar, através do exoesqueleto já abençoado, uma proteção contra predadores e inimigos.
+
+Fielartas questionam questões cotidianas e podem até reconhecer quando uma ideia parece absurda ou perigosa. Entretanto, sua postura muda quando a Palavra da Vida fundamenta aquilo que está sendo discutido. Diante de uma orientação atribuída aos seus ensinamentos ou às borboletas que admiram, tendem a procurar uma forma de conciliá-la com aquilo em que acreditam, mesmo quando normalmente seriam contrárias à mesma ideia.
+
+Fielartas guardam e protegem Crisantos quando têm a oportunidade, reúnem-se para ouvir Sacerdoletas, recebem Serafletas com alegria e costumam procurar Confessálidas mesmo quando não possuem transgressões para confessar.
+
+As que vivem ao redor de Caligo seguem as Profeletas em grandes números, esperando uma nova interpretação, enquanto aquelas que vivem dentro de Caligo respeitam e buscam a aprovação das Fariletas, mesmo ouvindo delas que sua Grande Transformação é falsa.
+
+Elas passam a vida tentando permanecer de acordo com o comportamento das demais Fielartas. A vida em conjunto e a comunidade estão entre as coisas mais importantes para elas, além da própria Palavra da Vida.
+
+É justamente essa confiança que pode levá-las às situações mais perigosas. Uma Fielarta pode rejeitar uma ideia quando apresentada normalmente e aceitá-la quando passa a entendê-la como parte da Palavra da Vida. Algumas participam das guerras por Caligo mesmo sem qualquer habilidade como guerreiras. Outras aceitam que sua própria Grande Transformação seja endurecida para sempre quando uma borboleta que admiram afirma que isso servirá a um propósito maior.
+
+Para uma Fielarta, algo que antes parecia absurdo pode deixar de parecer quando encontra um lugar dentro da Palavra da Vida.`;
+const descricaoVitralida = `O mais belo da Vitrálida é que sua Grande Transformação acontece em conjunto. É extremamente comum que Fielartas façam uma procissão até determinado lugar e, em grupo, tornem-se Vitrálidas. O ambiente imediatamente se transforma com a presença de inúmeras crisálidas multicoloridas reunidas.
+
+Algumas fazem uma longa peregrinação conjunta, em procissão, até o Cipó-Pupa. Existe um lugar especial em seu interior para abrigar as Vitrálidas, que dividem espaço com as Crisaabas. As Profeletas também enxergam mensagens nas Vitrálidas, que curiosamente formam diferentes padrões de cores, sem que uma seja exatamente igual à outra.
+
+Vitrálidas possuem valor como mercadoria e, por isso, costumam realizar suas desejadas Grandes Transformações sob a proteção das organizações das quais fazem parte. Elas enfeitam esses lugares temporariamente, em revezamento com os grupos seguintes, tornando alguns deles grandes atrações permanentes e lucrativas para visitação.
+
+Em situações normais, a Vitrálida passa por uma Grande Transformação tranquila, protegida e desejada pelos outros insetos.
+
+Às vezes, porém, algumas são convencidas por seus líderes a permanecerem eternamente como Vitrálidas, aceitando tornar-se instrumentos da Palavra da Vida. Dizem que a luz multicolorida refletida por várias delas produz o melhor banho da luz da Terra das Flores Douradas no início e no fim do dia. Por isso, lugares que mantêm muitas Vitrálidas eternamente penduradas passam a ser considerados sagrados.
+
+É assim nos galhos da Árvore do Besouro Dourado, onde se reúne o Concílio do Pontíarca, e nas entradas dos locais onde permanecem as Crisalianças.`;
+const descricaoDevoleta = `As Devoletas são interessantes. Elas despertam da Grande Transformação com asas e olhos capazes de enxergar espectros e coisas que outros insetos não podem, após uma vida seguindo a Palavra da Vida com a promessa de serem capazes de encontrar a Terra das Flores Douradas.
+
+Entretanto, elas olham para o mundo por um ângulo especial e não conseguem entender como as borboletas maiores conseguem saber tudo aquilo que afirmam. Cientes de que ainda lhes faltam informações, continuam seguindo fielmente as líderes de suas vertentes, esperando alcançar maior compreensão e, talvez, um dia chegar ao lugar prometido seguindo-as.
+
+As asas das Devoletas podem apresentar uma grande variedade de cores ao deixarem a Vitrálida. Dizem que sua coloração depende da vertente seguida e da devoção que tiveram durante a vida. As amarelas e brancas são especialmente desejadas: o amarelo é associado ao Besouro da Luz, enquanto o branco remete à Borboleta da Luz. Por isso, essas cores costumam ser interpretadas como manifestações de uma devoção excepcional.
+
+Devoletas tornam-se grandes instrumentos do coletivo. Elas acompanham Sacerdoletas, Cleroletas, Profeletas e Fariletas mais de perto, tornando-se importantes auxiliares. Costumam organizar eventos, preparar lugares e instruir lagartas que se sentem deslocadas.
+
+Algumas acompanham procissões, peregrinações e migrações. Costumam ser vistas como exemplos a serem seguidos por sua personalidade simpática e disponível. Muitas vezes, é mais fácil procurar uma Devoleta para ser ouvida e conseguir que sua situação seja levada até as borboletas maiores.
+
+Devoletas também vigiam e protegem as Vitrálidas. Consideram as eternas as mais devotas entre elas, pois garantem que todos os insetos possam receber o mesmo banho de luz restaurador que os demais.
+
+Para elas, é um sacrifício necessário por um bem maior.
+`;
+const descricaoCogularia = `As Cogulárias são criadas desde a primeira muda dentro da vertente da Nova Palavra da Vida. Elas tendem a levar suas práticas muito a sério e são extremamente vigilantes quanto ao cumprimento das regras, tanto pelos insetos ao redor da comunidade quanto, principalmente, por elas mesmas.
+
+Isso ocorre porque muitas ainda carregam instintivamente costumes praticados por suas ancestrais. Entre eles estavam comer larvas menores durante períodos difíceis, utilizar restos de insetos mortos nas sedas de suas casas para intimidar predadores e realizar a Grande Transformação escondidas dentro de buracos escavados em plantas. Essas e outras práticas foram abolidas de suas comunidades com a chegada da Nova Palavra da Vida. Os impulsos, porém, permanecem, e por isso elas vigiam umas às outras constantemente.
+
+A Cogulária costuma construir seu próprio abrigo e viver dentro dele, o que lhe proporciona alguma privacidade para ser ela mesma longe do olhar vigilante das outras. Lá dentro, às vezes guarda um ou outro pedaço de inseto morto encontrado durante suas caminhadas, escondendo-o em bolsas de seda para não ser descoberta.
+
+Um problema fundamental é que sua linhagem parece aparentada à linhagem de mariposas Decrépteras, apresentando semelhanças tanto na aparência quanto nos antigos costumes.
+
+Para se livrar de suas transgressões, Cogulárias estão entre as que mais procuram Confessálidas. Um dos problemas mais recorrentes nos lugares onde vivem é algum inseto ser acusado de servir aos Aracromantes ou à Inimiga Alada. Por isso, em comunidades com grande concentração de Cogulárias, todos são obrigados a seguir a Palavra da Vida. Não praticantes costumam ser capturados, e essas acusações frequentemente levam à morte.
+
+Isso não ocorre apenas com insetos diferentes. Os membros da própria linhagem são os mais vigiados e podem ser acusados de ainda seguirem os costumes de seus supostos parentes Decrépteras.`;
+const descricaoEsticasulo = `Quando chega o momento da Grande Transformação, a Cogulária possui algumas opções, e nenhuma delas é boa.
+
+O esperado por sua comunidade é que realize a transformação em um local visível e elevado. De acordo com a Nova Palavra da Vida, quanto mais alto estiver e mais luz receber, mais próxima estará da Terra das Flores Douradas, melhor será sua Grande Transformação e mais fácil será encontrá-la depois. Entretanto, o Esticasulo é extremamente sensível à luz, e permanecer nessas condições transforma os meses da Grande Transformação em uma longa tortura.
+
+A segunda opção é realizar a transformação coberta e distante de todos da comunidade. Isso ainda é bastante praticado, apesar do perigo de permanecer longe dos demais durante um período tão vulnerável. O Esticasulo não possui defesa nem mesmo os disfarces encontrados em muitas outras crisálidas.
+
+A última opção é permanecer escondido dentro do próprio abrigo, onde a linhagem realizou naturalmente sua Grande Transformação durante séculos. Ali, o Esticasulo permanece protegido dos predadores e da luz. Entretanto, se for descoberto pelas Inquisiletas, passará por um grande martírio.
+
+Apesar da aceitação de diferentes formas de Grande Transformação pela Nova Palavra da Vida, realizar esse processo escondido ou protegido da luz é considerado um possível sinal de parentesco com as Decrépteras. Nesse caso, o inseto deverá provar que não é uma delas.
+
+Durante a Grande Transformação, uma Inquisileta realiza diversos testes para se certificar de que do Esticasulo não surgirá uma Decréptera. Esses testes são dolorosos e, algumas vezes, mortais. Muitos envolvem estrangulamento com seda, queimaduras provocadas pela exposição à luz, banhos de secreções urticantes e outros métodos.
+
+Nem todas sobrevivem aos testes. A morte é interpretada como confirmação de que eram Decrépteras. Aquelas que resistem continuam sendo submetidas aos testes até concluírem a Grande Transformação, quando finalmente são consideradas livres da suspeita.
+
+As Inquisiletas também constroem um falso Esticasulo utilizando folhas espinhosas para aprisionar insetos acusados de não praticarem a Palavra da Vida. Presos em seu interior, eles são submetidos aos mesmos testes por um período semelhante ao da Grande Transformação de sua própria espécie.
+
+Esse falso casulo recebe o nome de Crisálida de Espinhos.`;
+const descricaoInquisileta = `A Inquisileta possui uma aparência semelhante à das mariposas e, como sua antiga cultura também apresenta costumes parecidos com os das Decrépteras, elas fazem o possível para se distinguir delas. Curiosamente, os outros insetos não parecem se preocupar tanto com essa semelhança. A questão parece importar muito mais para as próprias Inquisiletas.
+
+A Nova Palavra da Vida se torna mais fácil de seguir na fase adulta, quando alguns dos antigos desejos simplesmente desaparecem de seus instintos. Isso faz com que concluam que as provações sofridas no Esticasulo realmente precisam acontecer, pois acreditam que talvez nem todos saíssem de lá da mesma maneira sem elas. Mesmo aquelas que passaram pelos testes acabam aplicando-os às próximas, por garantia.
+
+Elas utilizam sua visão excepcional principalmente para encontrar Esticasulos escondidos e indícios de que alguém não esteja levando a Palavra da Vida suficientemente a sério.
+
+As Inquisiletas são territoriais e grandes briguentas. Formam uma linhagem forte, robusta e de voo rápido entre as borboletas, além de serem grandes devotas da Nova Palavra da Vida. Essas características fazem delas integrantes muito úteis para a Organização do Besouro da Luz.
+
+A maioria trabalha direta ou indiretamente para as Cleroletas, geralmente na busca por indivíduos e na aplicação de penas aos inimigos da Organização, frequentemente apontados como servos da Inimiga Alada.
+
+Existem boatos, porém, de que algumas não fazem apenas isso. Secretamente, as melhores realizariam trabalhos sujos que a Organização não deseja que ninguém conheça. Algumas dessas histórias envolvem a captura de membros da própria Organização e até ações contra Prataladinos responsáveis por proteger determinados integrantes.
+
+Outros afirmam que esses boatos existem simplesmente porque é mais fácil julgar uma Inquisileta por sua aparência semelhante à de uma mariposa. Segundo eles, elas estão apenas fazendo seu trabalho para manter intacta a Rota da Terra das Flores Douradas.`;
+const descricaoSeminarta = `Seminartas são como são chamadas as diversas lagartas comuns que seguem a Nova Palavra da Vida, surgida após o aparecimento e o desaparecimento do Besouro da Luz.
+
+Elas possuem vidas e comportamentos diferentes de acordo com suas linhagens, mas compartilham entre si a devoção à Organização do Besouro da Luz e os compromissos relacionados aos seus ensinamentos.
+
+As Seminartas seguem com certo rigor as novas regras da Palavra da Vida. Entre suas tradições estão o banho restaurador de luz, falar abertamente sobre suas transgressões à Palavra da Vida, marcar o próprio território com substâncias de seu corpo, comer a casca do ovo do qual nasceram e consumir o que restar de sua Grande Transformação.
+
+Algumas vivem em grandes comunidades, onde participam e organizam grandes eventos e banquetes nutritivos em nome do Besouro da Luz. Outras vivem mais afastadas umas das outras, mas se reúnem regularmente em determinados dias para cumprir suas tradições.
+
+Em geral, vivem nas gigantescas terras dominadas pela Organização do Besouro da Luz e aprendem desde cedo as histórias relacionadas ao lendário inseto, absorvendo atentamente tudo o que as Sacerdoletas contam durante suas constantes visitas.
+
+As Seminartas são defensoras ávidas da Nova Palavra da Vida e costumam se irritar facilmente quando ouvem pregações da Antiga Palavra ou questionamentos sobre a Organização do Besouro da Luz, principalmente quando envolvem as Sacerdoletas ou a Pontíarca.`;
+const descricaoConfessalida = `Quando estão maiores, as Seminartas já conhecem o suficiente sobre a Nova Palavra da Vida e as histórias do Besouro da Luz para realizarem sua Grande Transformação.
+
+Para isso, procuram um lugar alto. Embora a Nova Palavra aceite até mesmo transformações subterrâneas, acredita-se que, quanto mais alto ocorrer a Grande Transformação, mais longe o indivíduo que surgir conseguirá enxergar o caminho para a Terra das Flores Douradas.
+
+Lá no alto, a Seminarta forma sua Confessálida, iniciando também sua preparação para se tornar uma Sacerdoleta. Sua aparência lembra uma folha seca, permitindo que permaneça disfarçada de predadores e de insetos que não seguem a Palavra da Vida. Para os seguidores, no entanto, uma Confessálida é facilmente reconhecível.
+
+Existe entre eles a tradição de escalar até uma Confessálida e contar a ela suas próprias transgressões. Acredita-se que, ao fazer isso, as más ações sejam absorvidas pela Confessálida assim que a luz do início ou do fim do dia voltar a atingir aquele inseto, tornando-o novamente apto a ser aceito na Terra das Flores Douradas.
+
+Isso, porém, só acontece se a Confessálida responder com o som místico que surge de seu interior logo após ouvir o relato. Caso não haja resposta, o inseto deverá procurar outra e confessar novamente suas transgressões.
+
+Ouvir as transgressões de indivíduos de diferentes espécies torna a futura Sacerdoleta mais compreensiva e empática. Durante sua transformação, ela aprende sobre as dificuldades enfrentadas por diferentes espécies e linhagens ao tentarem seguir a Nova Palavra da Vida, preparando-se para orientá-las depois que finalmente emergir.`;
+const descricaoSacerdoleta = `As Sacerdoletas são as maiores responsáveis por transmitir a Nova Palavra da Vida. Elas costumam viajar de comunidade em comunidade contando as histórias do Besouro da Luz e ensinando que todos poderão chegar à Terra das Flores Douradas quando a Organização terminar de identificar todo o caminho percorrido por ele.
+
+Existem vários tipos de Sacerdoletas, com diferentes cores e costumes, mas a maioria possui asas azuis e pelos brancos ao redor do pescoço, tornando-as facilmente reconhecíveis.
+
+As Sacerdoletas são conhecidas por seu modo tranquilo de explicar as coisas e por serem bastante compreensivas — a maioria delas, pelo menos. Costumam recrutar Pratedinos para trabalharem para a Organização do Besouro da Luz e também recebem a missão de viajar até lugares selvagens para tentar espalhar a Nova Palavra. Muitas acabam sendo mortas nessas missões, o que não impede a Organização de continuar enviando outras.
+
+Territórios recém-conquistados também costumam estar entre os lugares mais difíceis para transmitir seus ensinamentos. Entretanto, com tempo e insistência, a Nova Palavra começa a fazer parte do cotidiano dos insetos nativos.
+
+As Sacerdoletas que fazem parte da Organização do Besouro da Luz recebem o símbolo do Besouro de Ouro para carregar no peito. Esses símbolos refletem a luz de uma maneira que lembra bastante aquela capaz de ofuscar as más ações e são produzidos com pedaços de Crisalianças, algo que gera certa polêmica entre as diferentes linhagens de Borboletas.
+
+Como todas as Borboletas, as Sacerdoletas possuem uma visão apurada, capaz de perceber coisas que passam despercebidas pelos demais insetos. Entretanto, falam com certa cautela quando questionadas se essa habilidade realmente permite encontrar a Terra das Flores Douradas, como se algumas delas tivessem uma opinião diferente sobre o assunto.
+
+Mesmo assim, evitam discutir a questão e seguem fielmente as ordens das Cleroletas, ensinando aquilo que lhes foi ensinado.`;
+const descricaoBatizarta = `As Batizartas são numerosas e vivem nos mais diversos territórios. Como acontece com toda linhagem de borboletas, costumam conhecer a Palavra da Vida e segui-la de acordo com o lugar onde vivem, podendo ser adeptas de qualquer uma de suas vertentes.
+
+Sua maior preocupação, no entanto, é a própria sobrevivência. Batizartas são pequenas e consideradas deliciosas por muitos predadores. Por isso, costumam viver em plantas que possuem a mesma cor de seus corpos e são extremamente opiniosas quando o assunto é dividir moradia e recursos.
+
+Geralmente, seus locais de nascimento são negociados por seus pais. Por esse motivo, existem diferenças absurdas entre as condições em que cada Batizarta começa a vida. Algumas nascem em plantas desprotegidas e com pouca possibilidade de camuflagem, enquanto outras encontram ambientes extremamente seguros e adaptados às suas necessidades.
+
+Para lidar com o problema da segurança, Batizartas costumam negociar proteção com Formilitares. Algumas mantêm guardas em seus abrigos, outras recebem vigília recorrente ou vivem próximas de Trincheiras. As mais privilegiadas podem até viver em segurança dentro dos túneis. Quanto maiores os recursos disponíveis ou melhor a negociação realizada, maior costuma ser a proteção recebida. Algumas são alimentadas lá dentro ou até mesmo escoltadas quando precisam sair.
+
+As menos afortunadas podem precisar trabalhar para gerar recursos dentro dos túneis ou acabam mortas quando não conseguem cumprir suas dívidas.
+
+Batizartas possuem órgãos especializados que auxiliam em suas relações com as Formilitares. Dependendo do indivíduo, eles podem ajudar na comunicação por meio de sinais compreendidos pelas Formilitares, liberar secreções utilizadas para defesa ou produzir substâncias químicas com odores agradáveis. Essas características podem ser utilizadas em diferentes formas de colaboração entre as duas espécies.
+
+Diante dos grandes problemas que enfrentam para simplesmente permanecer vivas, as Batizartas possuem muito mais dificuldade para seguir rigidamente a Palavra da Vida. Em situações extremas, algumas podem até mesmo acabar se alimentando de outro inseto menor, algo considerado uma transgressão gravíssima.`;
+const descricaoAssalida = `A fase mais perigosa da vida de uma Batizarta é durante sua Grande Transformação. Isso ocorre porque a Assálida é simplesmente uma das coisas mais saborosas já conhecidas, praticamente uma iguaria para insetos carnívoros e uma enorme tentação até mesmo para aqueles que seguem a Palavra da Vida.
+
+Por causa disso, elas precisam tomar medidas extremas de segurança quando estão próximas dessa fase. Todas que podem negociam com as Formilitares para passar esse período protegidas dentro de seus túneis. Outros insetos ou colônias também podem ser procurados, mas o risco de acabarem virando refeição é enorme. As Formilitares, por outro lado, são conhecidas por cumprir o acordo até o fim.
+
+As que não conseguem essa proteção precisam se esconder e fazem o possível e o impossível para permanecer completamente camufladas, escondidas e protegidas. Vale tudo pela sobrevivência. O maior problema é que a Assálida possui um cheiro extremamente apetitoso, capaz de atrair quem passa por perto, tornando essa tarefa ainda mais difícil.
+
+Mesmo aquelas sob proteção Formilitar continuam correndo riscos, e não apenas o de serem roubadas de dentro dos túneis. Se, durante seu período como Batizarta, alguma delas tiver cometido uma transgressão à Palavra da Vida, como comer uma larva Formilitar ou algum de seus Pulgordos, e isso for descoberto durante a Grande Transformação, ela pode virar refeição antes de completar o ciclo.
+
+Existem casos de Assálidas que terminam a Grande Transformação logo após serem descobertas e precisam fugir antes mesmo que suas asas estejam prontas. Escapar dos túneis Formilitares nessas condições não é nada simples, mas a vida dessa linhagem nunca é fácil.`;
+const descricaoProspeleta = `A Prospeleta continua sendo saborosa e um alvo frequente de predadores. Ela é pequena e possui poucos recursos para se defender sozinha, mas suas asas e seus olhos excepcionais proporcionam uma qualidade de vida e uma capacidade de sobrevivência muito maiores do que nas fases anteriores. Suas asas também possuem uma falsa cabeça próxima à extremidade inferior, capaz de confundir predadores e fazê-los atacar a região errada enquanto ela foge. Por tudo isso, elas costumam dizer que prosperaram.
+
+A vida de uma Prospeleta consiste principalmente em encontrar um bom lugar para viver e outro onde possa colocar seus ovos. Isso faz com que precise continuar sendo uma ótima negociante e, nessa etapa da vida, geralmente é. Algumas são muito mais bem-sucedidas que outras, conseguindo recursos suficientes para garantir também a segurança de suas futuras larvas.
+
+Sua excelente visão, no entanto, é utilizada principalmente para a própria sobrevivência e para encontrar lugares melhores e ricos em recursos para fertilizar. A busca pela Terra das Flores Douradas fica a cargo das borboletas maiores de sua vertente.
+
+Prospeletas que conseguiram prosperar sozinhas do lado de fora tendem a seguir a Palavra da Vida original, pois sobreviveram apenas com plantas e passaram normalmente pela Grande Transformação. Já aquelas que cometeram transgressões ou realizaram a Grande Transformação dentro dos túneis Formilitares tendem a se converter à Nova Palavra da Vida.
+
+Independentemente da vertente que seguem, Prospeletas costumam agir como seres superiores que venceram na vida porque seguiram a Palavra. Isso ocorre mesmo quando só passaram a segui-la rigorosamente depois de se tornarem Prospeletas. Seus discursos geralmente começam pelas dificuldades que enfrentaram, condenam suas próprias transgressões do passado, falam sobre mudança e apresentam a própria vida como um grande exemplo.
+
+O mais curioso nas Prospeletas é que acreditam que aquelas que conseguem mais recursos e os melhores abrigos são justamente as que melhor incorporaram a Palavra da Vida. Não importa qual vertente seguem ou em quais condições suas vidas começaram.`;
 
 const descricaoPulguito = `Pulguitos nascem em famílias tão numerosas que dificilmente conseguem lembrar quem são todos os seus irmãos — e, às vezes, nem mesmo os nomes deles.
 Isso pouco importa. Entre os Pulgordos, toda a comunidade participa da criação dos filhotes. Pulguitos tratam praticamente qualquer adulto como se fosse um de seus pais, enquanto os mais velhos chamam qualquer Pulguito de filho, independentemente de quem realmente pertença à sua família.
@@ -2597,6 +2794,74 @@ A veracidade dessa história é motivo de constantes debates. Questiona-se quant
 Ainda assim, sua narrativa alcançou lugares e povos extremamente diferentes. Existem até mesmo baratas que seguem seus ensinamentos, algo que muitos considerariam impossível.
 
 Seja qual for a verdade sobre o Besouro da Luz, uma consequência é incontestável: nascer Resplansouro praticamente torna o indivíduo automaticamente associado à sua figura.`;
+
+const descricaoEsmolisco = `Esmoliscos podem ser encontrados em praticamente qualquer ambiente, desde grandes comunidades até regiões pouco habitadas. Apesar disso, raramente chamam atenção e costumam passar despercebidos pela maioria dos insetos.
+
+Além de inofensivos, são pequenos e possuem uma coloração quase transparente, o que facilita ainda mais sua discrição. Geralmente, só são notados quando alguém os procura ou quando eles próprios decidem chamar atenção.
+
+E fazem isso principalmente quando estão com fome ou precisam de alguma coisa. Com um olhar inocente e uma expressão de tristeza cuidadosamente treinada, frequentemente conseguem convencer outros insetos a dividir comida ou oferecer abrigo temporário. Muitos passam boa parte da vida dessa maneira, sobrevivendo da ajuda daqueles que encontram pelo caminho.
+
+Alguns preferem métodos menos honestos: pegam o que precisam escondidos e desaparecem antes que alguém consiga alcançá-los. Sua velocidade e facilidade para se esconder tornam qualquer perseguição particularmente frustrante. Ainda assim, é muito mais comum encontrá-los simplesmente pedindo aquilo de que precisam, seja dentro de uma colônia, em pequenas comunidades ou vagando por conta própria.
+
+Sua aparente vulnerabilidade, porém, esconde sua maior qualidade. Esmoliscos são sobreviventes natos. Por serem considerados insignificantes e raramente despertarem suspeitas, conseguem observar durante muito tempo as sociedades em que vivem. Aprendem seus costumes, regras, conflitos e segredos sem que quase ninguém perceba que estavam prestando atenção.
+
+Com o tempo, muitos se tornam extremamente habilidosos em se esconder, conseguir informações e, principalmente, convencer os outros através da lábia. Um Esmolisco experiente pode saber muito mais sobre uma comunidade do que seus habitantes imaginam — afinal, poucos se preocupam com aquilo que o pequeno pedinte no canto está ouvindo.`;
+const descricaoMendigoso = `Mendigosos vivem comumente em comunidades de insetos. Acostumados à sociedade e à cultura do lugar onde nasceram, não têm qualquer dificuldade em fazer parte delas, conseguindo alimento e abrigo através da caridade daqueles que vivem ao seu redor.
+
+Sua aparência costuma fazer muitos olhares se desviarem, mas a lábia de um Mendigoso quase sempre garante alguma comida quando necessário. Eles conhecem profundamente o lugar onde vivem e, por isso, são frequentemente procurados quando alguém precisa de informações.
+
+De tempos em tempos, os outros insetos são lembrados da verdadeira sabedoria de um Mendigoso quando ele resolve falar em público. São grandes espalhadores de boatos, mas também conhecem histórias e acontecimentos que muitos já esqueceram. Sua espécie é tão antiga quanto se pode recordar, e suas histórias são transmitidas entre eles desde tempos imemoriais.
+
+Mendigosos também possuem vidas muito longas e trocam de exoesqueleto incontáveis vezes ao longo delas. Um único indivíduo pode ter conhecido diferentes gerações de insetos de uma mesma comunidade e presenciado acontecimentos que, para os mais jovens, já pertencem apenas às histórias.
+
+Apesar da aparência cansada e da vida geralmente lenta e sedentária, não se engane. Um Mendigoso pode ser extremamente rápido quando precisa. Para quem nunca o viu correr, a surpresa costuma ser justamente o que torna sua fuga ainda mais eficiente.`;
+const descricaoBengaleta = `Bengaletas surgem geralmente quando Esmoliscos passam muito tempo vivendo em colônias escuras ou subterrâneas. Ao longo de suas sucessivas trocas de exoesqueleto, perdem os olhos e passam a confiar ainda mais em suas longas antenas, capazes de perceber com precisão o ambiente ao seu redor.
+
+Vivem da caridade dentro das colônias e costumam ser muito bem tratados, sendo considerados insetos com necessidades especiais devido à ausência dos olhos e à maneira cuidadosa como se locomovem.
+
+Dentro da comunidade onde vivem, Bengaletas frequentemente assumem o papel de grandes contadores de histórias. Conhecem acontecimentos de lugares onde jamais estiveram graças à extensa rede de informações de sua espécie, aparentemente alimentada pelos Esmoliscos que transitam quase invisíveis entre diferentes comunidades e colônias.
+
+Também são guardiões da memória do lugar que os acolheu. Preservam tradições, recordam acontecimentos e conhecem tão profundamente os costumes locais que, às vezes, parecem pertencer à própria espécie dominante daquela comunidade. Muitos acabam sendo vistos como um deles simplesmente pela naturalidade com que compreendem e reproduzem seu modo de vida.
+
+Bengaletas que vivem em Cupinzeiros compartilham a cegueira de seus companheiros e costumam conhecer principalmente a cultura dos próprios Kurupins. Isso acontece porque Esmoliscos vindos de fora dificilmente conseguem se infiltrar em territórios Kurupins: nesses lugares, eles não passam despercebidos com a mesma facilidade.
+
+Já os Bengaletas que vivem nos túneis Formilitares podem até participar de conselhos de guerra, sendo procurados pelos próprios Formigantes por sua memória excepcional e pelo conhecimento acumulado ao longo do tempo.
+
+Apesar da aparência vulnerável e da impressão de que precisam tatear cuidadosamente para encontrar o caminho, Bengaletas são extremamente rápidos. Suas antenas podem fazê-los parecer hesitantes para quem os observa, mas eles sabem muito bem onde estão e para onde estão indo.`;
+const descricaoDesalojento = `Desalojentos surgem de Esmoliscos que crescem longe de comunidades e colônias. Acostumados a viver em ambientes mais abertos, tornam-se progressivamente mais escuros a cada troca de exoesqueleto, enquanto sua carapaça fica maior, mais larga e resistente.
+
+Essa resistência é necessária, pois, longe da segurança oferecida pelas grandes comunidades, precisam lidar sozinhos com predadores e outros perigos. Isso, no entanto, raramente parece ser um grande problema para um Desalojento.
+
+Eles são uma das principais pontes de comunicação da rede de informações de sua espécie. Percorrem grandes distâncias levando histórias, boatos e informações de um lugar para outro, repassando aquilo que aprenderam aos Esmoliscos encontrados pelo caminho.
+
+Apesar de viverem de mendicância durante suas viagens e frequentemente parecerem extremamente necessitados e desabrigados, quase todo Desalojento possui algum esconderijo secreto. Pode ser debaixo de uma rocha, atrás de um arbusto ou no interior de uma planta. Encontrá-lo, porém, não é fácil. Quando um Desalojento não quer ser visto, normalmente não é.
+
+Seu corpo largo e sua maneira peculiar de andar podem fazê-los parecer pouco ágeis, mas são capazes de realizar peripécias inacreditáveis quando precisam fugir ou encontrar um esconderijo. Sua espécie evita conflitos sempre que possível e tornou-se especialista não em vencê-los, mas em simplesmente desaparecer deles.
+
+Há ainda um mistério que nem mesmo os insetos que convivem com eles parecem compreender. Desalojentos nunca são vistos procurando parceiros, e ninguém sabe ao certo como se reproduzem.
+
+O Desalojento sabe.
+
+Na verdade, ele sequer precisa encontrar uma parceira.
+
+Ele simplesmente não conta o segredo.`;
+const descricaoErmitermio = `Ermitérmios surgem quando Esmoliscos passam grande parte da vida em lugares quentes e secos. Eles apreciam temperaturas extremamente altas, possuem o corpo sempre muito quente e costumam ter pouco contato com insetos que não sejam de sua própria espécie.
+
+Vivem de maneira muito mais isolada que seus parentes e não gostam particularmente de visitas, embora recebam uma ou outra de tempos em tempos. Conversar com um Ermitérmio, porém, é sempre um evento. Eles guardam histórias muito mais antigas do que a maioria dos insetos imagina e afirmam pertencer a uma espécie extremamente adaptável, praticamente inextinguível e mais antiga que qualquer outra.
+
+Ermitérmios também costumam zombar da Palavra da Vida sempre que o assunto surge. Para eles, uma das coisas mais idiotas que um inseto já fez foi trocar energia e tempo de vida por uma transformação desnecessária que, no fim, apenas lhe permite morrer mais rápido. Segundo dizem, sua própria espécie jamais cometeu esse erro — e jamais cometerá.
+
+Afirmam que nunca existiram Borboleta da Luz, Inimiga Alada, Besouro da Luz ou Terra das Flores. Curiosamente, parecem conhecer cada detalhe da Palavra da Vida e são capazes de discutir seus ensinamentos por muito tempo, ainda que apenas para explicar por que consideram cada parte deles uma idiotice sem tamanho.
+
+Para um Ermitérmio, o segredo de uma boa vida é muito mais simples: acumular informação, evitar conflitos, não procurar parceiros e jamais desperdiçar energia. Sair pelo mundo em busca de lugares imaginários seria exatamente o contrário de tudo aquilo em que acreditam.
+
+Eles também afirmam conseguir permanecer até um ano sem se alimentar. A história parece ter algum fundamento, pois não é incomum um Ermitérmio passar meses sem sequer deixar seu abrigo.
+
+Seu isolamento também torna sua reprodução um mistério para outros insetos. Ermitérmios não são vistos procurando parceiros e podem permanecer sozinhos por períodos extraordinariamente longos. Ainda assim, vez ou outra, um deles reaparece acompanhado de filhotes que simplesmente começaram a sair de seu abrigo.
+
+Dizem que um Ermitérmio não precisa de nada além de si mesmo para se reproduzir.
+
+Naturalmente, quando perguntado sobre isso, ele acha a pergunta uma idiotice.`;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -3991,8 +4256,8 @@ export const insetos: Inseto[] = [
     estagio: 'forma casulo',
     ...dadosPendentes,
     tags: ['borboletas'],
-    evolucoes: [{ insetoId: 'trevoleta', tipo: 'linear' }],
-    evolucaoDe: [{ insetoId: 'clerigarta', tipo: 'ramificada' }, { insetoId: 'pontiarca', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'clerigarta', tipo: 'ramificada' }, { insetoId: 'pontiarca', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'clerigarta', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -4167,6 +4432,166 @@ export const insetos: Inseto[] = [
     tags: ['mariposas'],
     evolucoes: [{ insetoId: 'mortiposa', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'serpreita', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'seminarta',
+    nome: 'Seminarta',
+    nomeIngles: 'Seminarta',
+    imagem: '/images/borboletas/seminarta.png',
+    descricao: descricaoSeminarta,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'confessalida', tipo: 'linear' }],
+  },
+  {
+    id: 'confessalida',
+    nome: 'Confessálida',
+    nomeIngles: 'Confessor',
+    imagem: '/images/borboletas/confessalida.png',
+    descricao: descricaoConfessalida,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'sacerdoleta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'seminarta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'sacerdoleta',
+    nome: 'Sacerdoleta',
+    nomeIngles: 'Sacerdotessa',
+    imagem: '/images/borboletas/sacerdoleta.png',
+    descricao: descricaoSacerdoleta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'confessalida', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'batizarta',
+    nome: 'Batizarta',
+    nomeIngles: 'Batizarta',
+    imagem: '/images/borboletas/batizarta.png',
+    descricao: descricaoBatizarta,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'assalida', tipo: 'linear' }],
+  },
+  {
+    id: 'assalida',
+    nome: 'Assálida',
+    nomeIngles: 'Assessor',
+    imagem: '/images/borboletas/assalida.png',
+    descricao: descricaoAssalida,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'prospeleta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'batizarta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'prospeleta',
+    nome: 'Prospeleta',
+    nomeIngles: 'Prospector',
+    imagem: '/images/borboletas/prospeleta.png',
+    descricao: descricaoProspeleta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'assalida', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'fielarta',
+    nome: 'Fielarta',
+    nomeIngles: 'Fidelitas',
+    imagem: '/images/borboletas/fielarta.png',
+    descricao: descricaoFielarta,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'vitralida', tipo: 'linear' }],
+  },
+  {
+    id: 'vitralida',
+    nome: 'Vitralida',
+    nomeIngles: 'Vitrallia',
+    imagem: '/images/borboletas/vitralida.png',
+    descricao: descricaoVitralida,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'devoleta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'fielarta', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'devoleta',
+    nome: 'Devoleta',
+    nomeIngles: 'Devotee',
+    imagem: '/images/borboletas/devoleta.png',
+    descricao: descricaoDevoleta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'vitralida', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'cogularia',
+    nome: 'Cogularia',
+    nomeIngles: 'Cognita',
+    imagem: '/images/borboletas/cogularia.png',
+    descricao: descricaoCogularia,
+    linhagem: 'borboletas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'esticasulo', tipo: 'linear' }],
+  },
+  {
+    id: 'esticasulo',
+    nome: 'Esticasulo',
+    nomeIngles: '',
+    imagem: '/images/borboletas/esticasulo.png',
+    descricao: descricaoEsticasulo,
+    linhagem: 'borboletas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [{ insetoId: 'inquisileta', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'cogularia', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'inquisileta',
+    nome: 'Inquisileta',
+    nomeIngles: 'Inquisitor',
+    imagem: '/images/borboletas/inquisileta.png',
+    descricao: descricaoInquisileta,
+    linhagem: 'borboletas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['borboletas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'esticasulo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -4774,5 +5199,74 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'pulguito', tipo: 'linear' }],
     tipoEvolucao: 'especial',
+  },
+
+  {
+    id: 'esmolisco',
+    nome: 'Esmolisco',
+    nomeIngles: '',
+    imagem: '/images/zigentomos/esmolisco.png',
+    descricao: descricaoEsmolisco,
+    linhagem: 'zigentomos',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['zigentomos'],
+    evolucoes: [{ insetoId: 'mendigoso', tipo: 'ramificada' }, { insetoId: 'bengaleta', tipo: 'ramificada' }, { insetoId: 'desalojento', tipo: 'ramificada' }, { insetoId: 'ermitermio', tipo: 'ramificada' }],
+  },
+  {
+    id: 'mendigoso',
+    nome: 'Mendigoso',
+    nomeIngles: '',
+    imagem: '/images/zigentomos/mendigoso.png',
+    descricao: descricaoMendigoso,
+    linhagem: 'zigentomos',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['zigentomos'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'esmolisco', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'bengaleta',
+    nome: 'Bengaleta',
+    nomeIngles: '',
+    imagem: '/images/zigentomos/bengaleta.png',
+    descricao: descricaoBengaleta,
+    linhagem: 'zigentomos',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['zigentomos'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'esmolisco', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'desalojento',
+    nome: 'Desalojento',
+    nomeIngles: '',
+    imagem: '/images/zigentomos/desalojento.png',
+    descricao: descricaoDesalojento,
+    linhagem: 'zigentomos',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['zigentomos'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'esmolisco', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'ermitermio',
+    nome: 'Ermitérmio',
+    nomeIngles: '',
+    imagem: '/images/zigentomos/ermitermio.png',
+    descricao: descricaoErmitermio,
+    linhagem: 'zigentomos',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['zigentomos'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'esmolisco', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
 ]

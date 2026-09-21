@@ -194,7 +194,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBorboletas,
     imagemCapa: '/images/borboletas/capa.png',
     tema: '#C49A32',
-    criaturas: ['lagracia', 'crisanto', 'serafleta','clerigarta','conclavida','cleroleta','pontiarca','salikarta','crisaaba','profeleta','julgarta','crisalianca','farileta','maligarta','serpetrea','trevoleta'],
+    criaturas: ['lagracia', 'crisanto', 'serafleta','maligarta','serpetrea','trevoleta','salikarta','crisaaba','profeleta','julgarta','crisalianca','farileta','seminarta','confessalida','sacerdoleta','clerigarta','conclavida','cleroleta','pontiarca', 'batizarta','assalida','prospeleta','fielarta','vitralida','devoleta','cogularia','esticasulo','inquisileta'],
   },
   {
     id: 'mariposas',
@@ -243,6 +243,16 @@ export const linhagens: Linhagem[] = [
     criaturas: ['tapuli','pupula', 'shogulo', 'moshinobi', 'moscaville', 'vareninja'],
   },
 ]
+
+// Serafleta: “É fácil dizer que o caminho serve para todos quando foi feito para quem é como você.”
+// Ressuleta: “Quando alguém já foi condenado pela crença, até suas boas ações podem servir como prova de sua culpa.”
+// Farileta: “Quando alguém recebe o poder de interpretar a verdade, também recebe o poder de decidir onde ela termina.”
+// Profeleta: “Quando procuramos mensagens em tudo, sempre encontraremos alguma que pareça ter se cumprido.”
+// Cleroleta: “Uma história repetida por tempo suficiente pode sustentar instituições muito maiores que suas certezas.”
+// Sacerdoleta: “É fácil ter todas as respostas até ser obrigado a ouvir as perguntas.”
+// Prospeleta: “É fácil atribuir o próprio sucesso à virtude quando esquecemos que nem todos começaram com as mesmas oportunidades.”
+// Inquisileta: “Quando o sofrimento é considerado prova de purificação, sobreviver a ele pode se tornar justificativa para impô-lo aos próximos.”
+// Devoleta: “Quando confiamos que outros enxergam aquilo que não conseguimos ver, até o absurdo pode parecer um sacrifício necessário.”
 
 const palavraDaVida1 = `A Primeira Grande Transformação
 
