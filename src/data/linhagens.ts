@@ -184,7 +184,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
     tema: '#49505a',
-    criaturas: ['infantarva', 'roninfa', 'gusokulo', 'kabutouro', 'lourarva','pupumento','besocles','besolita', 'barbarva', 'draugrupa', 'bersourkor', 'giglope', 'golitauro', 'gladolias', 'shenanta', 'shirvana', 'meganesha', 'malharda', 'escalibupa', 'glorifario', 'prataladino', 'resplansouro', 'capsularva', 'puprototipo', 'mechaphaneus'],
+    criaturas: ['infantarva', 'lourarva','pupumento','besocles','besolita', 'giglope', 'golitauro', 'gladolias', 'shenanta', 'shirvana', 'meganesha', 'barbarva', 'draugrupa', 'bersourkor', 'capsularva', 'puprototipo', 'mechaphaneus','roninfa', 'gusokulo', 'kabutouro',  'malharda', 'escalibupa', 'glorifario', 'prataladino', 'resplansouro'],
   },
   {
     id: 'borboletas',
@@ -252,6 +252,34 @@ export const linhagens: Linhagem[] = [
 // Prospeleta: “É fácil atribuir o próprio sucesso à virtude quando esquecemos que nem todos começaram com as mesmas oportunidades.”
 // Inquisileta: “Quando o sofrimento é considerado prova de purificação, sobreviver a ele pode se tornar justificativa para impô-lo aos próximos.”
 // Devoleta: “Quando confiamos que outros enxergam aquilo que não conseguimos ver, até o absurdo pode parecer um sacrifício necessário.”
+
+// Kabutouro: “O domínio de si é o caminho para dominar a própria lâmina.” — disciplina, aperfeiçoamento e preparação espiritual desde a Roninfa.
+// Bésocles/Besólita: “A força só alcança seu valor quando é construída e colocada a serviço de grandes feitos.” — esforço, treinamento e heroísmo.
+// Bersourkor: “Aquilo que você é capaz de defender é verdadeiramente seu.” — autonomia, território, resistência e força individual.
+// Gladolias: “A vida pertence aos fortes o bastante para conquistá-la.” — competição direta, superioridade física e vitória.
+// Meganesha: “A verdadeira força remove obstáculos sem precisar criar novos.” — contemplação, equilíbrio e poder empregado para ajudar.
+// Glorifário / Prataladino / Resplansouro: “Honra é tornar-se digno daquilo que se promete ser.” — dever, lealdade, reputação e a busca por corresponder ao ideal que começa ainda na Malharda.
+// Mechaphaneus: “Prepare-se para o mundo antes de enfrentá-lo; quando estiver pronto, viva tudo aquilo para que se preparou.” — planejamento, preparação, sobrevivência e, finalmente, descoberta do mundo.
+
+// Serpreita → Maligroso → Mortiposa — “Tenho medo de morrer, mesmo sabendo que não há como escapar disso.”
+// Laranharta → Enjaulupa → Lunaranha — “Tenho medo daquilo que posso fazer quando perder o controle de mim mesmo.”
+// Carniçalha → Mortume → Decréptera — “Tenho medo do que acontecerá com meu corpo e do que restará de mim depois da morte.”
+// Wendívora → Restritupa → Hematocrata — “Tenho medo de desejar algo tanto que não consiga resistir aos meus próprios impulsos.”
+// Paplicata → Pupárgula → Harpítera — “Tenho medo de descobrir que, entre todos, foi justamente a mim que escolheram como alvo.”
+// Falsilha → Aberrasulo → Frankáptera / Frankopata — “Tenho medo de descobrirem que sou diferente e decidirem que não pertenço entre eles.”
+// Mumifigarta → Sarcosulo → Isetyx / Erubis — “Tenho medo de que meu corpo deixe de me pertencer e se torne apenas algo útil para outro.”
+// Entérrea → Pupoterrada → Assombralada / Zunambularva → Esporantalho — “Tenho medo de continuar consciente enquanto alguma coisa toma o controle do meu próprio corpo.”
+// Flamecante → Pupandoura → Gorgondusa / Quimerydra — “Tenho medo de machucar quem amo simplesmente por permitir que chegue perto de mim.”
+// Fantasioche → Apotroche → Polterposa — “Tenho medo de não estar realmente sozinho no lugar onde deveria me sentir seguro.”
+// Chapelírio → Manicúmulo → Gargalhaço — “Tenho medo de perder quem sou até não conseguir mais distinguir minha própria identidade.”
+// Ipupiarta → Tesáurea → Sirêntria / Carrântano — “Tenho medo de confiar no que vejo e descobrir tarde demais que as aparências me enganaram.”
+// Assustrutora → Fortrutura → Reclusela / Besteriano — “Tenho medo de que aquilo que está lá fora consiga entrar no único lugar onde me sinto seguro.”
+
+// Esmolisco: “Se pedir funciona, por que eu iria procurar?” 🤲
+// Mendigoso: “Eu não espalho boatos. Só conto o que todo mundo ainda não sabe.” 😌
+// Bengaleta: “Não preciso enxergar para saber o que acontece por aqui.”
+// Desalojento: “Desabrigado? Só porque você não sabe onde eu moro.” 😏
+// Ermitérmio: “Se exige esforço, provavelmente não vale a pena.” 😒
 
 const palavraDaVida1 = `A Primeira Grande Transformação
 

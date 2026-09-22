@@ -3531,7 +3531,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma inicial',
     ...dadosPendentes,
     tags: ['besouros'],
-    evolucoes: [{ insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' }, { insetoId: 'shenanta', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' }, { insetoId: 'shenanta', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }, { insetoId: 'capsularva', tipo: 'ramificada' }],
   },
   {
     id: 'roninfa',
