@@ -1667,7 +1667,7 @@ const descricaoSacerdoleta = `As Sacerdoletas são as maiores responsáveis por 
 
 Existem vários tipos de Sacerdoletas, com diferentes cores e costumes, mas a maioria possui asas azuis e pelos brancos ao redor do pescoço, tornando-as facilmente reconhecíveis.
 
-As Sacerdoletas são conhecidas por seu modo tranquilo de explicar as coisas e por serem bastante compreensivas — a maioria delas, pelo menos. Costumam recrutar Pratedinos para trabalharem para a Organização do Besouro da Luz e também recebem a missão de viajar até lugares selvagens para tentar espalhar a Nova Palavra. Muitas acabam sendo mortas nessas missões, o que não impede a Organização de continuar enviando outras.
+As Sacerdoletas são conhecidas por seu modo tranquilo de explicar as coisas e por serem bastante compreensivas — a maioria delas, pelo menos. Costumam recrutar Prataladinos para trabalharem para a Organização do Besouro da Luz e também recebem a missão de viajar até lugares selvagens para tentar espalhar a Nova Palavra. Muitas acabam sendo mortas nessas missões, o que não impede a Organização de continuar enviando outras.
 
 Territórios recém-conquistados também costumam estar entre os lugares mais difíceis para transmitir seus ensinamentos. Entretanto, com tempo e insistência, a Nova Palavra começa a fazer parte do cotidiano dos insetos nativos.
 
@@ -2772,7 +2772,7 @@ Apesar de toda a fama, o exoesqueleto de um Prataladino não é necessariamente 
 
 Seu braço afiado e uniforme é um dos maiores símbolos de seu prestígio. Prataladinos aprendem a utilizá-lo com grande habilidade em combate, e os mais respeitados entre os guerreiros costumam ser aqueles que melhor dominam sua própria lâmina.
 
-Prataladinos são frequentemente cooptados para integrar o Exército do Besouro da Luz. Após participarem de alguma missão determinada pela organização, recebem um pequeno território próprio dentro do gigantesco domínio das Sacerdoletas. Essas missões geralmente envolvem a conquista de novos territórios ou a recuperação de regiões destinadas à Organização do Besouro da Luz.
+Prataladinos são frequentemente cooptados para integrar o Exército do Besouro da Luz. Após participarem de alguma missão determinada pela organização, recebem um pequeno território próprio dentro do gigantesco domínio das Cleroletas. Essas missões geralmente envolvem a conquista de novos territórios ou a recuperação de regiões destinadas à Organização do Besouro da Luz.
 
 Sua reputação costuma ser ilibada, e os Prataladinos sabem utilizá-la quando necessário. Quando não estão servindo ao exército, normalmente vivem em seus próprios territórios, acolhendo como protegidos outros insetos que ali habitam e procurando manter aquelas terras prósperas e seguras.
 
@@ -2794,6 +2794,43 @@ A veracidade dessa história é motivo de constantes debates. Questiona-se quant
 Ainda assim, sua narrativa alcançou lugares e povos extremamente diferentes. Existem até mesmo baratas que seguem seus ensinamentos, algo que muitos considerariam impossível.
 
 Seja qual for a verdade sobre o Besouro da Luz, uma consequência é incontestável: nascer Resplansouro praticamente torna o indivíduo automaticamente associado à sua figura.`;
+const descricaoCapsularva = `A Capsularva nasce dentro de uma cápsula nutritiva que contém tudo de que precisa. Quando realiza sua primeira muda, ainda lá dentro, escuta instruções vindas do lado de fora sobre o que deverá fazer, os perigos que encontrará e aquilo que um dia se tornará.
+
+Pouco depois, a Capsularva emerge de sua cápsula e se percebe dentro de uma base subterrânea construída por seus pais. O lugar contém todos os suprimentos necessários para que consiga viver e se desenvolver até amadurecer completamente.
+
+Às vezes, a base é maior e mais complexa, e a Capsularva descobre outras câmaras onde vivem seus irmãos, com os quais pode trocar informações.
+
+Dificilmente insetos da superfície chegam a ver uma Capsularva, pois ela raramente precisa abandonar sua base subterrânea. Entretanto, alguns inimigos tentam invadir o lugar para roubar seus suprimentos ou tomar a própria base.
+
+Capsularvas são relativamente fortes e passam grande parte do tempo se preparando para enfrentar as ameaças que encontrarão do lado de fora — e, algumas vezes, aquelas que conseguem chegar ao lado de dentro.`;
+const descricaoPuprototipo = `Quando está preparada e acumula energia suficiente, a Capsularva procura o lugar mais seguro de sua base e entra em modo de transformação.
+
+O Puprotótipo permanecerá se formando por meses, e sabe que esse é seu momento mais vulnerável. A base pode ser invadida enquanto ele ainda não está pronto. Criaturas parasitas, insetos tomadores de bases e seu arquirrival, o feroz Maculoraz, tornam-se perigos permanentes durante esse estágio. O Puprotótipo só pode esperar que tenha tomado todas as medidas necessárias para que sua base não seja descoberta.
+
+O processo é lento, mas ele sabe exatamente qual é o projeto final de seu novo corpo: um exoesqueleto extremamente resistente e dotado de capacidades extraordinárias.
+
+Pouco a pouco, o Puprotótipo começa a adquirir sua aparência definitiva, como um projeto em construção que seria impressionante de observar. Pouquíssimos insetos, porém, tiveram a oportunidade de contemplar essa transformação secreta.`;
+const descricaoMechaphaneus = `Após seu período de transformação, o Mechaphaneus finalmente está pronto. Equipado com um exoesqueleto extremamente resistente, força incrível, chifre de combate, espinhos afiados nos braços e pernas, capacidade de penetrar rapidamente na terra e asas adaptadas para um voo excelente, ele está preparado para aquilo que o espera.
+
+O Mechaphaneus finalmente abandona sua velha base, agora quase sem suprimentos, preparado e equipado para lidar com o mundo exterior e suas ameaças.
+
+Seu belo exoesqueleto de cores iridescentes e brilhantes e seu voo preciso agora tomam os céus com alguns objetivos em mente.
+
+Objetivo 1: Buscar lugares com abundância de nutrientes para servirem como fontes de energia e recursos.
+
+Objetivo 2: Interagir com insetos pacíficos para obter informações e formar alianças.
+
+Objetivo 3: Eliminar ameaças a ele e às suas futuras gerações que surgirem pelo caminho.
+
+Objetivo 4: Exterminar todo e qualquer Maculoraz encontrado.
+
+Objetivo 5: Buscar outros Mechaphaneus para criar novas bases e gerar mais Capsularvas.
+
+Objetivo 6: Construir bases mais seguras e com suprimentos suficientes para a geração de novas unidades de Mechaphaneus.
+
+Objetivo 7: Apreciar a glória e a beleza do mundo, agora que finalmente pode contemplá-lo em todo o seu resplendor.
+
+Objetivo final: Repassar as instruções às Capsularvas geradas.`;
 
 const descricaoEsmolisco = `Esmoliscos podem ser encontrados em praticamente qualquer ambiente, desde grandes comunidades até regiões pouco habitadas. Apesar disso, raramente chamam atenção e costumam passar despercebidos pela maioria dos insetos.
 
@@ -3779,7 +3816,7 @@ export const insetos: Inseto[] = [
   {
     id: 'resplansouro',
     nome: 'Resplansouro',
-    nomeIngles: 'Resplansouro',
+    nomeIngles: 'Resplangold',
     imagem: '/images/besouros/resplansouro.png',
     descricao: descricaoResplansouro,
     linhagem: 'besouros',
@@ -3789,6 +3826,48 @@ export const insetos: Inseto[] = [
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'escalibupa', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'capsularva',
+    nome: 'Capsularva',
+    nomeIngles: 'Capsularva',
+    imagem: '/images/besouros/capsularva.png',
+    descricao: descricaoCapsularva,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'puprototipo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'puprototipo',
+    nome: 'Puprotótipo',
+    nomeIngles: 'Puprototype',
+    imagem: '/images/besouros/puprototipo.png',
+    descricao: descricaoPuprototipo,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'mechaphaneus', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'capsularva', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'mechaphaneus',
+    nome: 'Mechaphaneus',
+    nomeIngles: 'Mechaphaneus',
+    imagem: '/images/besouros/mechaphaneus.png',
+    descricao: descricaoMechaphaneus,
+    linhagem: 'besouros',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'puprototipo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
   },
   {
     id: 'morticula',
