@@ -260,6 +260,8 @@ export const linhagens: Linhagem[] = [
 // Meganesha: “A verdadeira força remove obstáculos sem precisar criar novos.” — contemplação, equilíbrio e poder empregado para ajudar.
 // Glorifário / Prataladino / Resplansouro: “Honra é tornar-se digno daquilo que se promete ser.” — dever, lealdade, reputação e a busca por corresponder ao ideal que começa ainda na Malharda.
 // Mechaphaneus: “Prepare-se para o mundo antes de enfrentá-lo; quando estiver pronto, viva tudo aquilo para que se preparou.” — planejamento, preparação, sobrevivência e, finalmente, descoberta do mundo.
+// Escarámon: “Conheça o seu caminho, mesmo quando precisar percorrê-lo sem olhar para trás.”
+// Triceratlas: “Se existe um obstáculo em seu caminho, descubra se você é forte o bastante para atravessá-lo.”
 
 // Serpreita → Maligroso → Mortiposa — “Tenho medo de morrer, mesmo sabendo que não há como escapar disso.”
 // Laranharta → Enjaulupa → Lunaranha — “Tenho medo daquilo que posso fazer quando perder o controle de mim mesmo.”
@@ -456,3 +458,37 @@ Ela lhes contou que também havia realizado a Grande Transformação.
 Disse que também era uma prometida da Terra das Flores Douradas.
 
 E quando chegou o momento de a alada dourada continuar sua jornada, a escura partiu junto com ela.`
+
+// | Forma          |   Altura |
+// | -------------- | -------: |
+// | **Infantarva** |   **1u** |
+// | Roninfa        |     2,7u |
+// | Gusokulo       |     3,0u |
+// | Kabutouro      |     4,0u |
+// | Lourarva       |     4,5u |
+// | Pupumento      |     4,0u |
+// | Bésocles       | **6,0u** |
+// | Besólita       |     5,2u |
+// | Barbarva       |     3,8u |
+// | Draugrupa      |     3,6u |
+// | Bersourkor     |     4,8u |
+// | Giglope        | **5,0u** |
+// | Golitauro      |     5,0u |
+// | Gladolias      | **6,2u** |
+// | Shenanta       |     4,3u |
+// | Shirvana       |     4,2u |
+// | Meganesha      | **6,0u** |
+// | Malharda       |     2,0u |
+// | Escalibupa     |     2,2u |
+// | Glorifário     |     3,0u |
+// | Prataladino    |     3,0u |
+// | Resplansouro   |     3,0u |
+// | Capsularva     |     1,8u |
+// | Puprotótipo    |     2,0u |
+// | Mechaphaneus   | **2,7u** |
+// | Faróglifa      |     2,2u |
+// | Escarófago     |     2,3u |
+// | Escarámon      | **3,5u** |
+// | Larvossauro    | **4,5u** |
+// | Fossisulo      |     4,2u |
+// | Triceratlas    | **5,8u** |

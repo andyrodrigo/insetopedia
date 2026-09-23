@@ -2880,9 +2880,64 @@ Seu verdadeiro desafio são outros de sua própria espécie. Escarámons parecem
 O Escarámon é misterioso e raramente fala com outros insetos, tratando-os como simples mortais. Orgulhosos, Escarámons não conversam sequer durante suas próprias disputas.
 
 Quando dois deles realmente se unem, normalmente existe uma razão: juntos, escavam tumbas profundas e cuidadosamente escondidas dos demais insetos, garantindo que ninguém encontre ou profane esses lugares.`;
-const descricaoLarvossauro = ``;
-const descricaoFossisulo = ``;
-const descricaoTriceratlas = ``;
+const descricaoLarvossauro = `A Infantarva dessa linhagem já é naturalmente mais agressiva, mas, após a primeira troca de muda, começa a apresentar uma agressividade incomum, como se tomada por algum instinto, tornando-se um Larvossauro.
+
+O Larvossauro é feroz e detesta aproximações. Ele escolhe uma pequena região rica em alimento e vive por lá durante essa fase. Curiosamente, sua alimentação é predominantemente herbívora. Madeira em decomposição e outros materiais vegetais continuam sendo sua principal fonte de alimento.
+
+Isso, entretanto, não torna outros seres seguros perto dele.
+
+Sua mandíbula é desproporcionalmente forte, e o Larvossauro reage agressivamente à presença de criaturas nas proximidades. Ele ameaça, avança e morde sem demonstrar grande preocupação com o tamanho do adversário. Insetos menores podem ser gravemente feridos ou mortos durante esses ataques.
+
+Quando há alimento vegetal disponível, normalmente abandona o cadáver. Quando não há, porém, a distinção entre invasor e alimento rapidamente perde a importância.
+
+Outros Larvossauros são tratados da mesma maneira. Quando dois convivem no mesmo ambiente, podem ocorrer confrontos que terminam em ferimentos graves e, em situações extremas, a vitória de um deles também resolve temporariamente seu problema de alimentação.
+
+Apesar de sua ferocidade, existe uma criatura diante da qual até mesmo um Larvossauro tem motivos para temer.
+
+**Vespaleiros os caçam.**
+
+Eles aprenderam a procurar Larvossauros nos lugares onde costumam se desenvolver. A força e a mandíbula tornam a aproximação perigosa, e um ataque mal calculado pode transformar o caçador em vítima. Ainda assim, Vespaleiros experientes sabem que a agressividade do Larvossauro também pode ser explorada: ele dificilmente abandona seu território diante de uma ameaça e frequentemente prefere enfrentar aquilo que deveria evitar.
+
+Existem relatos de Larvossauros que sobreviveram a esses encontros, carregando pelo restante dessa fase marcas deixadas pelos Vespaleiros.
+
+Outros simplesmente desaparecem.
+`;
+const descricaoFossisulo = `O Fossisulo possui uma aparência perturbadora. Seu corpo perde as cores que possuía e adquire tons terrosos e endurecidos, enquanto sua forma começa a antecipar a criatura que um dia surgirá dali. Para quem encontra um deles, entretanto, é fácil acreditar que encontrou apenas os restos fossilizados de alguma criatura que morreu há muito tempo.
+
+Geralmente, Fossisulos são encontrados por insetos cavadores que, em busca de alimento, reservatórios ou proteção, acabam se deparando com eles em seus caminhos subterrâneos.
+
+Essa aparência tornou os Fossisulos objetos de curiosidade. Alguns insetos acreditam que sejam restos de criaturas antigas e que aqueles encontrados atualmente apenas estiveram enterrados durante incontáveis gerações. Outros perceberam que novos Fossisulos continuam surgindo, embora isso não tenha tornado sua existência muito menos misteriosa.
+
+Durante essa fase, o Fossisulo permanece completamente indefeso. Curiosamente, sua aparência acaba sendo uma de suas maiores proteções: predadores que procurariam uma pupa viva podem simplesmente ignorá-lo, confundindo-o com algo morto e sem qualquer valor nutritivo.
+
+Com o passar do tempo, detalhes de sua forma tornam-se cada vez mais definidos. Grandes estruturas aparecem em sua cabeça, e seu corpo assume proporções que não existiam no Larvossauro.
+
+Então, depois de permanecer imóvel por tempo suficiente para parecer realmente morto, aquilo que parecia um fóssil começa a se mover.
+
+O Fossisulo se rompe.
+
+E de dentro de algo que parecia pertencer ao passado surge uma criatura viva.
+`;
+const descricaoTriceratlas = `Quando o Fossisulo finalmente se rompe, dele emerge uma criatura enorme, pesada e extraordinariamente resistente: o Triceratlas.
+
+Apesar de sua aparência ameaçadora, o Triceratlas é perfeitamente capaz de falar e compreender outros insetos. O problema é que raramente tem muito a dizer. É uma criatura de poucas palavras, poucas ideias e enorme convicção nas ideias que possui.
+
+Triceratlas passam boa parte da vida procurando alimento e percorrendo grandes áreas. Normalmente não procuram conflitos sem motivo, mas também não demonstram qualquer preocupação em evitá-los. Quando alguma coisa impede seu caminho, sua primeira reação costuma ser avaliar se consegue simplesmente passar por ela.
+
+Na maioria das vezes, consegue.
+
+Seu exoesqueleto é extremamente resistente, seu corpo é pesado e seus três grandes chifres transformam sua cabeça em uma poderosa ferramenta de combate. Durante uma investida, o Triceratlas abaixa a cabeça e avança com força contra o adversário, usando os chifres para agarrar, levantar ou arremessar aquilo que estiver à sua frente.
+
+Brigas entre Triceratlas são particularmente impressionantes. Dois deles podem passar algum tempo se encarando em absoluto silêncio antes de avançarem um contra o outro. Os chifres se prendem, os corpos se empurram e ambos tentam levantar ou derrubar o adversário. Curiosamente, depois que a disputa termina, o vencedor raramente demonstra interesse em continuar atacando. O assunto estava resolvido.
+
+Outros insetos às vezes tentam conversar com um Triceratlas para evitar uma disputa. Isso pode funcionar, desde que consigam explicar rapidamente por que não deveriam brigar. Argumentos muito longos costumam perder sua atenção.
+
+Apesar disso, Triceratlas não são criaturas permanentemente hostis. Podem conviver com outros insetos e até ajudá-los quando entendem claramente o que precisa ser feito. Apenas não espere grandes planos. Quando apresentado a um problema complicado, um Triceratlas costuma procurar primeiro aquilo que pode empurrar, derrubar, levantar ou quebrar.
+
+Talvez por isso exista uma frase conhecida entre insetos que já conviveram com eles:
+
+**É possível conversar com um Triceratlas. Só é melhor fazer isso antes que ele abaixe a cabeça.**
+`;
 
 const descricaoEsmolisco = `Esmoliscos podem ser encontrados em praticamente qualquer ambiente, desde grandes comunidades até regiões pouco habitadas. Apesar disso, raramente chamam atenção e costumam passar despercebidos pela maioria dos insetos.
 
@@ -3583,7 +3638,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma inicial',
     ...dadosPendentes,
     tags: ['besouros'],
-    evolucoes: [{ insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' },  { insetoId: 'shenanta', tipo: 'ramificada' },{ insetoId: 'larvossauro', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'capsularva', tipo: 'ramificada' }, { insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }, { insetoId: 'faraoglifa', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' },  { insetoId: 'shenanta', tipo: 'ramificada' },{ insetoId: 'larvossauro', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'capsularva', tipo: 'ramificada' }, { insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }, { insetoId: 'faroglifa', tipo: 'ramificada' }],
   },
   {
     id: 'roninfa',
@@ -3922,9 +3977,9 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
-    id: 'faraoglifa',
+    id: 'faroglifa',
     nome: 'Faróglifa',
-    nomeIngles: '',
+    nomeIngles: 'Pharoglyph',
     imagem: '/images/besouros/faroglifa.png',
     descricao: descricaoFaroglifa,
     linhagem: 'besouros',
@@ -3938,7 +3993,7 @@ export const insetos: Inseto[] = [
   {
     id: 'escarofago',
     nome: 'Escarófago',
-    nomeIngles: '',
+    nomeIngles: 'Scarophagus',
     imagem: '/images/besouros/escarofago.png',
     descricao: descricaoEscarofago,
     linhagem: 'besouros',
@@ -3952,7 +4007,7 @@ export const insetos: Inseto[] = [
   {
     id: 'escaramon',
     nome: 'Escarámon',
-    nomeIngles: '',
+    nomeIngles: 'Scaramun',
     imagem: '/images/besouros/escaramon.png',
     descricao: descricaoEscaramon,
     linhagem: 'besouros',
@@ -3966,7 +4021,7 @@ export const insetos: Inseto[] = [
   {
     id: 'larvossauro',
     nome: 'Larvossauro',
-    nomeIngles: '',
+    nomeIngles: 'Larvasaur',
     imagem: '/images/besouros/larvossauro.png',
     descricao: descricaoLarvossauro,
     linhagem: 'besouros',
@@ -3980,7 +4035,7 @@ export const insetos: Inseto[] = [
   {
     id: 'fossisulo',
     nome: 'fossisulo',
-    nomeIngles: '',
+    nomeIngles: 'Fossipod',
     imagem: '/images/besouros/fossisulo.png',
     descricao: descricaoFossisulo,
     linhagem: 'besouros',
@@ -3994,7 +4049,7 @@ export const insetos: Inseto[] = [
   {
     id: 'triceratlas',
     nome: 'Triceratlas',
-    nomeIngles: '',
+    nomeIngles: 'Triceratlas',
     imagem: '/images/besouros/triceratlas.png',
     descricao: descricaoTriceratlas,
     linhagem: 'besouros',
@@ -4624,32 +4679,6 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
-    id: 'serpreita',
-    nome: 'Serpreita',
-    nomeIngles: 'Serpentrap',
-    imagem: '/images/mariposas/serpreita2.png',
-    descricao: descricaoSerpreita,
-    linhagem: 'mariposas',
-    estagio: 'forma inicial',
-    ...dadosPendentes,
-    tags: ['mariposas'],
-    evolucoes: [{ insetoId: 'maligroso', tipo: 'linear' }],
-  },
-  {
-    id: 'maligroso',
-    nome: 'Maligroso',
-    nomeIngles: 'Maligrous',
-    imagem: '/images/mariposas/maligroso.png',
-    descricao: descricaoMaligroso,
-    linhagem: 'mariposas',
-    estagio: 'forma casulo',
-    ...dadosPendentes,
-    tags: ['mariposas'],
-    evolucoes: [{ insetoId: 'mortiposa', tipo: 'linear' }],
-    evolucaoDe: [{ insetoId: 'serpreita', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
     id: 'seminarta',
     nome: 'Seminarta',
     nomeIngles: 'Seminarta',
@@ -4692,7 +4721,7 @@ export const insetos: Inseto[] = [
   {
     id: 'batizarta',
     nome: 'Batizarta',
-    nomeIngles: 'Batizarta',
+    nomeIngles: 'Baptillar',
     imagem: '/images/borboletas/batizarta.png',
     descricao: descricaoBatizarta,
     linhagem: 'borboletas',
@@ -4704,7 +4733,7 @@ export const insetos: Inseto[] = [
   {
     id: 'assalida',
     nome: 'Assálida',
-    nomeIngles: 'Assessor',
+    nomeIngles: 'Roastalis',
     imagem: '/images/borboletas/assalida.png',
     descricao: descricaoAssalida,
     linhagem: 'borboletas',
@@ -4718,7 +4747,7 @@ export const insetos: Inseto[] = [
   {
     id: 'prospeleta',
     nome: 'Prospeleta',
-    nomeIngles: 'Prospector',
+    nomeIngles: 'Prosperfly',
     imagem: '/images/borboletas/prospeleta.png',
     descricao: descricaoProspeleta,
     linhagem: 'borboletas',
@@ -4732,7 +4761,7 @@ export const insetos: Inseto[] = [
   {
     id: 'fielarta',
     nome: 'Fielarta',
-    nomeIngles: 'Fidelitas',
+    nomeIngles: 'Faithillar',
     imagem: '/images/borboletas/fielarta.png',
     descricao: descricaoFielarta,
     linhagem: 'borboletas',
@@ -4744,7 +4773,7 @@ export const insetos: Inseto[] = [
   {
     id: 'vitralida',
     nome: 'Vitralida',
-    nomeIngles: 'Vitrallia',
+    nomeIngles: 'Stainalis',
     imagem: '/images/borboletas/vitralida.png',
     descricao: descricaoVitralida,
     linhagem: 'borboletas',
@@ -4758,7 +4787,7 @@ export const insetos: Inseto[] = [
   {
     id: 'devoleta',
     nome: 'Devoleta',
-    nomeIngles: 'Devotee',
+    nomeIngles: 'Devoutfly',
     imagem: '/images/borboletas/devoleta.png',
     descricao: descricaoDevoleta,
     linhagem: 'borboletas',
@@ -4772,7 +4801,7 @@ export const insetos: Inseto[] = [
   {
     id: 'cogularia',
     nome: 'Cogularia',
-    nomeIngles: 'Cognita',
+    nomeIngles: 'Cowlpillar',
     imagem: '/images/borboletas/cogularia.png',
     descricao: descricaoCogularia,
     linhagem: 'borboletas',
@@ -4784,7 +4813,7 @@ export const insetos: Inseto[] = [
   {
     id: 'esticasulo',
     nome: 'Esticasulo',
-    nomeIngles: '',
+    nomeIngles: 'Strainalis',
     imagem: '/images/borboletas/esticasulo.png',
     descricao: descricaoEsticasulo,
     linhagem: 'borboletas',
@@ -4798,7 +4827,7 @@ export const insetos: Inseto[] = [
   {
     id: 'inquisileta',
     nome: 'Inquisileta',
-    nomeIngles: 'Inquisitor',
+    nomeIngles: 'Inquisifly',
     imagem: '/images/borboletas/inquisileta.png',
     descricao: descricaoInquisileta,
     linhagem: 'borboletas',
@@ -4807,6 +4836,32 @@ export const insetos: Inseto[] = [
     tags: ['borboletas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'esticasulo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'serpreita',
+    nome: 'Serpreita',
+    nomeIngles: 'Serpentrap',
+    imagem: '/images/mariposas/serpreita2.png',
+    descricao: descricaoSerpreita,
+    linhagem: 'mariposas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'maligroso', tipo: 'linear' }],
+  },
+  {
+    id: 'maligroso',
+    nome: 'Maligroso',
+    nomeIngles: 'Maligrous',
+    imagem: '/images/mariposas/maligroso.png',
+    descricao: descricaoMaligroso,
+    linhagem: 'mariposas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['mariposas'],
+    evolucoes: [{ insetoId: 'mortiposa', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'serpreita', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -5419,7 +5474,7 @@ export const insetos: Inseto[] = [
   {
     id: 'esmolisco',
     nome: 'Esmolisco',
-    nomeIngles: '',
+    nomeIngles: 'Almsel',
     imagem: '/images/zigentomos/esmolisco.png',
     descricao: descricaoEsmolisco,
     linhagem: 'zigentomos',
@@ -5431,7 +5486,7 @@ export const insetos: Inseto[] = [
   {
     id: 'mendigoso',
     nome: 'Mendigoso',
-    nomeIngles: '',
+    nomeIngles: 'Begglish',
     imagem: '/images/zigentomos/mendigoso.png',
     descricao: descricaoMendigoso,
     linhagem: 'zigentomos',
@@ -5445,7 +5500,7 @@ export const insetos: Inseto[] = [
   {
     id: 'bengaleta',
     nome: 'Bengaleta',
-    nomeIngles: '',
+    nomeIngles: 'Antencane',
     imagem: '/images/zigentomos/bengaleta.png',
     descricao: descricaoBengaleta,
     linhagem: 'zigentomos',
@@ -5459,7 +5514,7 @@ export const insetos: Inseto[] = [
   {
     id: 'desalojento',
     nome: 'Desalojento',
-    nomeIngles: '',
+    nomeIngles: 'Displasty',
     imagem: '/images/zigentomos/desalojento.png',
     descricao: descricaoDesalojento,
     linhagem: 'zigentomos',
@@ -5473,7 +5528,7 @@ export const insetos: Inseto[] = [
   {
     id: 'ermitermio',
     nome: 'Ermitérmio',
-    nomeIngles: '',
+    nomeIngles: 'Hermitherm',
     imagem: '/images/zigentomos/ermitermio.png',
     descricao: descricaoErmitermio,
     linhagem: 'zigentomos',
