@@ -184,7 +184,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
     tema: '#49505a',
-    criaturas: ['infantarva', 'lourarva','pupumento','besocles','besolita', 'giglope', 'golitauro', 'gladolias', 'shenanta', 'shirvana', 'meganesha', 'barbarva', 'draugrupa', 'bersourkor', 'capsularva', 'puprototipo', 'mechaphaneus','roninfa', 'gusokulo', 'kabutouro',  'malharda', 'escalibupa', 'glorifario', 'prataladino', 'resplansouro'],
+    criaturas: ['infantarva', 'lourarva','pupumento','besocles','besolita', 'giglope', 'golitauro', 'gladolias', 'shenanta', 'shirvana', 'meganesha', 'larvossauro', 'fossisulo', 'triceratlas',  'barbarva', 'draugrupa', 'bersourkor', 'capsularva', 'puprototipo', 'mechaphaneus','roninfa', 'gusokulo', 'kabutouro', 'malharda', 'escalibupa', 'glorifario', 'prataladino', 'resplansouro', 'faroglifa','escarofago','escaramon'],
   },
   {
     id: 'borboletas',

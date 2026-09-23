@@ -2831,6 +2831,58 @@ Objetivo 6: Construir bases mais seguras e com suprimentos suficientes para a ge
 Objetivo 7: Apreciar a glória e a beleza do mundo, agora que finalmente pode contemplá-lo em todo o seu resplendor.
 
 Objetivo final: Repassar as instruções às Capsularvas geradas.`;
+const descricaoFaroglifa = `A Faróglifa é um ser privilegiado. Ela nasce sozinha em uma espécie de tumba secreta, repleta de câmaras e alimento em abundância nas profundezas da terra. Não há necessidade de compartilhar nada com ninguém: tudo é seu. Os detalhes são impecáveis, feitos com a precisão de um escavador de excelência, quase divino.
+
+O lugar parece ter sido preparado para sua chegada. Todo o conhecimento de que precisa está marcado nas paredes das câmaras. São símbolos reconhecíveis apenas por sua linhagem desde o nascimento, como um registro transmitido de geração para geração, na mente e nas paredes.
+
+Em sua primeira troca de muda, a Faróglifa surge com diferentes símbolos em seu corpo. Não se sabe se aparecem aleatoriamente ou se ela sabe o que precisa estar registrado a cada muda. A precisão dos símbolos sugere que sabe o que faz.
+
+A Faróglifa passa sua primeira vida compreendendo e aprendendo tudo sobre sua linhagem e sobre segredos que, aparentemente, apenas elas conhecem. O silêncio faz parte de sua filosofia.
+
+Faróglifas possuem um senso de direção extraordinário e andam para trás como se enxergassem pelas costas. É perceptível que existem ensinamentos sobre o céu e as estrelas; elas parecem conhecer o mundo sem jamais terem saído dali.
+
+Elas aguardam até o último momento de sua vida como Faróglifa para cumprir aquilo que diz um dos símbolos mais importantes:
+
+“Suba as paredes, até o topo, atravesse o firmamento e renasça como o Sol.”`;
+const descricaoEscarofago = `De acordo com os relatos do Ziguento Pobroso, a famosa Minerabelha Polemrosa escavou diversos lugares onde encontrou Escarófagos.
+
+Essas pupas costumam guardar muitos recursos em suas tumbas subterrâneas, o que fez de Polemrosa uma grande saqueadora. Entretanto, sua inteligência e curiosidade, aliadas ao hábito de exploração, fizeram com que ela começasse a decifrar vários dos símbolos encontrados nas paredes desses lugares.
+
+Ela contou ter descoberto a existência de um mapa celeste e que cada tumba subterrânea estaria alinhada com determinadas estrelas e constelações. A descoberta permitiu que encontrasse outras tumbas com muito mais facilidade.
+
+Entre os escritos, havia a afirmação de que as Faróglifas seriam o elo entre os insetos e o espectro divino do início e do fim do dia.
+
+Também diziam que a Faróglifa abandona seu corpo durante a fase de Escarófago. Enquanto seu corpo permanece imóvel na tumba, ela parte em busca da força de que necessita em um lugar espectral e, posteriormente, retorna trazendo consigo força divina e o poder do voo para se unir ao Sol.
+
+A descoberta mais polêmica, entretanto, dizia respeito ao Besouro da Luz.
+
+Segundo Polemrosa, os escritos afirmavam que o Besouro da Luz era, na verdade, um Escarámon. A história encontrada nas tumbas era bastante diferente daquela transmitida pela Nova Palavra da Vida, parecendo representar uma interpretação completamente distinta dos mesmos acontecimentos.
+
+Polemrosa morreu misteriosamente antes que pudesse revelar tudo aquilo que havia decifrado dessa história fantástica.
+
+O que se sabe é que a tumba onde um Escarófago repousa não guarda apenas recursos capazes de atrair saqueadores. Suas paredes preservam conhecimento e segredos para aqueles que conseguirem decifrá-los.`;
+const descricaoEscaramon = `Em determinada época do ano, os Escarámons parecem brotar da terra junto ao nascer do Sol e voam em direção ao céu, desaparecendo novamente com o pôr do Sol.
+
+Escarámons são extremamente fortes e resistentes. Seus corpos parecem pesados demais para que fossem capazes de voar, mas eles voam mesmo assim.
+
+Eles sempre sabem exatamente para onde ir, como se o mundo exterior inteiro sempre tivesse sido sua casa. Quando necessário, caminham para trás usando suas quatro pernas poderosas sem sequer olhar para onde estão indo.
+
+O que mais impressiona, porém, é sua força ao empurrar gigantescas bolas de suprimentos com os pés enquanto utilizam as mãos para caminhar. Mesmo nessa posição, jamais parecem hesitar sobre o caminho que devem seguir. Ninguém sabe como identificam os lugares exatos onde devem enterrar seus suprimentos.
+
+Suas mãos são especializadas em escavar e construir estruturas subterrâneas com uma precisão quase matemática.
+
+Quando um Escarámon encontra uma fonte de alimento, seria esperado que precisasse disputar o recurso com seus rivais. Entretanto, ele simplesmente surge como se fosse o dono do lugar, reúne habilmente tudo aquilo que deseja em uma enorme bola e a leva embora sem sequer olhar para os demais.
+
+Nem mesmo as Moshinobis são páreo para ele, pois dificilmente conseguiriam penetrar seu resistente exoesqueleto. Resta-lhes apenas se contentar com aquilo que o Escarámon decidiu deixar para trás.
+
+Seu verdadeiro desafio são outros de sua própria espécie. Escarámons parecem acreditar que possuem direito sobre tudo e não hesitam em tentar tomar o trabalho uns dos outros. Quando dois reivindicam o mesmo recurso, disputam força e orientação, empurrando suas bolas em direções opostas até que um deles finalmente desista.
+
+O Escarámon é misterioso e raramente fala com outros insetos, tratando-os como simples mortais. Orgulhosos, Escarámons não conversam sequer durante suas próprias disputas.
+
+Quando dois deles realmente se unem, normalmente existe uma razão: juntos, escavam tumbas profundas e cuidadosamente escondidas dos demais insetos, garantindo que ninguém encontre ou profane esses lugares.`;
+const descricaoLarvossauro = ``;
+const descricaoFossisulo = ``;
+const descricaoTriceratlas = ``;
 
 const descricaoEsmolisco = `Esmoliscos podem ser encontrados em praticamente qualquer ambiente, desde grandes comunidades até regiões pouco habitadas. Apesar disso, raramente chamam atenção e costumam passar despercebidos pela maioria dos insetos.
 
@@ -3531,7 +3583,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma inicial',
     ...dadosPendentes,
     tags: ['besouros'],
-    evolucoes: [{ insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' }, { insetoId: 'shenanta', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }, { insetoId: 'capsularva', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' },  { insetoId: 'shenanta', tipo: 'ramificada' },{ insetoId: 'larvossauro', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'capsularva', tipo: 'ramificada' }, { insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }, { insetoId: 'faraoglifa', tipo: 'ramificada' }],
   },
   {
     id: 'roninfa',
@@ -3867,6 +3919,90 @@ export const insetos: Inseto[] = [
     tags: ['besouros'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'puprototipo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'faraoglifa',
+    nome: 'Faróglifa',
+    nomeIngles: '',
+    imagem: '/images/besouros/faroglifa.png',
+    descricao: descricaoFaroglifa,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'escarofago', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'escarofago',
+    nome: 'Escarófago',
+    nomeIngles: '',
+    imagem: '/images/besouros/escarofago.png',
+    descricao: descricaoEscarofago,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'escaramon', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'faraoglifa', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'escaramon',
+    nome: 'Escarámon',
+    nomeIngles: '',
+    imagem: '/images/besouros/escaramon.png',
+    descricao: descricaoEscaramon,
+    linhagem: 'besouros',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'escarofago', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'larvossauro',
+    nome: 'Larvossauro',
+    nomeIngles: '',
+    imagem: '/images/besouros/larvossauro.png',
+    descricao: descricaoLarvossauro,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'fossisulo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'fossisulo',
+    nome: 'fossisulo',
+    nomeIngles: '',
+    imagem: '/images/besouros/fossisulo.png',
+    descricao: descricaoFossisulo,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'triceratlas', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'larvossauro', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'triceratlas',
+    nome: 'Triceratlas',
+    nomeIngles: '',
+    imagem: '/images/besouros/triceratlas.png',
+    descricao: descricaoTriceratlas,
+    linhagem: 'besouros',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'fossisulo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
