@@ -2938,6 +2938,41 @@ Talvez por isso exista uma frase conhecida entre insetos que já conviveram com 
 
 **É possível conversar com um Triceratlas. Só é melhor fazer isso antes que ele abaixe a cabeça.**
 `;
+const descricaoAlegrarva = `Alegrarvas costumam viver em cavidades de árvores, que geralmente são ótimos esconderijos, altos e escuros. Elas cobrem as entradas para disfarçá-las e conseguem viver sem intromissões durante praticamente toda a sua vida larval.
+
+O maior diferencial de uma Alegrarva é sua fome constante. Elas se alimentam praticamente o tempo inteiro, engordando bastante durante esse período.
+
+Como moram em abrigos estreitos, conseguem andar de costas, arrastando-se pelas passagens com certa habilidade — algo improvável para uma criatura tão gordinha.
+
+Alegrarvas conseguem reconhecer facilmente insetos bem-intencionados que passam perto de seus lares, e é somente nesses momentos que deixam seus esconderijos para socializar.
+
+São conhecidas pelo bom humor e pela hospitalidade, dividindo alimento, histórias e cantorias com seus visitantes.
+
+Elas conhecem bem as músicas das cigarras que costumam viver nos arredores. Passar algum tempo com uma Alegrarva é uma experiência memorável e inesquecível.`;
+const descricaoCasconderijo = `O período de transformação da Alegrarva acontece dentro de um Casconderijo. Sabendo que suas pupas são procuradas por alguns insetos, elas aperfeiçoaram ainda mais suas proteções durante esse momento de vulnerabilidade, construindo não apenas uma proteção, mas também um esconderijo.
+
+O Casconderijo deve ser muito semelhante ao ambiente onde ficará. Por isso, a Alegrarva procura cuidadosamente os materiais e o lugar perfeito para passar por sua transformação. Terra, detritos, matéria decomposta e praticamente qualquer outra coisa que possa fazê-lo passar despercebido por seus inimigos são utilizados em sua construção.
+
+Existem insetos que sabem exatamente o tipo de Escaravalente que surgirá dali e procuram especificamente por Casconderijos. Entre eles estão, principalmente, as Inquisiletas.
+
+A razão é que o ambiente onde sua futura forma costuma habitar está justamente em territórios considerados pertencentes à Organização do Besouro da Luz, em rotas protegidas onde não deveria existir competição pelas flores.
+
+Por isso, permanecer escondido durante toda a transformação é essencial.
+
+Um Casconderijo mal construído ou mal disfarçado pode ser uma questão de vida ou morte para o inseto que está lá dentro.`;
+const descricaoRobenzouro = `Há muito, muito tempo, Robenzouros eram apenas Escaravalentes belos e habilidosos que viviam em territórios próximos a muitas flores. Alimentavam-se de pólen e frutas, ajudavam na polinização e compartilhavam sua vida e suas habilidades com outros insetos.
+
+Seus braços longos e seu voo discreto são marcas conhecidas, tornando-os silenciosos no ar e coletores quase perfeitos. Também são conhecidos pelo senso de justiça, pelo bom humor e pelo gosto por competições corporais amistosas.
+
+Mas tudo isso pertence a um passado muito distante.
+
+Atualmente, Robenzouros são considerados insetos procurados por atrapalharem o projeto de proteção das rotas do Besouro da Luz. De acordo com a Organização, eles se alimentam de flores sob proteção e dificultam a identificação das rotas de migração, além de gerar competição com as Cleroletas pela obtenção de pólen.
+
+Robenzouros costumam viver em lugares escondidos e também sabem esconder muito bem seus ovos. O melhor momento para eliminá-los é durante a fase de Casconderijo. Isso porque, apesar de serem procurados e possuírem um voo discreto, quando adultos costumam aparecer bastante, disputando recursos e enfrentando corajosamente seus competidores.
+
+Apesar de sua condição de procurados, Robenzouros não costumam ter muitos problemas com insetos comuns que não fazem parte da Organização do Besouro da Luz.
+
+Eles continuam mantendo seu espírito alegre e ajudando os necessitados com o pólen saqueado das flores marcadas nas rotas proibidas.`;
 
 const descricaoEsmolisco = `Esmoliscos podem ser encontrados em praticamente qualquer ambiente, desde grandes comunidades até regiões pouco habitadas. Apesar disso, raramente chamam atenção e costumam passar despercebidos pela maioria dos insetos.
 
@@ -3638,7 +3673,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma inicial',
     ...dadosPendentes,
     tags: ['besouros'],
-    evolucoes: [{ insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' },  { insetoId: 'shenanta', tipo: 'ramificada' },{ insetoId: 'larvossauro', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' }, { insetoId: 'capsularva', tipo: 'ramificada' }, { insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }, { insetoId: 'faroglifa', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'lourarva', tipo: 'ramificada' }, { insetoId: 'giglope', tipo: 'ramificada' },  { insetoId: 'shenanta', tipo: 'ramificada' },{ insetoId: 'larvossauro', tipo: 'ramificada' }, { insetoId: 'barbarva', tipo: 'ramificada' },{ insetoId: 'alegrarva', tipo: 'ramificada' }, { insetoId: 'capsularva', tipo: 'ramificada' }, { insetoId: 'roninfa', tipo: 'ramificada' }, { insetoId: 'malharda', tipo: 'ramificada' }, { insetoId: 'faroglifa', tipo: 'ramificada' }],
   },
   {
     id: 'roninfa',
@@ -4058,6 +4093,48 @@ export const insetos: Inseto[] = [
     tags: ['besouros'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'fossisulo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'alegrarva',
+    nome: 'Alegrarva',
+    nomeIngles: 'Merryarva',
+    imagem: '/images/besouros/alegrarva.png',
+    descricao: descricaoAlegrarva,
+    linhagem: 'besouros',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'casconderijo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'infantarva', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'casconderijo',
+    nome: 'Casconderijo',
+    nomeIngles: 'Barkovert',
+    imagem: '/images/besouros/casconderijo.png',
+    descricao: descricaoCasconderijo,
+    linhagem: 'besouros',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [{ insetoId: 'robenzouro', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'alegrarva', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'robenzouro',
+    nome: 'Robenzouro',
+    nomeIngles: 'Robeetle',
+    imagem: '/images/besouros/robenzouro.png',
+    descricao: descricaoRobenzouro,
+    linhagem: 'besouros',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['besouros'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'casconderijo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {

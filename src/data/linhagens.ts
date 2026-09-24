@@ -184,7 +184,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoBesouros,
     imagemCapa: '/images/besouros/capa.png',
     tema: '#49505a',
-    criaturas: ['infantarva', 'lourarva','pupumento','besocles','besolita', 'giglope', 'golitauro', 'gladolias', 'shenanta', 'shirvana', 'meganesha', 'larvossauro', 'fossisulo', 'triceratlas',  'barbarva', 'draugrupa', 'bersourkor', 'capsularva', 'puprototipo', 'mechaphaneus','roninfa', 'gusokulo', 'kabutouro', 'malharda', 'escalibupa', 'glorifario', 'prataladino', 'resplansouro', 'faroglifa','escarofago','escaramon'],
+    criaturas: ['infantarva', 'lourarva','pupumento','besocles','besolita', 'giglope', 'golitauro', 'gladolias', 'shenanta', 'shirvana', 'meganesha', 'larvossauro', 'fossisulo', 'triceratlas',  'barbarva', 'draugrupa', 'bersourkor','alegrarva','casconderijo','robenzouro', 'capsularva', 'puprototipo', 'mechaphaneus','roninfa', 'gusokulo', 'kabutouro', 'malharda', 'escalibupa', 'glorifario', 'prataladino', 'resplansouro', 'faroglifa','escarofago','escaramon'],
   },
   {
     id: 'borboletas',
@@ -262,6 +262,7 @@ export const linhagens: Linhagem[] = [
 // Mechaphaneus: “Prepare-se para o mundo antes de enfrentá-lo; quando estiver pronto, viva tudo aquilo para que se preparou.” — planejamento, preparação, sobrevivência e, finalmente, descoberta do mundo.
 // Escarámon: “Conheça o seu caminho, mesmo quando precisar percorrê-lo sem olhar para trás.”
 // Triceratlas: “Se existe um obstáculo em seu caminho, descubra se você é forte o bastante para atravessá-lo.”
+// Robenzouro: “Aquilo que temos só encontra seu verdadeiro valor quando também pode ser compartilhado.”
 
 // Serpreita → Maligroso → Mortiposa — “Tenho medo de morrer, mesmo sabendo que não há como escapar disso.”
 // Laranharta → Enjaulupa → Lunaranha — “Tenho medo daquilo que posso fazer quando perder o controle de mim mesmo.”
