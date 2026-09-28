@@ -3042,6 +3042,126 @@ Dizem que um Ermitérmio não precisa de nada além de si mesmo para se reproduz
 
 Naturalmente, quando perguntado sobre isso, ele acha a pergunta uma idiotice.`;
 
+const descricaoInibinfa = `A Inibinfa nasce sob uma enorme pressão social. Sua espécie é famosa pela excelência artística, lírica e musical, e espera-se que cada jovem um dia se torne uma cantora excepcional, uma poeta talentosa e uma artista digna dos grandes palcos. Nos primeiros anos de vida, porém, a Inibinfa ainda não se sente capaz de corresponder a essas expectativas.
+
+Envergonhada diante dos insetos que lhe pedem uma canção ou um recital sempre que a encontram, ela deixa o alto das plantas e abandona o palco onde nasceu. Desce até o solo e procura o refúgio tradicional de sua juventude: os abrigos subterrâneos, onde as Inibinfas podem permanecer escondidas até se sentirem verdadeiramente prontas para retornar à superfície.
+
+Debaixo da terra, encontram outras jovens tomadas pelas mesmas inseguranças. Ali formam confrarias e guildas dedicadas ao estudo da música, da poesia, da melodia e da oratória. Algumas escolhem uma Cigoeta célebre como inspiração e passam anos estudando suas canções, composições e recitais. Outras encontram acolhimento entre as Cigantadoras, que frequentemente se tornam mestras de pequenos grupos de Inibinfas, ensinando sua arte, oferecendo exemplos e, principalmente, ajudando-as a encontrar confiança na própria voz.
+
+Esse aprendizado pode durar muitos anos. Não existe, porém, um momento em que alguém venha declarar uma Inibinfa perfeita. É ela quem, depois de todo esse tempo, precisa reconhecer que finalmente está pronta.
+
+Quando sente possuir conhecimento, voz, talento e confiança suficientes para descobrir que artista deseja ser, a Inibinfa abandona seu abrigo e inicia a subida de volta ao palco da superfície.
+
+Ali realiza sua última transformação.
+
+Em um ritual que simboliza o abandono de sua antiga inibição, ela troca de exoesqueleto e assume o corpo adulto, preparado para a vida artística. Atrás de si permanece sua exúvia quase intacta: a forma encolhida que carregou durante todos aqueles anos.
+
+Antes de seguir adiante, a nova artista olha para ela.
+
+Não é um corpo do qual precise se envergonhar, mas o registro de tudo aquilo que precisou atravessar. A pressão das expectativas, o medo de se apresentar, os anos de aprendizado e a longa busca pela própria voz ficaram naquela antiga forma.
+
+Então ela a deixa para trás.
+
+A Inibinfa desaparece, e uma nova artista sobe ao palco da superfície sabendo não que se tornou perfeita, mas finalmente quem é.`;
+const descricaoCigantadora = `Cigantadoras são extremamente comuns e raramente chegam ao palco da superfície sozinhas. Durante os anos de preparação, costumam integrar grandes guildas, algumas formadas por centenas de Inibinfas que combinam o momento em que realizarão juntas seu ritual de renascimento.
+
+Ao amanhecer do dia escolhido, todas deixam seus abrigos subterrâneos e sobem para uma mesma árvore. Ali abandonam seus antigos exoesqueletos quase simultaneamente e, quando suas novas formas estão prontas, levantam voo em um enorme espetáculo. Centenas de exúvias permanecem agarradas à árvore enquanto, acima delas, as Cigantadoras recém-surgidas sobrevoam o lugar cantando em uma só voz. Para uma guilda, poucas ocasiões são motivo de tanto orgulho.
+
+Cigantadoras são artistas extremamente sociais. Possuem excelente dicção, são expressivas nos gestos e dominam mudanças de ritmo, entonação e intensidade da voz. Conseguem conquistar facilmente a atenção de outros insetos quando falam e são frequentemente requisitadas para apresentações coletivas, nas quais demonstram enorme orgulho da própria guilda.
+
+Algumas tornam-se mestras de novas gerações de Inibinfas. Quando chega o momento de suas alunas retornarem à superfície, as Cigantadoras cantam para chamá-las de seus abrigos, fazendo sua voz alcançar até aquelas que ainda hesitam em subir. Também realizam recitais e apresentações de exemplo, ensinam técnicas de canto e oratória e contam histórias sobre suas próprias experiências, ajudando as jovens a encontrarem confiança para ocupar o palco.
+
+Mesmo fora das apresentações, uma Cigantadora dificilmente abandona sua natureza artística. Elas cantam diariamente e têm o hábito de transformar até conversas banais em pequenas melodias ou recitais. Falam alto, projetam a voz e gostam de saber que podem ser ouvidas a grandes distâncias.
+
+É na procura por um parceiro, entretanto, que todo esse talento é colocado à prova.
+
+Quando várias Cigantadoras interessam-se por possíveis parceiros, inicia-se uma intensa competição musical. Cada uma tenta fazer sua voz sobressair no meio das demais, alterando ritmo, intensidade e composição para conquistar uma resposta. Quanto maior o grupo, mais difícil é distinguir uma única cantora em meio ao enorme coro.
+
+A disputa pode crescer até se transformar espontaneamente em um grande espetáculo coletivo. Vozes inicialmente concorrentes começam a encontrar ritmo umas nas outras, e aquilo que começou como competição termina como um imenso musical.
+
+Quando finalmente há uma escolha correspondida, duas Cigantadoras aproximam-se, dão as mãos e deixam de tentar cantar acima uma da outra.
+
+A partir dali, continuam a canção juntas.`;
+const descricaoCigoeta = `A Cigoeta é uma Cigantadora excepcional. Ela surge quando uma Inibinfa demonstra um talento extraordinário em praticamente todas as formas de expressão artística. Seu novo exoesqueleto já nasce coberto por cores intensas e brilhantes, fazendo com que conquiste olhares antes mesmo de começar sua primeira apresentação.
+
+Mas sua beleza está longe de ser seu maior talento.
+
+Cigoetas são compositoras, poetas e intérpretes extraordinárias. Muitas das novas músicas que se espalham pelos territórios surgem de suas criações, e uma Cigoeta costuma ser facilmente reconhecida pela obra que a tornou famosa. Sua voz é capaz de despertar sentimentos intensos em quem a escuta, e não é incomum que grupos de insetos passem a segui-la de um lugar para outro apenas para acompanhar suas apresentações.
+
+Por isso, líderes locais frequentemente convidam Cigoetas para permanecerem algum tempo em seus territórios. Durante sua estadia, a comunidade pode desfrutar de suas músicas, poemas e recitais, transformando sua presença em motivo de celebração. Existe também um interesse menos artístico nesses convites: muitos esperam que a Cigoeta deixe descendentes na região, na expectativa de que seus filhotes herdem ao menos parte do talento de um pai tão excepcional.
+
+Tanta admiração, porém, frequentemente deixa marcas em sua personalidade. Acostumadas desde cedo a receber atenção, privilégios e elogios, muitas Cigoetas tornam-se vaidosas e esnobes. As poucas que permanecem humildes costumam ser ainda mais admiradas justamente por contrastarem com a reputação de sua espécie.
+
+Essa vaidade também alimenta uma enorme rivalidade entre elas.
+
+Quando duas Cigoetas encontram-se sobre o mesmo palco, dificilmente resistem à oportunidade de demonstrar qual delas é a artista superior. Começa então uma disputa de versos, rimas e improvisos na qual cada uma procura exaltar as próprias qualidades enquanto diminui a adversária com provocações cada vez mais elaboradas.
+
+A disputa não costuma ser realmente violenta, embora frequentemente pareça estar prestes a se tornar. Durante os versos mais agressivos, elas podem aproximar-se perigosamente, encarar-se frente a frente, empurrar a rival ou abrir as grandes asas e atingir a outra propositalmente ao se virar, sempre fingindo que o gesto fazia parte da apresentação.
+
+Para uma Cigoeta, até uma discussão precisa ter ritmo, rima e presença de palco.
+
+E, como quase tudo na cultura das Cigantadoras, aquilo que começou como uma rivalidade rapidamente atrai uma plateia. Outros insetos se aproximam, escolhem suas favoritas, reagem às melhores provocações e aguardam ansiosamente pela resposta da adversária.
+
+No fim, ninguém precisa separar as duas.
+
+Basta deixar o espetáculo continuar.`;
+const descricaoCigalesca = `Costuma-se dizer que as Inibinfas menos talentosas renascem como Cigalescas. Talvez por isso sua aparência seja menos exuberante que a de outras Cigantadoras: seu exoesqueleto apresenta cores mais manchadas e discretas, frequentemente confundindo-se com os tons do ambiente ao redor.
+
+O Cigalesco, porém, aprendeu há muito tempo que não precisa ser a criatura mais bonita do palco para fazer com que todos olhem para ele.
+
+O que lhe falta em exuberância, compensa com uma enorme presença de palco. Cigalescas são artistas populares, especializados em conquistar rapidamente uma plateia e compreender aquilo que diverte, emociona ou interessa aos insetos de cada lugar. Falam de maneira simples, brincam com o público e costumam ser as Cigantadoras mais acessíveis de toda a linhagem.
+
+Suas apresentações frequentemente transformam histórias conhecidas de uma região em música e poesia. Lendas locais, acontecimentos importantes e até histórias comuns podem virar recitais nas mãos de um bom Cigalesco. No canto, entretanto, são intérpretes muito mais frequentemente que compositores. Adoram apresentar músicas de Cigoetas famosas e poucos se arriscam a cantar uma criação própria.
+
+Essa proximidade com o povo nem sempre lhes garante uma boa recepção.
+
+Alguns dirigentes da Palavra da Vida enxergam as Cigalescas com grande desconfiança, e eles podem ser mal recebidos em territórios onde a Palavra possui forte influência. Seus críticos afirmam que o problema não está apenas neles, mas em todas as Cigantadoras. Cigoetas célebres e grandes guildas, entretanto, possuem admiradores demais para serem atacadas abertamente sem provocar impopularidade contra a própria Palavra.
+
+Há ainda uma questão mais profunda. Algumas lideranças parecem particularmente incomodadas com o fascínio exercido pelas Cigantadoras: criaturas admiradas, ouvidas e capazes de inspirar multidões apesar de jamais passarem pela Grande Transformação. Para seus críticos, a existência de seres alados tão celebrados sem aquilo que consideram a verdadeira transformação é, por si só, motivo de desconfiança.
+
+O Cigalesco normalmente prefere continuar cantando.
+
+Como toda Cigantadora, canta diariamente. Para ele, porém, cada apresentação possui um risco que artistas mais prestigiados nem sempre precisam enfrentar. Não possui a proteção proporcionada por uma grande guilda nem os privilégios concedidos às Cigoetas famosas. Quando ergue a voz, pode ser ouvido a grandes distâncias — tanto pela plateia que deseja alcançar quanto pelas criaturas que preferiria jamais encontrar.
+
+Seu canto denuncia constantemente sua posição.
+
+Predadores pouco interessados em música podem seguir sua voz até encontrá-lo, e os Escormônios representam um perigo particularmente desagradável. Eles detestam barulho e, às vezes, deixam seus próprios abrigos para perseguir um Cigalesco mesmo quando não estão com fome, simplesmente para fazer cessar a cantoria.
+
+Ainda assim, no dia seguinte, o Cigalesco canta novamente.
+
+Afinal, uma criatura que passou tantos anos escondida debaixo da terra dificilmente voltou à superfície para permanecer em silêncio.`;
+const descricaoCigafonica = `Renascer como uma Cigafônica é considerado uma grande decepção.
+
+Ela própria percebe isso quase imediatamente após abandonar sua exúvia. O corpo extremamente peludo anuncia aquilo que logo será confirmado por sua voz: ela jamais possuirá a potência vocal característica das Cigantadoras. Para completar, sua aparência também está distante dos padrões de beleza mais admirados pela linhagem.
+
+Depois de passar anos debaixo da terra preparando-se para uma vida dedicada aos palcos, descobrir que não possui justamente aquilo pelo qual sua espécie é famosa pode ser devastador.
+
+Sem a voz ou a presença necessárias para competir com as grandes artistas, a Cigafônica acaba levando uma vida muito mais discreta. Muitas adotam hábitos noturnos, evitando os horários em que as Cigantadoras mais famosas dominam os palcos e, principalmente, as inevitáveis comparações com elas.
+
+Mas uma Cigafônica não deixa de ser uma artista.
+
+Todo o conhecimento acumulado durante seus anos como Inibinfa continua com ela. Por isso, muitas dedicam a vida àquilo que ainda podem fazer: escrevem poemas, compõem melodias, criam canções e desenvolvem recitais que talvez nunca sejam apresentados diante de uma grande plateia.
+
+Algumas encontram público entre grupos marginalizados, para os quais recitam seus versos e poesias. Longe dos grandes palcos, sua voz menos glamorosa importa pouco quando aquilo que ela tem a dizer consegue conquistar quem está disposto a ouvi-la.
+
+Também existem pequenos grupos secretos de Cigafônicas que se encontram durante a noite. Ali elas cantam umas para as outras sem vergonha ou comparação, apresentam novas composições e experimentam suas melodias diante de quem compartilha da mesma condição. Esses encontros são também onde muitas conhecem seus parceiros amorosos.
+
+Algumas das obras criadas nesses círculos são extraordinárias, embora pouquíssimas cheguem ao conhecimento do restante do mundo.
+
+De tempos em tempos, uma guilda ou uma Cigoeta procura uma Cigafônica para conhecer suas composições. Quando uma artista famosa concorda em levar uma dessas músicas aos grandes palcos, a Cigafônica costuma entregar sua criação com enorme felicidade. Incapaz de fazê-la alcançar grandes distâncias com a própria voz, finalmente poderá ouvi-la ecoar pela voz de alguém capaz.
+
+Poucas coisas lhe dão tanto orgulho quanto escutar sua composição diante de uma enorme plateia e, ao final, ouvir a Cigoeta pronunciar seu nome e reconhecer publicamente quem realmente criou aquela obra.
+
+Infelizmente, nem todas têm essa oportunidade.
+
+É muito mais comum que suas músicas sejam apropriadas por artistas famosas, apresentadas como criações próprias e repetidas tantas vezes que a verdadeira autoria acaba esquecida. Uma Cigafônica dificilmente possui prestígio ou influência suficientes para confrontar uma Cigoeta célebre, e poucas pessoas acreditariam em uma artista desconhecida quando a outra versão vem de alguém admirado por multidões.
+
+Por isso, existe um velho rumor entre elas.
+
+Dizem que algumas das músicas mais belas e aclamadas que ecoam pelos territórios jamais foram compostas pelas Cigoetas às quais são atribuídas.
+
+Teriam nascido durante a noite, longe dos grandes palcos, criadas por Cigafônicas cujos nomes ninguém jamais ouviu.`;
+
 const dadosPendentes = {
   caracteristicas: [] as string[],
   habitat: [] as string[],
@@ -5547,7 +5667,6 @@ export const insetos: Inseto[] = [
     evolucaoDe: [{ insetoId: 'pulguito', tipo: 'linear' }],
     tipoEvolucao: 'especial',
   },
-
   {
     id: 'esmolisco',
     nome: 'Esmolisco',
@@ -5614,6 +5733,74 @@ export const insetos: Inseto[] = [
     tags: ['zigentomos'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'esmolisco', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'inibinfa',
+    nome: 'inibinfa',
+    nomeIngles: 'Inhibymph',
+    imagem: '/images/cigarras/inibinfa.png',
+    descricao: descricaoInibinfa,
+    linhagem: 'cigarras',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['cigarras'],
+    evolucoes: [{ insetoId: 'cigantadora', tipo: 'ramificada' }, { insetoId: 'cigoeta', tipo: 'ramificada' }, { insetoId: 'cigalesca', tipo: 'ramificada' }, { insetoId: 'cigafonica', tipo: 'ramificada' }],
+  },
+  {
+    id: 'cigantadora',
+    nome: 'cigantadora',
+    nomeIngles: 'Cicantress',
+    imagem: '/images/cigarras/cigantadora.png',
+    descricao: descricaoCigantadora,
+    linhagem: 'cigarras',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['cigarras'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'inibinfa', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'cigoeta',
+    nome: 'Cigoeta',
+    nomeIngles: 'Cicadoet',
+    imagem: '/images/cigarras/cigoeta.png',
+    descricao: descricaoCigoeta,
+    linhagem: 'cigarras',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['cigarras'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'inibinfa', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'cigalesca',
+    nome: 'Cigalesca',
+    nomeIngles: 'Cicadesque',
+    imagem: '/images/cigarras/cigalesca.png',
+    descricao: descricaoCigalesca,
+    linhagem: 'cigarras',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['cigarras'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'inibinfa', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'cigafonica',
+    nome: 'Cigafônica',
+    nomeIngles: 'Cicaphonic',
+    imagem: '/images/cigarras/cigafonica.png',
+    descricao: descricaoCigafonica,
+    linhagem: 'cigarras',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['cigarras'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'inibinfa', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
 ]

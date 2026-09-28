@@ -75,6 +75,8 @@ const descricaoZigentomos = `Os Ziguentos são insetos discretos que vivem espal
 Vivendo de caridade, pequenos favores e ocasionais furtos, desenvolveram uma extensa rede de informações através da qual histórias, boatos e segredos atravessam grandes distâncias.
 Por trás de sua aparência miserável, os Ziguentos estão entre os maiores conhecedores das sociedades e culturas do mundo.`;
 
+const descricaoCigarras = `As Cigantadoras possuem uma sociedade profundamente ligada à música, à poesia e à arte da oratória. Desde jovens, passam anos se preparando para o momento em que deixarão seus abrigos subterrâneos e subirão ao palco da superfície, onde cantar e ser ouvido representa muito mais do que uma forma de expressão: é parte fundamental de sua identidade. Organizadas em guildas e confrarias, transmitem técnicas, histórias e composições entre gerações, enquanto artistas de grande talento podem conquistar fama muito além de seus próprios territórios. Essa enorme valorização da arte também torna sua sociedade bastante competitiva e cria grandes expectativas sobre cada indivíduo, fazendo com que prestígio, reconhecimento e a capacidade de conquistar uma plateia tenham enorme importância entre elas.`;
+
 export const linhagens: Linhagem[] = [
   {
     id: 'formigas',
@@ -212,6 +214,15 @@ export const linhagens: Linhagem[] = [
     imagemCapa: '/images/zigentomos/capa.png',
     tema: '#7A7D7D',
     criaturas: ['esmolisco','mendigoso', 'bengaleta', 'desalojento', 'ermitermio'],
+  },
+  {
+    id: 'cigarras',
+    nome: 'Cigarras',
+    insetoBase: 'ibininfa',
+    descricao: descricaoCigarras,
+    imagemCapa: '/images/cigarras/capa.png',
+    tema: '#8B2F3C',
+    criaturas: ['inibinfa','cigantadora', 'cigoeta', 'cigalesca', 'cigafonica'],
   },
   {
     id: 'mosquitos',

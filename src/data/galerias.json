@@ -79,5 +79,8 @@
   ],
   "zigentomos": [
     { "imagem": "/images/zigentomos/capa.png", "titulo": "Zigentomos", "descricao": "" }
+  ],
+  "cigarras": [
+    { "imagem": "/images/cigarras/capa.png", "titulo": "Cigarras", "descricao": "" }
   ]
 }
