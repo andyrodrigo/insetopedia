@@ -246,11 +246,11 @@ export const linhagens: Linhagem[] = [
   {
     id: 'moscas',
     nome: 'Moscas',
-    insetoBase: 'tapuli',
+    insetoBase: 'ovobake',
     descricao: descricaoMoscas,
     imagemCapa: '/images/moscas/capa.png',
     tema: '#5c4b3a',
-    criaturas: ['tapuli','pupula', 'shogulo', 'moshinobi', 'moscaville', 'vareninja'],
+    criaturas: ['ovobake','tapuli','yoshukubi', 'shogulo', 'moshinobi'],
   },
 ]
 

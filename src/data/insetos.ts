@@ -3162,6 +3162,50 @@ Dizem que algumas das músicas mais belas e aclamadas que ecoam pelos territóri
 
 Teriam nascido durante a noite, longe dos grandes palcos, criadas por Cigafônicas cujos nomes ninguém jamais ouviu.`;
 
+const descricaoOvobake = `Ovobakes são considerados uma maldição — ou, no mínimo, uma praga — pela grande maioria dos insetos. Todos sabem que, cedo ou tarde, de dentro deles surgirá alguma detestável Myoskai. E há motivos ainda piores para temê-los: alguns darão origem a predadores, enquanto outros se tornarão parasitas de outros insetos, responsáveis por algumas das situações mais perturbadoras conhecidas.
+
+Assim que são postos, Ovobakes permanecem imóveis e são praticamente indistinguíveis de ovos comuns. Depois de algum tempo, porém, um pequeno ocelo começa a escurecer em sua superfície. É um sinal discreto, mas suficiente para revelar sua verdadeira natureza. Ainda assim, se o Ovobake estiver virado para o lado errado, o ocelo pode permanecer completamente escondido.
+
+Apesar da aparência inofensiva, Ovobakes parecem possuir um instinto natural de sobrevivência. Utilizando seus longos apêndices, conseguem se arrastar por pequenas distâncias quando necessário, fugir de algum perigo, assustar quem se aproxima ou até se agarrar a uma possível vítima que possam parasitar. Alguns são tão pequenos que seus movimentos podem passar completamente despercebidos.
+
+Certos insetos, como os Louvolins, tornaram-se caçadores naturais das Myoskais e procuram destruir Ovobakes sempre que os encontram. Ainda assim, exterminá-los parece impossível. São pequenos, numerosos e podem surgir praticamente em qualquer lugar.
+
+Alguns são postos às dezenas em locais onde terão alimento abundante assim que eclodirem. Outros são cuidadosamente deixados onde suas futuras vítimas estarão ao alcance.
+
+Por isso, um Ovobake pode estar escondido entre plantas, em uma carcaça, no ninho de algum hospedeiro, sob a água, dentro da própria mãe ou...
+
+dentro de você.`
+const descricaoYoshukubi = `Quando um Ovobake eclode dentro de um inseto, a pequena criatura que surge passa a viver como parasita de seu hospedeiro. No início, alimenta-se discretamente do que ele consome e cresce escondida dentro de seu corpo. Com o tempo, porém, começa a devorar o próprio hospedeiro por dentro, até finalmente assumir o controle de seu exoesqueleto.
+
+É então que surge um Yochukubi.
+
+O mais perturbador é que, à primeira vista, talvez ninguém perceba que alguma coisa aconteceu. O inseto continua andando, falando e se alimentando como antes. Seu exoesqueleto ainda é o mesmo e a criatura lá dentro consegue movimentá-lo como se aquele corpo ainda estivesse vivo.
+
+Mas existe algo que ela não consegue esconder completamente.
+
+Às vezes, o pescoço do Yochukubi começa a se alongar. Ele se estica, retrai e faz curvas impossíveis, revelando que aquilo que liga a cabeça ao tórax não é mais um pescoço: é o próprio corpo segmentado da larva, parcialmente escondido dentro do exoesqueleto. Ela pode fazer isso para alcançar alimento em lugares altos, observar os arredores ou simplesmente porque não percebeu que alguém estava olhando.
+
+Mesmo antes dessa revelação, insetos que conheciam bem o hospedeiro podem desconfiar de que há algo errado. O Yochukubi não reconhece as mesmas pessoas, não possui suas antigas memórias e sua personalidade parece ter desaparecido. Além disso, demonstra uma fome muito maior do que aquela criatura jamais teve em vida.
+
+Ainda assim, identificar um Yochukubi não é tão fácil quanto parece. Para a maioria, ele continuará sendo apenas alguém agindo de maneira estranha.
+
+Até o momento em que seu pescoço se alongar.`;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+
+
 const dadosPendentes = {
   caracteristicas: [] as string[],
   habitat: [] as string[],
@@ -4514,30 +4558,44 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'ovobake',
+    nome: 'Ovobake',
+    nomeIngles: 'Eggobake',
+    imagem: '/images/moscas/ovobake.png',
+    descricao: descricaoOvobake,
+    linhagem: 'moscas',
+    estagio: 'forma ovo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }],
+  },
+  {
     id: 'tapuli',
     nome: 'Tapu-li',
     nomeIngles: 'Maggo-lee',
     imagem: '/images/moscas/tapuli.png',
     descricao: descricaoTapuli,
     linhagem: 'moscas',
-    estagio: 'forma inicial',
+    estagio: 'forma larva',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'pupula', tipo: 'linear' }, { insetoId: 'shogulo', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'shogulo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
-    id: 'pupula',
-    nome: '???',
-    nomeIngles: 'Shogoon',
-    imagem: '/images/moscas/pupula.png',
-    descricao: descricaoPendente,
+    id: 'yoshukubi',
+    nome: 'Yoshukubi',
+    nomeIngles: 'Yoshukubi',
+    imagem: '/images/moscas/yoshukubi.png',
+    descricao: descricaoYoshukubi,
     linhagem: 'moscas',
-    estagio: 'forma casulo',
+    estagio: 'forma larva',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'moscaville', tipo: 'linear' }],
-    evolucaoDe: [{ insetoId: 'tapuli', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'shogulo',
@@ -4546,27 +4604,27 @@ export const insetos: Inseto[] = [
     imagem: '/images/moscas/shogulo.png',
     descricao: descricaoShogulo,
     linhagem: 'moscas',
-    estagio: 'forma alternativa',
+    estagio: 'forma casulo',
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'moshinobi', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'tapuli', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
-  {
-    id: 'moscaville',
-    nome: '???',
-    nomeIngles: 'Flynobi',
-    imagem: '/images/moscas/moscaville.png',
-    descricao: descricaoPendente,
-    linhagem: 'moscas',
-    estagio: 'forma comum',
-    ...dadosPendentes,
-    tags: ['moscas'],
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'pupula', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
+  // {
+  //   id: 'moscaville',
+  //   nome: '???',
+  //   nomeIngles: 'Flynobi',
+  //   imagem: '/images/moscas/moscaville.png',
+  //   descricao: descricaoPendente,
+  //   linhagem: 'moscas',
+  //   estagio: 'forma comum',
+  //   ...dadosPendentes,
+  //   tags: ['moscas'],
+  //   evolucoes: [],
+  //   evolucaoDe: [{ insetoId: 'pupula', tipo: 'linear' }],
+  //   tipoEvolucao: 'linear',
+  // },
   {
     id: 'moshinobi',
     nome: 'Moshinobi',
