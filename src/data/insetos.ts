@@ -3190,11 +3190,88 @@ Mesmo antes dessa revelação, insetos que conheciam bem o hospedeiro podem desc
 Ainda assim, identificar um Yochukubi não é tão fácil quanto parece. Para a maioria, ele continuará sendo apenas alguém agindo de maneira estranha.
 
 Até o momento em que seu pescoço se alongar.`;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
+const descricaoPupanggalan = `Dizem que um inseto de aparência perfeitamente normal pode passar o dia convivendo com os demais em sua colônia sem levantar qualquer suspeita. Alimenta-se, conversa e se comporta como qualquer outro de sua espécie.
+
+Mas, durante a noite, enquanto os outros descansam em seus abrigos, sua cabeça pode simplesmente abandonar o próprio corpo.
+
+Tudo aquilo que estava escondido dentro de seu exoesqueleto sai junto com ela: uma massa pálida, larviforme e grotesca que se arrasta para longe, levando consigo a cabeça do inseto.
+
+Quando isso acontece, a criatura é chamada de Pupanggalan.
+
+Existem relatos de Pupanggalans encontrados durante a noite procurando alimento. Alguns já foram vistos devorando cadáveres, fugindo ou se escondendo assim que percebem que foram descobertos. Outros foram encontrados completamente parados, olhando para o vazio de maneira tenebrosa, enquanto a estranha massa sem exoesqueleto abaixo da cabeça continuava se movendo lentamente.
+
+A própria cabeça já não parece completamente normal. Em alguns casos, está deformada e esticada, como se aquilo que saiu do corpo tivesse crescido demais dentro dela.
+
+Acredita-se que o Pupanggalan seja, de alguma forma, a pupa de uma Myoscai, razão pela qual recebeu esse nome. Ninguém sabe, porém, como um inseto aparentemente comum pode terminar naquela condição, nem o que acontece para que aquela criatura grotesca posteriormente se transforme em uma Myoscai.
+
+Tudo que os insetos sabem é que encontrar um Pupanggalan durante a noite é um péssimo sinal.
+
+Se vir um, não tente descobrir o que ele é.
+
+Fuja imediatamente.`;
+const descricaoFutakuchi = `Futakuchi é como são chamados os insetos que tiveram um Ovobake implantado em algum ferimento atrás da cabeça. No início, o local parece apenas uma pequena lesão, mas, com o passar do tempo, começa a surgir ali uma segunda boca que exige ser alimentada.
+
+Primeiro forma-se um estranho nódulo. Por estar localizado atrás da cabeça, muitas vezes o próprio inseto demora a perceber que há algo crescendo nele. O nódulo aumenta lentamente até que, um dia, uma boca se abre em sua superfície.
+
+A partir desse momento, ela precisa comer.
+
+Quando a segunda boca permanece muito tempo sem alimento, o Futakuchi começa a sentir fome, fraqueza e um desconforto cada vez maior, até acabar cedendo e alimentando-a. Junto à boca existe ainda um longo apêndice da larva, capaz de agarrar alimentos próximos e levá-los até ela.
+
+Remover o parasita é considerado praticamente impossível. Ele parece profundamente preso ao corpo do inseto, e aqueles que tentaram arrancá-lo morreram durante o processo. Por isso, resta ao Futakuchi aprender a viver naquela condição.
+
+Quando não está se alimentando, a segunda boca consegue permanecer fechada e quase imperceptível. Seu apêndice também se recolhe e se ajusta ao corpo, permitindo que o Futakuchi esconda sua condição dos demais.
+
+Com o passar do tempo, parasita e inseto parecem funcionar quase como um único organismo. A criatura não demonstra interesse em matar aquele que a carrega; pelo contrário, depende dele vivo e saudável para continuar sendo alimentada.
+
+Isso não torna um Futakuchi menos perturbador.
+
+Além da aparência assustadora quando sua segunda boca é revelada, sua presença pode se tornar um verdadeiro problema para uma colônia. Afinal, onde antes havia apenas um inseto para alimentar, agora existe também uma boca extra — escondida, insaciável e permanentemente faminta.`;
+const descricaoNoppupabo = `Alguns insetos contam histórias sobre uma criatura conhecida como Noppupabô.
+
+À distância, ele parece apenas um inseto comum caminhando normalmente pelas trilhas. Costuma permanecer afastado das colônias e não demonstra representar qualquer perigo. É somente quando alguém se aproxima e tenta abordá-lo que percebe que há algo terrivelmente errado.
+
+**Noppupabô não possui rosto.**
+
+Em sua cabeça não existem antenas, olhos, boca ou qualquer outra estrutura que se esperaria encontrar no rosto de um inseto. Há apenas uma superfície segmentada e sem expressão.
+
+Sua aparência é profundamente perturbadora, principalmente para aqueles que a descobrem sem esperar. Um encontro com um Noppupabô dificilmente é esquecido.
+
+Alguns parecem evitar outros insetos e tentam seguir seu caminho sem serem percebidos. Outros parecem fazer justamente o contrário, aproximando-se ou esperando serem notados como se sentissem algum prazer em provocar medo quando finalmente revelam sua ausência de rosto.
+
+Apesar disso, Noppupabôs parecem inofensivos. Não costumam atacar e raramente demonstram interesse pelo que acontece ao seu redor. Também nunca foram vistos se alimentando, embora ninguém saiba explicar como conseguem permanecer vivos dessa forma.
+
+Ainda assim, existe um detalhe preocupante.
+
+Alguns caçadores especializados em Myoskais procuram identificar e eliminar Noppupabôs sempre que encontram um.
+
+Isso sugere que, por trás daquele rosto inexistente, talvez exista algo que os demais insetos ainda não compreendam.`;
+const descricaoTikitiki = `Tiki-Tiki é uma Myoskai de aparência estranha e perturbadora. Seu abdômen e suas pernas traseiras são muito finos em comparação ao tórax e aos braços. Por isso, costuma andar de quatro pelo chão, criando a impressão de ser um inseto que teve metade do corpo arrancada.
+
+Tiki-Tiki aprendeu a usar essa aparência a seu favor. Quando encontra alimento, pode se posicionar de maneira a tornar a ilusão ainda mais convincente e, caso algum competidor se aproxime, dispara repentinamente em sua direção. Ver aquela criatura aparentemente partida ao meio avançando em grande velocidade costuma ser suficiente para provocar medo e espanto e afastar quem pretendia disputar sua comida.
+
+Quando precisa fugir, Tiki-Tiki também demonstra uma velocidade impressionante. Embora seja perfeitamente capaz de voar, prefere correr sempre que possível. Seu nome vem justamente do ruído produzido por seus passos rápidos contra o chão:
+
+tiki-tiki-tiki-tiki...
+
+Tiki-Tiki consegue se alimentar de uma enorme variedade de coisas e, infelizmente, pode ser encontrada nos mais diversos lugares. Também não é muito exigente na escolha de onde deixará seus Ovobakes, utilizando diferentes estratégias para garantir que encontrem alimento assim que eclodirem.
+
+Uma delas é particularmente perturbadora: quando encontra algum inseto azarado ao seu alcance, Tiki-Tiki pode simplesmente deixar um Ovobake dentro dele.`;
+const descricaoMoskorobi = `Moskorobi é um tipo de Myoskai que parece relativamente inofensivo.
+
+Depois de uma vida larval marcada por alimentação exagerada, Moskorobi emerge robusta e com reservas suficientes para sobreviver por bastante tempo. Sua boca pouco desenvolvida quase não lhe permite comer e, por isso, ela evita desperdiçar energia.
+
+Preguiçosa, prefere permanecer pousada em lugares altos durante longos períodos, apenas observando o que acontece ao redor. Por passarem tanto tempo dessa forma, Moskorobis geralmente conhecem muito bem o ambiente onde vivem e seus caminhos.
+
+Sua aparência pode assustar alguns insetos, seja pelo corpo exageradamente robusto, seja simplesmente por se tratar de uma odiada Myoskai. Ainda assim, quando encontram um viajante perdido ou ferido, Moskorobis surpreendentemente costumam oferecer ajuda, indicando o caminho ou acompanhando-o até um lugar seguro.
+
+Dizem que Moskorobis são extremamente desengonçadas e tropeçam com frequência durante essas caminhadas, às vezes chegando a esbarrar ou derrubar seus companheiros de viagem.
+
+O que poucos sabem é que tanto os tropeços quanto a gentileza fazem parte de uma estratégia para disseminar Ovobakes.
+
+Durante o contato, uma Moskorobi pode implantar discretamente um Ovobake em algum ferimento do inseto. Em outros casos, deixa o Ovobake preso ao corpo do viajante, que continua seu caminho sem perceber que o está carregando.
+
+Assim, o inseto que recebeu a ajuda de uma Moskorobi pode acabar levando consigo aquilo que dará origem a outro Myoskai — ou até transmiti-lo involuntariamente para outra criatura.`;
+
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -4567,7 +4644,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }],
   },
   {
     id: 'tapuli',
@@ -4593,7 +4670,21 @@ export const insetos: Inseto[] = [
     estagio: 'forma larva',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [],
+    evolucoes: [{ insetoId: 'pupanggalan', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'futakuchi',
+    nome: 'Futakuchi',
+    nomeIngles: 'Futakuchi',
+    imagem: '/images/moscas/futakuchi.png',
+    descricao: descricaoFutakuchi,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'Noppupabo', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -4611,20 +4702,62 @@ export const insetos: Inseto[] = [
     evolucaoDe: [{ insetoId: 'tapuli', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
-  // {
-  //   id: 'moscaville',
-  //   nome: '???',
-  //   nomeIngles: 'Flynobi',
-  //   imagem: '/images/moscas/moscaville.png',
-  //   descricao: descricaoPendente,
-  //   linhagem: 'moscas',
-  //   estagio: 'forma comum',
-  //   ...dadosPendentes,
-  //   tags: ['moscas'],
-  //   evolucoes: [],
-  //   evolucaoDe: [{ insetoId: 'pupula', tipo: 'linear' }],
-  //   tipoEvolucao: 'linear',
-  // },
+  {
+    id: 'pupanggalan',
+    nome: 'Pupanggalan',
+    nomeIngles: 'Pupanggalan',
+    imagem: '/images/moscas/pupanggalan.png',
+    descricao: descricaoPupanggalan,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'tikitiki', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'yoshukubi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'noppupabo',
+    nome: 'Noppupabo',
+    nomeIngles: 'Noppupabo',
+    imagem: '/images/moscas/noppupabo.png',
+    descricao: descricaoNoppupabo,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'moskorobi', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'futakuchi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'tikitiki',
+    nome: 'Tiki-Tiki',
+    nomeIngles: 'Tiki-Tiki',
+    imagem: '/images/moscas/tikitiki.png',
+    descricao: descricaoTikitiki,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupanggalan', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'moskorobi',
+    nome: 'Moskorobi',
+    nomeIngles: 'Moskorobi',
+    imagem: '/images/moscas/moskorobi.png',
+    descricao: descricaoMoskorobi,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'noppupabo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
   {
     id: 'moshinobi',
     nome: 'Moshinobi',
@@ -4632,7 +4765,7 @@ export const insetos: Inseto[] = [
     imagem: '/images/moscas/moshinobi.png',
     descricao: descricaoMoshinobi,
     linhagem: 'moscas',
-    estagio: 'forma especial',
+    estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [],
