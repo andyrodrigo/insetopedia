@@ -4684,7 +4684,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma larva',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'Noppupabo', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'noppupabo', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
