@@ -3271,13 +3271,199 @@ O que poucos sabem é que tanto os tropeços quanto a gentileza fazem parte de u
 Durante o contato, uma Moskorobi pode implantar discretamente um Ovobake em algum ferimento do inseto. Em outros casos, deixa o Ovobake preso ao corpo do viajante, que continua seu caminho sem perceber que o está carregando.
 
 Assim, o inseto que recebeu a ajuda de uma Moskorobi pode acabar levando consigo aquilo que dará origem a outro Myoskai — ou até transmiti-lo involuntariamente para outra criatura.`;
+const descricaoAsawang = `Asawang é uma daquelas Myoskais com quem não há muito o que conversar. As fêmeas se importam apenas com a própria alimentação e com seu ciclo reprodutivo. Diferente da maioria, Asawang gera seu Ovobake e o mantém dentro de si, permitindo que seu único filhote ecloda e passe todo o período larval em seu interior.
 
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
+A larva Asawang cresce e se desenvolve dentro do abdômen da mãe, que aumenta progressivamente, tornando-a mais lenta e pesada. Com o tempo, ela passa a voar cada vez menos e adota estratégias de emboscada para surpreender suas presas enquanto arrasta o enorme abdômen que carrega a larva.
+
+Desenvolver seu filhote exige muita alimentação. Asawang precisa produzir o leite necessário para sustentá-lo e, para isso, precisa de muito sangue, tornando essa Myoskai ainda mais perigosa durante esse período.
+
+Sua picada causa sonolência e paralisia, fazendo do primeiro ataque uma parte importante da caçada. Mesmo que a presa consiga escapar após ser picada, dificilmente irá muito longe.
+
+Asawang é tão temida pelos habitantes comuns que alguns insetos valentes se dedicam a caçá-la, especialmente quando está nesse estado de incubação, quando existe a possibilidade de destruir duas de uma vez.
+
+Até mesmo dentro de Sun-hon, o clã Shosabae precisa eliminá-las quando os ataques começam a se tornar frequentes, apesar de pertencerem a uma linhagem de sua própria espécie.`;
+const descricaoSonogaeshi = `Sonogaeshi já foi apenas uma lenda urbana entre os insetos, mas hoje eles sabem que a criatura realmente existe.
+
+Os relatos dos poucos sobreviventes eram semelhantes: após sentirem uma picada, acordavam e percebiam que, apesar de conscientes, não conseguiam se mover. Era como se o corpo permanecesse preso em algum lugar entre o sonho e o despertar.
+
+E ali, paralisados pelo terror, viam uma criatura horrenda encarando-os.
+
+Uma pupa de longos pelos e olhos assustadores permanecia imóvel nas proximidades, como se estivesse apenas observando sua presa. Durante a paralisia, Sonogaeshi parecia ficar cada vez mais próxima. Ninguém conseguia vê-la realmente se mover; a cada instante, porém, ela simplesmente parecia estar um pouco mais perto.
+
+Até estar sobre o inseto, pesando sobre ele como uma conquista.
+
+Quando finalmente conseguiam se mover novamente, Sonogaeshi havia desaparecido. Restava apenas a conclusão de que tudo não passara de um terrível pesadelo.
+
+Mas caçadores de Myoskais acabaram revelando que Sonogaeshi é real.
+
+A pupa estava apenas esperando o fim de sua transformação. O inseto atacado pela sonolência seria sua primeira vítima assim que ela emergisse.
+
+Os poucos que sobreviveram para contar os antigos relatos não acordaram de um pesadelo.
+
+Apenas tiveram a sorte de alguma coisa encontrar Sonogaeshi antes que sua transformação terminasse.`;
+const descricaoTsenanggal = `Tsenanggal é como são chamadas as Asawang adultas, que parecem possuir apenas metade do corpo. Como seu abdômen e suas pernas traseiras são finos e menores que a parte dianteira, esse efeito surge naturalmente e causa certo terror quando são vistas voando.
+
+Existem vários relatos de Tsenangals que se separam do próprio abdômen antes de perseguir algum inseto. Muitos afirmam ter visto claramente a criatura deixando um abdômen inteiro no chão e partindo logo em seguida para a caçada.
+
+Na verdade, o que testemunharam foi algo extremamente incomum: a Tsenanggal estava colocando para fora do corpo a pupa de seu filhote.
+
+Normalmente, a Tsenanggal ainda precisa encontrar a primeira alimentação desse filhote. Por isso, abandona o Sonogaeshi próximo de uma possível vítima, persegue o inseto e o pica, causando sonolência e paralisia. Depois, pode permitir que o Sonogaeshi se aproxime de sua primeira alimentação ou, caso a vítima tenha conseguido fugir, levá-la para perto dele.
+
+O mais comum, porém, é procurar um inseto que já esteja adormecido. A Tsenanggal invade seu abrigo, pica a vítima enquanto ela dorme e vai embora, deixando o Sonogaeshi lá dentro.
+
+Tsenanggal precisa se alimentar exclusivamente do sangue de outros insetos e, por isso, é uma predadora extremamente ativa e caçada onde quer que apareça. Não se intimida com adversários maiores e utiliza sua incrível capacidade de voo e sua picada paralisante, sendo perigosa para a maioria dos insetos, principalmente aqueles com exoesqueleto pouco resistente ou lentos demais para se defender.
+
+Apesar de ser considerada uma grande ameaça e uma Myoskai cuja presença causa pânico nas proximidades, alguns poucos insetos já conseguiram se comunicar com uma Tsenanggal completamente satisfeita. Segundo eles, ela não é irracional nem idiota. Sabe que é caçada e demonstra um cuidado incomum com seus filhotes. Uma Tsenanggal dedica grande parte de seu ciclo a uma única Asawang, carregando-a e alimentando-a dentro do próprio corpo até que esteja pronta para pupar. Mesmo ao expulsar o Sonogaeshi, seu cuidado ainda não terminou: ela procura e paralisa aquela que será sua primeira refeição antes de finalmente abandoná-lo..
+
+Ainda assim, o ideal é evitar um inseto tão agressivo. Principalmente porque nunca se sabe quando uma Tsenanggal está desenvolvendo uma pequena Asawang dentro de si.
+
+Nos primeiros estágios, sua presença sequer pode ser percebida no abdômen reduzido da mãe.`;
+const descricaoKuroashi = `Kuroashis são as larvas das Daimydas, as Myoskais governantes de Sun-hon, e provavelmente as maiores larvas de Myoskai existentes. Entretanto, apenas o clã Shosabae conhece essa relação, e pouquíssimos insetos afirmam ter visto uma Kuroashi por inteiro.
+
+Elas passam praticamente toda a vida escondidas dentro de substratos de madeira ou sob o solo, mantendo o corpo completamente enterrado. Alimentam-se dos recursos disponíveis nesses ambientes e, ocasionalmente, de algum inseto desprevenido que se aproxime demais.
+
+Para a maioria dos habitantes de Sun-hon, porém, Kuroashi não passa de uma velha lenda.
+
+Dizem que elas podem surgir repentinamente dos lugares mais improváveis e agarrar um inseto antes que ele tenha tempo de reagir, arrastando-o para dentro do solo ou do substrato. Há relatos ainda mais estranhos de insetos que ouviram uma Kuroashi chamando por eles de um lugar aparentemente vazio. Ao se aproximarem para procurar a origem da voz, viram surgir uma cabeça negra e peluda, sustentada por um longo pescoço que se projetava para fora do chão antes de agarrá-los.
+
+Segundo aqueles que dizem ter visto uma, sua cabeça possui uma aparência tão estranha que dificilmente é reconhecida como parte de uma larva. Negra, peluda e cercada por estruturas bucais pontiagudas, ela se parece mais com uma garra afiada saindo do chão. Essa cabeça pode se projetar para longe do corpo e desaparecer novamente no substrato quando retraída.
+
+Talvez tudo isso seja apenas uma lenda.
+
+Ainda assim, o desaparecimento ocasional de praticantes da Palavra da Vida e de insetos estrangeiros dentro dos próprios abrigos apresenta, às vezes, uma coincidência desconfortável com relatos de avistamentos de Kuroashis nas proximidades.
+
+Em alguns desses casos, há quem afirme que um Ovobake foi encontrado ou visto no abrigo algum tempo antes do desaparecimento.
+
+Naturalmente, ninguém conseguiu demonstrar qualquer relação entre uma coisa e outra.
+
+E Sun-hon sempre foi uma terra particularmente fértil para histórias bizarras e boatos.`;
+const descricaoMayukade = `Mayukade é uma criatura que vive nos lugares escuros de Sun-hon, escondida em câmaras subterrâneas, sob o solo ou no interior de pedaços de madeira abandonados e parcialmente enterrados. Encontrar uma nos subterrâneos não é algo comum — e aqueles que encontram geralmente preferem fugir antes de descobrir muito mais sobre ela.
+
+Mayukades possuem um corpo incrivelmente resistente. Dizem que sua carapaça é tão dura que um ferrão pode se quebrar ao atingi-la. Suas cem patas são longas, negras e duras como espinhos, enquanto duas enormes pinças vermelhas se projetam da parte superior de seu corpo.
+
+Sua mordida é venenosa.
+
+Por isso, Mayukades são consideradas alguns dos predadores mais perigosos dos subterrâneos de Sun-hon.
+
+Durante grandes tempestades, quando nuvens cobrem completamente o céu e a chuva encharca a terra, torna-se mais comum encontrar Mayukades saindo do solo. Vê-las brotando da terra úmida é considerado um sinal de mau presságio.
+
+Uma antiga lenda de Sun-hon afirma que as Mayukades encontradas próximas à superfície são apenas filhotes de uma monstruosa centopeia negra que habita as profundezas.
+
+Existe ainda uma famosa história sobre o único inseto que teria conseguido ferir mortalmente uma Mayukade. Ele teria acertado a criatura com um ferrão cuja ponta estava, por mero acaso, coberta pela saliva corrosiva de uma Myoskai.
+
+O golpe atravessou sua proteção e matou a Mayukade.
+
+Desde então, a saliva de Myoskai é considerada sua única fraqueza conhecida.
+
+Lendas sobre Mayukades são relativamente comuns em Sun-hon. Algumas provavelmente cresceram a cada vez que foram contadas; outras podem ter surgido simplesmente do medo de encontrar uma dessas criaturas debaixo da terra.
+
+Mas existe uma parte da história que quase todos desconhecem.
+
+Mayukade não é uma centopeia.
+
+Ela é a pupa de uma Daimydas.
+
+Somente o clã Shosabae conhece a verdadeira metamorfose de suas governantes e sabe que as criaturas encontradas nos subterrâneos fazem parte de sua própria linhagem.
+
+As supostas cem patas são fileiras de longos espinhos negros que percorrem o abdômen segmentado da pupa. As grandes pinças vermelhas são, na verdade, dois espinhos que lembram chifres, e sua famosa mordida venenosa provavelmente nunca existiu.
+
+Ainda assim, Mayukades estão longe de ser indefesas. São pupas incomuns, capazes de movimentar o corpo e avançar lentamente pelo substrato. Seus espinhos ajudam nesse deslocamento e tornam perigoso tentar agarrá-las ou atacá-las.
+
+As tempestades também possuem uma explicação muito diferente daquela preservada pelas lendas.
+
+Quando a chuva encharca Sun-hon, o solo se torna mais fácil de atravessar. Mayukades que estão próximas de completar sua transformação aproveitam a terra úmida para deixar suas câmaras subterrâneas e alcançar a superfície. E algum tempo depois, no mesmo lugar onde uma Mayukade desapareceu, uma nova Daimydas pode abrir suas asas sobre Sun-hon.
+
+Somente o clã Shosabae conhece toda a origem de suas governantes.`;
+const descricaoDaimydas = `Daimydas são as Myoskais que governam as vastas terras de Sun-hon. São consideradas as maiores Myoskais conhecidas, possuindo um exoesqueleto negro e resistente e uma aparência intimidadora que lembra alguns Vespaleiros Caçadores.
+
+Apesar disso, Daimydas não possuem ferrões e raramente demonstram comportamento agressivo. Passam boa parte de seus dias entre os grandes jardins de suas terras e não parecem se alimentar de outros insetos. Sua aparência ameaçadora contrasta tanto com seus hábitos que visitantes desavisados frequentemente esperam encontrar nelas predadoras muito mais perigosas do que realmente são.
+
+Elas são as líderes do clã Shosabae, que governa Sun-hon desde antes de qualquer registro conhecido. O território é dividido entre diferentes famílias Daimydas, cada uma responsável por uma região onde vive, se reproduz e administra as comunidades sob sua proteção. Disputas internas existem, mas raramente ameaçam a autoridade do clã como um todo.
+
+Sun-hon é considerada uma terra próspera. Seus extensos jardins fornecem alimento em abundância, suas rotas internas são protegidas e muitos insetos que nasceram ali vivem toda a vida sem conhecer grandes períodos de escassez ou conflito. Para seus habitantes, as Daimydas geralmente são vistas como governantes firmes e competentes.
+
+Essa prosperidade, entretanto, possui um preço.
+
+As fronteiras de Sun-hon são rigidamente controladas. A migração de insetos estrangeiros é limitada e ideias consideradas capazes de ameaçar a ordem estabelecida são reprimidas. Entre elas, nenhuma é tratada com tanta hostilidade quanto a Palavra da Vida.
+
+Daimydas proíbem sua propagação dentro de Sun-hon. Insetos que tentam converter seus habitantes, estabelecer comunidades religiosas ou divulgar abertamente seus ensinamentos podem ser perseguidos e expulsos. Aqueles que insistem em permanecer correm riscos maiores.
+
+Para preservar suas fronteiras e sua autoridade, o clã Shosabae mantém uma extensa rede de Moshinobis, utilizados como espiões e informantes. Quando espionagem e expulsão não são suficientes, entram em ação os Ibarakihae, assassinos temidos até mesmo entre outras Myoskais. As Daimydas também podem mobilizar os numerosos Kabutouros encontrados em Sun-hon para impedir invasões, ocupações ou a abertura de novas rotas através de suas terras.
+
+Esse isolamento transformou Sun-hon em um dos maiores obstáculos encontrados pela Organização do Besouro Dourado.
+
+Segundo seus ensinamentos, uma das principais rotas para a Terra das Flores Douradas atravessa justamente Sun-hon, a vasta terra onde nasce o sol da manhã. Ao longo do tempo, diversas tentativas foram feitas para converter seus habitantes, estabelecer presença permanente na região ou simplesmente garantir passagem segura através dela.
+
+Todas terminaram em grandes fracassos.
+
+Os seguidores da Palavra da Vida acusam o clã Shosabae de impedir deliberadamente o caminho para a Terra das Flores Douradas. As Daimydas, por sua vez, afirmam que nenhuma crença concede a estrangeiros o direito de atravessar, converter ou ocupar suas terras contra sua vontade.
+
+Dentro de Sun-hon, poucas criaturas questionam essa posição. Para grande parte de seus habitantes, as Daimydas são simplesmente as governantes que mantêm seus jardins férteis, suas comunidades protegidas e suas terras em paz.
+
+Fora de Sun-hon, porém, existe uma interpretação muito mais sombria.
+
+Alguns seguidores da Palavra da Vida acreditam que não é coincidência que uma das maiores espécies de Myoskai conhecidas governe justamente as terras que bloqueiam sua principal rota sagrada. Para eles, as Daimydas mantêm os insetos afastados da Terra das Flores Douradas usando sua própria espécie de detestáveis Myoskais, além de espiões, assassinos e guerreiros que impedem qualquer avanço por suas terras.
+
+Para esses seguidores, as Daimydas não estão apenas impedindo o caminho para a Terra das Flores Douradas.
+
+Elas são as próprias Inimigas Aladas.`;
+const descricaoRatesso = `Ratesso é uma detestável larva de Myoskai.
+
+Elas costumam permanecer escondidas nos arredores das colônias e, quando uma finalmente é encontrada, é provável que muitas outras já estejam espalhadas pelo local. Apesar de não representarem grande ameaça física, Ratessos são consideradas criaturas nojentas e podem estar associadas a doenças e contaminações, tornando sua presença um enorme transtorno para qualquer colônia.
+
+Possuem uma resistência impressionante, conseguindo sobreviver na água, na lama e em ambientes tão sujos e degradados que poucos insetos esperariam encontrar alguma criatura vivendo ali. Ratessos devoram os recursos disponíveis e rapidamente tornam o ambiente desagradável, sendo tratadas como uma verdadeira praga.
+
+Elas parecem perfeitamente conscientes do quanto são detestadas — e aparentemente se divertem com isso.
+
+Ratessos podem surgir em grandes grupos para invadir alimentos estocados, espalhar sujeira, bagunçar o ambiente e pregar peças nos habitantes da colônia. Quanto maior a irritação causada, mais satisfeitas parecem ficar.
+
+Existe ainda uma antiga superstição sobre essas infestações.
+
+Dizem que uma colônia tomada por Ratessos está sendo alvo de uma vingança premeditada. Alguém daquele lugar teria cometido algo terrível e, por alguma razão, as Ratessos foram enviadas para atormentá-lo.
+
+Os mais velhos costumam ser ainda mais específicos:
+
+onde surgem Ratessos, provavelmente houve uma traição.`;
+const descricaoVolumezumi = `Quando uma Ratesso está pronta, já se alimentou o suficiente e atazanou insetos demais, ela finalmente abandona a colônia junto das demais e procura um lugar mais pacato. Assim termina o período de infestação do lugar onde viviam.
+
+Entretanto, os locais para onde elas seguem logo ficam repletos de Volumezumis.
+
+Volumezumi é uma pupa de Myoskai que lembra uma Ratesso extremamente gorda. Ela permanece praticamente imóvel durante sua transformação, limitando-se a pequenos movimentos e a balançar seu longo sifão como uma cauda.
+
+O mais estranho é sua capacidade de inflar e retrair o próprio corpo. Quando algum inseto se aproxima, a Volumezumi começa a inchar e contrair repetidamente, ficando cada vez mais volumosa, como se estivesse prestes a explodir a qualquer instante.
+
+Isso costuma ser suficiente para provocar pânico.
+
+A situação é ainda pior quando existem várias Volumezumis espalhadas pelo local, principalmente quando estão posicionadas nas possíveis rotas de fuga. Tentar escapar enquanto dezenas delas começam a inflar ao redor pode transformar uma simples passagem pelo lugar em uma experiência desesperadora.
+
+É aconselhável nunca avançar por uma região onde uma Volumezumi tenha sido encontrada. O mais seguro é retornar imediatamente pelo mesmo caminho. Caso se escute um forte som de estouro vindo de algum lugar adiante, recomenda-se fazer exatamente a mesma coisa.
+
+Curiosamente, ninguém jamais confirmou ter visto uma Volumezumi realmente explodir.
+
+Isso, porém, não tranquiliza ninguém.
+
+Afinal, se alguma delas realmente explodiu, talvez não existam testemunhas justamente porque ninguém sobreviveu para contar.`;
+const descricaoNectanuki = `Nectanuki é possivelmente a Myoskai mais agradável conhecida. Ela é simpática, bem-humorada e passa boa parte do dia entre as flores, ajudando a transformar os ambientes onde trabalha em lugares melhores.
+
+É boa de conversa, possui grande habilidade manual e um voo extremamente sofisticado. Sua aparência mal lembra a de uma Myoskai, não fosse pelo fato de possuir apenas duas asas.
+
+Nectanukis são frequentemente confundidas com Abelárias, tanto pela aparência quanto pela alimentação e pela maneira como trabalham diariamente entre as flores. O que geralmente acaba denunciando que há algo diferente é seu comportamento brincalhão.
+
+Nectanukis têm o hábito de batucar no próprio traseiro, contar histórias engraçadas sobre situações inacreditáveis que parecem acontecer somente com elas e fazer brincadeiras pouco compatíveis com a seriedade habitual das Abelárias.
+
+Por trás de toda essa simpatia, entretanto, existe um lado bastante sombrio.
+
+Quando uma Nectanuki se considera gravemente ofendida, ela pode guardar rancor do inseto responsável — e, às vezes, de toda a sua colônia. O mais preocupante é que ela não demonstra imediatamente sua insatisfação. Continua conversando, trabalhando e se comportando como amiga enquanto prepara sua vingança.
+
+A partir daí, começa discretamente a espalhar Ovobakes pelo abrigo do inseto ou pela colônia.
+
+Para isso, utiliza praticamente qualquer estratégia que estiver ao seu alcance. Se tiver acesso ao lugar, pode simplesmente escondê-los. Pode oferecer presentes contendo Ovobakes disfarçados, convencer outros insetos de que eles são alguma coisa completamente diferente ou fazer com que sejam levados para dentro sem levantar suspeitas.
+
+Quando nenhuma dessas estratégias funciona, Nectanuki espera não estar sendo observada e simplesmente arremessa vários Ovobakes para dentro.
+
+Depois vai embora.
+
+Escondida em algum lugar, ela ri enquanto espera o pior acontecer.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -4644,7 +4830,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'tapuli',
@@ -4685,6 +4871,48 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'noppupabo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'asawang',
+    nome: 'Asawang',
+    nomeIngles: 'Asawang',
+    imagem: '/images/moscas/asawang.png',
+    descricao: descricaoAsawang,
+    linhagem: 'moscas',
+    estagio: 'forma final e larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'sonogaeshi', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'ratesso',
+    nome: 'Ratesso',
+    nomeIngles: 'Ratesso',
+    imagem: '/images/moscas/ratesso.png',
+    descricao: descricaoRatesso,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'volumezumi', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'kuroashi',
+    nome: 'Kuroashi',
+    nomeIngles: 'Kuroashi',
+    imagem: '/images/moscas/kuroashi.png',
+    descricao: descricaoKuroashi,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'mayukade', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -4731,6 +4959,48 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'sonogaeshi',
+    nome: 'Sonogaeshi',
+    nomeIngles: 'Sonogaeshi',
+    imagem: '/images/moscas/sonogaeshi.png',
+    descricao: descricaoSonogaeshi,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'tsenanggal', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'asawang', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'volumezumi',
+    nome: 'Volumezumi',
+    nomeIngles: 'Volumezumi',
+    imagem: '/images/moscas/volumezumi.png',
+    descricao: descricaoVolumezumi,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'nectanuki', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ratesso', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'mayukade',
+    nome: 'Mayukade',
+    nomeIngles: 'Mayukade',
+    imagem: '/images/moscas/mayukade.png',
+    descricao: descricaoMayukade,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'daimydas', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'kuroashi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'tikitiki',
     nome: 'Tiki-Tiki',
     nomeIngles: 'Tiki-Tiki',
@@ -4770,6 +5040,48 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'shogulo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'tsenanggal',
+    nome: 'Tsenanggal',
+    nomeIngles: 'Tsenanggal',
+    imagem: '/images/moscas/tsenanggal.png',
+    descricao: descricaoTsenanggal,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'sonogaeshi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'nectanuki',
+    nome: 'Nectanuki',
+    nomeIngles: 'Nectanuki',
+    imagem: '/images/moscas/nectanuki.png',
+    descricao: descricaoNectanuki,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'volumezumi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'daimydas',
+    nome: 'Daimydas',
+    nomeIngles: 'Daimydas',
+    imagem: '/images/moscas/daimydas.png',
+    descricao: descricaoDaimydas,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'mayukade', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
