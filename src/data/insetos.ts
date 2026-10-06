@@ -752,42 +752,6 @@ E então a revoada desaparece tão rapidamente quanto surgiu, deixando para trá
 
 Uma praga de gafanhotos.`;
 
-const descricaoTapuli = `Assim que o ovo eclode, Tapu-Li se vê em um vasto campo fértil, repleto de alimentos. Centenas de outros Tapu-Lis foram deixados naquele mesmo lugar e passam seus dias cultivando e se alimentando ao seu redor.
-
-Tapu-Li não possui garras nem qualquer meio eficiente de se proteger, tornando-se um alvo fácil para praticamente qualquer inseto predador. Seu clã nunca está por perto para protegê-lo. Todos foram deixados naquele campo com um único propósito: aprender a cultivar e comer o máximo possível.
-
-E é isso que Tapu-Li e seus irmãos fazem todos os dias. Enquanto cultivam o alimento, também acumulam energia para as próximas fases de suas vidas. Não há guerreiros para defendê-los, nem adultos para ensiná-los a lutar. Eles simplesmente continuam comendo e cultivando, mesmo quando predadores atacam o enorme grupo.
-
-Quando isso acontece, os Tapu-Lis não tentam se defender. Apenas continuam comendo e esperam sobreviver.
-
-Para muitos, aquele campo será seu único lar. Para os poucos que conseguirem chegar à próxima fase, porém, existe um sonho: finalmente deixar o campo para trás, encontrar seu clã e descobrir o que existe além daquele lugar.`;
-const descricaoShogulo = `Quando um ou mais Tapu-Lis conseguem sobreviver aos campos e acumular energia suficiente, seus corpos começam a endurecer, formando uma espécie de armadura ao seu redor. É assim que surge o Shogulo.
-
-Preso dentro de sua própria carapaça, o Tapu-Li finalmente começa a compreender a crueldade à qual foi submetido. Anos de trabalho sem perspectiva, a fome constante e a perda de incontáveis irmãos que não pôde proteger deixam marcas profundas em sua mente.
-
-Nesse momento, uma imagem assustadora começa a se formar na superfície do Shogulo. Até mesmo um odor peculiar se desenvolve ao seu redor, afastando aqueles que se aproximam e criando a sensação de que há algo perigoso escondido dentro daquela carapaça.
-
-Apesar de parecer imóvel, o Shogulo consegue se mover lentamente utilizando pequenas pernas localizadas em sua parte inferior. Enquanto isso, em seu interior, a criatura continua seu desenvolvimento, moldada pelo ressentimento e por uma compreensão cada vez mais profunda de sua própria natureza.
-
-Toda a energia acumulada durante sua vida como Tapu-Li é transformada em força. Somada ao rancor que carrega, ela faz do Shogulo um guerreiro formidável.
-
-Mas essa transformação tem um preço: o Shogulo aprende a sobreviver sozinho. E, quando finalmente desperta, já não pensa como parte de um grupo. Ele pensa apenas em si mesmo.`;
-const descricaoMoshinobi = `Ao despertar de seu Shogulo, Moshinobi recebe sua primeira missão: encontrar seu clã.
-
-Voando em busca de suas origens, ele descobre suas novas habilidades. Seus quatro braços agora carregam armas letais, mas sua maior vantagem está nos olhos: Moshinobi é capaz de perceber tudo ao seu redor como se o mundo estivesse se movendo em câmera lenta. Para a maioria dos adversários, acertá-lo é praticamente impossível.
-
-Sua fome de Tapu-Li também retorna. A diferença é que agora Moshinobi pode se alimentar onde quiser e desaparecer antes que qualquer predador consiga alcançá-lo. Pela primeira vez, ele pode comer sem medo.
-
-Apesar de sua capacidade letal, Moshinobi não gosta de lutar. Ele despreza a velocidade de seus oponentes e prefere simplesmente desviar de seus ataques, esperando o momento certo para desaparecer. Para ele, não há necessidade de vencer uma luta que pode ser evitada.
-
-Quando finalmente encontra seu clã, porém, Moshinobi se depara com algo inesperado: um enorme grupo formado por outros Moshinobis tão egoístas quanto ele. Depois de tudo o que viveu, esperava encontrar respostas ou algum propósito. Em vez disso, encontra apenas indivíduos que aprenderam a sobreviver sozinhos.
-
-Moshinobi prefere permanecer em silêncio e observar.
-
-As coisas só começam a mudar quando seu clã recebe uma missão maior. Dessa vez, não se trata apenas de sobreviver ou encontrar alimento. O grupo pretende partir para uma missão capaz de causar um grande caos em algum lugar.
-
-Pela primeira vez, Moshinobi terá que decidir se continuará vivendo apenas para si mesmo ou se encontrará um propósito para tudo aquilo que se tornou.`;
-
 const descricaoTotzen = `Um Totzen é colocado em algum altar dos templos dos Louvolins, onde permanece como um lembrete da importância da meditação constante. Seu exterior é duro como o tronco de uma árvore antiga, tornando-o facilmente confundível com uma estátua ou parte da própria estrutura do templo.
 
 Quando o ser em seu interior se desenvolve o suficiente, suas garras começam a cortar as laterais do ovo, criando aberturas que permitem que ele medite de maneira mais consciente. A partir desse momento, Totzen permanece em estado de contemplação durante todo o período em que continua dentro da casca.
@@ -3464,7 +3428,60 @@ Quando nenhuma dessas estratégias funciona, Nectanuki espera não estar sendo o
 Depois vai embora.
 
 Escondida em algum lugar, ela ri enquanto espera o pior acontecer.`;
-// const descricaoOvobake = ``;
+const descricaoTapuli = `Assim que o ovo eclode, Tapu-Li se vê em um vasto campo fértil, repleto de alimento. Logo percebe que centenas de outros Tapu-Lis foram deixados naquele mesmo lugar e passam seus dias comendo, cultivando e enriquecendo o solo ao redor durante o processo.
+
+Tapu-Li não possui garras nem qualquer meio eficiente de se proteger, tornando-se um alvo fácil para praticamente qualquer inseto predador. Seu clã nunca está por perto para protegê-lo. Todos foram deixados naquele campo com um único propósito: aprender a cultivar e comer o máximo possível.
+
+E é exatamente isso que Tapu-Li e seus irmãos fazem todos os dias. Enquanto cultivam o alimento, também acumulam a energia necessária para as próximas fases de suas vidas. Levam uma existência completamente comum: comem, trabalham e continuam cultivando mesmo quando predadores atacam o enorme grupo.
+
+Quando isso acontece, os Tapu-Lis não tentam se defender.
+
+Apenas continuam comendo e esperam sobreviver.
+
+Dentro de Sun-hon, os Tapu-Lis formam uma das maiores forças de trabalho existentes. São deixados nos campos como fertilizadores do solo, produtores de alimento, alimento para predadores maiores e, quem sabe... futuros soldados do clã Shosabae.
+
+Mas, para muitos, aquele campo será seu único lar.
+
+Para os poucos que conseguem chegar à próxima fase, porém, existe um sonho: finalmente deixar o campo para trás, encontrar seu clã e descobrir o que existe além daquele lugar.`;
+const descricaoShogulo = `Quando um ou mais Tapu-Lis conseguem sobreviver aos campos e acumular energia suficiente, seus corpos começam a endurecer, formando uma espécie de armadura ao seu redor. É assim que surge o Shogulo.
+
+Preso dentro de sua própria carapaça, o Tapu-Li finalmente começa a compreender a crueldade à qual foi submetido. Anos de trabalho sem perspectiva, a fome constante e a perda de incontáveis irmãos que não pôde proteger deixam marcas profundas em sua mente.
+
+Nesse momento, uma imagem assustadora começa a se formar na superfície do Shogulo. Até mesmo um odor peculiar se desenvolve ao seu redor, afastando aqueles que se aproximam e criando a sensação de que há algo perigoso escondido dentro daquela carapaça.
+
+Apesar de parecer imóvel, o Shogulo consegue se mover lentamente utilizando pequenas pernas localizadas em sua parte inferior. Enquanto isso, em seu interior, a criatura continua seu desenvolvimento, moldada pelo ressentimento e por uma compreensão cada vez mais profunda de sua própria natureza.
+
+Toda a energia acumulada durante sua vida como Tapu-Li é transformada em força. Somada ao rancor que carrega, ela faz do Shogulo um guerreiro formidável.
+
+Mas essa transformação tem um preço: o Shogulo aprende a sobreviver sozinho. E, quando finalmente desperta, já não pensa como parte de um grupo. Ele pensa apenas em si mesmo.`;
+const descricaoMoshinobi = `Após completar sua primeira missão e retornar à sede do Shosabae, Moshinobi se torna oficialmente um espião sob a proteção do clã. Agora dotado das incríveis habilidades de uma Myoskai adulta, recebe treinamento, novas instruções e acesso a alguns dos segredos do clã.
+
+A partir dali, seguirá uma vida aparentemente normal, mas sempre sob vigilância e recebendo eventuais missões de espionagem.
+
+Moshinobis não precisam enfrentar muitos combates durante a vida, apesar do treinamento e de suas habilidades naturais. Seus pequenos pelos proporcionam uma percepção apurada do ambiente, enquanto sua visão extraordinária faz os movimentos dos adversários parecerem quase lentos. Somados ao excepcional controle de voo e à enorme velocidade, esses sentidos fazem de Moshinobi uma combatente muito mais especializada em esquiva do que em agressão, capaz de evitar ataques e escapar de maneiras impressionantes.
+
+Moshinobi é uma Myoskai, mas sua aparência sugere algo entre uma Minerabelha e um Vespaleiro Caçador, permitindo que se infiltre em muitos lugares sem sequer precisar agir furtivamente. Vive como um inseto comum, frequentando diferentes ambientes, sociedades e colônias. Pode trabalhar, conviver e até criar amizades enquanto permanece como uma mão externa do Shosabae.
+
+Suas missões incluem descobrir recursos de outras sociedades, compreender o funcionamento de colônias, revelar segredos de líderes, detectar planos e ameaças contra Sun-hon, implantar Ovobakes em locais estratégicos e, algumas vezes, reunir o enxame para ataques de caos.
+
+Tudo isso sem levantar suspeitas sobre sua verdadeira identidade.
+
+Para evitar traições, o Shosabae mantém identificados os campos onde estão as novas gerações de cada um de seus soldados. Existe uma promessa simples: diante da suspeita de traição, nenhum de seus descendentes passará da fase de Tapu-Li.
+
+Depois de colocar seus Ovobakes nos campos, o próprio Moshinobi deve partir e viver longe deles. Aproximar-se novamente também pode ser considerado uma traição.`;
+const descricaoNinjulo = `Ninjulo é a pupa do Tapu-Li. Tão escura, silenciosa e adaptável, essa fase acabou se tornando um instrumento de espionagem do clã Shosabae.
+
+Quando um Tapu-Li sobrevive aos campos, seu corpo começa a crescer e escurecer. É nesse momento que mensageiros do clã recrutam alguns deles e os levam para esconderijos subterrâneos, onde são treinados durante sua última muda.
+
+Antes da transformação, o Tapu-Li pode ser infiltrado em algum lugar estratégico. Ali, escondido, inicia sua pupação e assume a forma de Ninjulo. Imóvel e silencioso, passa a observar e ouvir tudo ao seu redor, acumulando informações que deverá levar ao clã Shosabae quando sua nova forma finalmente emergir.
+
+Ninjulos conseguem permanecer grudados às paredes, escondidos entre dejetos ou envoltos pelas sombras de um abrigo, passando longos períodos apenas observando e coletando informações secretas para proteger Sun-hon.
+
+Aqueles que são descobertos nessa etapa são eliminados pelos inimigos e nunca retornam.
+
+O problema é que, quando alguém encontra um Ninjulo, geralmente ainda não sabe que nunca existe apenas um dentro do ambiente.
+
+Os melhores completam sua transformação e emergem como Moshinobis. Deixam o lugar onde permaneceram escondidos levando consigo tudo o que viram e ouviram, finalmente aprovados para atuar como soldados espiões do clã Shosabae.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 
@@ -4842,7 +4859,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma larva',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'shogulo', tipo: 'linear' }],
+    evolucoes: [{ insetoId: 'ninjulo', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -4916,12 +4933,26 @@ export const insetos: Inseto[] = [
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
+  // {
+  //   id: 'shogulo',
+  //   nome: 'Shogulo',
+  //   nomeIngles: 'Shogoon',
+  //   imagem: '/images/moscas/shogulo.png',
+  //   descricao: descricaoShogulo,
+  //   linhagem: 'moscas',
+  //   estagio: 'forma casulo',
+  //   ...dadosPendentes,
+  //   tags: ['moscas'],
+  //   evolucoes: [{ insetoId: 'moshinobi', tipo: 'linear' }],
+  //   evolucaoDe: [{ insetoId: 'tapuli', tipo: 'linear' }],
+  //   tipoEvolucao: 'linear',
+  // },
   {
-    id: 'shogulo',
-    nome: 'Shogulo',
-    nomeIngles: 'Shogoon',
-    imagem: '/images/moscas/shogulo.png',
-    descricao: descricaoShogulo,
+    id: 'ninjulo',
+    nome: 'Ninjulo',
+    nomeIngles: 'Ninjagoon',
+    imagem: '/images/moscas/ninjulo.png',
+    descricao: descricaoNinjulo,
     linhagem: 'moscas',
     estagio: 'forma casulo',
     ...dadosPendentes,
@@ -5039,7 +5070,7 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [],
-    evolucaoDe: [{ insetoId: 'shogulo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ninjulo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
