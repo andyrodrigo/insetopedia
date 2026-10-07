@@ -3482,6 +3482,54 @@ Aqueles que são descobertos nessa etapa são eliminados pelos inimigos e nunca 
 O problema é que, quando alguém encontra um Ninjulo, geralmente ainda não sabe que nunca existe apenas um dentro do ambiente.
 
 Os melhores completam sua transformação e emergem como Moshinobis. Deixam o lugar onde permaneceram escondidos levando consigo tudo o que viram e ouviram, finalmente aprovados para atuar como soldados espiões do clã Shosabae.`;
+const descricaoSubotoroshi = `Subotoroshi praticamente nasce para se tornar um membro do clã Shosabae. Desde que emerge de seu Ovobake, vive no subsolo, próximo aos esconderijos e templos secretos do clã.
+
+De tempos em tempos, Subotoroshi recebe o treinamento de um mestre Myoskai, aprendendo técnicas e estratégias que passa a praticar em seu dia a dia. Alimenta-se do que encontra no substrato, mas também costuma caçar outros insetos, tanto para complementar sua alimentação quanto para aperfeiçoar suas habilidades.
+
+Uma das técnicas mais utilizadas por Subotoroshi é permanecer suspensa na entrada de algum lugar, com o corpo envolvido em lama ou lodo para se camuflar. Quando uma presa passa por baixo, ela simplesmente se deixa cair sobre ela.
+
+Dizem que nas entradas dos esconderijos e templos do clã sempre existem Subotoroshis ocultas, esperando para cair sobre insetos invasores ou traidores. Por isso, quando um traidor suspeita que já foi descoberto, evita passar por esses lugares.
+
+A última missão de Subotoroshi é encontrar algum Escaravalente e matá-lo.
+
+É uma tarefa considerada difícil. Escaravalentes são guerreiros natos e muitos deles são enormes. Ainda assim, Subotoroshi não hesita em cumprir sua provação final, utilizando tudo o que aprendeu e suas mordidas letais contra adversários muito maiores que ela.`;
+const descricaoKomahae = `Komahaes são pupas de Myoskai encontradas em vários locais pertencentes ao clã Shosabae. Permanecem imóveis nesses lugares, parecendo decorações ou vigias. Sua aparência já remete à perigosíssima Myoskai que um dia emergirá delas, causando receio e admiração pela imagem rígida e ameaçadora dessas pupas.
+
+Komahae é capaz de morder quem tentar mexer com ela e também consegue se mover quando necessário, embora seja raro alguém presenciar uma delas se deslocando. Sua presença costuma ser um sinal de que membros importantes do Shosabae vivem por perto.
+
+Existe em Sun-hon a história de um lendário Louvolin que pretendia assassinar o Daimydas Muska. Ele eliminou várias Myoskais durante sua infiltração e conseguiu entrar no jardim de Muska, onde avistou a folha na qual o Daimydas dormia pendurado.
+
+No caminho, passou por quatro Komahaes imóveis.
+
+Quando finalmente se aproximou de seu objetivo, porém, percebeu que quatro Myoskais assassinas haviam surgido atrás dele.
+
+Era como se as Komahaes pudessem terminar sua pupação quando quisessem.
+
+O Louvolin falhou.
+
+Desde então, muitos em Sun-hon preferem não descobrir quanto de verdade existe nessa história.
+
+Afinal, de dentro de uma Komahae emerge a Myoskai mais letal conhecida.`;
+const descricaoIbarakihae = `Ibarakihaes são as Myoskais assassinas do clã Shosabae. Especialistas em caçar e capturar outros insetos, são capazes de interceptar suas vítimas inclusive em pleno voo.
+
+Ibarakihae possui um controle de voo extraordinário. Durante um ataque, consegue alcançar sua presa e se fincar em suas costas com as pernas espinhosas, prendendo-a antes de atacar com suas pinças e seu braço afiado.
+
+Ser alvo de uma Ibarakihae é praticamente uma sentença de morte. Poucos insetos são conhecidos por tamanha letalidade.
+
+Ela também é uma observadora impressionante. Treinada desde cedo para identificar outros insetos e capturá-los antes que possam escapar, transforma as informações obtidas pelas Moshinobis em ataques rápidos e precisos. A presença das Ibarakihaes no clã, somada à rede de informações das Moshinobis, é uma das razões pelas quais o domínio do Shosabae sobre Sun-hon permanece tão duradouro e inabalável.
+
+Mas talvez a parte mais assustadora da história dessas assassinas aconteça logo após o fim de sua transformação.
+
+Ibarakihae emerge de sua Komahae com duas mãos perfeitamente formadas, mas permanece assim por pouco tempo.
+
+Como parte de um antigo rito do clã, ela corta a própria mão.
+
+A casca de sua Komahae deixa para trás uma estrutura rígida, afiada e coberta de espinhos. Ibarakihae introduz o antebraço mutilado nessa estrutura e passa a carregá-la como uma extensão permanente do próprio corpo.
+
+Assim, aquilo que um dia protegeu sua transformação se torna sua primeira arma.
+
+E Ibarakihae recebe mais um complemento para uma capacidade de matar que já era extraordinária antes mesmo de ser armada.`;
+// const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 
@@ -4847,7 +4895,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'tapuli',
@@ -4920,6 +4968,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'ramificada',
   },
   {
+    id: 'subotoroshi',
+    nome: 'Subotoroshi',
+    nomeIngles: 'Subotoroshi',
+    imagem: '/images/moscas/subotoroshi.png',
+    descricao: descricaoSubotoroshi,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'komahae', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
     id: 'kuroashi',
     nome: 'Kuroashi',
     nomeIngles: 'Kuroashi',
@@ -4959,6 +5021,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'moshinobi', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'tapuli', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'komahae',
+    nome: 'Komahae',
+    nomeIngles: 'Komahae',
+    imagem: '/images/moscas/komahae.png',
+    descricao: descricaoKomahae,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'ibarakihae', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'subotoroshi', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -5071,6 +5147,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'ninjulo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'ibarakihae',
+    nome: 'Ibarakihae',
+    nomeIngles: 'Ibarakihae',
+    imagem: '/images/moscas/ibarakihae.png',
+    descricao: descricaoIbarakihae,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'komahae', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
