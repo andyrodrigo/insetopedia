@@ -3561,7 +3561,21 @@ Depois de encontrado, Kasulobake procura outro esconderijo seguro para terminar 
 O problema acontece quando vários Kasulobakes estão reunidos no mesmo local e são descobertos ao mesmo tempo. Incapazes de permanecer ali, todos começam a procurar um novo abrigo em conjunto, atravessando a colônia como um grupo organizado de criaturas de um olho e uma perna, enquanto os demais insetos se afastam e esperam que eles simplesmente vão embora.
 
 Esse estranho fenômeno é conhecido como Parada Kasulobake.`;
-const descricaoMoskaname = ``;
+const descricaoMoskaname = `Moskanames estão espalhadas por diversos lugares e são detestadas em praticamente todos eles. Alimentam-se de incontáveis coisas, frequentam ambientes contaminados e acabam espalhando doenças por onde passam.
+
+Moskanames também são incrivelmente irritantes. Elas disputam recursos não exatamente lutando por eles, mas simplesmente comendo ao lado de seus rivais. Quando são atacadas, esquivam-se e logo retornam ao mesmo lugar para continuar se alimentando, permanecendo ali enquanto parecem zombar de quem tenta expulsá-las.
+
+Enquanto comem, ainda podem contaminar o alimento, vomitando sobre ele um líquido corrosivo para dissolvê-lo e absorvê-lo em seguida.
+
+Moskanames conseguem agir dessa forma porque são dotadas de habilidades comuns entre Myoskais: velocidade impressionante e extraordinário controle de voo, associados à visão em vários ângulos e à capacidade de detectar movimentos através de seus pelos. Matar uma Moskaname não é difícil por causa de sua força, mas porque simplesmente é muito difícil acertá-la. Em último caso, ela ainda pode vomitar seu líquido corrosivo sobre o inimigo e continuar ali perturbando.
+
+A vida de uma Moskaname não é muito longa, mas elas espalham muitos Ovobakes durante esse período, garantindo que sua linhagem continue existindo e incomodando as colônias que as odeiam. Poucos insetos possuem habilidades realmente eficientes para capturá-las.
+
+Moskanames frequentam lugares sujos e costumam ter a personalidade de quem não se importa com praticamente nada além de fazer o que deseja e incomodar quem tentar impedi-las. Elas não formam exatamente uma sociedade, mas toleram umas às outras e às vezes são encontradas em grandes enxames, utilizando os mesmos recursos sem realmente compartilhá-los. Um enxame de Moskanames pode se tornar especialmente perigoso quando algum inseto decide enfrentá-las.
+
+Mas Moskanames não são tolas ou irracionais. Elas sabem que são detestadas e retribuem exatamente o mesmo desgosto. Aproveitam sua curta vida, sua alimentação variada e sua resistência a doenças para fazer o que bem entendem.
+
+E talvez a maior demonstração de sua esperteza seja que elas mantêm relações perfeitamente normais com outras linhagens de Myoskais. Moskanames de diferentes partes do mundo também entregam muitos de seus Ovobakes ao clã Shosabae, que sabe muito bem como utilizá-los.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -4927,7 +4941,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'gakiru',

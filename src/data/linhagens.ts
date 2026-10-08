@@ -250,7 +250,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoMoscas,
     imagemCapa: '/images/moscas/capa.png',
     tema: '#5c4b3a',
-    criaturas: ['ovobake','tapuli','yoshukubi', 'futakuchi','kuroashi', 'ratesso', 'asawang', 'subotoroshi', 'mayukade', 'volumezumi', 'ninjulo','shogulo', 'pupanggalan', 'noppupabo', 'mayukade','sonogaeshi', 'komahae', 'moshinobi', 'tikitiki', 'moskorobi', 'daimydas', 'nectanuki', 'tsenanggal', 'ibarakihae' ],
+    criaturas: ['ovobake', 'gakiru', 'kasulobake' ,'moskaname', 'tapuli', 'ninjulo', 'moshinobi', 'yoshukubi', 'pupanggalan', 'tikitiki', 'futakuchi', 'noppupabo', 'moskorobi','kuroashi', 'mayukade', 'daimydas', 'ratesso', 'volumezumi', 'nectanuki', 'asawang','sonogaeshi','tsenanggal', 'subotoroshi', 'komahae', 'ibarakihae', 'shogulo' ],
   },
 ]
 
