@@ -3529,10 +3529,42 @@ A casca de sua Komahae deixa para trás uma estrutura rígida, afiada e coberta 
 Assim, aquilo que um dia protegeu sua transformação se torna sua primeira arma.
 
 E Ibarakihae recebe mais um complemento para uma capacidade de matar que já era extraordinária antes mesmo de ser armada.`;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
+const descricaoGakiru = `Gakirú é uma larva de Myoskai, insetos considerados detestáveis por seus hábitos e conhecidos como agentes do caos. Dizem que Myoskais, de modo geral, são criaturas perturbadoras e difíceis de se livrar.
 
+Gakirús estão entre suas larvas mais comuns e podem ser encontradas praticamente em qualquer lugar onde existam recursos disponíveis. Surgem em grande número e rapidamente começam a devorar tudo ao redor. Sua fome larval parece insaciável: não importa o quanto comam, nunca parecem satisfeitas.
+
+Alguns acreditam que essa fome seja resultado de algum tipo de maldição. Segundo a crença, tudo o que uma Gakirú engole simplesmente desaparece assim que passa por sua boca, deixando-a eternamente esfomeada.
+
+Uma Gakirú pouco se importa se estiver sendo ferida ou se seus irmãos estiverem sendo atacados e devorados ao seu lado. Enquanto ainda houver alimento ao seu alcance, ela simplesmente continua comendo.
+
+E elas comem praticamente qualquer matéria orgânica que consigam consumir sem grande dificuldade. É comum encontrá-las entre mortos, dejetos, restos de alimento e todo tipo de matéria em decomposição.
+
+Por serem tão numerosas e estarem espalhadas por tantos lugares, Gakirús são uma das imagens mais comuns associadas aos Myoskais e ajudam a alimentar sua fama de agentes do caos. Onde encontram abundância, podem rapidamente transformar o lugar em um ambiente de disputa e escassez.
+
+O clã Shosabae, composto por linhagens de Myoskais, sabe muito bem como se aproveitar disso.
+
+Dizem que comunidades estrangeiras consideradas ameaças a Sun-hon, terra natal do clã Shosabae, podem ser deliberadamente sabotadas por Moshinobis infiltradas. Em vez de atacar diretamente, elas espalham incontáveis Ovobakes em pontos estratégicos onde existam recursos, muitos deles contendo futuras Gakirús.
+
+Assim, algo que normalmente seria apenas uma presença comum dos Myoskais torna-se uma infestação deliberada, dando aos habitantes problemas muito mais urgentes para resolver do que qualquer plano contra Sun-hon.`;
+const descricaoKasulobake = `Kasulobakes geralmente são encontrados em locais de descarte, escondidos entre objetos e materiais rejeitados por outros insetos. Essa estratégia lhes concede certa privacidade para completar sua transformação sem serem incomodados.
+
+Entretanto, não é incomum que algum inseto procure algo nesses locais. É nesse momento que Kasulobake entra em ação, assustando o invasor, que dificilmente consegue reconhecer aquela criatura estranha como uma simples pupa.
+
+Kasulobake possui um único ocelo e um longo apêndice próximo à boca, características que lhe dão uma aparência assombrada. Para outros insetos, é uma imagem difícil de compreender: aquilo não se parece com nenhum inseto conhecido, mas está claramente vivo.
+
+Ele também possui uma estrutura semelhante a uma única perna, que consegue utilizar para se locomover por meio de pequenos pulos.
+
+Quando descoberto, Kasulobake pode passar seu longo apêndice sobre o inseto como uma enorme lambida e começar a pular atrás dele. Não é capaz de alcançá-lo, mas geralmente não precisa. O susto costuma ser suficiente para fazer o intruso fugir.
+
+Depois de encontrado, Kasulobake procura outro esconderijo seguro para terminar sua transformação.
+
+O problema acontece quando vários Kasulobakes estão reunidos no mesmo local e são descobertos ao mesmo tempo. Incapazes de permanecer ali, todos começam a procurar um novo abrigo em conjunto, atravessando a colônia como um grupo organizado de criaturas de um olho e uma perna, enquanto os demais insetos se afastam e esperam que eles simplesmente vão embora.
+
+Esse estranho fenômeno é conhecido como Parada Kasulobake.`;
+const descricaoMoskaname = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
+// const descricaoOvobake = ``;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -4895,7 +4927,21 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+  },
+  {
+    id: 'gakiru',
+    nome: 'Gakirú',
+    nomeIngles: 'Gakiru',
+    imagem: '/images/moscas/gakiru.png',
+    descricao: descricaoGakiru,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'kasulobake', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'tapuli',
@@ -4994,6 +5040,20 @@ export const insetos: Inseto[] = [
     evolucoes: [{ insetoId: 'mayukade', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'kasulobake',
+    nome: 'Kasulobake',
+    nomeIngles: 'Kasulobake',
+    imagem: '/images/moscas/kasulobake.png',
+    descricao: descricaoKasulobake,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'moskaname', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'gakiru', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
   },
   // {
   //   id: 'shogulo',
@@ -5105,6 +5165,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'daimydas', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'kuroashi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'moskaname',
+    nome: 'Moskaname',
+    nomeIngles: 'Flykaname',
+    imagem: '/images/moscas/moskaname.png',
+    descricao: descricaoMoskaname,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'kasulobake', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
