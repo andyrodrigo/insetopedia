@@ -3576,6 +3576,83 @@ Moskanames frequentam lugares sujos e costumam ter a personalidade de quem não 
 Mas Moskanames não são tolas ou irracionais. Elas sabem que são detestadas e retribuem exatamente o mesmo desgosto. Aproveitam sua curta vida, sua alimentação variada e sua resistência a doenças para fazer o que bem entendem.
 
 E talvez a maior demonstração de sua esperteza seja que elas mantêm relações perfeitamente normais com outras linhagens de Myoskais. Moskanames de diferentes partes do mundo também entregam muitos de seus Ovobakes ao clã Shosabae, que sabe muito bem como utilizá-los.`;
+const descricaoNureuji = `Nureujis são larvas de Myoskai encontradas em regiões úmidas de diversas partes do mundo. Vivem próximas às margens de rios, lagos e áreas alagadas, quase sempre escondidas no solo encharcado. Seus corpos compridos permanecem constantemente molhados e escorregadios, dando-lhes uma aparência semelhante à de pequenas serpentes.
+
+Durante sua primeira muda, porém, Nureujis são completamente claros e ainda não apresentam os falsos ocelos que caracterizam os indivíduos maiores. Nessa idade, parecem larvas frágeis e indefesas.
+
+E eles aprenderam a tirar proveito disso.
+
+Nureujis são predadores especializados em emboscadas e parecem estar constantemente desenvolvendo novas maneiras de enganar suas presas. Uma de suas estratégias mais conhecidas consiste em deixar um indivíduo jovem exposto próximo à água, aparentemente abandonado ou em perigo, enquanto outros permanecem escondidos sob a lama.
+
+Quando algum inseto se aproxima e tenta retirar a pequena larva dali, sente suas pernas sendo puxadas para dentro do solo. Vários Nureujis emergem parcialmente da lama e prendem suas mandíbulas em forma de gancho ao corpo da vítima, arrastando-a lentamente para baixo.
+
+Uma vez presos, são extremamente difíceis de remover. Suas mandíbulas permanecem agarradas enquanto continuam perfurando a presa.
+
+Os Nureujis maiores já não conseguem se passar tão facilmente por criaturas indefesas. Conforme crescem, suas costas adquirem uma coloração esverdeada e surgem grandes ocelos falsos que fazem seu corpo comprido e molhado lembrar ainda mais uma serpente. Assim, aquilo que quando jovem atraía pela vulnerabilidade passa a afastar pela intimidação.
+
+Embora existam em muitas regiões, Nureujis são particularmente numerosos nas terras úmidas que cercam parte das fronteiras de Sun-hon. Por coincidência, essas mesmas áreas costumam ser escolhidas por invasores estrangeiros que acreditam estar entrando no território por lugares onde a presença do clã Shosabae é menor.
+
+Eles estão certos sobre a ausência do clã.
+
+O erro é acreditar que isso torna a travessia mais segura.
+
+Os habitantes de Sun-hon conhecem os lamaçais, sabem reconhecer os sinais da presença de Nureujis e evitam suas armadilhas. Estrangeiros geralmente não possuem o mesmo conhecimento. Assim, a enorme população dessas larvas acabou se tornando uma primeira linha de defesa natural para Sun-hon, mesmo que os próprios Nureujis não façam qualquer distinção entre um invasor e qualquer outra presa que entre em seu território.
+
+Para membros da Ordem do Besouro Dourado, são larvas-serpentes amaldiçoadas, semelhantes à Lagarta Serpente de suas histórias.
+
+Para um Nureuji, porém, são apenas insetos que se aproximaram demais.`;
+const descricaoSanagiarai = `Quando um Nureuji está próximo de completar sua fase larval, abandona suas caçadas e procura um ponto protegido nas margens úmidas onde vive. Ali, enterra parcialmente o corpo na lama e inicia sua transformação em Sanagiarai.
+
+Sanagiarais passam quase toda essa fase imóveis, deixando apenas parte do corpo exposta acima do solo. Sua aparência é estranha mesmo para uma pupa: os membros do futuro adulto já podem ser reconhecidos sob sua estrutura, enquanto fileiras de pequenos espinhos percorrem seu abdômen e dois tubérculos escuros se projetam nas laterais da cabeça.
+
+Apesar da aparência ameaçadora, Sanagiarai não caça.
+
+Sua principal peculiaridade é outra.
+
+De tempos em tempos, uma Sanagiarai quase completamente enterrada começa a produzir um estranho chiado. O som parece servir como forma de comunicação com Nureujis que vivem sob o mesmo lamaçal, embora ninguém saiba exatamente quais informações estão sendo transmitidas.
+
+Para outros insetos, entretanto, o ruído desperta curiosidade.
+
+É possível ouvir uma Sanagiarai sem conseguir enxergá-la. Alguns seguem o som tentando descobrir sua origem e avançam cada vez mais para dentro da margem úmida. Muitas vezes percebem tarde demais que o chão sob suas pernas começou a ceder.
+
+Os Nureujis enterrados parecem reconhecer quando isso acontece.
+
+Quando uma possível presa se aproxima de uma Sanagiarai, as larvas começam a se deslocar sob a lama e aguardam até que ela esteja suficientemente atolada para atacar.
+
+Por causa disso, os habitantes das regiões onde Sanagiarais são comuns aprendem desde cedo uma regra simples: nunca siga um chiado vindo das margens da água.
+
+Nas fronteiras de Sun-hon, onde Nureujis e Sanagiarais são particularmente numerosos, esse conhecimento é praticamente cotidiano.
+
+Infelizmente, estrangeiros raramente conhecem o aviso.`;
+const descricaoHaetengu = `Haetengus vivem principalmente em jardins, florestas e outros lugares de vegetação abundante, demonstrando preferência por pontos elevados. É comum encontrá-las sobre árvores e grandes plantas, muitas vezes repousando de cabeça para baixo em folhas e galhos.
+
+Sua alimentação cotidiana é retirada principalmente de flores e outros recursos vegetais, e grande parte de sua vida pode parecer bastante tranquila. Entretanto, a natureza predadora desenvolvida durante sua fase como Nureuji não desaparece completamente com a metamorfose.
+
+Durante o período de reprodução, Haetengus precisam obter sangue para a geração de seus Ovobakes e voltam a caçar.
+
+Um de seus braços possui uma estrutura laminar que utilizam para abrir ferimentos em suas vítimas. Haetengus cuidam constantemente dessa lâmina, passando-a contra troncos e galhos para mantê-la afiada. Esse comportamento pode ser observado mesmo muito antes de começarem a procurar uma presa.
+
+Apesar da aparência de uma arma, Haetengus raramente utilizam a lâmina para combates prolongados. Sua especialidade continua sendo a mesma de sua fase larval: emboscadas.
+
+Haetengus possuem a extraordinária visão, velocidade e capacidade de voo comuns aos Myoskais, mas preferem não perseguir suas presas. Permanecem imóveis em lugares elevados, muitas vezes penduradas de cabeça para baixo, observando silenciosamente tudo o que passa abaixo delas.
+
+Quando identificam uma oportunidade, simplesmente se soltam.
+
+A queda repentina permite alcançar a vítima antes que ela compreenda de onde veio o ataque. Haetengus realizam um corte rápido com o braço laminar e utilizam o ferimento para obter o sangue de que precisam.
+
+Talvez por passarem tanto tempo apenas observando outros insetos, Haetengus também desenvolveram uma curiosa reputação de serem excelentes avaliadoras de comportamento. É difícil enganar uma delas, e algumas parecem perceber rapidamente quando alguém está escondendo alguma intenção.
+
+O domínio de emboscadas das Haetengus não passou despercebido pelo clã Shosabae. O clã reconhece nelas algumas das mais habilidosas especialistas em ataques de surpresa entre os Myoskais e, por vezes, convida Haetengus excepcionalmente talentosas para se tornarem mestres de jovens Subotoroshis.
+
+Elas ensinam principalmente aquilo que fazem naturalmente: observar sem ser percebidas, compreender o comportamento da presa, escolher o melhor ponto de ataque e esperar pelo momento exato. Para uma Haetengu, uma boa emboscada não depende apenas de velocidade, mas de atacar quando a presa sequer sabe que está sendo caçada.
+
+Isso não torna as Haetengus integrantes naturais do Shosabae. A maioria leva sua vida normalmente em regiões de vegetação por diferentes partes do mundo. Tornar-se mestre de Subotoroshis é apenas um caminho que o clã oferece àquelas cuja habilidade chama sua atenção.
+
+Nas proximidades de Sun-hon elas também são relativamente comuns, inclusive nas regiões próximas às fronteiras. Diferentemente dos Nureujis e Sanagiarais dos lamaçais, porém, sua presença não constitui propriamente uma defesa do território.
+
+Ainda assim, para alguém atravessando uma região desconhecida, existe uma regra bastante útil:
+
+Se uma Haetengu estiver acima de você, provavelmente será tarde demais quando você perceber.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -4941,7 +5018,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'gakiru',
@@ -4968,6 +5045,20 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'ninjulo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'nureuji',
+    nome: 'Nureuji',
+    nomeIngles: 'Nureuji',
+    imagem: '/images/moscas/nureuji.png',
+    descricao: descricaoNureuji,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'sanagiarai', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -5098,6 +5189,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'sanagiarai',
+    nome: 'Sanagiarai',
+    nomeIngles: 'Sanagiarai',
+    imagem: '/images/moscas/sanagiarai.png',
+    descricao: descricaoSanagiarai,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'haetengu', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'nureuji', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'komahae',
     nome: 'Komahae',
     nomeIngles: 'Komahae',
@@ -5196,6 +5301,34 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'moshinobi',
+    nome: 'Moshinobi',
+    nomeIngles: 'Flynobi',
+    imagem: '/images/moscas/moshinobi.png',
+    descricao: descricaoMoshinobi,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'ninjulo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'haetengu',
+    nome: 'Haetengu',
+    nomeIngles: 'Haetengu',
+    imagem: '/images/moscas/haetengu.png',
+    descricao: descricaoHaetengu,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'sanagiarai', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'tikitiki',
     nome: 'Tiki-Tiki',
     nomeIngles: 'Tiki-Tiki',
@@ -5221,20 +5354,6 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'noppupabo', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'moshinobi',
-    nome: 'Moshinobi',
-    nomeIngles: 'Flynobi',
-    imagem: '/images/moscas/moshinobi.png',
-    descricao: descricaoMoshinobi,
-    linhagem: 'moscas',
-    estagio: 'forma comum',
-    ...dadosPendentes,
-    tags: ['moscas'],
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'ninjulo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
