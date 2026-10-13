@@ -3653,6 +3653,81 @@ Nas proximidades de Sun-hon elas também são relativamente comuns, inclusive na
 Ainda assim, para alguém atravessando uma região desconhecida, existe uma regra bastante útil:
 
 Se uma Haetengu estiver acima de você, provavelmente será tarde demais quando você perceber.`;
+const descricaoPetopetosan = `Petopetosan é uma pequena larva de Myoskai cujo corpo é tão translúcido que dificilmente consegue ser vista por outros insetos. Em muitos ambientes, sua aparência praticamente desaparece contra aquilo que está ao seu redor, permitindo que viva relativamente segura sem precisar se esconder.
+
+Petopetosans se alimentam principalmente de frutas e vegetais em fermentação. Por vezes passam boa parte da fase larval dentro desses alimentos, alimentando-se continuamente enquanto escavam e se enterram cada vez mais profundamente.
+
+São criaturas silenciosas e raramente conversam com insetos que não sejam Myoskais. Por esse motivo, apesar de serem comuns em diversas regiões, são praticamente desconhecidas pelo restante do mundo.
+
+Mas existe uma maneira bastante peculiar de perceber sua presença.
+
+Quando uma Petopetosan precisa abandonar seu alimento e caminhar para outro lugar, suas duas pequenas pernas batem repetidamente contra o chão enquanto ela avança. O movimento produz um som baixo e contínuo:
+
+“Peto... peto... peto...”
+
+Foi assim que receberam seu nome.
+
+Para quem escuta, entretanto, a experiência pode ser bastante perturbadora. O som parece acompanhar lentamente o inseto, mas, ao procurar sua origem, não há criatura alguma para ser vista.
+
+Isso fez surgir inúmeras lendas sobre as Petopetosans.
+
+Curiosamente, não existem relatos confiáveis de uma Petopetosan atacando alguém. Ainda assim, a sensação de estar sendo seguido por alguma coisa invisível foi suficiente para que diferentes regiões desenvolvessem suas próprias explicações para o fenômeno.
+
+Em alguns lugares existem palavras que devem ser ditas. Em outros, determinados objetos são deixados pelo caminho. Há regiões onde se recomenda simplesmente não olhar para trás.
+
+E, como eventualmente a Petopetosan encontra outro alimento, muda de direção ou simplesmente para de caminhar, todas essas estratégias parecem funcionar.
+
+Pelo menos é nisso que os insetos dessas regiões acreditam.`;
+const descricaoPupamokuren = `Pupamokuren é uma pequena e estranha pupa de Myoskai bastante comum. Seu corpo é tão translúcido que, à primeira vista, é difícil perceber que existe alguma coisa envolvendo aquilo que se forma em seu interior.
+
+Conforme a metamorfose avança, as estruturas do futuro adulto começam a adquirir um formato peculiar. Vistas através do corpo transparente da Pupamokuren, elas se sobrepõem de maneira que lembram um grande olho estranho e observador.
+
+Como é difícil perceber que aquilo é realmente uma Myoskai, a maioria dos insetos conhece apenas o fenômeno associado às Pupamokurens.
+
+Elas procuram lugares escuros e abrigados para completar sua transformação e frequentemente permanecem apoiadas contra paredes. Durante os primeiros dias podem passar completamente despercebidas. Com o tempo, porém, o estranho olho começa a surgir.
+
+Para quem entra naquele lugar, a impressão é perturbadora. Primeiro vem a sensação de não estar sozinho. Depois, em algum ponto da parede, percebe-se um olho observando silenciosamente.
+
+Por isso, muitos acreditam que determinados abrigos sejam assombrados por alguma entidade que vive dentro das próprias paredes e observa aqueles que permanecem ali.
+
+Em algumas regiões, acredita-se que encarar o olho de uma Pupamokuren por muito tempo pode causar cegueira. Poucos insetos permanecem próximos o suficiente para descobrir que aquilo é apenas uma pequena pupa translúcida.
+
+Esse medo acaba sendo sua maior proteção. Diante da possibilidade de estar vivendo dentro de um lugar que parece estar vivo e observando tudo ao seu redor, muitos insetos simplesmente abandonam o abrigo, deixando a Pupamokuren completar tranquilamente sua metamorfose.
+
+O verdadeiro pesadelo acontece quando várias delas escolhem o mesmo lugar.
+
+Nesse caso, conforme as transformações avançam, os olhos começam a surgir pelas paredes, um após o outro.`;
+const descricaoMosake = `Mosakê é uma pequena e detestável Myoskai que se alimenta principalmente de frutas e outros vegetais fermentados. Para se alimentar, lança sobre a fermentação um líquido produzido em seu interior, dissolvendo parte do alimento antes de beber a mistura resultante.
+
+O problema é que esse hábito parece causar um estranho efeito sobre as Mosakês. Elas possuem um cheiro forte e desagradável e seu comportamento é, no mínimo, difícil de tolerar.
+
+Mosakês falam de maneira confusa e embolada, frequentemente dizendo coisas sem sentido e sem qualquer filtro. Cantam, brincam e fazem barulho de maneira exagerada, como se precisassem constantemente anunciar que estão presentes. Pior ainda, parecem se divertir com a indignação dos outros insetos diante de seu comportamento.
+
+Apesar disso, Mosakês raramente fazem algo realmente agressivo. Seus maiores problemas costumam ser brincadeiras de mau gosto que nem sempre parecem intencionais e o hábito de roubar comida descaradamente quando encontram alguma coisa que desejam.
+
+Seus movimentos também são estranhos. Mosakês parecem incapazes de controlar completamente o próprio corpo, andando e voando de maneira desordenada e aparentemente aleatória.
+
+Aparentemente.
+
+Quando algum inseto perde a paciência e tenta atingir uma Mosakê, quase nunca consegue acertá-la. Ela tropeça, muda de direção, despenca, sobe novamente e escapa por trajetórias que parecem não possuir qualquer lógica.
+
+Quando alguém consegue acertá-la, parece ter sido sorte.
+
+Quando ela consegue escapar, também parece ter sido sorte.
+
+Curiosamente, a sorte favorece as pequeninas com frequência demais.
+
+Mosakês às vezes oferecem a outros insetos a mesma mistura fermentada que consomem. Alguns aceitam, gostam e acabam apresentando temporariamente um comportamento semelhante ao delas.
+
+Entretanto, não é recomendável aceitar a bebida oferecida por uma Mosakê que tenha motivos para não gostar de você.
+
+Elas sabem alterar a mistura de maneira que ela se torne venenosa e, em quantidade suficiente, capaz de matar quem a consumir.
+
+Por isso, mesmo quando uma Mosakê parece apenas estar brincando, nunca é muito fácil saber até onde vai sua falta de noção e onde começa sua verdadeira intenção.
+
+Mosakês não são consideradas criaturas confiáveis.
+
+O que, para muitos insetos, já era de se esperar de uma Myoskai.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -5018,7 +5093,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'gakiru',
@@ -5059,6 +5134,20 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'sanagiarai', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'petopetosan',
+    nome: 'Petopetosan',
+    nomeIngles: 'Petopetosan',
+    imagem: '/images/moscas/petopetosan.png',
+    descricao: descricaoPetopetosan,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'pupamokuren', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -5203,6 +5292,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'pupamokuren',
+    nome: 'Pupamokuren',
+    nomeIngles: 'Pupamokuren',
+    imagem: '/images/moscas/pupamokuren.png',
+    descricao: descricaoPupamokuren,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'mosake', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'petopetosan', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'komahae',
     nome: 'Komahae',
     nomeIngles: 'Komahae',
@@ -5232,7 +5335,7 @@ export const insetos: Inseto[] = [
   },
   {
     id: 'noppupabo',
-    nome: 'Noppupabo',
+    nome: 'Noppupabô',
     nomeIngles: 'Noppupabo',
     imagem: '/images/moscas/noppupabo.png',
     descricao: descricaoNoppupabo,
@@ -5326,6 +5429,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'sanagiarai', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'mosake',
+    nome: 'Mosakê',
+    nomeIngles: 'Mosake',
+    imagem: '/images/moscas/mosake.png',
+    descricao: descricaoMosake,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupamokuren', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
