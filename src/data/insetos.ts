@@ -3728,6 +3728,53 @@ Por isso, mesmo quando uma Mosakê parece apenas estar brincando, nunca é muito
 Mosakês não são consideradas criaturas confiáveis.
 
 O que, para muitos insetos, já era de se esperar de uma Myoskai.`;
+const descricaoMyoskaitsuki = `Myoskaitsuki é o nome dado a uma estranha condição na qual dizem que um inseto foi possuído por uma Myoskai.
+
+Alguns afirmam que a possessão ocorre depois que um inseto é tocado por alguma Myoskai. Outros contam histórias de vítimas que engoliram alguma coisa amaldiçoada por engano. Há ainda casos nos quais ninguém consegue determinar quando, onde ou como a Myoskai entrou no corpo, nem mesmo se isso ocorreu de forma intencional.
+
+No início da Myoskaitsuki, as mudanças são discretas. A vítima pode sentir um aumento incomum do apetite, cansaço ou fraqueza. Conforme o tempo passa, seu comportamento também pode se alterar. Alguns ficam irritadiços ou inquietos; outros passam a agir de maneira estranha para aqueles que os conhecem. Há relatos até de mudanças na maneira de falar, no ritmo da voz ou em pequenos hábitos, mas sua aparência continua inalterada.
+
+Por isso, identificar uma Myoskaitsuki apenas observando a vítima é extremamente difícil. Certos insetos, entretanto, enxergam faixas do espectro invisíveis para a maioria das espécies. Algumas borboletas estão entre os que são capazes de perceber sinais da possessão antes que ela se torne evidente para os demais, motivo pelo qual seu testemunho é particularmente valorizado quando existe suspeita de Myoskaitsuki.
+
+O que realmente ocorre por dentro é uma Larva de Myoskai crescendo dentro do hospedeiro. Ela começa consumindo tecidos sem os quais a vítima consegue sobreviver e evita, enquanto possível, atingir estruturas essenciais. Seu hospedeiro precisa continuar vivo: enquanto ele anda, alimenta-se e procura abrigo, também transporta, protege e indiretamente alimenta a larva que o consome.
+
+A Larva de Myoskai mantém sua vítima viva porque ainda não terminou de comê-la.
+
+Algumas borboletas afirmam ser capazes de retirar a Myoskaitsuki de um inseto. Para isso, realizam um intenso ritual que combina uma alimentação específica com a exposição a determinadas formas de luz, na tentativa de matar aquilo que existe dentro do hospedeiro.
+
+Poucos casos, porém, terminam bem.
+
+O sucesso depende principalmente de quanto a possessão já avançou. Quando a Larva de Myoskai cresceu demais e o corpo do hospedeiro já foi severamente consumido, matá-la pode não ser suficiente para salvá-lo.
+
+Por isso, embora existam histórias de insetos que sobreviveram à retirada de uma Myoskaitsuki, é muito mais comum que o ritual termine com a morte da larva e de seu hospedeiro.`;
+const descricaoHaenya = `Haenya é um comportamento observado em alguns insetos, nos quais a personalidade parece mudar completamente, tornando-os cada vez mais agressivos e destrutivos. Insetos tomados pela Haenya se irritam com facilidade e, por vezes, procuram isolamento.
+
+Também é possível observar mudanças em seus exoesqueletos. Elas variam de acordo com a espécie, mas é comum que surjam espinhos característicos dos Myoskais em suas cabeças, como se estivessem crescendo de dentro para fora.
+
+Acredita-se que a transformação seja interna e que, consumidos pela ganância por comida e pela inveja, esses insetos estejam aos poucos se transformando em uma Myoskai.
+
+Dizem que é possível perceber em seu semblante que alguma coisa lá dentro está sofrendo. Para muitos, o antigo inseto ainda existe naquele corpo, incapaz de controlar as próprias emoções enquanto sua transformação avança.
+
+O que eles não sabem é que já não resta nada do antigo inseto.
+
+Seu exoesqueleto é agora a própria pupa da Myoskai. O aparente sofrimento vem da criatura que cresce em seu interior, comprimida e obrigada a se adaptar a uma estrutura corporal pertencente a outra espécie.
+
+Quando sua transformação finalmente estiver completa, ela precisará apenas encontrar uma maneira de se libertar de dentro daquele corpo.`;
+const descricaoKyuyoku = `Kyuyoku é uma detestável e temida espécie de Myoskai. Dizem que existem poucas delas porque é extremamente difícil sobreviver à sua fase final de pupa. Entretanto, aquelas que chegam à fase adulta são incrivelmente espertas e habilidosas.
+
+As Kyuyokus podem apresentar formatos corporais bastante diferentes entre si. Seus corpos parecem adaptados para mimetizar outros insetos tanto em aparência quanto em postura e cheiro. Não bastasse isso, são incrivelmente experientes em enganar através das palavras, podendo ser intimidadoras ou extremamente carismáticas quando querem.
+
+As Kyuyokus possuem apenas duas asas, mas são capazes de posicioná-las de nove formas diferentes, criando nove padrões básicos de mimetismo. Alterando sua posição, movimento e a maneira como os desenhos das asas são apresentados, conseguem modificar profundamente a impressão de sua silhueta.
+
+Esses nove padrões podem ser usados para simular Aracromantes, Vespaleiros, Mortiposas e muitos outros insetos. Cada uma parece se especializar em determinados disfarces, reproduzindo seus comportamentos com uma familiaridade desconcertante, como se já tivesse vivido no exoesqueleto deles.
+
+Poucos insetos que não sejam Myoskais conhecem as fases anteriores de uma Kyuyoku. O que se sabe é que possuem alimentação vegetal e são enganadoras natas.
+
+Existe ainda uma famosa lenda sobre uma Kyuyoku que se fingiu de Aracromante e chegou a seduzir o maior líder de uma extensa região de Barântulas. Depois de conquistar sua confiança, ela o matou como vingança do clã Shosabae.
+
+Tendo eliminado o maior predador da região, ainda conseguiu deixar o território enganando seus guardas e desapareceu.
+
+Acredita-se que ela ainda esteja por aí, fingindo ser outro inseto, sem que ninguém saiba que está diante de uma famosa Kyuyoku.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -5093,7 +5140,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'gakiru',
@@ -5176,6 +5223,20 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'noppupabo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'myoskaitsuki',
+    nome: 'Myoskaitsuki',
+    nomeIngles: 'Myoskaitsuki',
+    imagem: '/images/moscas/myoskaitsuki.png',
+    descricao: descricaoMyoskaitsuki,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'haenya', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -5348,6 +5409,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'haenya',
+    nome: 'Haenya',
+    nomeIngles: 'Haenya',
+    imagem: '/images/moscas/haenya.png',
+    descricao: descricaoHaenya,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'kyuyoku', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'myoskaitsuki', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'sonogaeshi',
     nome: 'Sonogaeshi',
     nomeIngles: 'Sonogaeshi',
@@ -5443,6 +5518,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'pupamokuren', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'kyuyoku',
+    nome: 'Kyuyoku',
+    nomeIngles: 'Kyuyoku',
+    imagem: '/images/moscas/kyuyoku.png',
+    descricao: descricaoKyuyoku,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'haenya', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
