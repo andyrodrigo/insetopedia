@@ -3775,6 +3775,61 @@ Existe ainda uma famosa lenda sobre uma Kyuyoku que se fingiu de Aracromante e c
 Tendo eliminado o maior predador da região, ainda conseguiu deixar o território enganando seus guardas e desapareceu.
 
 Acredita-se que ela ainda esteja por aí, fingindo ser outro inseto, sem que ninguém saiba que está diante de uma famosa Kyuyoku.`;
+const descricaoMoskappa = `As Moskappas são larvas de Myoskai encontradas em regiões alagadas, margens de rios, brejos e outros lugares onde o solo permanece constantemente úmido. Passam grande parte de suas vidas escondidas sob a lama, deixando apenas parte da cabeça exposta enquanto observam o que acontece ao redor.
+
+Seu corpo é comprido e segmentado, geralmente esverdeado e quase sempre coberto por uma camada de lodo. No alto da cabeça possuem uma região achatada e quase sem pelos, cercada por longas cerdas escuras. Essa pequena depressão costuma acumular água, lodo e restos de vegetação enquanto a Moskappa permanece submersa.
+
+Dizem que, sem o acúmulo de água na cabeça, a Moskappa fica paralisada, mas isso é apenas uma crença. O formato de sua cabeça serve apenas como camuflagem para escapar de predadores e enganar suas presas.
+
+A Moskappa é considerada uma das larvas mais feias já conhecidas e costuma assustar muito mais por sua aparência esquisita do que pelo perigo que representa. Ainda assim, Moskappas são predadoras bastante eficientes. Alimentam-se de pequenos animais encontrados na lama e não hesitam em atacar outras larvas. São extremamente territoriais, e duas Moskappas que ocupem o mesmo espaço podem acabar tentando devorar uma à outra.
+
+Normalmente preferem permanecer escondidas e atacar aquilo que se aproxima. Seu corpo flexível permite que avancem rapidamente pelo lodo, agarrando a presa com seu aparelho bucal antes de recuar novamente para uma região mais profunda.
+
+Alguns insetos afirmam que é possível fazer amizade com Moskappas oferecendo-lhes alimento e que elas podem ensinar algo útil em troca. Jamais se deve, porém, falar de sua feiúra. Muito sensíveis a esse respeito, podem encerrar a amizade e atacar imediatamente o inseto que as ofendeu.`;
+const descricaoCascadokuro = `A Cascadokuro é uma pupa alongada, escura e segmentada, encontrada em terra seca, parcialmente enterrada. Marcas brancas e duras percorrem suas costas e se espalham lateralmente por cada segmento, formando estranhos desenhos sobre sua superfície que terminam em espinhos.
+
+A cabeça da Cascadokuro torna sua aparência ainda mais assustadora. Isso porque o padrão que se forma em seu rosto, acompanhado de grandes olhos avermelhados, remete diretamente ao rosto da Inimiga Alada e das terríveis Barântulas.
+
+Como ambas são criaturas fortemente associadas à morte no imaginário de muitos insetos, encontrar aquele mesmo semblante em algo que emerge do chão fez da Cascadokuro um conhecido símbolo de mau agouro, levando muitos insetos a fugir assim que percebem sua presença.
+
+Cascadokuros passam a maior parte do tempo enterradas e não se alimentam. Entretanto, não permanecem completamente imóveis.
+
+Contraindo repetidamente os segmentos do abdômen, conseguem se contorcer e avançar lentamente através do solo. Conforme sua transformação se aproxima do fim, esses movimentos fazem com que subam cada vez mais em direção à superfície.
+
+Durante essas contrações, as partes endurecidas de seu corpo produzem um som seco e perturbador, repetido em intervalos irregulares. Mesmo quando a Cascadokuro permanece completamente escondida, o ruído pode ser ouvido através do solo e costuma ser suficiente para anunciar sua presença.
+
+Por isso, em regiões onde existem Cascadokuros, pequenos movimentos inexplicáveis no solo ou o som característico dela costumam ser tratados com cautela. Às vezes, uma delas surge parcialmente da terra, ainda se contorcendo enquanto força o restante do corpo para fora.
+
+Para alguns insetos, vê-la emergir significa que alguma criatura próxima morrerá em breve.
+
+A Cascadokuro não faz ideia de como é realmente sua aparência e não entende o motivo do pânico dos insetos que a encontram. Por isso, tem certeza de que deve ser muito mais feia do que em sua forma anterior, quando às vezes ainda conseguia uma ou outra amizade.
+
+Já como Cascadokuro, isso parece impossível.`;
+const descricaoMutyuki = `Mutyukis são Myoskais de aparência incomumente bela que surgem depois que uma Cascadokuro completa sua transformação.
+
+Seu corpo é quase inteiramente branco, contrastando com os pelos negros que crescem sobre sua cabeça e com as extremidades escuras de suas pernas. Seus enormes olhos apresentam belas faixas iridescentes que mudam de cor conforme a luz e o ângulo de observação. Diferente de suas formas anteriores, a Mutyuki surge bela, atraente e elegante.
+
+Alimentam-se normalmente de néctar e outros líquidos açucarados e podem passar longos períodos visitando flores. Pela primeira vez em suas vidas, sua aparência não provoca repulsa ou medo nos insetos que encontram.
+
+Os machos costumam levar uma vida relativamente simples, apesar do preconceito comum contra Myoskais.
+
+As fêmeas, entretanto, têm um problema. Elas podem ser simpáticas e prestativas no dia a dia, mas precisam de sangue para produzir seus Ovobakes. Por isso, confraternizar com uma delas durante seu período de reprodução pode ser extremamente perigoso.
+
+Algumas aprenderam a tirar proveito da beleza adquirida na fase adulta. Machos de outras espécies podem se sentir atraídos não apenas por sua aparência elegante, mas principalmente por seus enormes e fascinantes olhos iridescentes.
+
+Uma Mutyuki à procura de sangue pode flertar com um inseto durante algum tempo, demonstrando interesse e convencendo-o a acompanhá-la até algum lugar afastado. Algumas são descritas como extremamente gentis e agradáveis, principalmente quando desejam que alguém permaneça parado e próximo o bastante.
+
+Sua mordida, porém, não é delicada.
+
+Mutyukis possuem um aparelho bucal capaz de cortar a superfície do corpo da vítima para então beber o sangue que se acumula na abertura. A proximidade que antes parecia desejável pode rapidamente se transformar em um ataque violento.
+
+Algumas vítimas sobrevivem. Outras são encontradas posteriormente, abandonadas e enfraquecidas pela perda de sangue, quando não mortas pelo ataque.
+
+Por isso, as fêmeas dessa espécie adquiriram uma reputação de assustadora frieza. Existem inúmeras histórias sobre insetos que acreditavam ter conquistado o interesse de uma bela Mutyuki e acabaram deixados para trás assim que ela conseguiu aquilo de que precisava.
+
+Há quem diga que existe certa satisfação nisso.
+
+Como se, depois de passar boa parte da vida sendo rejeitada por sua aparência, a Mutyuki jamais tivesse esquecido como é estar do outro lado.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -5140,7 +5195,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'gakiru',
@@ -5223,6 +5278,20 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'noppupabo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'moskappa',
+    nome: 'Moskappa',
+    nomeIngles: 'Moskappa',
+    imagem: '/images/moscas/moskappa.png',
+    descricao: descricaoMoskappa,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'cascadokuro', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -5409,6 +5478,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'cascadokuro',
+    nome: 'Cascadokuro',
+    nomeIngles: 'Cascadokuro',
+    imagem: '/images/moscas/cascadokuro.png',
+    descricao: descricaoCascadokuro,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'mutyuki', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'moskappa', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'haenya',
     nome: 'Haenya',
     nomeIngles: 'Haenya',
@@ -5518,6 +5601,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'pupamokuren', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'mutyuki',
+    nome: 'Mutyuki',
+    nomeIngles: 'Mutyuki',
+    imagem: '/images/moscas/mutyuki.png',
+    descricao: descricaoMutyuki,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'cascadokuro', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
