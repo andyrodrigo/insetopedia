@@ -43,12 +43,18 @@ Formilotos são especialmente eficientes em reconhecimento e preparação de ofe
 Quando isso acontece, dificilmente estão apenas de passagem. Estão observando.
 E quando a chuva cessa, geralmente o exército que elas estavam esperando também chega.`;
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
+
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
+
 No campo de batalha, a Formitanque também exerce uma importante função de comando. Sua antena é capaz de emitir sinais de alerta que percorrem as tropas, indicando mudanças na formação, reorganizando as fileiras e coordenando complexas armadilhas de guerra. Quando uma Formitanque altera sua posição, dezenas ou até centenas de Formilitares podem mudar de estratégia em resposta aos seus sinais.
 Seu exoesqueleto possui espaços internos adaptados para o transporte de tropas e munição viva. Em seu interior, uma Formitanque é capaz de carregar duas Formilitares e quatro Granovos, protegidos por sua própria carapaça durante o avanço.
+
 E esse número pode ser ainda maior.
+
 As Formilitares também podem se agarrar e permanecer de pé sobre o corpo da Formitanque enquanto ela avança, transformando-a em uma verdadeira plataforma móvel de combate.
+
 Uma Formitanque não é apenas um tanque.
+
 É um tanque, um transporte de tropas, um centro de comando e uma fortaleza móvel — tudo em uma única criatura.`;
 const descricaoFormicoptero = `Formicópteros são raros, e uma colônia comum de Formilitares geralmente possui apenas um ou dois deles. Um Formicóptero surge quando um Formiloto extraordinariamente forte e habilidoso alcança sua última forma, tornando-se uma das unidades mais valiosas de todo o exército.
 
@@ -3830,6 +3836,79 @@ Por isso, as fêmeas dessa espécie adquiriram uma reputação de assustadora fr
 Há quem diga que existe certa satisfação nisso.
 
 Como se, depois de passar boa parte da vida sendo rejeitada por sua aparência, a Mutyuki jamais tivesse esquecido como é estar do outro lado.`;
+const descricaoNurarikilino = `Nurarikilinos são pequenas larvas de Myoskai conhecidas por sua inteligência incomum. Diferente da maioria dos insetos, começam a ser instruídos ainda dentro de seus Ovobakes e, quando finalmente eclodem, já sabem exatamente o que precisam fazer para sobreviver.
+
+Seu corpo é pequeno, fino e alongado, permitindo que se desloquem rapidamente e atravessem pequenas frestas. Essa agilidade é fundamental, pois um Nurarikilino recém-nascido precisa encontrar o abrigo de outro inseto e entrar sem ser percebido.
+
+Entretanto, ele não escolhe qualquer lugar.
+
+Nurarikilinos conhecem muito bem os hábitos de outros insetos e procuram especificamente abrigos onde larvas foram deixadas sozinhas, sem adultos que possam protegê-las. Encontrar situações assim não costuma ser particularmente difícil, considerando os hábitos parentais de muitas espécies.
+
+Uma vez dentro, o Nurarikilino simplesmente se instala.
+
+No início, é tão pequeno que sua presença pode passar despercebida. Ele permanece no abrigo enquanto seu anfitrião se alimenta e cresce, aproveitando a segurança e os recursos de um lar que nunca lhe pertenceu.
+
+Depois de algum tempo, o Nurarikilino sofre uma transformação incomum. Seu corpo muda drasticamente, tornando-se uma larva muito maior, robusta e pouco parecida com aquela pequena criatura que invadiu o abrigo. Essa transformação é conhecida como hipermetamorfose.
+
+A partir daí, já não precisa correr ou procurar lugar algum. O Nurarikilino passa a viver confortavelmente no abrigo alheio, aproveitando tudo aquilo que sua vítima ou seus pais deixaram disponível.
+
+Curiosamente, ele não costuma atacar o outro inseto.
+
+Não por amizade, gratidão ou qualquer consideração pelo verdadeiro morador, mas porque sabe que ainda não é o momento.
+
+O Nurarikilino permite que sua vítima continue se alimentando, crescendo e seguindo normalmente seu desenvolvimento. Enquanto isso, permanece ali como um hóspede indesejado que parece ter decidido que aquele abrigo também lhe pertence.
+
+Quando o anfitrião finalmente inicia sua pupação e se torna incapaz de fugir ou se defender, o Nurarikilino deixa de esperar.
+
+E o inseto que durante todo aquele tempo dividiu seu abrigo com o intruso finalmente descobre por que ele nunca foi embora.`;
+const descricaoPupakabe = `Depois de consumir o antigo morador do abrigo e completar seu desenvolvimento, o Nurarikilino finalmente se transforma em uma Pupakabe.
+
+Pupakabes são pupas largas e resistentes que permanecem justamente na entrada do abrigo que um dia invadiram. Seu corpo se adapta ao formato da passagem, preenchendo frestas e irregularidades até formar uma superfície que parece fazer parte da própria estrutura ao redor.
+
+Vista de fora, uma Pupakabe pode facilmente ser confundida com uma parede, uma pedra ou simplesmente o fim de uma passagem. Seu rosto largo e estranho permanece voltado para o exterior, quase imóvel, enquanto todo o restante de seu corpo fica protegido no interior.
+
+Isso torna bastante difícil perceber que existe um abrigo atrás dela.
+
+A Pupakabe não se alimenta e raramente se move, mas os espinhos e partes endurecidas de seu corpo tornam difícil retirá-la à força. Quando perturbada, consegue pressionar ainda mais o corpo contra as laterais da entrada, tornando-se uma verdadeira barreira para qualquer inseto que tente passar.
+
+Curiosamente, existe uma crença de que encontrar uma Pupakabe significa que algo valioso está escondido atrás dela.
+
+A história provavelmente surgiu porque muitos dos abrigos ocupados pelos Nurarikilinos ainda contêm alimento, materiais e outros recursos deixados pelos antigos proprietários. Em alguns casos, o próprio abrigo pode ter sido cuidadosamente construído e abastecido antes de ser tomado.
+
+Por isso, alguns insetos tentam arrancar Pupakabes de suas entradas na esperança de encontrar alguma riqueza escondida.
+
+Nem sempre encontram.
+
+Mas a Pupakabe permanece ali, bloqueando silenciosamente a passagem e protegendo tudo aquilo que existe atrás dela.
+
+Afinal, depois de invadir um abrigo, viver nele e devorar seu verdadeiro morador, seria um desperdício simplesmente abandoná-lo.`;
+const descricaoMoskenma = `Moskenmas são Myoskais robustas e extremamente peludas, reconhecidas pelos pelos amarelo-escuros que cobrem quase todo o corpo e pela espessa pelagem negra ao redor da boca. Dois pequenos espinhos sobre a cabeça completam sua aparência severa, dando-lhes um semblante que parece estar constantemente julgando aqueles ao redor.
+
+Apesar da aparência intimidadora, Moskenmas adultas passam boa parte do tempo entre flores, alimentando-se de néctar e pólen. São excelentes voadoras e conseguem permanecer suspensas no ar enquanto observam atentamente aquilo que acontece ao redor.
+
+Essa capacidade de observação é uma das características mais importantes da espécie.
+
+Moskenmas possuem uma memória excepcional e passam a vida acumulando informações sobre outros insetos: onde vivem, como constroem seus abrigos, do que suas larvas se alimentam, quanto tempo permanecem com seus descendentes e, principalmente, quando os abandonam.
+
+Todo esse conhecimento será necessário para a próxima geração.
+
+Antes de produzir seus Ovobakes, uma Moskenma passa longos períodos instruindo os descendentes que ainda existem dentro deles. É dessa forma que um Nurarikilino pode eclodir sabendo quais insetos procurar, quais evitar e onde provavelmente encontrará uma larva indefesa vivendo sozinha.
+
+Por esse motivo, Moskenmas não precisam colocar seus Ovobakes diretamente nos abrigos que serão invadidos. Elas os dispersam em locais cuidadosamente escolhidos, de onde os pequenos Nurarikilinos possam iniciar sozinhos sua procura.
+
+Entretanto, Moskenmas não dedicam todo o seu tempo aos descendentes.
+
+Algumas estabelecem territórios em locais elevados ou particularmente favoráveis e passam a vigiar aquela região. Machos podem disputar esses pontos e perseguir outros Moskenmas que se aproximem, retornando repetidamente ao mesmo lugar depois de expulsar o intruso.
+
+Essa combinação de comportamento territorial, postura severa e enorme conhecimento sobre os insetos ao redor fez surgir a crença de que Moskenmas estão constantemente avaliando todos aqueles que encontram.
+
+Talvez exista alguma verdade nisso.
+
+Uma Moskenma pode observar um inseto por alguns instantes, acompanhar seus movimentos e depois simplesmente ir embora sem fazer nada.
+
+O inseto observado dificilmente saberá qual foi sua conclusão.
+
+Muito menos se aquilo que ela acabou de aprender será ensinado a um Nurarikilino ainda dentro de um Ovobake.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -5195,7 +5274,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'nurarikilino', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
   },
   {
     id: 'gakiru',
@@ -5292,6 +5371,20 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'cascadokuro', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'nurarikilino',
+    nome: 'Nurarikilino',
+    nomeIngles: 'Nurarikilino',
+    imagem: '/images/moscas/nurarikilino.png',
+    descricao: descricaoNurarikilino,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'pupakabe', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -5492,6 +5585,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'pupakabe',
+    nome: 'Pupakabe',
+    nomeIngles: 'Pupakabe',
+    imagem: '/images/moscas/pupakabe.png',
+    descricao: descricaoPupakabe,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'moskenma', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'nurarikilino', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'haenya',
     nome: 'Haenya',
     nomeIngles: 'Haenya',
@@ -5615,6 +5722,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'cascadokuro', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'moskenma',
+    nome: 'Moskenma',
+    nomeIngles: 'Moskenma',
+    imagem: '/images/moscas/moskenma.png',
+    descricao: descricaoMoskenma,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'pupakabe', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {

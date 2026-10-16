@@ -250,7 +250,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoMoscas,
     imagemCapa: '/images/moscas/capa.png',
     tema: '#5c4b3a',
-    criaturas: ['ovobake', 'gakiru', 'kasulobake' ,'moskaname', 'tapuli', 'ninjulo', 'moshinobi', 'yoshukubi', 'pupanggalan', 'tikitiki', 'futakuchi', 'nureuji','noppupabo', 'moskorobi', 'myoskaitsuki', 'haenya', 'kyuyoku', 'kuroashi', 'mayukade', 'daimydas', 'ratesso', 'volumezumi', 'sanagiarai','moskappa', 'mutyuki', 'cascadokuro', 'nectanuki', 'asawang','sonogaeshi','tsenanggal', 'subotoroshi', 'komahae', 'ibarakihae', 'haetengu','petopetosan','pupamokuren','mosake','shogulo' ],
+    criaturas: ['ovobake', 'gakiru', 'kasulobake' ,'moskaname', 'tapuli', 'ninjulo', 'moshinobi', 'yoshukubi', 'pupanggalan', 'tikitiki', 'futakuchi', 'nureuji','noppupabo', 'moskorobi', 'myoskaitsuki', 'haenya', 'kyuyoku', 'kuroashi', 'mayukade', 'daimydas', 'ratesso', 'volumezumi', 'sanagiarai','moskappa', 'mutyuki', 'cascadokuro', 'nectanuki', 'asawang','sonogaeshi','tsenanggal','nurarikilino','pupakabe','moskenma', 'subotoroshi', 'komahae', 'ibarakihae', 'haetengu','petopetosan','pupamokuren','mosake','shogulo' ],
   },
 ]
 
