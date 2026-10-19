@@ -3836,29 +3836,70 @@ Por isso, as fêmeas dessa espécie adquiriram uma reputação de assustadora fr
 Há quem diga que existe certa satisfação nisso.
 
 Como se, depois de passar boa parte da vida sendo rejeitada por sua aparência, a Mutyuki jamais tivesse esquecido como é estar do outro lado.`;
-const descricaoNurarikilino = `Nurarikilinos são pequenas larvas de Myoskai conhecidas por sua inteligência incomum. Diferente da maioria dos insetos, começam a ser instruídos ainda dentro de seus Ovobakes e, quando finalmente eclodem, já sabem exatamente o que precisam fazer para sobreviver.
+const descricaoMudaneko = `Mudanekos são pequenas larvas de Myoskai conhecidas por sua inteligência incomum. Diferentemente da maioria dos insetos, começam a ser instruídos ainda dentro de seus Ovobakes e, quando finalmente eclodem, já sabem exatamente o que precisam fazer para sobreviver.
 
-Seu corpo é pequeno, fino e alongado, permitindo que se desloquem rapidamente e atravessem pequenas frestas. Essa agilidade é fundamental, pois um Nurarikilino recém-nascido precisa encontrar o abrigo de outro inseto e entrar sem ser percebido.
+Seu corpo é muito pequeno, fino e alongado, permitindo que se desloquem rapidamente e atravessem pequenas frestas. Essa agilidade é fundamental, pois um Mudaneko precisa encontrar o abrigo de outro inseto e entrar sem ser percebido.
 
 Entretanto, ele não escolhe qualquer lugar.
 
-Nurarikilinos conhecem muito bem os hábitos de outros insetos e procuram especificamente abrigos onde larvas foram deixadas sozinhas, sem adultos que possam protegê-las. Encontrar situações assim não costuma ser particularmente difícil, considerando os hábitos parentais de muitas espécies.
+Mudanekos conhecem muito bem os hábitos de outros insetos e procuram especificamente abrigos onde larvas foram deixadas sozinhas, sem adultos que possam protegê-las. Encontrar situações assim não costuma ser particularmente difícil, considerando os hábitos parentais de muitas espécies.
 
-Uma vez dentro, o Nurarikilino simplesmente se instala.
+Uma vez dentro, o Mudaneko simplesmente se instala.
 
 No início, é tão pequeno que sua presença pode passar despercebida. Ele permanece no abrigo enquanto seu anfitrião se alimenta e cresce, aproveitando a segurança e os recursos de um lar que nunca lhe pertenceu.
 
-Depois de algum tempo, o Nurarikilino sofre uma transformação incomum. Seu corpo muda drasticamente, tornando-se uma larva muito maior, robusta e pouco parecida com aquela pequena criatura que invadiu o abrigo. Essa transformação é conhecida como hipermetamorfose.
+Mesmo quando é descoberto, seu tamanho e aparência pouco ameaçadora frequentemente trabalham a seu favor.
 
-A partir daí, já não precisa correr ou procurar lugar algum. O Nurarikilino passa a viver confortavelmente no abrigo alheio, aproveitando tudo aquilo que sua vítima ou seus pais deixaram disponível.
+O verdadeiro morador pode simplesmente permitir que aquela larvinha permaneça ali, sem perceber a ameaça que uma criatura tão pequena representa. Alguns chegam a adotá-la como parte do próprio abrigo.
+
+O Mudaneko sabe aproveitar muito bem essa situação.
+
+Na presença do morador, comporta-se como uma pequena larva inocente. Finge não compreender sua linguagem ou seus costumes e procura parecer apenas uma criatura agradável e inofensiva que lhe faz companhia.
+
+Quando ninguém está olhando, porém, o comportamento muda completamente.
+
+Mudanekos conseguem se erguer e caminhar utilizando apenas as pernas traseiras, manipulam aquilo que encontram pelo abrigo e, quando necessário, são capazes até mesmo de imitar a voz de seu morador para evitar serem descobertos.
+
+Para os poucos insetos que conhecem o perigo de permitir que um Mudaneko permaneça em seu abrigo, existe uma característica capaz de denunciá-lo.
+
+A extremidade traseira de seu corpo possui uma pequena bifurcação.
+
+É uma característica incomum em larvas daquele tipo e um sinal de que aquela pequena criatura não é exatamente aquilo que aparenta ser.
+
+Aquela muda não corresponde à forma que uma larva comum deveria possuir.`;
+const descricaoNurarikilino = `Depois de algum tempo vivendo no abrigo de outro inseto, o Mudaneko sofre uma transformação incomum. Seu corpo muda drasticamente, tornando-se uma larva muito maior, robusta e pouco parecida com aquela pequena criatura que um dia invadiu o lugar.
+
+Essa transformação é conhecida como hipermetamorfose.
+
+A partir daí, surge o Nurarikilino.
+
+Para o verdadeiro morador, a transformação costuma ser uma experiência bastante desagradável. A pequena larva que parecia inofensiva agora ocupa uma parte considerável de seu abrigo e, pior, já não demonstra qualquer necessidade de esconder aquilo que realmente é.
+
+O Nurarikilino conhece aquele lugar perfeitamente.
+
+Sabe onde estão os recursos, conhece suas entradas e saídas e passou tempo suficiente convivendo com o morador para aprender seus hábitos, seus medos e suas fraquezas.
+
+Até mesmo o comportamento inocente do Mudaneko desaparece.
+
+O Nurarikilino demonstra compreender perfeitamente a linguagem do inseto com quem vive e pode revelar conhecimentos que jamais deveria possuir. Para muitos, é nesse momento que surge a desagradável percepção de que aquela pequena criatura aparentemente incapaz de compreender o que acontecia ao seu redor esteve prestando atenção durante todo aquele tempo.
+
+Expulsá-lo também não costuma ser uma alternativa simples.
+
+O abrigo contém alimento, proteção e tudo aquilo de que seu verdadeiro morador precisa para completar o próprio desenvolvimento. Abandoná-lo pode significar perder tudo o que acumulou ou se expor aos perigos do lado de fora.
+
+Assim, o Nurarikilino simplesmente permanece.
+
+Vive confortavelmente utilizando os recursos do abrigo, como um inquilino indesejado que chegou pequeno demais para representar uma ameaça e cresceu até se tornar um problema contra o qual pouco pode ser feito.
 
 Curiosamente, ele não costuma atacar o outro inseto.
 
 Não por amizade, gratidão ou qualquer consideração pelo verdadeiro morador, mas porque sabe que ainda não é o momento.
 
-O Nurarikilino permite que sua vítima continue se alimentando, crescendo e seguindo normalmente seu desenvolvimento. Enquanto isso, permanece ali como um hóspede indesejado que parece ter decidido que aquele abrigo também lhe pertence.
+O Nurarikilino permite que sua vítima continue se alimentando, crescendo e seguindo normalmente seu desenvolvimento.
 
-Quando o anfitrião finalmente inicia sua pupação e se torna incapaz de fugir ou se defender, o Nurarikilino deixa de esperar.
+E espera.
+
+Quando o anfitrião finalmente inicia sua pupação e se torna incapaz de fugir ou se defender, o Nurarikilino deixa de esperar..
 
 E o inseto que durante todo aquele tempo dividiu seu abrigo com o intruso finalmente descobre por que ele nunca foi embora.`;
 const descricaoPupakabe = `Depois de consumir o antigo morador do abrigo e completar seu desenvolvimento, o Nurarikilino finalmente se transforma em uma Pupakabe.
@@ -3882,33 +3923,215 @@ Nem sempre encontram.
 Mas a Pupakabe permanece ali, bloqueando silenciosamente a passagem e protegendo tudo aquilo que existe atrás dela.
 
 Afinal, depois de invadir um abrigo, viver nele e devorar seu verdadeiro morador, seria um desperdício simplesmente abandoná-lo.`;
-const descricaoMoskenma = `Moskenmas são Myoskais robustas e extremamente peludas, reconhecidas pelos pelos amarelo-escuros que cobrem quase todo o corpo e pela espessa pelagem negra ao redor da boca. Dois pequenos espinhos sobre a cabeça completam sua aparência severa, dando-lhes um semblante que parece estar constantemente julgando aqueles ao redor.
+const descricaoMoskenma = `Moskenmas são Myoskais robustas e extremamente peludas, reconhecidas pelos pelos amarelo-escuros que cobrem quase todo o corpo e pela espessa pelagem negra ao redor da boca. Dois pequenos espinhos sobre a cabeça completam sua aparência.
 
-Apesar da aparência intimidadora, Moskenmas adultas passam boa parte do tempo entre flores, alimentando-se de néctar e pólen. São excelentes voadoras e conseguem permanecer suspensas no ar enquanto observam atentamente aquilo que acontece ao redor.
+Moskenmas se alimentam de néctar e pólen. São excelentes voadoras e conseguem permanecer suspensas no ar enquanto observam atentamente aquilo que acontece ao redor.
 
 Essa capacidade de observação é uma das características mais importantes da espécie.
 
 Moskenmas possuem uma memória excepcional e passam a vida acumulando informações sobre outros insetos: onde vivem, como constroem seus abrigos, do que suas larvas se alimentam, quanto tempo permanecem com seus descendentes e, principalmente, quando os abandonam.
 
-Todo esse conhecimento será necessário para a próxima geração.
+Algumas estabelecem territórios em locais elevados ou particularmente favoráveis e passam a vigiar os insetos daquela região. Costumam ser extremamente territoriais e podem declarar esses lugares como terrenos de reprodução de sua linhagem, impedindo até mesmo outras Myoskais de se aproximarem.
 
-Antes de produzir seus Ovobakes, uma Moskenma passa longos períodos instruindo os descendentes que ainda existem dentro deles. É dessa forma que um Nurarikilino pode eclodir sabendo quais insetos procurar, quais evitar e onde provavelmente encontrará uma larva indefesa vivendo sozinha.
+Toda essa observação possui um objetivo muito claro.
 
-Por esse motivo, Moskenmas não precisam colocar seus Ovobakes diretamente nos abrigos que serão invadidos. Elas os dispersam em locais cuidadosamente escolhidos, de onde os pequenos Nurarikilinos possam iniciar sozinhos sua procura.
+Moskenmas escolhem quais insetos terão seus ninhos castigados pela próxima geração.
 
-Entretanto, Moskenmas não dedicam todo o seu tempo aos descendentes.
+Antes de dispersar seus Ovobakes, elas os instruem com tudo aquilo que aprenderam sobre suas futuras vítimas. Depois, cobrem os ovos com areia para disfarçá-los e os deixam em locais estratégicos, de onde os Nurarikilinos poderão partir assim que eclodirem.
 
-Algumas estabelecem territórios em locais elevados ou particularmente favoráveis e passam a vigiar aquela região. Machos podem disputar esses pontos e perseguir outros Moskenmas que se aproximem, retornando repetidamente ao mesmo lugar depois de expulsar o intruso.
+Dessa forma, aquilo que uma Moskenma observa durante sua vida pode determinar quais abrigos serão invadidos muito tempo depois.
 
-Essa combinação de comportamento territorial, postura severa e enorme conhecimento sobre os insetos ao redor fez surgir a crença de que Moskenmas estão constantemente avaliando todos aqueles que encontram.
+A maioria dos insetos que conhece esse comportamento trata Moskenmas com bastante respeito, ainda que esse respeito frequentemente seja apenas medo de atrair sua atenção.
 
-Talvez exista alguma verdade nisso.
+Por conhecimento empírico, perceberam que Moskenmas parecem escolher com maior frequência insetos que tratam mal as Myoskais.
 
-Uma Moskenma pode observar um inseto por alguns instantes, acompanhar seus movimentos e depois simplesmente ir embora sem fazer nada.
+Ninguém sabe se existe realmente algum código por trás dessas escolhas ou se cada Moskenma possui seus próprios critérios.
 
-O inseto observado dificilmente saberá qual foi sua conclusão.
+De qualquer forma, poucos insetos gostam de descobrir que uma delas está observando seu comportamento.`;
+const descricaoLivrekubi = `Livrekubi é como são chamados os insetos cujas cabeças parecem abandonar seus corpos durante a noite para procurar vítimas.
 
-Muito menos se aquilo que ela acabou de aprender será ensinado a um Nurarikilino ainda dentro de um Ovobake.`;
+Ninguém sabe explicar exatamente como isso acontece. Existem inúmeros relatos de insetos que, enquanto deveriam estar dormindo em seus abrigos, simplesmente perdem a cabeça. Ela deixa o corpo para trás e desaparece na escuridão, como se estivesse flutuando, para então procurar pequenas larvas e outros insetos vulneráveis dos quais possa se alimentar.
+
+Dizem que, se o corpo sem cabeça for retirado do lugar durante sua ausência, a cabeça não consegue mais encontrá-lo. Sem ter para onde retornar, passa o dia escondida e volta a vagar quando anoitece.
+
+Existem raros relatos de Livrekubis encontradas durante o dia. Aqueles que conseguiram observá-las afirmam que havia algo estranho abaixo da cabeça, como se seus órgãos internos estivessem pendurados e se movimentando livremente. Entretanto, é difícil distinguir qualquer coisa com clareza.
+
+A maioria das Myoskais sabe muito bem o que está acontecendo.
+
+Livrekubis são insetos parasitados por uma Larva de Myoskai. Inicialmente, ela cresce dentro do hospedeiro consumindo tecidos e órgãos dos quais ele consegue sobreviver sem. Conforme se desenvolve, passa a controlar cada vez mais seu corpo até finalmente dominá-lo por completo.
+
+Nesse momento, praticamente nada resta do antigo hospedeiro.
+
+Ainda assim, a Livrekubi continua se fazendo passar por ele durante algum tempo. O problema é que aquilo que resta no interior daquele corpo não fornece alimento suficiente para que a larva complete seu desenvolvimento e entre na fase de pupa.
+
+Por isso, durante a noite, ela sai para caçar.
+
+A Livrekubi abandona o restante do corpo do hospedeiro, levando consigo sua cabeça. O que parece ser apenas uma cabeça flutuando é, na verdade, uma longa larva presa a ela. Seu corpo é tão fino e translúcido que praticamente desaparece na escuridão, criando a impressão de que a cabeça se desloca sozinha.
+
+Ela aproveita essa aparência tanto para assustar insetos maiores quanto para surpreender pequenas vítimas, das quais se alimenta antes de retornar ao corpo que deixou para trás.
+
+Se alguém encontrar o corpo sem cabeça e removê-lo durante sua ausência, porém, a Livrekubi perde seu esconderijo e já não consegue voltar à identidade que vinha utilizando.
+
+Livrekubis são particularmente comuns quando territórios Myoskais são invadidos por outros insetos. Borboletas, Formilitares, vespas e outras espécies que participam dessas invasões estão entre os hospedeiros mais frequentemente encontrados nessa condição.
+
+Por isso, entre alguns exércitos, o aparecimento de Livrekubis tornou-se um dos perigos associados à ocupação de territórios Myoskais.
+
+As Myoskais sabem perfeitamente o que causa o fenômeno, mas mantêm o segredo.
+
+É muito mais útil permitir que os invasores acreditem que alguma coisa naquelas terras faz suas cabeças abandonarem os corpos durante a noite.
+
+Esse medo é particularmente cultivado em Sun-hon e nos territórios próximos, onde histórias sobre Livrekubis ajudam a desencorajar novas invasões.`;
+const descricaoWanyupario = `Wanyupário é uma criatura que pode ser vista vagando rapidamente durante a noite. Ela parece formada pela cabeça de um inseto envolvida por uma estrutura circular e segmentada de exoesqueleto que aparenta estar em chamas.
+
+O rosto no centro permanece imóvel, quase sempre com uma expressão de sofrimento ou endurecida pela morte. É o tipo de criatura que poucos insetos desejam encontrar vagando pela escuridão.
+
+Dizem que jamais se deve olhar diretamente para um Wanyupário.
+
+Segundo a crença, aquele que encara seu rosto é marcado e, algum tempo depois, desaparece para se tornar um novo Wanyupário.
+
+Existem incontáveis histórias que parecem confirmar isso. Um inseto encontra um Wanyupário e reconhece a criatura cuja cabeça está presa em seu centro. Algum tempo depois, aquele mesmo inseto desaparece. Então surge outro Wanyupário carregando sua cabeça, que acaba sendo reconhecida por alguém próximo.
+
+E o ciclo continua.
+
+Wanyupários são encontrados com maior frequência em territórios Myoskais ocupados por outros insetos. Por isso, existe a crença de que sejam uma punição contra aqueles que, por ganância, tentam tomar para si as terras de outras espécies.
+
+As Myoskais não fazem questão alguma de desmentir essa história.
+
+Elas conhecem a verdadeira origem dos Wanyupários.
+
+Eles são as pupas dos Livrekubis.
+
+Ao iniciar sua pupação, o Livrekubi enrola seu longo corpo ao redor da cabeça que retirou do antigo hospedeiro, formando uma estrutura circular. A cabeça permanece no centro e funciona como uma proteção para a abertura pela qual a futura Myoskai emergirá, enquanto a disposição do corpo mantém seus discos respiratórios expostos.
+
+Apesar de estar em fase de pupa, o Wanyupário consegue se movimentar. Durante a noite, desloca-se discretamente para mudar de esconderijo e, quando encontra uma descida favorável, aproveita o formato circular do próprio corpo para ganhar velocidade ao longo da rota.
+
+É daí que surgem os relatos de Wanyupários atravessando rapidamente a escuridão.
+
+Também não existe fogo algum.
+
+Aquilo que parece formar pequenas chamas ao redor de seu corpo são tufos de pelos avermelhados da futura Myoskai, que começam a aparecer entre os segmentos da pupa conforme sua transformação avança.
+
+Quando o desenvolvimento finalmente termina, a cabeça no centro cumpre sua última função.
+
+Ela serve como uma tampa.
+
+A Myoskai rompe a ligação que ainda a prende à estrutura e emerge exatamente pelo espaço que durante todo aquele tempo permaneceu fechado pelo rosto de sua antiga vítima.`;
+const descricaoMoskoni = `Moskonis são Myoskais considerados selvagens. Vivem em regiões mais isoladas das sociedades de insetos e de suas colônias, alimentando-se normalmente de néctar e do açúcar encontrado em frutas. Preferem permanecer completamente integrados à natureza, estabelecendo seus próprios territórios longe das grandes civilizações.
+
+Moskonis são extremamente territoriais.
+
+Eles perseguem insetos que entram em seus territórios e atrapalham qualquer forma de aproximação que indique uma possível ocupação, destruindo abrigos e capturando aqueles que insistem em permanecer por perto.
+
+Maiores que as Myoskais comuns, utilizam sua excelente visão e impressionante capacidade de voo para transformar os próprios invasores em futuros hospedeiros de seus Ovobakes.
+
+Uma tentativa de ocupação pode, assim, se transformar em um verdadeiro espetáculo de horror parasitário. Depois de algum tempo, Livrekubis começam a surgir entre os invasores, cabeças parecem abandonar seus corpos durante a noite, insetos desaparecem  e Wanyupários passam a percorrer as rotas na escuridão.
+
+Os Moskonis conhecem perfeitamente a origem de tudo aquilo.
+
+E costumam achar bastante engraçado observar o medo provocado por suas formas de larva e pupa.
+
+Tentativas de levar a Palavra da Vida para territórios habitados por Moskonis também costumam terminar mal. Os poucos que retornam frequentemente descrevem essas regiões como terras amaldiçoadas, onde estranhas pragas perseguem aqueles que permanecem por tempo demais.
+
+O clã Shosabae aprendeu a tirar proveito dessa reputação. Determinados territórios próximos de Sun-hon são declarados terras de Moskoni, incentivando grupos dessas Myoskais a migrarem para essas regiões. Sua presença acaba funcionando como uma barreira natural contra inimigos do clã e reduz consideravelmente o número de insetos dispostos a ocupar as áreas próximas.
+
+Moskonis estão entre as Myoskais mais odiadas por outras espécies.
+
+E não fazem nenhuma questão de mudar essa imagem.
+
+Entre algumas Borboletas existe até um ritual realizado ao entrar em regiões onde Moskonis podem estar presentes. Elas oferecem néctar e dizem:
+
+“Fora, Moskonis! Que venham as bênçãos!”
+
+A origem do costume provavelmente está na tentativa de apaziguar essas Myoskais oferecendo-lhes alimento.
+
+Se funciona, ninguém sabe.
+
+De qualquer maneira, a existência do ritual nunca impediu que, algumas semanas depois, uma ocupação inteira se transformasse em um espetáculo de aberrações, com cabeças aparentemente voando pela noite e outras girando pelas rotas.`;
+const descricaoMozuchi = `Mozuchi é conhecida como uma terrível larva de Myoskai e uma predadora voraz das areias. Costuma viver principalmente em terrenos litorâneos, onde passa grande parte de sua existência caçando os insetos que encontra.
+
+Dizem que a primeira mordida de uma Mozuchi é praticamente uma sentença de morte.
+
+Sua saliva contém um poderoso veneno e, mesmo quando a vítima consegue escapar do primeiro ataque, começa a enfraquecer progressivamente. A Mozuchi pode então persegui-la até encontrá-la novamente, quando finalmente a captura e devora.
+
+À primeira vista, Mozuchis parecem completamente cegas. Seus olhos existem, mas permanecem escondidos sob a grande quantidade de pelos que cobre sua cabeça. Ainda assim, são perfeitamente capazes de localizar suas presas.
+
+Elas podem permanecer enterradas sob a areia esperando que algum inseto passe por perto ou simplesmente desaparecer no subsolo em busca das criaturas que vivem abaixo da superfície.
+
+O pior sobre uma Mozuchi, entretanto, é quanto tempo ela permanece assim.
+
+Sua fase larval pode durar anos.
+
+Durante esse período, ela continua caçando, alimentando-se e aprendendo a enfrentar presas cada vez maiores. Uma Mozuchi começa sua vida relativamente pequena, mas seu corpo cresce consideravelmente conforme se alimenta.
+
+Ao longo de sua fase larval, pode trocar de exoesqueleto até cinco vezes. A cada troca, torna-se maior e mais perigosa, até alcançar aproximadamente dez vezes o tamanho que possuía em sua primeira fase.
+
+Isso significa que uma Mozuchi encontrada em determinada região pode permanecer ali durante anos, crescendo lentamente junto com as criaturas que aprendeu a caçar.
+
+Mozuchis são tão temidas e odiadas que nem mesmo outras Myoskais estão necessariamente seguras perto delas.
+
+Uma Mozuchi faminta pode perseguir praticamente qualquer inseto que considere capaz de capturar.
+
+Aparentemente, existe apenas uma coisa realmente importante para ela:
+
+comer e crescer.`;
+const descricaoHitotsumeuji = `De acordo com os insetos, Hitotsumeuji é uma estranha larva que às vezes aparece vagando pelas rotas.
+
+À distância, parece apenas uma larva comum. Quando alguém se aproxima, entretanto, percebe algo muito estranho: a criatura possui um único olho enorme e, logo abaixo dele, um apêndice avermelhado que frequentemente se movimenta na direção de quem chega perto, como se tentasse tocá-lo.
+
+Não existem relatos conhecidos de ataques de Hitotsumeuji. Ainda assim, sua aparência é tão incomum que costuma assustar qualquer inseto que a encontre.
+
+Também não existe uma explicação convincente sobre que tipo de inseto poderia surgir daquela larva. Por sua aparência estranha, muitos simplesmente afirmam, de forma preconceituosa, que deve ser algum tipo de larva de Myoskai, embora ninguém consiga dizer a qual linhagem pertenceria.
+
+Curiosamente, estão parcialmente certos.
+
+Hitotsumeuji não é uma larva.
+
+É o esconderijo de uma pupa de Mozuchi.
+
+Mozuchis são criaturas tão odiadas por outros insetos que dificilmente poderiam se dar ao luxo de permanecer imóveis e vulneráveis durante toda a sua pupação. Mesmo depois de estarem prontas para se transformar, algumas precisam esperar meses até encontrarem condições adequadas para fazê-lo em segurança.
+
+Sua estratégia mais comum é procurar uma larva de besouro.
+
+A Mozuchi a captura, devora sua cabeça e entra parcialmente em seu corpo. Então inicia sua pupação ocupando exatamente o lugar onde antes estava a cabeça da vítima.
+
+O resultado é aquilo que os insetos chamam de Hitotsumeuji.
+
+Protegida dentro do corpo da larva morta, a pupa consegue controlar parcialmente seus movimentos, fazendo o cadáver se deslocar lentamente enquanto completa sua transformação. Para quem observa à distância, parece apenas uma larva solitária vagando pelas rotas.
+
+O disfarce costuma funcionar.
+
+Somente quando alguém chega perto demais percebe que aquela suposta larva possui uma enorme estrutura pupal no lugar da cabeça, com um único ocelo e um estranho apêndice avermelhado.
+
+Apesar da aparência perturbadora, essa é provavelmente a fase menos perigosa de toda a linhagem.
+
+Hitotsumeuji pode causar um belo susto em quem a encontra, mas, enquanto permanece nessa forma, é praticamente inofensiva.`;
+const descricaoKamaidiptera = `Kamaidípteras são Myoskais habilidosas que se alimentam principalmente do néctar das flores. Costumam viver em regiões próximas ao litoral, onde os ventos podem ser extremamente fortes.
+
+Sua adaptação ao voo nesses ambientes é espetacular.
+
+Kamaidípteras conseguem permanecer praticamente paradas no ar mesmo diante de fortes correntes ou aproveitar as próprias ventanias para alcançar velocidades impressionantes. Seu corpo fino e alongado é especialmente adaptado para se deslocar dessa maneira e, por isso, alguns insetos dizem que elas praticamente montam o vento, atravessando o ar tão rapidamente que parecem desaparecer enquanto mudam de direção.
+
+Há quem diga até que uma Kamaidíptera consegue controlar a direção do próprio vento.
+
+Por serem extremamente magras e possuírem corpos alongados, também podem ser confundidas com vespas quando observadas à distância.
+
+Apesar de sua aparência ameaçadora, Kamaidípteras geralmente não são Myoskais agressivas. Conseguem conviver normalmente com outros insetos, embora sejam frequentemente descritas como arrogantes.
+
+O exoesqueleto de seus antebraços, entretanto, possui o formato de uma foice. Normalmente essas estruturas são utilizadas para auxiliar em suas atividades e durante a alimentação, mas podem facilmente se transformar em armas quando uma Kamaidíptera se sente ameaçada.
+
+Nessas situações, elas utilizam a própria velocidade do vento para atacar.
+
+Uma Kamaidíptera pode passar por um inimigo tão rapidamente que o movimento sequer é percebido. Quando existe uma ameaça maior, costumam atacar em trio, cada uma realizando apenas um corte antes de desaparecer novamente na ventania.
+
+Por alguns instantes, parece que nada aconteceu.
+
+Somente depois que o vento passa o inseto percebe os cortes deixados em seu corpo.
+
+Em alguns casos, os ferimentos são suficientes para incapacitá-lo, deixando-o vulnerável às Mozuchis que habitam os terrenos arenosos dessas regiões.
+
+Kamaidípteras depositam seus Ovobakes nos terrenos litorâneos onde vivem. Não precisam proteger constantemente essas áreas ou impedir todos os outros insetos de se aproximarem.
+
+Sabem que sua fase larval é mais do que suficiente para manter essas regiões sob o controle de sua linhagem.`;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
 // const descricaoOvobake = ``;
@@ -5274,7 +5497,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'nurarikilino', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' },{ insetoId: 'livrekubi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'mozuchi', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }, { insetoId: 'mudaneko', tipo: 'ramificada' } ],
   },
   {
     id: 'gakiru',
@@ -5375,6 +5598,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'ramificada',
   },
   {
+    id: 'mudaneko',
+    nome: 'Mudaneko',
+    nomeIngles: 'Mudaneko',
+    imagem: '/images/moscas/mudaneko.png',
+    descricao: descricaoMudaneko,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'nurarikilino', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
     id: 'nurarikilino',
     nome: 'Nurarikilino',
     nomeIngles: 'Nurarikilino',
@@ -5385,6 +5622,34 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'pupakabe', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'mudaneko', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'livrekubi',
+    nome: 'Livrekubi',
+    nomeIngles: 'Livrekubi',
+    imagem: '/images/moscas/livrekubi.png',
+    descricao: descricaoLivrekubi,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'wanyupario', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'mozuchi',
+    nome: 'Mozuchi',
+    nomeIngles: 'Mozuchi',
+    imagem: '/images/moscas/mozuchi.png',
+    descricao: descricaoMozuchi,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'hitotsumeuji', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -5599,6 +5864,34 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'wanyupario',
+    nome: 'Wanyupário',
+    nomeIngles: 'Wanyupario',
+    imagem: '/images/moscas/wanyupario.png',
+    descricao: descricaoWanyupario,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'moskoni', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'livrekubi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'hitotsumeuji',
+    nome: 'Hitotsumeuji',
+    nomeIngles: 'Hitotsumeuji',
+    imagem: '/images/moscas/hitotsumeuji.png',
+    descricao: descricaoHitotsumeuji,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'kamaidiptera', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'mozuchi', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'haenya',
     nome: 'Haenya',
     nomeIngles: 'Haenya',
@@ -5728,7 +6021,7 @@ export const insetos: Inseto[] = [
     id: 'moskenma',
     nome: 'Moskenma',
     nomeIngles: 'Moskenma',
-    imagem: '/images/moscas/moskenma.png',
+    imagem: '/images/moscas/moskoenma.png',
     descricao: descricaoMoskenma,
     linhagem: 'moscas',
     estagio: 'forma comum',
@@ -5736,6 +6029,34 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'pupakabe', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'moskoni',
+    nome: 'Moskoni',
+    nomeIngles: 'Moskoni',
+    imagem: '/images/moscas/moskoni.png',
+    descricao: descricaoMoskoni,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'wanyupario', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'kamaidiptera',
+    nome: 'Kamaidiptera',
+    nomeIngles: 'Kamaidiptera',
+    imagem: '/images/moscas/kamaidiptera.png',
+    descricao: descricaoKamaidiptera,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'hitotsumeuji', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
