@@ -3449,17 +3449,6 @@ Dentro de Sun-hon, os Tapu-Lis formam uma das maiores forças de trabalho existe
 Mas, para muitos, aquele campo será seu único lar.
 
 Para os poucos que conseguem chegar à próxima fase, porém, existe um sonho: finalmente deixar o campo para trás, encontrar seu clã e descobrir o que existe além daquele lugar.`;
-const descricaoShogulo = `Quando um ou mais Tapu-Lis conseguem sobreviver aos campos e acumular energia suficiente, seus corpos começam a endurecer, formando uma espécie de armadura ao seu redor. É assim que surge o Shogulo.
-
-Preso dentro de sua própria carapaça, o Tapu-Li finalmente começa a compreender a crueldade à qual foi submetido. Anos de trabalho sem perspectiva, a fome constante e a perda de incontáveis irmãos que não pôde proteger deixam marcas profundas em sua mente.
-
-Nesse momento, uma imagem assustadora começa a se formar na superfície do Shogulo. Até mesmo um odor peculiar se desenvolve ao seu redor, afastando aqueles que se aproximam e criando a sensação de que há algo perigoso escondido dentro daquela carapaça.
-
-Apesar de parecer imóvel, o Shogulo consegue se mover lentamente utilizando pequenas pernas localizadas em sua parte inferior. Enquanto isso, em seu interior, a criatura continua seu desenvolvimento, moldada pelo ressentimento e por uma compreensão cada vez mais profunda de sua própria natureza.
-
-Toda a energia acumulada durante sua vida como Tapu-Li é transformada em força. Somada ao rancor que carrega, ela faz do Shogulo um guerreiro formidável.
-
-Mas essa transformação tem um preço: o Shogulo aprende a sobreviver sozinho. E, quando finalmente desperta, já não pensa como parte de um grupo. Ele pensa apenas em si mesmo.`;
 const descricaoMoshinobi = `Após completar sua primeira missão e retornar à sede do Shosabae, Moshinobi se torna oficialmente um espião sob a proteção do clã. Agora dotado das incríveis habilidades de uma Myoskai adulta, recebe treinamento, novas instruções e acesso a alguns dos segredos do clã.
 
 A partir dali, seguirá uma vida aparentemente normal, mas sempre sob vigilância e recebendo eventuais missões de espionagem.
@@ -4132,9 +4121,114 @@ Em alguns casos, os ferimentos são suficientes para incapacitá-lo, deixando-o 
 Kamaidípteras depositam seus Ovobakes nos terrenos litorâneos onde vivem. Não precisam proteger constantemente essas áreas ou impedir todos os outros insetos de se aproximarem.
 
 Sabem que sua fase larval é mais do que suficiente para manter essas regiões sob o controle de sua linhagem.`;
-const descricaoLargozu = ``;
-const descricaoHyakumo = ``;
-const descricaoUshimosk = ``;
+const descricaoLargozu = `Largozu é como é chamada uma Ushimosk fêmea enquanto carrega sua larva dentro do corpo.
+
+Durante esse período, a larva cresce e se desenvolve no interior da mãe, sendo alimentada pelos nutrientes produzidos por ela. Conforme aumenta de tamanho, o abdômen da Ushimosk se torna cada vez maior e mais pesado.
+
+Essa mudança altera completamente sua postura.
+
+Ushimosks normalmente caminham com as seis pernas apoiadas no chão, mantendo o corpo achatado e a cabeça muito próxima da superfície. Em uma Largozu, entretanto, o enorme abdômen funciona como um contrapeso, fazendo com que a parte dianteira do corpo se erga. Ela passa então a caminhar lentamente utilizando principalmente as pernas traseiras, enquanto os outros membros ficam livres à sua frente.
+
+Durante esse período, seu instinto de proteção também se torna extremo.
+
+Largozus raramente ficam vagando e tornam-se extremamente territoriais. Qualquer inseto que se aproxime pode ser interpretado como uma ameaça à larva que carregam.
+
+A nova postura também permite que utilizem suas poderosas garras de maneiras que normalmente seriam difíceis para uma Ushimosk.
+
+Com os membros dianteiros livres, uma Largozu pode agarrar e arremessar objetos, erguer adversários do chão ou prendê-los entre suas patas. Garras originalmente adaptadas para agarrar e permanecer firmemente presas transformam-se em poderosas armas capazes de perfurar o exoesqueleto de outros insetos.
+
+O próprio peso adquirido durante o desenvolvimento da larva torna esses ataques ainda mais violentos.
+
+Por isso, existe uma recomendação bastante simples para quem encontra uma Largozu:
+
+não se aproxime.
+
+Também não tente conversar com ela.
+
+Enquanto permanece nessa condição, pouco parece importar além da proteção da larva que carrega, e qualquer tentativa de aproximação pode ser interpretada como uma ameaça.`;
+const descricaoHyakumo = `Hyakumos são deixados em locais protegidos da luz solar para completarem sua transformação.
+
+A larva que se desenvolve dentro de uma Largozu permanece no corpo da mãe durante praticamente todo o seu desenvolvimento. Quando finalmente está pronta para iniciar sua transformação, deixa o corpo materno e é abandonada em algum lugar escuro e protegido, onde rapidamente assume a forma de Hyakumo.
+
+A escolha desses locais é importante tanto para esconder a criatura de possíveis predadores quanto para protegê-la da luz, que pode danificar sua estrutura durante essa fase.
+
+Hyakumo é uma pupa de Myoskai de aparência disforme e volumosa. Seu corpo endurecido parece uma enorme massa irregular coberta por incontáveis estruturas semelhantes a pequenos olhos de aranha.
+
+Sua aparência grotesca costuma provocar medo e repulsa em quem a encontra, o que acaba funcionando como uma forma adicional de proteção.
+
+Hyakumos são completamente imóveis.
+
+Ainda assim, muitos insetos afirmam que eles conseguem observar tudo aquilo que acontece ao seu redor.
+
+Existem até histórias de Hyakumos capazes de soltar alguns de seus olhos para perseguir intrusos, mantendo-os sob vigilância mesmo depois que deixam seu campo de visão. Ninguém sabe ao certo se algo assim realmente acontece.
+
+Também existe a crença de que os lugares escolhidos para abrigar Hyakumos são especiais e devem permanecer intocados. Segundo essas histórias, eles seriam protegidos tanto pelos inúmeros olhos das pupas quanto pelas Largozus que frequentemente permanecem nas proximidades.
+
+Poucos insetos estão dispostos a descobrir se isso é verdade.
+
+Em condições favoráveis, a transformação costuma durar pouco mais de um mês. Entretanto, quando o inverno chega, um Hyakumo pode permanecer nessa forma durante toda a estação, aguardando condições mais favoráveis para completar seu desenvolvimento.
+
+Quando finalmente chega o momento, o corpo do Hyakumo se rompe.
+
+De dentro dele emerge outro tipo de Myoskai.
+
+E uma das mais detestáveis de toda a espécie.`;
+const descricaoUshimosk = `Ushimosk é uma das Myoskais mais detestáveis da espécie.
+
+Seu exoesqueleto é extremamente duro e resistente, capaz de suportar até mesmo o impacto de uma pedra caindo sobre seu corpo. Suas seis pernas terminam em poderosas garras feitas para prender e fixar, tornando-o um excelente escalador e permitindo que permaneça agarrado às costas de insetos muito maiores, que pouco conseguem fazer para removê-lo.
+
+Longas estruturas espinhosas se projetam de sua cabeça. Elas podem ser utilizadas em ataques frontais, mas também dificultam que um adversário o ataque ou tente arrancá-lo por cima.
+
+Entre essas estruturas encontra-se uma longa e afiada probóscide, uma das características mais marcantes dessa linhagem, utilizada para perfurar o corpo de suas vítimas e alcançar seus fluidos internos.
+
+Mesmo à distância, um Ushimosk ainda pode ser perigoso. Quando ameaçado, é capaz de expelir sobre o adversário um líquido corrosivo. A corrosão em si não costuma ser forte o bastante para causar ferimentos graves, mas o líquido pode adoecer aqueles que são atingidos e transmitir doenças a outros insetos.
+
+Seu comportamento alimentar é ainda mais temido.
+
+Ushimosks preferem criaturas muito maiores que eles. Ao encontrar uma vítima adequada, enterram suas garras em seu corpo e se fixam com enorme eficiência. Uma vez presos, perfuram o hospedeiro com a probóscide e passam a se alimentar de seu sangue.
+
+Retirá-los pode ser extremamente difícil.
+
+Um Ushimosk pode permanecer sobre o mesmo hospedeiro durante tanto tempo quanto conseguir continuar se alimentando dele, abandonando-o apenas quando aquela fonte deixa de ser útil.
+
+Curiosamente, Ushimosks ainda possuem asas quando emergem de seus Hyakumos.
+
+Nesse início de vida adulta, voam em busca de uma presa grande o bastante para sustentá-los por um longo período e incapaz de removê-los com facilidade. Quando finalmente encontram um hospedeiro adequado e conseguem se estabelecer sobre ele, cortam as próprias asas.
+
+Elas já cumpriram sua função.
+
+A partir desse momento, tornam-se essencialmente terrestres. Com o corpo achatado e as seis pernas abertas junto ao solo, conseguem correr com enorme velocidade, escalar superfícies e se espremer por espaços estreitos.
+
+Nem mesmo a água representa necessariamente uma barreira.
+
+Ushimosks conseguem permanecer na superfície utilizando o corpo achatado para flutuar, enquanto movimentam as longas pernas como remos e mantêm a respiração acima da água. Dessa maneira, podem atravessar pequenas áreas alagadas e até realizar ataques inesperados a partir delas.
+
+Ushimosks são agressivos e demonstram muito mais interesse em encontrar algo que possa servir de alimento do que em socializar.
+
+Sua alimentação é composta exclusivamente por fluidos sanguíneos. Embora prefiram criaturas muito maiores, insetos menores também podem se tornar vítimas quando um Ushimosk está faminto.
+
+Por tudo isso, poderiam parecer Myoskais completamente antissociais.
+
+Mas não são.
+
+Existem registros de Ushimosks formando alianças provisórias com outras Myoskais. Essas associações são particularmente comuns com Nureujis, com quem parecem conseguir conviver em territórios próximos a poças e outros ambientes úmidos.
+
+A natureza exata dessas alianças nem sempre é clara.
+
+Para os demais insetos, porém, isso significa apenas que encontrar um Ushimosk próximo da água pode não ser o único problema existente naquele lugar.`;
+const descricaoLarkasha = ``;
+const descricaoShogulo = `Quando um ou mais Tapu-Lis conseguem sobreviver aos campos e acumular energia suficiente, seus corpos começam a endurecer, formando uma espécie de armadura ao seu redor. É assim que surge o Shogulo.
+
+Preso dentro de sua própria carapaça, o Tapu-Li finalmente começa a compreender a crueldade à qual foi submetido. Anos de trabalho sem perspectiva, a fome constante e a perda de incontáveis irmãos que não pôde proteger deixam marcas profundas em sua mente.
+
+Nesse momento, uma imagem assustadora começa a se formar na superfície do Shogulo. Até mesmo um odor peculiar se desenvolve ao seu redor, afastando aqueles que se aproximam e criando a sensação de que há algo perigoso escondido dentro daquela carapaça.
+
+Apesar de parecer imóvel, o Shogulo consegue se mover lentamente utilizando pequenas pernas localizadas em sua parte inferior. Enquanto isso, em seu interior, a criatura continua seu desenvolvimento, moldada pelo ressentimento e por uma compreensão cada vez mais profunda de sua própria natureza.
+
+Toda a energia acumulada durante sua vida como Tapu-Li é transformada em força. Somada ao rancor que carrega, ela faz do Shogulo um guerreiro formidável.
+
+Mas essa transformação tem um preço: o Shogulo aprende a sobreviver sozinho. E, quando finalmente desperta, já não pensa como parte de um grupo. Ele pensa apenas em si mesmo.`;
+const descricaoSamurejeira = ``;
 // const descricao = ``;
 // const descricao = ``;
 // const descricao = ``;
@@ -5500,7 +5594,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'mudaneko', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' },{ insetoId: 'livrekubi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' },{ insetoId: 'largozu', tipo: 'ramificada' }, { insetoId: 'mozuchi', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' } ],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'mudaneko', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' },{ insetoId: 'livrekubi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' },{ insetoId: 'largozu', tipo: 'ramificada' }, { insetoId: 'mozuchi', tipo: 'ramificada' }, { insetoId: 'larkasha', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' } ],
   },
   {
     id: 'gakiru',
@@ -5671,6 +5765,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'ramificada',
   },
   {
+    id: 'larkasha',
+    nome: 'Larkasha',
+    nomeIngles: 'Larkasha',
+    imagem: '/images/moscas/larkasha.png',
+    descricao: descricaoLarkasha,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'shogulo', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
     id: 'myoskaitsuki',
     nome: 'Myoskaitsuki',
     nomeIngles: 'Myoskaitsuki',
@@ -5754,20 +5862,20 @@ export const insetos: Inseto[] = [
     evolucaoDe: [{ insetoId: 'gakiru', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
-  // {
-  //   id: 'shogulo',
-  //   nome: 'Shogulo',
-  //   nomeIngles: 'Shogoon',
-  //   imagem: '/images/moscas/shogulo.png',
-  //   descricao: descricaoShogulo,
-  //   linhagem: 'moscas',
-  //   estagio: 'forma casulo',
-  //   ...dadosPendentes,
-  //   tags: ['moscas'],
-  //   evolucoes: [{ insetoId: 'moshinobi', tipo: 'linear' }],
-  //   evolucaoDe: [{ insetoId: 'tapuli', tipo: 'linear' }],
-  //   tipoEvolucao: 'linear',
-  // },
+  {
+    id: 'shogulo',
+    nome: 'Shogulo',
+    nomeIngles: 'Shogoon',
+    imagem: '/images/moscas/shogulo.png',
+    descricao: descricaoShogulo,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'samurejeira', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'larkasha', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
   {
     id: 'ninjulo',
     nome: 'Ninjulo',
@@ -6102,6 +6210,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'hyakumo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'samurejeira',
+    nome: 'Samurejeira',
+    nomeIngles: 'Samurejeira',
+    imagem: '/images/moscas/samurejeira.png',
+    descricao: descricaoSamurejeira,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'shogulo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
