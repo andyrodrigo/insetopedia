@@ -6160,7 +6160,7 @@ export const insetos: Inseto[] = [
     id: 'moskenma',
     nome: 'Moskenma',
     nomeIngles: 'Moskenma',
-    imagem: '/images/moscas/moskoenma.png',
+    imagem: '/images/moscas/moskenma.png',
     descricao: descricaoMoskenma,
     linhagem: 'moscas',
     estagio: 'forma comum',
