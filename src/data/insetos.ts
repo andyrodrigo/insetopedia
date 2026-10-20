@@ -4132,9 +4132,12 @@ Em alguns casos, os ferimentos são suficientes para incapacitá-lo, deixando-o 
 Kamaidípteras depositam seus Ovobakes nos terrenos litorâneos onde vivem. Não precisam proteger constantemente essas áreas ou impedir todos os outros insetos de se aproximarem.
 
 Sabem que sua fase larval é mais do que suficiente para manter essas regiões sob o controle de sua linhagem.`;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
-// const descricaoOvobake = ``;
+const descricaoLargozu = ``;
+const descricaoHyakumo = ``;
+const descricaoUshimosk = ``;
+// const descricao = ``;
+// const descricao = ``;
+// const descricao = ``;
 
 const dadosPendentes = {
   caracteristicas: [] as string[],
@@ -5497,7 +5500,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma ovo',
     ...dadosPendentes,
     tags: ['moscas'],
-    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' },{ insetoId: 'livrekubi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' }, { insetoId: 'mozuchi', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' }, { insetoId: 'mudaneko', tipo: 'ramificada' } ],
+    evolucoes: [{ insetoId: 'gakiru', tipo: 'ramificada' }, { insetoId: 'tapuli', tipo: 'ramificada' }, { insetoId: 'nureuji', tipo: 'ramificada' }, { insetoId: 'petopetosan', tipo: 'ramificada' }, { insetoId: 'ratesso', tipo: 'ramificada' }, { insetoId: 'moskappa', tipo: 'ramificada' }, { insetoId: 'mudaneko', tipo: 'ramificada' }, { insetoId: 'myoskaitsuki', tipo: 'ramificada' }, { insetoId: 'futakuchi', tipo: 'ramificada' },{ insetoId: 'livrekubi', tipo: 'ramificada' }, { insetoId: 'yoshukubi', tipo: 'ramificada' },  { insetoId: 'asawang', tipo: 'ramificada' },{ insetoId: 'largozu', tipo: 'ramificada' }, { insetoId: 'mozuchi', tipo: 'ramificada' }, { insetoId: 'subotoroshi', tipo: 'ramificada' }, { insetoId: 'kuroashi', tipo: 'ramificada' } ],
   },
   {
     id: 'gakiru',
@@ -5604,7 +5607,7 @@ export const insetos: Inseto[] = [
     imagem: '/images/moscas/mudaneko.png',
     descricao: descricaoMudaneko,
     linhagem: 'moscas',
-    estagio: 'forma larva',
+    estagio: 'forma inicial',
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'nurarikilino', tipo: 'linear' }],
@@ -5650,6 +5653,20 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     tags: ['moscas'],
     evolucoes: [{ insetoId: 'hitotsumeuji', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'largozu',
+    nome: 'Largozu',
+    nomeIngles: 'Largozu',
+    imagem: '/images/moscas/largozu.png',
+    descricao: descricaoLargozu,
+    linhagem: 'moscas',
+    estagio: 'forma larva',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'hyakumo', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'ovobake', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
@@ -5892,6 +5909,20 @@ export const insetos: Inseto[] = [
     tipoEvolucao: 'linear',
   },
   {
+    id: 'hyakumo',
+    nome: 'Hyakumo',
+    nomeIngles: 'Hyakumo',
+    imagem: '/images/moscas/hyakumo.png',
+    descricao: descricaoHyakumo,
+    linhagem: 'moscas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [{ insetoId: 'ushimosk', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'largozu', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
     id: 'haenya',
     nome: 'Haenya',
     nomeIngles: 'Haenya',
@@ -6057,6 +6088,20 @@ export const insetos: Inseto[] = [
     tags: ['moscas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'hitotsumeuji', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'ushimosk',
+    nome: 'Ushimosk',
+    nomeIngles: 'Ushimosk',
+    imagem: '/images/moscas/ushimosk.png',
+    descricao: descricaoUshimosk,
+    linhagem: 'moscas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['moscas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'hyakumo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
