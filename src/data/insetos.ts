@@ -87,6 +87,36 @@ Nas Trincheiras, é comum encontrar grupos inteiros realizando sucessivas série
 Poucas Formilitares escolhem como chegar ao campo de batalha.
 
 As Formiquedistas escolhem até onde vão cair.`;
+const descricaoFormincursora = `As Formincursoras são especialistas em penetrar em território inimigo. Rápidas, independentes e extremamente agressivas, são enviadas para missões de incursão nas quais permanecer escondidas importa menos do que entrar, cumprir seu objetivo e encontrar uma maneira de sair.
+
+Seu principal objetivo durante essas operações costuma ser a captura de crias. Formincursoras invadem ninhos, colônias e outras estruturas em busca de larvas e pupas de diferentes espécies de insetos, que são carregadas vivas de volta para as Trincheiras.
+
+Durante uma invasão, podem liberar substâncias capazes de provocar desorientação e pânico entre os defensores, desorganizando temporariamente sua reação e criando oportunidades para avançar ou escapar. Quando precisam coordenar suas ações, produzem sinais por estridulação. Diferentes sinais permitem alertar outras Formincursoras, solicitar auxílio, provocar o agrupamento da unidade ou comunicar que uma incursão fracassou.
+
+Apesar de normalmente participarem de ataques coordenados, são perfeitamente capazes de operar sozinhas. Possuem mandíbulas fortes e um ferrão potente, utilizando ambos para caçar ou enfrentar adversários durante uma missão. Também podem se alimentar de animais mortos, o que permite que sobrevivam por períodos prolongados longe das Trincheiras quando uma operação não ocorre conforme o planejado.
+
+Mas capturar uma Formincursora viva pode ser ainda mais perigoso do que enfrentá-la.
+
+Quando cercada, imobilizada ou sem possibilidade de retornar, ela pode romper violentamente o próprio corpo, espalhando ao redor uma secreção extremamente pegajosa, irritante e fedorenta. A substância adere aos indivíduos atingidos e, dependendo da quantidade e do tamanho da vítima, pode desorientar, imobilizar ou até matar. A Formincursora não sobrevive ao processo.
+
+Por isso, uma incursão fracassada não significa necessariamente uma missão perdida.
+
+Se não puder retornar com aquilo que foi buscar, a Formincursora ainda pode garantir que seus inimigos paguem por tê-la encontrado.`;
+const descricaoFormispia = `Formispiãs são especialistas em espionagem, infiltração e manipulação de sociedades inimigas. uma Formispiã pode permanecer entre seus inimigos por longos períodos sem ser reconhecida como invasora.
+
+Grande parte dessa capacidade depende do controle extraordinário que possuem sobre sua própria assinatura química. Uma Formispiã pode reduzir os sinais que normalmente denunciariam sua presença e adquirir substâncias presentes no corpo dos indivíduos com os quais entra em contato. Depois de algum tempo, passa a reproduzir a identidade química da população infiltrada e pode circular entre seus integrantes como se pertencesse àquele grupo.
+
+Indivíduos particularmente habilidosos conseguem ir além. Ao estudar e manter contato suficiente com um alvo específico, podem reproduzir sua assinatura química individual. Dessa forma, são capazes de roubar a identidade de membros importantes e até de líderes, fazendo com que sistemas de reconhecimento baseados em sinais químicos identifiquem a Formispiã como o indivíduo que ela está imitando.
+
+Para sustentar esse tipo de disfarce, a Formispiã precisa observar comportamentos, relações e rotinas, pois uma reação inadequada ainda pode denunciar a impostora.
+
+Sua capacidade química também pode ser utilizada ofensivamente. Formispiãs produzem substâncias capazes de repelir, apaziguar ou alterar o comportamento de outros insetos. Em determinadas situações, podem provocar confusão entre integrantes de uma mesma população, fazendo com que indivíduos que antes se reconheciam como aliados passem a reagir uns aos outros como possíveis intrusos.
+
+Quando sua identidade é descoberta, essas mesmas substâncias tornam-se sua principal forma de escapar. Compostos liberados no ambiente ou aplicados diretamente contra adversários podem provocar recuo, submissão ou desorganização, abrindo uma oportunidade para que a Formispiã desapareça antes que as defesas consigam reagir.
+
+Por isso, descobrir uma Formispiã dentro de uma colônia provoca um problema que continua mesmo depois que ela desaparece.
+
+Se ela conseguiu se passar por um dos seus, resta descobrir por quanto tempo esteve ali — e por quem mais ela pode ter se passado.`;
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
 
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
@@ -4379,7 +4409,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['formigas'],
-    evolucoes: [{ insetoId: 'formajor', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'formajor', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' }, { insetoId: 'formincursora', tipo: 'ramificada' }, { insetoId: 'formispia', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'granovo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
@@ -4442,6 +4472,32 @@ export const insetos: Inseto[] = [
     nomeIngles: 'Antarchitect',
     imagem: '/images/formigas/formiquedista.png',
     descricao: descricaoFormiquedista,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formincursora',
+    nome: 'Formincursora',
+    nomeIngles: 'Antraider',
+    imagem: '/images/formigas/formincursora.png',
+    descricao: descricaoFormincursora,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formispia',
+    nome: 'Formispiã',
+    nomeIngles: 'Antspy',
+    imagem: '/images/formigas/formispia.png',
+    descricao: descricaoFormispia,
     linhagem: 'formigas',
     estagio: 'forma alternativa',
     ...dadosPendentes,
