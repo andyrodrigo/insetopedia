@@ -42,11 +42,57 @@ Ao se desenvolverem, tornam-se Formilotos. Suas asas permitem percorrer rapidame
 Formilotos são especialmente eficientes em reconhecimento e preparação de ofensivas. Algumas colônias mais experientes aprenderam a reconhecer um sinal particularmente preocupante: em dias de chuva, pequenas silhuetas de Formilotos podem ser vistas sobrevoando seus territórios, parcialmente escondidas pela neblina e pelas nuvens baixas.
 Quando isso acontece, dificilmente estão apenas de passagem. Estão observando.
 E quando a chuva cessa, geralmente o exército que elas estavam esperando também chega.`;
+const descricaoFormifogo = `As Formifogos estão entre as tropas mais agressivas das Formilitares. Quando entram em combate, agarram seus adversários com as mandíbulas e utilizam o ferrão localizado na extremidade do gáster para atacar repetidamente. Seu veneno provoca uma intensa sensação de queimadura, característica que deu origem ao seu nome.
+
+Apesar disso, sua principal função dentro do exército não é causar destruição, mas retirar outras Formilitares dela.
+
+Formifogos são especializadas em operações de resgate. Quando uma tropa fica cercada, soterrada ou incapaz de abandonar uma região perigosa, são frequentemente as primeiras a entrar. Suas mandíbulas podem remover obstáculos e libertar indivíduos presos, enquanto sua força permite carregar companheiras feridas para locais seguros. Se alguma criatura estiver entre elas e aqueles que precisam ser resgatados, porém, dificilmente tentarão contorná-la.
+
+Elas simplesmente avançam.
+
+Uma Formifogo também é capaz de identificar ferimentos e realizar cuidados emergenciais. Feridas podem ser limpas e tratadas ainda no campo de batalha e, em casos extremos, membros gravemente comprometidos podem ser removidos para preservar a vida da Formilitar ferida. Seu objetivo não é substituir os cuidados realizados posteriormente nas Trincheiras, mas garantir que a companheira sobreviva tempo suficiente para chegar até elas.
+
+Sua especialização se torna ainda mais evidente quando água invade o campo de batalha ou ameaça uma Trincheira. Formifogos conseguem prender seus corpos umas às outras, formando grandes jangadas vivas. Essas estruturas flutuantes podem transportar Formilitares, larvas, Granovos e outros sobreviventes através de regiões inundadas. Cada indivíduo funciona como uma pequena parte da embarcação, e a formação pode ser desfeita assim que alcançam terreno seguro.
+
+Para uma Formifogo, entrar em uma região da qual todos estão tentando escapar não é sinal de imprudência.
+
+É simplesmente onde seu trabalho começa.`;
+const descricaoFormigenheiro = `As Formingenheiros são responsáveis por praticamente tudo que é construído pelas Formilitares. Especializadas em engenharia, são encontradas tanto nas profundezas das Trincheiras quanto acompanhando tropas em territórios recém-conquistados.
+
+Suas fortes mandíbulas permitem cortar, escavar e transportar materiais. Com elas, Formingenheiros abrem túneis, ampliam câmaras e removem grandes quantidades de terra e detritos. Uma Trincheira nunca é considerada uma estrutura terminada: novas passagens podem ser abertas, setores isolados e câmaras ampliadas conforme as necessidades da colônia.
+
+Sua capacidade, porém, vai muito além da escavação. Formingenheiros selecionam materiais de acordo com suas propriedades e os combinam para produzir estruturas complexas. Terra, pedras, madeira e fragmentos vegetais podem ser utilizados para reforçar paredes, construir entradas, erguer barreiras, criar postos avançados ou reparar estruturas danificadas.
+
+Também cabe às Formingenheiros controlar diversos aspectos da arquitetura das Trincheiras. Entradas podem ser abertas, fechadas ou fortificadas, enquanto túneis e estruturas de ventilação são modificados para manter condições adequadas nas regiões subterrâneas. Em territórios ocupados, são responsáveis pela construção de novas instalações e pela expansão da infraestrutura necessária para sustentar o avanço das tropas.
+
+Por isso, Formingenheiros frequentemente acompanham campanhas militares. Enquanto outras Formilitares conquistam território, elas transformam o terreno conquistado. Constroem abrigos, fortificações, barreiras, passagens e estruturas temporárias, além de estabelecer postos que posteriormente podem se tornar parte de uma nova Trincheira.
+
+Quando precisam combater, agarram seus adversários com as fortes mandíbulas e liberam pelo gáster uma secreção ácida extremamente irritante, especialmente dolorosa quando atinge os ferimentos provocados durante o ataque.
+
+Para as Formilitares, conquistar uma posição é apenas o começo.
+
+É a chegada das Formingenheiros que transforma território conquistado em território ocupado.`;
+const descricaoFormiquedista = `Formiquedistas são tropas especializadas em inserção aérea e ataques de alta mobilidade. Possuem visão excepcional, pernas adaptadas a grandes saltos e uma extraordinária capacidade de avaliar distâncias e trajetórias, características que lhes permitem atacar com precisão mesmo enquanto estão em movimento.
+
+Durante grandes ofensivas, são transportadas por Formicópteros e lançadas diretamente sobre posições inimigas. Enquanto caem, acompanham visualmente o terreno e escolhem o ponto onde pretendem aterrissar, podendo alterar sua postura durante a queda para preparar o impacto ou interceptar adversários antes mesmo de alcançar o solo.
+
+Suas pernas absorvem o impacto da aterrissagem e imediatamente voltam a servir como meio de locomoção. Uma Formiquedista pode atravessar rapidamente o campo de batalha através de sucessivos saltos, superar obstáculos e alcançar posições normalmente inacessíveis a outras Formilitares.
+
+Também são excelentes caçadoras. Seus grandes olhos permitem acompanhar movimentos rápidos e calcular o momento exato de um ataque. Quando alcançam um adversário, utilizam suas longas mandíbulas para capturá-lo e mantê-lo imobilizado enquanto aplicam uma ferroada capaz de paralisá-lo.
+
+Sua visão permanece eficiente mesmo sob baixíssima luminosidade, tornando possível realizar operações e desembarques durante a noite. Por dependerem muito mais de seus próprios sentidos e capacidades do que da presença constante de outras tropas, Formiquedistas também conseguem continuar suas missões quando lançadas isoladamente ou separadas de sua unidade.
+
+Nas Trincheiras, é comum encontrar grupos inteiros realizando sucessivas séries de saltos. Esses exercícios fazem parte de seu treinamento militar e desenvolvem impulsão, precisão, aterrissagem e capacidade de reagir rapidamente durante o combate.
+
+Poucas Formilitares escolhem como chegar ao campo de batalha.
+
+As Formiquedistas escolhem até onde vão cair.`;
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
 
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
 
 No campo de batalha, a Formitanque também exerce uma importante função de comando. Sua antena é capaz de emitir sinais de alerta que percorrem as tropas, indicando mudanças na formação, reorganizando as fileiras e coordenando complexas armadilhas de guerra. Quando uma Formitanque altera sua posição, dezenas ou até centenas de Formilitares podem mudar de estratégia em resposta aos seus sinais.
+
 Seu exoesqueleto possui espaços internos adaptados para o transporte de tropas e munição viva. Em seu interior, uma Formitanque é capaz de carregar duas Formilitares e quatro Granovos, protegidos por sua própria carapaça durante o avanço.
 
 E esse número pode ser ainda maior.
@@ -4216,19 +4262,89 @@ Existem registros de Ushimosks formando alianças provisórias com outras Myoska
 A natureza exata dessas alianças nem sempre é clara.
 
 Para os demais insetos, porém, isso significa apenas que encontrar um Ushimosk próximo da água pode não ser o único problema existente naquele lugar.`;
-const descricaoLarkasha = ``;
-const descricaoShogulo = `Quando um ou mais Tapu-Lis conseguem sobreviver aos campos e acumular energia suficiente, seus corpos começam a endurecer, formando uma espécie de armadura ao seu redor. É assim que surge o Shogulo.
+const descricaoLarkasha = `Lakarsha é uma larva de Myoskai que se alimenta dos mortos.
 
-Preso dentro de sua própria carapaça, o Tapu-Li finalmente começa a compreender a crueldade à qual foi submetido. Anos de trabalho sem perspectiva, a fome constante e a perda de incontáveis irmãos que não pôde proteger deixam marcas profundas em sua mente.
+Ela possui um aparelho bucal próprio para consumir tecidos em decomposição e garras afiadas, utilizadas para romper regiões mais resistentes dos corpos e alcançar aquilo que existe em seu interior.
 
-Nesse momento, uma imagem assustadora começa a se formar na superfície do Shogulo. Até mesmo um odor peculiar se desenvolve ao seu redor, afastando aqueles que se aproximam e criando a sensação de que há algo perigoso escondido dentro daquela carapaça.
+Lakarshas produzem muito calor durante sua alimentação. Mesmo uma pequena quantidade delas pode alterar a temperatura ao redor, fazendo com que sua presença seja percebida antes mesmo que sejam encontradas.
 
-Apesar de parecer imóvel, o Shogulo consegue se mover lentamente utilizando pequenas pernas localizadas em sua parte inferior. Enquanto isso, em seu interior, a criatura continua seu desenvolvimento, moldada pelo ressentimento e por uma compreensão cada vez mais profunda de sua própria natureza.
+Entre os insetos, existe a crença de que Lakarshas aparecem para devorar os corpos de transgressores: aqueles que mataram outros sem necessidade, roubaram recursos que não lhes pertenciam ou cometeram outros atos considerados imperdoáveis.
 
-Toda a energia acumulada durante sua vida como Tapu-Li é transformada em força. Somada ao rancor que carrega, ela faz do Shogulo um guerreiro formidável.
+Quanto maior o morto, maior pode ser o número de Lakarshas atraídas para seu corpo.
 
-Mas essa transformação tem um preço: o Shogulo aprende a sobreviver sozinho. E, quando finalmente desperta, já não pensa como parte de um grupo. Ele pensa apenas em si mesmo.`;
-const descricaoSamurejeira = ``;
+Em cadáveres em estado avançado de decomposição, algumas parecem surgir diretamente de seu interior. Muitas podem ocupar o mesmo corpo e competir pelos melhores pedaços, enquanto o calor produzido pela concentração de larvas torna o ambiente ao redor cada vez mais difícil de suportar.
+
+Mas nenhum lugar é tão associado às Lakarshas quanto um campo de batalha.
+
+Depois que o combate termina e muitos corpos permanecem caídos, começam a surgir em números enormes. Dezenas tornam-se centenas, espalhando-se entre os mortos e alimentando-se dos restos deixados pela guerra.
+
+À medida que sua quantidade aumenta, aumenta também a temperatura.
+
+O campo inteiro começa a esquentar.
+
+Para os insetos que observam aquilo à distância, a imagem parece confirmar as antigas histórias: centenas de Lakarshas rastejando entre os mortos enquanto o próprio lugar se torna quente como um inferno.`;
+const descricaoShogulo = `Quando uma Lakarsha já se alimentou o suficiente dos mortos e acumulou toda a energia necessária para sua transformação, seu corpo começa a endurecer, formando uma espécie de armadura ao seu redor.
+
+É assim que surge o Shogulo.
+
+Protegida em seu interior, a criatura inicia sua transformação enquanto a superfície do Shogulo escurece progressivamente.
+
+Alguns insetos acreditam que, durante esse processo, ele adquire a força e a capacidade de combate daqueles que foram devorados pela Lakarsha. Outros dizem que um Shogulo carrega consigo os lamentos dos mortos que serviram de alimento para sua formação.
+
+Apesar de parecer completamente imóvel, um Shogulo consegue se deslocar lentamente utilizando pequenas pernas localizadas em sua parte inferior. Esses movimentos são limitados, mas suficientes para que procure locais menos expostos enquanto a transformação continua em seu interior.
+
+Com o passar do tempo, um odor peculiar de morte e decomposição começa a se formar ao seu redor. O cheiro costuma afastar aqueles que se aproximam e reforça a sensação de que existe algo perigoso escondido dentro daquela estrutura escura.
+
+Nos Shogulos originados de Lakarshas que cresceram em campos de batalha, outro fenômeno pode ocorrer.
+
+Uma imagem assustadora começa a surgir em sua superfície.
+
+Sua aparência varia de um Shogulo para outro, mas essas marcas frequentemente lembram rostos ameaçadores que parecem encarar e intimidar aqueles que os observam.
+
+Para muitos insetos, isso confirma a antiga crença de que o Shogulo absorveu algo dos guerreiros mortos que serviram de alimento à Lakarsha.
+
+Também se acredita que, quanto mais assustadora for a imagem formada em sua superfície, mais poderoso e robusto será o Myoskai que surgirá de seu interior.
+
+O clã Shosabae leva essa crença bastante a sério.
+
+Algum tempo depois do fim de grandes batalhas, membros do clã podem retornar ao local em busca dos Shogulos que permaneceram entre os restos do conflito. Entre eles, procuram aqueles que desenvolveram as imagens mais tenebrosas e os levam para seus esconderijos.
+
+Quando esses Shogulos finalmente se abrem, os Myoskais que emergem são incorporados aos exércitos de Sun-hon.
+
+Entre todos os encontrados, aquele considerado mais assustador e promissor costuma receber atenção especial.
+
+Pois dele pode nascer aquele que será escolhido para liderar os demais.`;
+const descricaoSamurejeira = `Samurejeiras são Myoskais fortes e robustas.
+
+Seu corpo grande e pesado faz com que sejam mais lentas que muitas outras Myoskais, mas elas compensam essa desvantagem com força, resistência, paciência e eficiência. Em vez de depender exclusivamente de velocidade, costumam esperar o momento adequado para agir.
+
+Samurejeiras possuem uma capacidade extraordinária de detectar o odor de mortos a grandes distâncias e são naturalmente atraídas por ele.
+
+Embora tenham uma alimentação variada e possam inclusive consumir animais mortos, os cadáveres possuem importância ainda maior para sua reprodução.
+
+As fêmeas implantam seus Ovobakes em corpos mortos ou nas proximidades deles. Algumas são capazes até mesmo de perceber quando um inseto está próximo da morte e se antecipam, deixando discretamente um Ovobake escondido em seu abrigo.
+
+Mas nenhum lugar atrai tantas Samurejeiras quanto um campo de batalha.
+
+Depois que o combate termina, a grande quantidade de mortos transforma o lugar em um enorme campo fértil para sua descendência. Cada corpo pode servir de alimento para diversas Lakarshas, permitindo que uma nova geração se desenvolva entre os restos da batalha.
+
+É justamente por isso que Samurejeiras frequentemente fazem parte dos exércitos do clã Shosabae.
+
+Para elas, participar de uma guerra não significa apenas lutar por Sun-hon. Significa contribuir para a criação do ambiente no qual sua própria descendência poderá prosperar.
+
+Mesmo que isso custe a vida de muitos dos seus.
+
+Toda Samurejeira nasce com as duas garras características das Myoskais. Entretanto, aquelas incorporadas aos exércitos do Shosabae podem passar por uma modificação peculiar.
+
+Myoskais especializados removem cuidadosamente determinadas placas do exoesqueleto armadurado da própria Samurejeira e reestruturam esse material sobre uma de suas garras. O resultado é uma longa estrutura de corte inspirada nas garras e lâminas naturais encontradas em outros insetos.
+
+Assim, parte da própria armadura da Samurejeira transforma-se em sua arma.
+
+Entre os membros de um exército, algumas Samurejeiras acabam se destacando pela força, resistência e capacidade de combate.
+
+Uma Samurejeira excepcional pode ser escolhida para liderar as tropas do Shosabae nos campos de batalha.
+
+E quanto mais eficiente for esse comandante em produzir mortos durante uma guerra, maior poderá ser o campo de reprodução deixado para a próxima geração.`;
 // const descricao = ``;
 // const descricao = ``;
 // const descricao = ``;
@@ -4263,7 +4379,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['formigas'],
-    evolucoes: [{ insetoId: 'formajor', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'formajor', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'granovo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
@@ -4291,6 +4407,45 @@ export const insetos: Inseto[] = [
     estagio: 'forma alternativa',
     ...dadosPendentes,
     evolucoes: [{ insetoId: 'formicoptero', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formifogo',
+    nome: 'Formifogo',
+    nomeIngles: 'Firant',
+    imagem: '/images/formigas/formifogo.png',
+    descricao: descricaoFormifogo,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formigenheiro',
+    nome: 'Formigenheiro',
+    nomeIngles: 'Antbuilder',
+    imagem: '/images/formigas/formigenheiro.png',
+    descricao: descricaoFormigenheiro,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formiquedista',
+    nome: 'Formiquedista',
+    nomeIngles: 'Antarchitect',
+    imagem: '/images/formigas/formiquedista.png',
+    descricao: descricaoFormiquedista,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
     evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
