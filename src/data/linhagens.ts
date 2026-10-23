@@ -85,7 +85,7 @@ export const linhagens: Linhagem[] = [
     descricao: descricaoFormigas,
     imagemCapa: '/images/formigas/capa.png',
     tema: '#8f4f24',
-    criaturas: ['granovo', 'formilitar', 'formajor', 'formiloto', 'formitanque', 'formicoptero', 'formifogo', 'formigenheiro', 'formiquedista', 'formincursora', 'formispia'],
+    criaturas: ['granovo', 'formilitar', 'formelite', 'formochila', 'formajor', 'formiloto', 'formitanque', 'formicoptero', 'formifogo', 'formigenheiro', 'formiquedista', 'formincursora', 'formispia'],
   },
   {
     id: 'baratas',

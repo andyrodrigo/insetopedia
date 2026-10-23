@@ -11,13 +11,15 @@ Quando todas as outras opções falham, o Granovo pode recorrer ao seu último r
 Porém, os Granovos mais desenvolvidos possuem uma característica ainda mais peculiar. Quando estão próximos de completar sua transformação, sua casca começa a se tornar progressivamente mais fina. Nesse estágio, são arremessados contra as linhas inimigas como de costume. Ao atingir o alvo, a casca se rompe violentamente — mas, em vez de uma explosão, dela emerge uma Formilitar completamente desenvolvida, pronta para continuar o ataque.
 
 Assim, para o exército das formigas, um Granovo não é apenas uma arma: é também um soldado em formação, aguardando o momento certo para nascer no campo de batalha.`;
-const descricaoFormilitar = `À primeira vista, as Formilitares podem parecer pequenas e pouco letais. Não possuem ferrões, garras ou outras armas naturais aparentes, e seu corpo não parece especialmente preparado para o combate. Essa impressão, porém, é enganosa.
+const descricaoFormilitar = `À primeira vista, as Formilitares podem parecer pequenas e pouco letais. Não possuem ferrões ou outras armas naturais especialmente desenvolvidas, e seu corpo não parece particularmente preparado para o combate. Essa impressão, porém, é enganosa.
 
 As Formilitares possuem uma força muito maior do que seu tamanho sugere. São capazes de erguer e arremessar objetos várias vezes maiores que elas e podem até lançar inimigos de tamanho consideravelmente superior. Uma Formilitar sozinha já é capaz de surpreender pela força, mas seu verdadeiro poder está em outro lugar.
 
 Organização.
 
-As Formilitares funcionam como um único exército. Lutam em perfeita cooperação, coordenando seus movimentos e estratégias por meio das antenas de rádio que carregam em seus capacetes. Informações podem percorrer as fileiras rapidamente, permitindo que grupos inteiros reajam como se fossem uma única criatura.
+As Formilitares funcionam como um único exército. Lutam em perfeita cooperação, coordenando seus movimentos e estratégias por meio de suas antenas de comunicação. Informações podem percorrer suas fileiras rapidamente, permitindo que grupos inteiros reajam como se fossem uma única criatura.
+
+Essa cooperação não termina nos limites de uma Trincheira. Colônias aliadas podem manter contato constante, compartilhar recursos, movimentar tropas e participar de uma mesma expansão, formando exércitos que se estendem por territórios imensos.
 
 Para uma Formilitar, a guerra não é apenas uma atividade: é seu modo de vida. Elas lutam para conquistar novos territórios, proteger suas colônias e, acima de tudo, aumentar seus próprios números.
 
@@ -117,6 +119,43 @@ Quando sua identidade é descoberta, essas mesmas substâncias tornam-se sua pri
 Por isso, descobrir uma Formispiã dentro de uma colônia provoca um problema que continua mesmo depois que ela desaparece.
 
 Se ela conseguiu se passar por um dos seus, resta descobrir por quanto tempo esteve ali — e por quem mais ela pode ter se passado.`;
+const descricaoFormochila = `Formochilas são responsáveis pelo armazenamento e transporte de reservas de alimento das Formilitares. Seu gáster é extremamente expansível e pode acumular grandes quantidades de alimento, transformando cada indivíduo em uma reserva viva capaz de conservar provisões por longos períodos.
+
+Muitas permanecem nas Trincheiras, onde constituem parte das reservas estratégicas da colônia. Diferentemente de depósitos convencionais, porém, o alimento armazenado por uma Formochila permanece sob a proteção de uma Formilitar capaz de se deslocar, defender sua carga e distribuí-la onde for necessária.
+
+Por isso, Formochilas também acompanham operações militares. Podem ser levadas para posições próximas ao campo de batalha e funcionar como pontos móveis de abastecimento, permitindo que tropas em campanha tenham acesso a alimento sem precisar retornar às Trincheiras. Quando muito carregadas e a velocidade de deslocamento é importante, podem ser transportadas pelas Formilitares maiores.
+
+A quantidade armazenada altera consideravelmente seu desempenho. Uma Formochila vazia ou com poucas reservas possui mobilidade e capacidade de defesa semelhantes às de uma Formilitar comum. Conforme seu gáster aumenta, porém, o peso adicional reduz progressivamente sua velocidade. Uma Formochila completamente abastecida ainda consegue se locomover e se defender, mas torna-se lenta em comparação às demais tropas.
+
+Seu enorme gáster também torna evidente quanto alimento está carregando. Em território inimigo, Formochilas abastecidas são alvos extremamente valiosos. Destruir uma significa eliminar parte dos suprimentos adversários, mas capturá-la viva permite tomar essas reservas para si.
+
+Por esse motivo, durante uma retirada, proteger as Formochilas pode ser tão importante quanto proteger os próprios soldados.
+
+Uma Formochila cheia não é apenas uma Formilitar carregando provisões.
+
+Ela é a provisão.`;
+const descricaoFormelite = `As Formelites são tropas de elite que representam o mais alto grau de integração que uma Formilitar pode alcançar com seu exército.
+
+Enquanto outras Formilitares desenvolvem aptidões específicas e seguem caminhos especializados, as Formelites aperfeiçoam aquilo que existe em todas elas desde o princípio: disciplina, comunicação e capacidade de agir como parte de algo maior.
+
+Suas antenas de comunicação permitem que compartilhem informações e reajam rapidamente aos movimentos de suas companheiras. Quando várias Formelites atuam juntas, cada indivíduo reconhece o que o grupo precisa e assume imediatamente a posição necessária para que a missão continue.
+
+Essa capacidade torna suas tropas extremamente adaptáveis.
+
+Diante de obstáculos, podem unir seus próprios corpos para formar pontes, rampas e plataformas. Em terrenos instáveis, transformam-se em estruturas de sustentação para a passagem das demais tropas. Quando precisam defender uma posição, podem formar muralhas e barreiras vivas. Se uma operação exige permanência no território, centenas delas podem se reunir em uma estrutura muito maior, formando acampamentos e bases temporárias inteiramente compostas por Formelites.
+
+Essas formações não são permanentes. Elas surgem conforme a necessidade, modificam-se durante a operação e desaparecem assim que deixam de ser úteis. Uma mesma tropa pode atravessar um obstáculo como uma ponte e, pouco depois, reorganizar-se em uma formação de ataque.
+
+Por essa razão, Formelites costumam ser enviadas para missões nas quais as condições do terreno ou a resistência inimiga são imprevisíveis. Seu treinamento não consiste apenas em executar estratégias previamente definidas, mas em encontrar coletivamente uma maneira de continuar avançando quando o plano original deixa de funcionar.
+
+Individualmente, cada Formelite é uma combatente altamente treinada. Juntas, porém, deixam de agir apenas como indivíduos.
+
+Cada uma se torna uma pequena parte de um organismo muito maior.
+
+Para outras Formilitares, alcançar essa forma é uma das demonstrações mais puras de dedicação à colônia. Uma Formelite não evoluiu para se destacar do exército.
+
+Evoluiu para fazer parte dele como nenhuma outra.`;
+// const descricao = ``;
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
 
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
@@ -4409,8 +4448,36 @@ export const insetos: Inseto[] = [
     estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['formigas'],
-    evolucoes: [{ insetoId: 'formajor', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' }, { insetoId: 'formincursora', tipo: 'ramificada' }, { insetoId: 'formispia', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'formelite', tipo: 'ramificada' },{ insetoId: 'formochila', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' }, { insetoId: 'formincursora', tipo: 'ramificada' }, { insetoId: 'formispia', tipo: 'ramificada' }, { insetoId: 'formajor', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'granovo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formelite',
+    nome: 'Formelite',
+    nomeIngles: 'Antlite',
+    imagem: '/images/formigas/formelite.png',
+    descricao: descricaoFormelite,
+    linhagem: 'formigas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formochila',
+    nome: 'Formochila',
+    nomeIngles: 'Packant',
+    imagem: '/images/formigas/formochila.png',
+    descricao: descricaoFormochila,
+    linhagem: 'formigas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
