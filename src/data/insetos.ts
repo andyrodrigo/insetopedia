@@ -155,7 +155,42 @@ Cada uma se torna uma pequena parte de um organismo muito maior.
 Para outras Formilitares, alcançar essa forma é uma das demonstrações mais puras de dedicação à colônia. Uma Formelite não evoluiu para se destacar do exército.
 
 Evoluiu para fazer parte dele como nenhuma outra.`;
-// const descricao = ``;
+const descricaoFormigeador = `A coleta e a produção de alimentos fazem parte da rotina de qualquer Trincheira. Formilitares comuns podem colher recursos, cuidar de plantações e realizar diversos trabalhos necessários para manter a colônia abastecida. Os Formigeadores, porém, são os especialistas nessas atividades.
+
+É comum encontrá-los trabalhando acompanhados por grupos de Formilitares, que os auxiliam nas tarefas mais numerosas e aprendem com sua experiência. Algumas dessas ajudantes acabam demonstrando aptidão para o trabalho e futuramente tornam-se Formigeadores.
+
+Suas fortes mandíbulas cortadoras são especialmente eficientes para cortar folhas, caules e outros materiais vegetais. Durante grandes coletas, organizam rotas entre as fontes de recursos e as Trincheiras, coordenando o trabalho das Formilitares que transportam tudo aquilo que foi obtido.
+
+Parte do material vegetal coletado também é utilizado em seus cultivos subterrâneos. Os Formigeadores mantêm jardins de fungos em câmaras apropriadas das Trincheiras, cuidando das condições necessárias para que continuem crescendo e fornecendo alimento à colônia.
+
+Seu conhecimento não se limita aos fungos. Formigeadores selecionam sementes, cultivam plantas úteis e cuidam de áreas agrícolas próximas às Trincheiras, aproveitando diferentes espécies de acordo com aquilo que cada território oferece.
+
+Também são responsáveis pelos Pulgordos que trabalham para a colônia. Os Formigeadores vigiam esses pequenos trabalhadores, auxiliam quando necessário e os defendem de predadores e outras ameaças. Sob sua proteção, os Pulgordos podem continuar produzindo recursos para as Formilitares em segurança.
+
+Essa capacidade de explorar, cultivar e administrar diferentes fontes de alimento torna os Formigeadores fundamentais principalmente para colônias grandes ou em expansão.
+
+Afinal, conquistar território aumenta o tamanho de uma colônia.
+
+Transformar esse território em sustento é trabalho dos Formigeadores.`;
+const descricaoEnfermiga = `As Enfermigas são as principais cuidadoras das colônias de Formilitares.
+
+Grande parte de seu trabalho acontece longe dos campos de batalha. Elas cuidam das larvas e Granovos, auxiliam Formilitares debilitadas, acompanham indivíduos em recuperação e mantêm sob vigilância a saúde das populações que vivem nas Trincheiras.
+
+Sua capacidade de reconhecer alterações químicas no corpo de outras Formilitares permite identificar ferimentos contaminados e sinais de infecção. Enfermigas limpam lesões, removem contaminantes e utilizam secreções antimicrobianas para combater infecções. Quando necessário, também são capazes de realizar procedimentos mais extremos, incluindo a amputação de membros gravemente comprometidos.
+
+A higiene também faz parte de seu trabalho. Elas limpam outras Formilitares, larvas e Granovos, removem materiais potencialmente contaminados e procuram impedir que doenças se espalhem pela população. Quando uma infecção representa risco para toda a Trincheira, são responsáveis por identificar o problema e aplicar os protocolos necessários para contê-lo.
+
+Em situações de emergência, as Enfermigas assumem outra responsabilidade importante: evacuar aqueles que não conseguem abandonar a Trincheira sozinhos. Larvas, Granovos, feridos e indivíduos debilitados são retirados das áreas ameaçadas e conduzidos para locais seguros.
+
+Durante guerras, as Enfermigas normalmente permanecem atrás das linhas de combate. Pequenos grupos estabelecem postos de atendimento em esconderijos próximos o suficiente para receber rapidamente os feridos, mas protegidos da movimentação principal da batalha.
+
+É comum que trabalhem em conjunto com Formifogos. Enquanto uma Formifogo atravessa a zona de perigo, presta os primeiros socorros e retira uma combatente ferida do campo de batalha, a Enfermiga a recebe em segurança e assume seu tratamento.
+
+Esses postos são temporários e podem ser abandonados rapidamente caso a linha de batalha se desloque. Se necessário, as próprias Enfermigas transportam seus pacientes para outro esconderijo ou organizam sua evacuação de volta à Trincheira.
+
+Para as Formilitares, proteger uma colônia não significa apenas impedir que seus inimigos entrem.
+
+Também significa garantir que aqueles que a defendem possam voltar a se levantar`;
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
 
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
@@ -4448,7 +4483,7 @@ export const insetos: Inseto[] = [
     estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['formigas'],
-    evolucoes: [{ insetoId: 'formelite', tipo: 'ramificada' },{ insetoId: 'formochila', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' }, { insetoId: 'formincursora', tipo: 'ramificada' }, { insetoId: 'formispia', tipo: 'ramificada' }, { insetoId: 'formajor', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'formelite', tipo: 'ramificada' }, { insetoId: 'formochila', tipo: 'ramificada' },{ insetoId: 'formigeador', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' },{ insetoId: 'enfermiga', tipo: 'ramificada' }, { insetoId: 'formincursora', tipo: 'ramificada' }, { insetoId: 'formispia', tipo: 'ramificada' }, { insetoId: 'formajor', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'granovo', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
@@ -4472,6 +4507,34 @@ export const insetos: Inseto[] = [
     nomeIngles: 'Packant',
     imagem: '/images/formigas/formochila.png',
     descricao: descricaoFormochila,
+    linhagem: 'formigas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formigeador',
+    nome: 'Formigeador',
+    nomeIngles: 'Forageant',
+    imagem: '/images/formigas/formigeador.png',
+    descricao: descricaoFormigeador,
+    linhagem: 'formigas',
+    estagio: 'forma final',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'enfermiga',
+    nome: 'Enfermiga',
+    nomeIngles: 'Nurseant',
+    imagem: '/images/formigas/enfermiga.png',
+    descricao: descricaoEnfermiga,
     linhagem: 'formigas',
     estagio: 'forma final',
     ...dadosPendentes,
