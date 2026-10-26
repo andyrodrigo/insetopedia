@@ -2,15 +2,67 @@ import type { Inseto } from '../types/insetopedia'
 
 const descricaoPendente = 'Descrição ainda não definida.'
 
-const descricaoGranovo = `Os Granovos menores são mantidos em estoque nos túneis subterrâneos das colônias, protegidos pelas Formilitares até atingirem um estágio mais avançado de desenvolvimento. Quando estão próximos da maturidade, são levados para as zonas de guerra, onde passam a fazer parte do arsenal vivo do exército.
+const descricaoLarvalistada = `Larvalistada já nasce como um indivíduo do exército Formilitar. Apesar de ainda não estar pronta para a guerra, é cuidada com atenção e tratada com todas as regalias necessárias para crescer forte e funcional.
 
-Sua casca é extremamente dura, permitindo que os Granovos sejam arremessados contra os inimigos como verdadeiras granadas. Quanto maior a distância e a força do impacto, maior o dano causado. Apesar de sua mobilidade limitada, um Granovo ainda é capaz de se lançar contra um inimigo por conta própria. Em situações de perigo, também pode liberar um gás altamente irritante para afastar ameaças.
+Larvalistadas conseguem se mover utilizando suas pequenas pernas ainda pouco desenvolvidas, mas são muito lentas e têm dificuldade para carregar o próprio corpo gordinho. Quando caem de costas ou de lado, muitas vezes sequer conseguem se virar sozinhas. Por isso, são constantemente auxiliadas por Formilitares adultas, principalmente quando precisam se deslocar por distâncias maiores.
 
-Quando todas as outras opções falham, o Granovo pode recorrer ao seu último recurso: explodir, sacrificando-se para proteger as trincheiras e as tropas ao seu redor.
+As Enfermigas dedicam atenção especial às Larvalistadas. São responsáveis por sua limpeza, acompanham seu desenvolvimento e realizam avaliações frequentes para garantir que estejam crescendo de maneira saudável.
 
-Porém, os Granovos mais desenvolvidos possuem uma característica ainda mais peculiar. Quando estão próximos de completar sua transformação, sua casca começa a se tornar progressivamente mais fina. Nesse estágio, são arremessados contra as linhas inimigas como de costume. Ao atingir o alvo, a casca se rompe violentamente — mas, em vez de uma explosão, dela emerge uma Formilitar completamente desenvolvida, pronta para continuar o ataque.
+Larvalistadas costumam viver em câmaras próprias nos túneis das Trincheiras. Mesmo ainda pequenas, já realizam atividades militares que não exigem grande deslocamento. Podem tecer seda, utilizar suas mandíbulas para quebrar alimentos duros e até organizar as próprias câmaras onde vivem.
 
-Assim, para o exército das formigas, um Granovo não é apenas uma arma: é também um soldado em formação, aguardando o momento certo para nascer no campo de batalha.`;
+Raramente deixam os túneis. Quando isso acontece, geralmente estão sendo carregadas durante alguma emergência ou foram levadas para auxiliar Formigenheiros em construções fora das Trincheiras. Sua seda pode ser utilizada para costurar e unir estruturas, enquanto uma secreção pegajosa produzida por seu corpo funciona como uma espécie de cola natural.
+
+Dentro das Trincheiras, passam boa parte de suas vidas observando o constante movimento das Formilitares. Desde cedo aprendem a realizar suas atividades de maneira organizada e rotineira, enquanto acompanham soldados chegando e partindo, observam os preparativos para novas operações e ouvem histórias sobre guerras e conquistas.
+
+Ainda não podem marchar junto ao exército.
+
+Mas quase todas as Larvalistadas mal podem esperar pelo dia em que finalmente poderão.`;
+const descricaoGranovo = `Granovos são pupas de Formilitares que costumam ficar armazenadas nas câmaras dos túneis das Trincheiras da colônia, esperando a emergência para finalmente fazerem parte das intermináveis guerras Formilitares.
+
+Durante esse período, seu corpo permanece protegido por uma casca extremamente resistente, lembrando uma granada dura. Apesar de estar em plena transformação, o Granovo não é completamente imóvel. Pequenas pernas em sua parte inferior permitem que se desloque lentamente quando necessário, embora normalmente dependa das Formilitares adultas para percorrer distâncias maiores.
+
+Mas também são levados ao campo de batalha com muita frequência. Sua resistência transformou esse estágio do desenvolvimento em uma parte importante do próprio arsenal Formilitar.
+
+Granovos são transportados pelas tropas em diferentes unidades. Ali permanecem protegidos enquanto completam sua transformação, funcionando como uma reserva de soldados que ainda não nasceram.
+
+Quando um Granovo está suficientemente desenvolvido, sua casca começa a se tornar mais fina e frágil. A partir desse momento, ele pode rompê-la por conta própria caso sua presença seja necessária no campo de batalha. Assim, tropas Formilitares podem transportar vários Granovos durante uma operação e fazê-los emergir apenas quando precisam de reforços.
+
+Essa característica também permite uma estratégia muito mais agressiva.
+
+Granovos maduros podem ser arremessados ou lançados diretamente sobre posições inimigas. O impacto rompe sua casca e, em vez de uma explosão, uma Formilitar completamente desenvolvida emerge em pleno território adversário, transformando a própria pupação em uma forma de inserção de tropas. Sua colisão pode ocorrer diretamente contra um inimigo, ferindo-o e rompendo imediatamente a casca.
+
+Granovos que ainda não estão suficientemente maduros também podem ser utilizados em outras situações. São capazes de liberar uma substância irritante no ar, desorientando os inimigos e facilitando o ataque de seus aliados.
+
+Em casos extremos, podem romper violentamente a própria estrutura sobre seus inimigos, sacrificando-se pela colônia. A ruptura espalha ao redor uma grande quantidade de secreção pegajosa, de odor intenso e altamente irritante, capaz de incapacitar, desorientar e até matar aqueles que estiverem próximos.
+
+No campo de batalha, portanto, nunca é possível saber exatamente o que acontecerá quando um Granovo é lançado.
+
+Ele pode se romper contra o inimigo.
+
+Pode explodir para proteger suas tropas.
+
+Ou pode simplesmente se abrir.
+
+E de dentro dele sair mais uma Formilitar pronta para a guerra.`;
+const descricaoMochisula = `Mochisulas são pupas de Formilitares que costumam ficar armazenadas nas câmaras dos túneis das Trincheiras da colônia, esperando a emergência enquanto completam seu desenvolvimento.
+
+Durante esse período, grande parte de seu corpo permanece envolvida por um resistente casulo de seda. O casulo é maior do que a própria pupa e possui espaço suficiente para armazenar alimentos, materiais e outros suprimentos junto dela.
+
+Por isso, Mochisulas também são frequentemente levadas para as guerras, onde fazem parte das unidades de suporte do exército Formilitar.
+
+Seus braços permanecem livres para fora do casulo e ficam naturalmente posicionados ao longo de suas laterais, formando grandes espaços entre os membros e o corpo. Uma Formilitar pode passar os próprios braços por esses espaços e carregar a Mochisula nas costas, utilizando os braços da pupa como as alças de uma mochila.
+
+Dessa forma, suprimentos podem ser colocados dentro do próprio casulo e transportados junto da Mochisula. Diferentes tropas podem carregá-las durante longas operações, permitindo que recursos importantes acompanhem o exército durante seus deslocamentos.
+
+Assim como acontece com os Granovos, porém, aquilo que está sendo transportado não é apenas equipamento.
+
+Quando uma Mochisula está suficientemente desenvolvida, sua emergência pode acontecer no próprio campo de batalha. O casulo é abandonado e dele emerge uma Formilitar especializada em funções de suporte, pronta para auxiliar imediatamente a colônia.
+
+Dependendo de seu desenvolvimento, uma Mochisula pode dar origem a uma Enfermiga, preparada para cuidar dos feridos e da saúde das tropas, ou a uma Formochila, especializada no armazenamento e transporte de recursos.
+
+Assim, durante uma guerra, uma Mochisula pode começar sua jornada carregando os suprimentos de uma Formilitar.
+
+E terminar carregando-os por conta própria.`;
 const descricaoFormilitar = `À primeira vista, as Formilitares podem parecer pequenas e pouco letais. Não possuem ferrões ou outras armas naturais especialmente desenvolvidas, e seu corpo não parece particularmente preparado para o combate. Essa impressão, porém, é enganosa.
 
 As Formilitares possuem uma força muito maior do que seu tamanho sugere. São capazes de erguer e arremessar objetos várias vezes maiores que elas e podem até lançar inimigos de tamanho consideravelmente superior. Uma Formilitar sozinha já é capaz de surpreender pela força, mas seu verdadeiro poder está em outro lugar.
@@ -40,9 +92,15 @@ As Formajores de maior força física podem eventualmente desenvolver-se em Form
 
 Apenas uma ocupa esse título, assumindo o comando de todo o exército da colônia. Afinal, nem todo grande cabeção precisa servir apenas para sustentar um capacete enorme.`;
 const descricaoFormiloto = `Algumas Formilitares demonstram um talento natural para compreender o movimento das tropas. São mais rápidas que as demais, percebem melhor o que acontece ao seu redor e instintivamente procuram lugares altos para observar a aproximação de inimigos. Por isso, costumam ocupar posições estratégicas dentro do exército, viajando sobre Formitanques ou sendo transportadas por Formicópteros até pontos de vantagem no campo de batalha.
-Ao se desenvolverem, tornam-se Formilotos. Suas asas permitem percorrer rapidamente grandes zonas de guerra, observar o movimento inimigo e realizar ataques aéreos quando necessário. Seus olhos funcionam como binóculos naturais, permitindo enxergar a grandes distâncias, enquanto suas antenas são capazes de transmitir sinais de longo alcance para coordenar tropas mesmo enquanto sobrevoam o campo de batalha.
+
+Ao se desenvolverem, tornam-se Formilotos. Suas asas permitem percorrer rapidamente grandes zonas de guerra, observar o movimento inimigo e realizar ataques aéreos quando necessário. Seus grandes olhos possuem uma visão extremamente precisa e permitem identificar movimentos a grandes distâncias, enquanto suas antenas de comunicação são capazes de transmitir sinais de longo alcance para coordenar tropas mesmo enquanto sobrevoam o campo de batalha.
+
 Formilotos são especialmente eficientes em reconhecimento e preparação de ofensivas. Algumas colônias mais experientes aprenderam a reconhecer um sinal particularmente preocupante: em dias de chuva, pequenas silhuetas de Formilotos podem ser vistas sobrevoando seus territórios, parcialmente escondidas pela neblina e pelas nuvens baixas.
-Quando isso acontece, dificilmente estão apenas de passagem. Estão observando.
+
+Quando isso acontece, dificilmente estão apenas de passagem.
+
+Estão observando.
+
 E quando a chuva cessa, geralmente o exército que elas estavam esperando também chega.`;
 const descricaoFormifogo = `As Formifogos estão entre as tropas mais agressivas das Formilitares. Quando entram em combate, agarram seus adversários com as mandíbulas e utilizam o ferrão localizado na extremidade do gáster para atacar repetidamente. Seu veneno provoca uma intensa sensação de queimadura, característica que deu origem ao seu nome.
 
@@ -134,6 +192,33 @@ Por esse motivo, durante uma retirada, proteger as Formochilas pode ser tão imp
 Uma Formochila cheia não é apenas uma Formilitar carregando provisões.
 
 Ela é a provisão.`;
+const descricaoFormiranha = `Formiranhas são Formilitares especializadas em invadir territórios inimigos e retornar carregando tudo aquilo que puderem tomar para sua própria colônia.
+
+Seu corpo magro é sustentado por quatro pernas extremamente longas e finas, que permitem que se movam rapidamente pelo campo de batalha, passando por cima de obstáculos e até de outras criaturas. Quando estão vazias, Formiranhas são extremamente leves e ágeis, capazes de atravessar as linhas inimigas antes que sua presença seja percebida.
+
+Seu principal objetivo, porém, não é o combate.
+
+É o saque.
+
+Ao encontrar alimentos ou outros recursos aproveitáveis, a Formiranha os consome e armazena em seu enorme gáster, que pode se expandir consideravelmente conforme é preenchido. Depósitos inimigos, recursos recém-coletados e suprimentos transportados durante uma batalha são alvos especialmente valiosos.
+
+Quando encontra uma quantidade de recursos maior do que consegue carregar sozinha, a Formiranha utiliza suas longas antenas de comunicação para avisar outras Formiranhas e coordenar rapidamente a chegada de novas saqueadoras. Em pouco tempo, aquilo que começou como a descoberta de uma única exploradora pode se transformar em uma operação de saque realizada por várias delas.
+
+Até mesmo uma Formochila inimiga pode representar uma oportunidade. Em vez de tentar transportar a criatura inteira, uma Formiranha pode atacá-la, tomar o conteúdo armazenado em seu gáster e fugir levando os recursos dentro do próprio corpo.
+
+Formiranhas também possuem uma secreção defensiva e fortemente repelente. Quando ameaçadas durante o saque, podem liberá-la ao redor da área onde estão coletando recursos, afastando ou desorientando temporariamente outras criaturas e ganhando alguns instantes preciosos para continuar enchendo seus gásteres ou iniciar a fuga.
+
+Conforme seu gáster enche, porém, aquilo que antes era uma criatura leve e veloz passa a carregar uma enorme quantidade de peso. Para continuar se deslocando, a Formiranha ergue o gáster acima do corpo, enquanto suas quatro longas pernas mantêm a carga afastada do chão e dão sustentação durante a corrida.
+
+Quanto mais recursos consegue roubar, mais pesada e lenta ela se torna. Por isso, uma Formiranha precisa saber quando abandonar o saque e iniciar o caminho de volta.
+
+Quando retorna à Trincheira, o conteúdo acumulado pode ser distribuído entre as demais Formilitares e incorporado aos estoques da colônia.
+
+Assim, enquanto outras tropas conquistam o território inimigo, as Formiranhas garantem que parte daquilo que havia nele também mude de lado.
+
+Elas chegam leves.
+
+E voltam levando tudo o que conseguem carregar.`;
 const descricaoFormelite = `As Formelites são tropas de elite que representam o mais alto grau de integração que uma Formilitar pode alcançar com seu exército.
 
 Enquanto outras Formilitares desenvolvem aptidões específicas e seguem caminhos especializados, as Formelites aperfeiçoam aquilo que existe em todas elas desde o princípio: disciplina, comunicação e capacidade de agir como parte de algo maior.
@@ -191,6 +276,25 @@ Esses postos são temporários e podem ser abandonados rapidamente caso a linha 
 Para as Formilitares, proteger uma colônia não significa apenas impedir que seus inimigos entrem.
 
 Também significa garantir que aqueles que a defendem possam voltar a se levantar`;
+const descricaoFormifibia = `As Formifíbias são Formilitares especializadas em operações aquáticas e em terrenos onde terra e água se misturam.
+
+Seus corpos são adaptados tanto para correr quanto para nadar. Elas atravessam rios, áreas alagadas, pântanos e regiões tomadas pela lama com uma facilidade incomum, podendo mergulhar voluntariamente e permanecer submersas por períodos superiores a 12 horas.
+
+Essa capacidade permite que continuem operando mesmo quando uma área está completamente inundada. Formifíbias podem explorar passagens submersas, recuperar objetos e recursos dentro da água e procurar insetos que tenham ficado presos durante uma inundação. Também podem auxiliar outras tropas na travessia de trechos aquáticos.
+
+Mesmo superfícies molhadas e escorregadias representam pouca dificuldade. Suas pernas longas proporcionam grande mobilidade nesses ambientes e, em terra, permitem uma movimentação extremamente rápida e irregular.
+
+Uma Formifíbia raramente corre em linha reta durante um confronto. Ela muda constantemente de direção, alternando acelerações e movimentos bruscos para dificultar que seus adversários antecipem sua trajetória. Essa movimentação errática é utilizada tanto para esquivar-se de ataques quanto para aproximar-se ou afastar-se rapidamente de um inimigo.
+
+Elas também possuem excelente capacidade de orientação em ambientes inundados. Mesmo quando a água e a lama destroem os rastros normalmente utilizados pelas Formilitares, conseguem reconhecer o ambiente e encontrar novamente suas rotas.
+
+Quando precisam permanecer em uma região submersa, podem localizar ou preparar pequenos espaços onde o ar permanece aprisionado, criando refúgios temporários que também podem ser utilizados por outras Formilitares.
+
+Por essas características, as Formifíbias são especialmente importantes durante enchentes nas Trincheiras. Enquanto outras tropas tentam conter a inundação ou evacuar a colônia, elas entram justamente nas regiões que já foram tomadas pela água, procurando indivíduos presos, verificando passagens e mantendo abertas rotas que de outra forma seriam consideradas perdidas.
+
+Em guerra, rios, pântanos, lama e terrenos inundados frequentemente são utilizados como obstáculos naturais contra um exército.
+
+Contra as Formilitares, isso funciona apenas até as Formifíbias chegarem.`;
 const descricaoFormitanque = `Uma única Formitanque já representa uma enorme ameaça em um campo de batalha. Seu exoesqueleto é extremamente resistente, funcionando como uma verdadeira blindagem natural capaz de protegê-la de ataques que derrubariam uma Formilitar comum.
 
 Mas sua defesa não é sua única arma. As poderosas garras dianteiras podem estraçalhar inimigos com facilidade, enquanto as enormes pinças de sua boca são capazes de agarrar, esmagar e despedaçar adversários muito maiores que uma Formilitar.
@@ -213,6 +317,27 @@ No campo de batalha, são capazes de causar um verdadeiro estrago. Formicóptero
 Fora das batalhas, porém, os Formicópteros possuem uma função ainda mais importante. Assim como os Formitanques, são indivíduos reprodutores da colônia. São eles que conseguem gerar novos Granovos e abastecer continuamente os túneis subterrâneos, permitindo que a população cresça e que novas gerações de Formilitares surjam.
 
 Formicópteros estão entre os Formilitares de vida mais longa, e perder um deles representa muito mais do que perder uma poderosa unidade de combate. Cada Formicóptero é responsável tanto por proteger a geração atual quanto por produzir a próxima, sendo tratado como um verdadeiro tesouro de seu exército.`;
+const descricaoFormingencia = `Formingências são enormes Formilitares especializadas em responder às situações mais perigosas enfrentadas por uma colônia. Surgem a partir de Formifogos que levam sua especialização em resgate ao extremo, tornando-se verdadeiras unidades móveis de emergência.
+
+Seu corpo é grande e pesado, sustentado por seis pernas fortes. A enorme cabeça possui a forma característica de algumas formigas-soldado, dividida ao centro em dois grandes lobos. Suas mandíbulas são curtas, grossas e extremamente poderosas, capazes de cortar raízes, madeira e outros obstáculos para abrir caminho até indivíduos presos.
+
+Ao longo das laterais de seu dorso existem grandes espinhos recurvados, semelhantes a ganchos. Durante deslocamentos de emergência, Formifogos podem se prender a essas estruturas, permitindo que uma única Formingência transporte rapidamente uma pequena equipe de resgate até o local onde ela é necessária.
+
+Sua característica mais impressionante, porém, é o enorme gáster.
+
+Ligado ao corpo por uma articulação extremamente móvel, ele pode ser erguido muito acima da Formingência e projetado em diferentes direções. Formifogos podem utilizar o próprio gáster inclinado como uma passagem para alcançar posições elevadas, enquanto a Formingência altera sua inclinação para aproximá-las de locais de difícil acesso.
+
+Na extremidade do gáster existe um aparelho de ferrão altamente especializado, capaz de liberar diferentes secreções conforme a necessidade. Algumas são fortemente repelentes e podem afastar criaturas de uma área de resgate; outras são irritantes e utilizadas diretamente contra ameaças. A Formingência também produz secreções antissépticas, que podem ser aplicadas em ferimentos durante atendimentos emergenciais.
+
+Sua capacidade de resposta não depende apenas da força. Formingências produzem uma intensa estridulação quando entram em ação. As vibrações se propagam pelo solo e pelas estruturas da Trincheira, alertando outras Formilitares e auxiliando na organização de uma operação de emergência.
+
+Apesar de seu tamanho e de suas poderosas mandíbulas, Formingências raramente procuram combate por conta própria. Sua prioridade é chegar onde outras Formilitares não conseguem, remover obstáculos, proteger a área e retirar dali quem estiver em perigo.
+
+Quando uma Formingência aparece correndo entre as tropas, carregando Formifogos pelo dorso e com o enorme gáster erguido sobre o corpo, todas as Formilitares próximas reconhecem o sinal.
+
+Alguma coisa aconteceu.
+
+E o resgate está chegando.`;
 
 const descricaoBaratito = `Assim que a ooteca se abre, o Baratito já está pronto para cometer seus primeiros crimes. Sua coloração branca o torna facilmente visível durante a noite e, como seu exoesqueleto ainda é frágil, ele permanece dentro da própria ooteca, arrastando-a consigo e usando-a como esconderijo sempre que necessário.
 Apesar da pouca experiência, Baratitos fazem questão de parecer durões. Cobrem a boca com um pedaço de tecido para parecerem mais intimidadores, tentando esconder qualquer sinal de medo ou insegurança.
@@ -4449,6 +4574,13 @@ Entre os membros de um exército, algumas Samurejeiras acabam se destacando pela
 Uma Samurejeira excepcional pode ser escolhida para liderar as tropas do Shosabae nos campos de batalha.
 
 E quanto mais eficiente for esse comandante em produzir mortos durante uma guerra, maior poderá ser o campo de reprodução deixado para a próxima geração.`;
+
+
+const descricaoFormitrem = ``;
+const descricaoFormarino = ``;
+const descricaoFormadilha = ``;
+const descricaoFormuralha = ``;
+const descricaoFormissil = ``;
 // const descricao = ``;
 // const descricao = ``;
 // const descricao = ``;
@@ -4462,16 +4594,44 @@ const dadosPendentes = {
 
 export const insetos: Inseto[] = [
   {
+    id: 'larvalistada',
+    nome: 'Larvalistada',
+    nomeIngles: 'Larvenlisted',
+    imagem: '/images/formigas/larvalistada.png',
+    descricao: descricaoLarvalistada,
+    linhagem: 'formigas',
+    estagio: 'forma inicial',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [{ insetoId: 'granovo', tipo: 'ramificada' }, { insetoId: 'mochisula', tipo: 'ramificada' }],
+  },
+  {
     id: 'granovo',
     nome: 'Granovo',
     nomeIngles: 'Grenegg',
     imagem: '/images/formigas/granovo.png',
     descricao: descricaoGranovo,
     linhagem: 'formigas',
-    estagio: 'forma ovo',
+    estagio: 'forma casulo',
     ...dadosPendentes,
     tags: ['formigas'],
     evolucoes: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'larvalistada', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'mochisula',
+    nome: 'Mochisula',
+    nomeIngles: 'Backpupack',
+    imagem: '/images/formigas/mochisula.png',
+    descricao: descricaoMochisula,
+    linhagem: 'formigas',
+    estagio: 'forma casulo',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [{ insetoId: 'enfermiga', tipo: 'ramificada' }, { insetoId: 'formochila', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'larvalistada', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
   },
   {
     id: 'formilitar',
@@ -4483,8 +4643,64 @@ export const insetos: Inseto[] = [
     estagio: 'forma comum',
     ...dadosPendentes,
     tags: ['formigas'],
-    evolucoes: [{ insetoId: 'formelite', tipo: 'ramificada' }, { insetoId: 'formochila', tipo: 'ramificada' },{ insetoId: 'formigeador', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formifogo', tipo: 'ramificada' },{ insetoId: 'enfermiga', tipo: 'ramificada' }, { insetoId: 'formincursora', tipo: 'ramificada' }, { insetoId: 'formispia', tipo: 'ramificada' }, { insetoId: 'formajor', tipo: 'ramificada' }],
+    evolucoes: [{ insetoId: 'formigeador', tipo: 'ramificada' }, { insetoId: 'formelite', tipo: 'ramificada' }, { insetoId: 'formiloto', tipo: 'ramificada' }, { insetoId: 'formiquedista', tipo: 'ramificada' }, { insetoId: 'formincursora', tipo: 'ramificada' }, { insetoId: 'formispia', tipo: 'ramificada' }],
     evolucaoDe: [{ insetoId: 'granovo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'enfermiga',
+    nome: 'Enfermiga',
+    nomeIngles: 'Nursant',
+    imagem: '/images/formigas/enfermiga.png',
+    descricao: descricaoEnfermiga,
+    linhagem: 'formigas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [{ insetoId: 'formifogo', tipo: 'ramificada' }, { insetoId: 'formigenheiro', tipo: 'ramificada' }, { insetoId: 'formifibia', tipo: 'ramificada' }],
+    evolucaoDe: [{ insetoId: 'mochisula', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formochila',
+    nome: 'Formochila',
+    nomeIngles: 'Packant',
+    imagem: '/images/formigas/formochila.png',
+    descricao: descricaoFormochila,
+    linhagem: 'formigas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [{ insetoId: 'formiranha', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'mochisula', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formiranha',
+    nome: 'Formiranha',
+    nomeIngles: 'Antfang',
+    imagem: '/images/formigas/formiranha.png',
+    descricao: descricaoFormiranha,
+    linhagem: 'formigas',
+    estagio: 'forma comum',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [{ insetoId: 'formitrem', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'formochila', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formitrem',
+    nome: 'Formitrem',
+    nomeIngles: 'Antrain',
+    imagem: '/images/formigas/formitrem.png',
+    descricao: descricaoFormitrem,
+    linhagem: 'formigas',
+    estagio: 'forma rara',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formiranha', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -4497,22 +4713,22 @@ export const insetos: Inseto[] = [
     estagio: 'forma final',
     ...dadosPendentes,
     tags: ['formigas'],
-    evolucoes: [],
+    evolucoes: [{ insetoId: 'formajor', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
+    tipoEvolucao: 'ramificada',
   },
   {
-    id: 'formochila',
-    nome: 'Formochila',
-    nomeIngles: 'Packant',
-    imagem: '/images/formigas/formochila.png',
-    descricao: descricaoFormochila,
+    id: 'formajor',
+    nome: 'Formajor',
+    nomeIngles: 'Majant',
+    imagem: '/images/formigas/formajor.png',
+    descricao: descricaoFormajor,
     linhagem: 'formigas',
-    estagio: 'forma final',
+    estagio: 'forma especial',
     ...dadosPendentes,
     tags: ['formigas'],
     evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'formelite', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -4525,36 +4741,22 @@ export const insetos: Inseto[] = [
     estagio: 'forma final',
     ...dadosPendentes,
     tags: ['formigas'],
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'enfermiga',
-    nome: 'Enfermiga',
-    nomeIngles: 'Nurseant',
-    imagem: '/images/formigas/enfermiga.png',
-    descricao: descricaoEnfermiga,
-    linhagem: 'formigas',
-    estagio: 'forma final',
-    ...dadosPendentes,
-    tags: ['formigas'],
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'formajor',
-    nome: 'Formajor',
-    nomeIngles: 'Majant',
-    imagem: '/images/formigas/formajor.png',
-    descricao: descricaoFormajor,
-    linhagem: 'formigas',
-    estagio: 'forma final',
-    ...dadosPendentes,
-    tags: ['formigas'],
     evolucoes: [{ insetoId: 'formitanque', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formitanque',
+    nome: 'Formitanque',
+    nomeIngles: 'Antank',
+    imagem: '/images/formigas/formitanque.png',
+    descricao: descricaoFormitanque,
+    linhagem: 'formigas',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formigeador', tipo: 'linear' }],
     tipoEvolucao: 'linear',
   },
   {
@@ -4568,85 +4770,6 @@ export const insetos: Inseto[] = [
     ...dadosPendentes,
     evolucoes: [{ insetoId: 'formicoptero', tipo: 'linear' }],
     evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'formifogo',
-    nome: 'Formifogo',
-    nomeIngles: 'Firant',
-    imagem: '/images/formigas/formifogo.png',
-    descricao: descricaoFormifogo,
-    linhagem: 'formigas',
-    estagio: 'forma alternativa',
-    ...dadosPendentes,
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'formigenheiro',
-    nome: 'Formigenheiro',
-    nomeIngles: 'Antbuilder',
-    imagem: '/images/formigas/formigenheiro.png',
-    descricao: descricaoFormigenheiro,
-    linhagem: 'formigas',
-    estagio: 'forma alternativa',
-    ...dadosPendentes,
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'formiquedista',
-    nome: 'Formiquedista',
-    nomeIngles: 'Antarchitect',
-    imagem: '/images/formigas/formiquedista.png',
-    descricao: descricaoFormiquedista,
-    linhagem: 'formigas',
-    estagio: 'forma alternativa',
-    ...dadosPendentes,
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'formincursora',
-    nome: 'Formincursora',
-    nomeIngles: 'Antraider',
-    imagem: '/images/formigas/formincursora.png',
-    descricao: descricaoFormincursora,
-    linhagem: 'formigas',
-    estagio: 'forma alternativa',
-    ...dadosPendentes,
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'formispia',
-    nome: 'Formispiã',
-    nomeIngles: 'Antspy',
-    imagem: '/images/formigas/formispia.png',
-    descricao: descricaoFormispia,
-    linhagem: 'formigas',
-    estagio: 'forma alternativa',
-    ...dadosPendentes,
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
-    tipoEvolucao: 'linear',
-  },
-  {
-    id: 'formitanque',
-    nome: 'Formitanque',
-    nomeIngles: 'Antank',
-    imagem: '/images/formigas/formitanque.png',
-    descricao: descricaoFormitanque,
-    linhagem: 'formigas',
-    estagio: 'forma especial',
-    ...dadosPendentes,
-    tags: ['formigas'],
-    evolucoes: [],
-    evolucaoDe: [{ insetoId: 'formajor', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
   {
@@ -4661,6 +4784,150 @@ export const insetos: Inseto[] = [
     tags: ['formigas'],
     evolucoes: [],
     evolucaoDe: [{ insetoId: 'formiloto', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formifogo',
+    nome: 'Formifogo',
+    nomeIngles: 'Firant',
+    imagem: '/images/formigas/formifogo.png',
+    descricao: descricaoFormifogo,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [{ insetoId: 'formigencia', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'enfermiga', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formingencia',
+    nome: 'Formingência',
+    nomeIngles: 'Antemergence',
+    imagem: '/images/formigas/formingencia.png',
+    descricao: descricaoFormingencia,
+    linhagem: 'formigas',
+    estagio: 'forma rara',
+    ...dadosPendentes,
+    tags: ['formigas'],
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formifogo', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formigenheiro',
+    nome: 'Formigenheiro',
+    nomeIngles: 'Antenner',
+    imagem: '/images/formigas/formigenheiro.png',
+    descricao: descricaoFormigenheiro,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [{ insetoId: 'formuralha', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'enfermiga', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formuralha',
+    nome: 'Formuralha',
+    nomeIngles: 'Wallant',
+    imagem: '/images/formigas/formuralha.png',
+    descricao: descricaoFormuralha,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formigenheiro', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formifibia',
+    nome: 'Formifibia',
+    nomeIngles: 'Antphibian',
+    imagem: '/images/formigas/formifibia.png',
+    descricao: descricaoFormifibia,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [{ insetoId: 'formarino', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'enfermiga', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formarino',
+    nome: 'Formarino',
+    nomeIngles: 'Antmarine',
+    imagem: '/images/formigas/formarino.png',
+    descricao: descricaoFormarino,
+    linhagem: 'formigas',
+    estagio: 'forma especial',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formifibia', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formiquedista',
+    nome: 'Formiquedista',
+    nomeIngles: 'Antchutist',
+    imagem: '/images/formigas/formiquedista.png',
+    descricao: descricaoFormiquedista,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [{ insetoId: 'formadilha', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formadilha',
+    nome: 'Formadilha',
+    nomeIngles: 'Antrap',
+    imagem: '/images/formigas/formadilha.png',
+    descricao: descricaoFormadilha,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formiquedista', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formincursora',
+    nome: 'Formincursora',
+    nomeIngles: 'Antraider',
+    imagem: '/images/formigas/formincursora.png',
+    descricao: descricaoFormincursora,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [{ insetoId: 'formissil', tipo: 'linear' }],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
+    tipoEvolucao: 'ramificada',
+  },
+  {
+    id: 'formissil',
+    nome: 'Formissil',
+    nomeIngles: 'Bullant',
+    imagem: '/images/formigas/formissil.png',
+    descricao: descricaoFormissil,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formincursora', tipo: 'linear' }],
+    tipoEvolucao: 'linear',
+  },
+  {
+    id: 'formispia',
+    nome: 'Formispiã',
+    nomeIngles: 'Antspy',
+    imagem: '/images/formigas/formispia.png',
+    descricao: descricaoFormispia,
+    linhagem: 'formigas',
+    estagio: 'forma alternativa',
+    ...dadosPendentes,
+    evolucoes: [],
+    evolucaoDe: [{ insetoId: 'formilitar', tipo: 'linear' }],
     tipoEvolucao: 'ramificada',
   },
   {

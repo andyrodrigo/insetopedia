@@ -81,11 +81,11 @@ export const linhagens: Linhagem[] = [
   {
     id: 'formigas',
     nome: 'Formigas',
-    insetoBase: 'granovo',
+    insetoBase: 'larvalistada',
     descricao: descricaoFormigas,
     imagemCapa: '/images/formigas/capa.png',
     tema: '#8f4f24',
-    criaturas: ['granovo', 'formilitar', 'formelite', 'formochila', 'formigeador', 'enfermiga', 'formajor', 'formiloto', 'formitanque', 'formicoptero', 'formifogo', 'formigenheiro', 'formiquedista', 'formincursora', 'formispia'],
+    criaturas: ['larvalistada','granovo', 'mochisula', 'formilitar', 'enfermiga', 'formochila', 'formiranha', 'formitrem', 'formifibia', 'formarino', 'formelite', 'formajor', 'formigeador', 'formitanque', 'formiloto', 'formicoptero', 'formifogo', 'formingencia', 'formigenheiro', 'formuralha', 'formiquedista', 'formadilha', 'formincursora','formissil', 'formispia'],
   },
   {
     id: 'baratas',
