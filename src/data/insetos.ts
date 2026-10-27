@@ -317,23 +317,21 @@ No campo de batalha, são capazes de causar um verdadeiro estrago. Formicóptero
 Fora das batalhas, porém, os Formicópteros possuem uma função ainda mais importante. Assim como os Formitanques, são indivíduos reprodutores da colônia. São eles que conseguem gerar novos Granovos e abastecer continuamente os túneis subterrâneos, permitindo que a população cresça e que novas gerações de Formilitares surjam.
 
 Formicópteros estão entre os Formilitares de vida mais longa, e perder um deles representa muito mais do que perder uma poderosa unidade de combate. Cada Formicóptero é responsável tanto por proteger a geração atual quanto por produzir a próxima, sendo tratado como um verdadeiro tesouro de seu exército.`;
-const descricaoFormingencia = `Formingências são enormes Formilitares especializadas em responder às situações mais perigosas enfrentadas por uma colônia. Surgem a partir de Formifogos que levam sua especialização em resgate ao extremo, tornando-se verdadeiras unidades móveis de emergência.
+const descricaoFormingencia = `Formingências são enormes Formilitares especializadas em responder às situações mais perigosas enfrentadas por uma colônia, servindo como verdadeiras unidades móveis de emergência. Suas mandíbulas são grossas e extremamente poderosas, capazes de cortar raízes, madeira e outros obstáculos para abrir caminho até indivíduos presos. Também conseguem levar insetos maiores em suas costas ou vários menores, principalmente os machucados.
 
-Seu corpo é grande e pesado, sustentado por seis pernas fortes. A enorme cabeça possui a forma característica de algumas formigas-soldado, dividida ao centro em dois grandes lobos. Suas mandíbulas são curtas, grossas e extremamente poderosas, capazes de cortar raízes, madeira e outros obstáculos para abrir caminho até indivíduos presos.
-
-Ao longo das laterais de seu dorso existem grandes espinhos recurvados, semelhantes a ganchos. Durante deslocamentos de emergência, Formifogos podem se prender a essas estruturas, permitindo que uma única Formingência transporte rapidamente uma pequena equipe de resgate até o local onde ela é necessária.
+Durante deslocamentos de emergência, Formifogos podem se prender às estruturas espinhosas nas laterais de seu corpo, permitindo que uma única Formingência transporte rapidamente uma pequena equipe de resgate até o local onde ela é necessária.
 
 Sua característica mais impressionante, porém, é o enorme gáster.
 
-Ligado ao corpo por uma articulação extremamente móvel, ele pode ser erguido muito acima da Formingência e projetado em diferentes direções. Formifogos podem utilizar o próprio gáster inclinado como uma passagem para alcançar posições elevadas, enquanto a Formingência altera sua inclinação para aproximá-las de locais de difícil acesso.
+Ligado ao corpo por uma articulação extremamente móvel, ele pode ser erguido muito acima da Formingência e projetado em diferentes direções. Formifogos podem utilizar o próprio gáster inclinado como uma passagem para alcançar posições elevadas, enquanto a Formingência altera sua inclinação para aproximá-las rapidamente de locais de difícil acesso.
 
 Na extremidade do gáster existe um aparelho de ferrão altamente especializado, capaz de liberar diferentes secreções conforme a necessidade. Algumas são fortemente repelentes e podem afastar criaturas de uma área de resgate; outras são irritantes e utilizadas diretamente contra ameaças. A Formingência também produz secreções antissépticas, que podem ser aplicadas em ferimentos durante atendimentos emergenciais.
 
-Sua capacidade de resposta não depende apenas da força. Formingências produzem uma intensa estridulação quando entram em ação. As vibrações se propagam pelo solo e pelas estruturas da Trincheira, alertando outras Formilitares e auxiliando na organização de uma operação de emergência.
+Sua capacidade de resposta não depende apenas da força. Para alertar todos rapidamente, Formingências produzem uma intensa estridulação quando entram em ação. As vibrações se propagam pelo solo e pelas estruturas da Trincheira, alertando outras Formilitares e auxiliando na organização de uma operação de emergência.
 
 Apesar de seu tamanho e de suas poderosas mandíbulas, Formingências raramente procuram combate por conta própria. Sua prioridade é chegar onde outras Formilitares não conseguem, remover obstáculos, proteger a área e retirar dali quem estiver em perigo.
 
-Quando uma Formingência aparece correndo entre as tropas, carregando Formifogos pelo dorso e com o enorme gáster erguido sobre o corpo, todas as Formilitares próximas reconhecem o sinal.
+Quando uma Formingência aparece correndo e estridulando entre as tropas, carregando Formifogos pelo dorso e com o enorme gáster erguido sobre o corpo, todas as Formilitares próximas reconhecem o sinal.
 
 Alguma coisa aconteceu.
 
